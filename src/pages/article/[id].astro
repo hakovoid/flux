@@ -1,0 +1,119 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge } from '../../utils/articles';
+
+export function getStaticPaths() {
+  const articles = loadAllArticles();
+  return articles.map((article) => ({
+    params: { id: article.id },
+    props: { article, allArticles: articles },
+  }));
+}
+
+const { article, allArticles } = Astro.props;
+const related = getRelatedArticles(article, allArticles);
+const badge = getFreshnessBadge(article.pubDate);
+---
+
+<Layout title={article.title} description={article.description} image={article.image || undefined} canonicalOverride={article.link} noindex={true}>
+  <article class="max-w-3xl mx-auto fade-in-up">
+    <!-- Back link -->
+    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-zinc-400 hover:text-white transition-colors mb-6">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+      </svg>
+      Retour aux articles
+    </a>
+
+    <!-- Image -->
+    <div class="relative aspect-[2/1] rounded-xl overflow-hidden mb-6">
+      {article.image ? (
+        <img
+          src={article.image}
+          alt={article.title}
+          loading="eager"
+          class="w-full h-full object-cover"
+          onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+        />
+        <div class={`w-full h-full bg-gradient-to-br ${getCategoryGradient(article.categories)} items-center justify-center p-8 hidden`}>
+          <span class="text-xl font-medium text-white/50 text-center leading-relaxed line-clamp-3">{article.title}</span>
+        </div>
+      ) : (
+        <div class={`w-full h-full bg-gradient-to-br ${getCategoryGradient(article.categories)} flex items-center justify-center p-8`}>
+          <span class="text-xl font-medium text-white/50 text-center leading-relaxed line-clamp-3">{article.title}</span>
+        </div>
+      )}
+    </div>
+
+    <!-- Meta -->
+    <div class="flex flex-wrap items-center gap-2 mb-4">
+      {article.categories.map((cat) => (
+        <span class={`px-2.5 py-1 text-xs font-medium rounded-full border ${getCategoryColor(cat)}`}>
+          {cat}
+        </span>
+      ))}
+      {badge && (
+        <span class={`px-2.5 py-1 text-xs font-medium rounded-full ${badge.class}`}>
+          {badge.label}
+        </span>
+      )}
+    </div>
+
+    <!-- Title -->
+    <h1 class="text-2xl sm:text-3xl font-bold leading-tight mb-4">{article.title}</h1>
+
+    <!-- Source & Date -->
+    <div class="flex flex-wrap items-center gap-3 text-sm text-zinc-400 mb-6 pb-6 border-b border-zinc-800">
+      <span class="inline-flex items-center gap-1.5">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
+        </svg>
+        {article.source}
+      </span>
+      <span>·</span>
+      <time datetime={article.pubDate}>{formatDate(article.pubDate)}</time>
+    </div>
+
+    <!-- Description -->
+    <div class="prose prose-invert prose-zinc max-w-none text-zinc-300 leading-relaxed text-base mb-8">
+      <p>{article.description}</p>
+    </div>
+
+    <!-- CTA -->
+    <a
+      href={article.link}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-indigo-500 hover:bg-indigo-600 text-white text-sm font-medium transition-colors shadow-lg shadow-indigo-500/20"
+    >
+      Lire l'article original
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+      </svg>
+    </a>
+  </article>
+
+  <!-- Related articles -->
+  {related.length > 0 && (
+    <section class="mt-16">
+      <h2 class="text-lg font-semibold mb-6">Articles similaires</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {related.map((a) => (
+          <ArticleCard article={a} />
+        ))}
+      </div>
+    </section>
+  )}
+</Layout>
+
+<script>
+  // Mark as read
+  document.addEventListener('astro:page-load', () => {
+    const path = window.location.pathname;
+    const id = path.split('/').filter(Boolean).pop();
+    if (id) {
+      localStorage.setItem(`flux-read-${id}`, 'true');
+    }
+  });
+</script>

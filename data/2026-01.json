@@ -1,0 +1,570 @@
+{
+  "month": "2026-01",
+  "articles": [
+    {
+      "id": "a256d0ce91ae",
+      "title": "La veille de Wittouck - Fin janvier 2026",
+      "description": "Janvier est passé à toute vitesse. En cette fin de mois, j’ai consulté pas mal de vidéos intéressantes que je voulais partager. Je me pose aussi pas mal de questions quant à la mise à disposition du contenu de ce site ou pas aux IA Gens, donc je me renseigne pas mal sur ce qui est fait par d’autres…",
+      "link": "https://codeka.io/2026/01/30/la-veille-de-wittouck-fin-janvier-2026/",
+      "pubDate": "2026-01-30T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "eae2d029acf4",
+      "title": "Les délimiteurs Twig : ce problème d'espace blanc que vous ignorez",
+      "description": "Gaps inline-block, diffs bruyants, layouts instables : comprenez l'impact des délimiteurs Twig sur l'espace blanc et adoptez les bonnes pratiques avec {%- et {{-.",
+      "link": "https://lecodeestdanslepre.fr/billets/les-delimiteurs-twig-le-probleme-d-espace-blanc-que-personne-ne-maitrise-vraiment",
+      "pubDate": "2026-01-29T12:41:33.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "6fce22a754c9",
+      "title": "Git : les vérités que personne ne vous dit",
+      "description": "Découvrez les techniques Git avancées : rebase interactif, reflog, worktree, bisect pour transformer votre workflow de développement.",
+      "link": "https://lecodeestdanslepre.fr/billets/git-les-verites-que-personne-ne-vous-dit",
+      "pubDate": "2026-01-28T17:41:27.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "dd83f22c28f7",
+      "title": "Que devient Elasticsearch en 2026 ?",
+      "description": "J'étais hier à Elastic{On} Paris - la conférence de l'éditeur d'Elasticsearch 🔎. Dans cet article, je vais vous partager mon point de vue de développeur et consultant Elasticsearch sur les nouveautés, la direction, la transformation des usages du moteur et son écosystème. L'IA est la priorité 🤖…",
+      "link": "https://jolicode.com/blog/que-devient-elasticsearch-en-2026",
+      "pubDate": "2026-01-28T13:30:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/elasticon/elasticon-2026.jpg"
+    },
+    {
+      "id": "d8eaceecb7ff",
+      "title": "Quand le code devient une commodité: La montée des sociétés AI natives",
+      "description": "Après le Cloud Native, place aux entreprises IA Natives. Découvrez comment l'IA transforme le code en commodité et pourquoi le dilemme \"Build or Buy\" devient \"Build, Buy, Run or Vibe\" (BBRV). Quel est le nouveau MOAT d'un logiciel quand le code n'est plus une barrière ?",
+      "link": "https://eventuallycoding.com/p/2026-01-ai-native-companies",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390164-cover.jpg"
+    },
+    {
+      "id": "801db48e60b1",
+      "title": "PHP 8.4 : rattrapage de retard ou véritable modernisation ?",
+      "description": "PHP 8.4 introduit les Property Hooks, la visibilité asymétrique et un parser HTML5 natif. Découvrez les nouveautés majeures de cette version attendue depuis des années.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-4-rattrapage-de-retard-ou-veritable-modernisation",
+      "pubDate": "2026-01-27T12:56:40.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "7f214c765f90",
+      "title": "PHP 8.5 : pipe operator et nouvelles fonctionnalités",
+      "description": "PHP 8.5 introduit le pipe operator, array_first(), array_last() et l'attribut NoDiscard. Découvrez les nouveautés qui modernisent le langage.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-5-pipe-operator-et-nouvelles-fonctionnalites",
+      "pubDate": "2026-01-27T12:49:59.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "03dacef65a51",
+      "title": "Intégration d'un UPS dans Proxmox via NUT",
+      "description": "NUT (Network UPS Tools) est une solution open-source de supervision d’onduleur (UPS). Elle récupère les informations de l’UPS (alimentation sur secteur ou batterie, niveau de charge, autonomie estimée, événements…) et peut les exposer sur le r&",
+      "link": "https://domopi.eu/integration-dun-ups-dans-proxmox-via-nut/",
+      "pubDate": "2026-01-27T06:45:04.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/12/BCO.9e8ed0ba-e305-48b9-8355-716993157c21.webp"
+    },
+    {
+      "id": "a0eb4bfad002",
+      "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
+      "description": "PHP 8.3 : constantes typées, json_validate(), attribut #[Override] et clonage readonly. Découvrez les nouveautés qui améliorent la sûreté et les performances du langage.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-3-le-renforcement-du-typage-renforce-et-coherence-du-langage",
+      "pubDate": "2026-01-25T19:59:12.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "f7e845520a5b",
+      "title": "PHP 8.2 : la consolidation du système de types et modernisation de l’API",
+      "description": "Analyse détaillée de PHP 8.2 : classes readonly généralisées, types DNF pour unions et intersections, refonte de l'API Random, et fin des propriétés dynamiques avec exemples",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-2-la-consolidation-du-systeme-de-types-et-modernisation-de-l-api",
+      "pubDate": "2026-01-25T18:20:03.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "fb7efc345571",
+      "title": "Comment tailwind_merge résout les conflits de classes dans Twig",
+      "description": "Tailwind_merge dedoublonne les classes Tailwind en conflit dans Twig. Découvrez comment ce filtre rend vos composants plus prévisibles et maintenables.",
+      "link": "https://lecodeestdanslepre.fr/billets/comment-tailwind-merge-resout-les-conflits-de-classes-dans-twig",
+      "pubDate": "2026-01-25T09:40:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "e4ca12fdfcc1",
+      "title": "PHP 8.1 : l’expression après la révolution",
+      "description": "Analyse détaillée de PHP 8.1 : enums avec méthodes, immutabilité simplifiée, infrastructure async avec Fibers, et système de types enrichi: tout ce qu'il faut savoir avec exemples pratiques.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-1-l-expression-apres-la-revolution",
+      "pubDate": "2026-01-25T09:24:13.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "e47ea8039998",
+      "title": "PHP 8.0 : la révolution qui a tout changé",
+      "description": "Découvrez PHP 8.0 : JIT, arguments nommés, attributs, match expression, opérateur nullsafe et types d'union : tout ce qu'il faut savoir avec exemples pratiques.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-0-la-revolution-qui-a-tout-change",
+      "pubDate": "2026-01-24T18:12:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "a8fc168ee41e",
+      "title": "Cloudflare vs l'Italie : quand le blocage DNS devient un champ de bataille géopolitique",
+      "description": "L'Italie demande à Cloudflare de bloquer des sites pirates. Cloudflare refuse et invoque le free speech. Mais derrière ce bras de fer, c'est notre dépendance à la tech US qui se révèle.",
+      "link": "https://eventuallycoding.com/p/2026-01-cloudflare-vs-italie",
+      "pubDate": "2026-01-23T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390299-cover.jpg"
+    },
+    {
+      "id": "278fe174356a",
+      "title": "Vœux 2026 : construisez votre premier projet de l’année avec notre générateur de puzzle",
+      "description": "Vous remarquerez que nous n’avons jamais été aussi ponctuels pour cette tradition : l’ensemble des coopératrices et coopérateurs de Les-Tilleuls.coop vous souhaite le meilleur pour 2026 ! Le bilan calmement Si nous devions dresser le bilan de l’année écoulée, nous retiendrions avant tout la…",
+      "link": "https://les-tilleuls.coop/blog/voeux-2026",
+      "pubDate": "2026-01-22T09:34:06.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "/wp-content/uploads/2026/01/article-voeux-2026-1024x569.webp"
+    },
+    {
+      "id": "243e1924dd09",
+      "title": "Vos sauvegardes Windows avec Plakar, et un backend S3",
+      "description": "Bon, on va pas se mentir, j’étais pas parti pour l’écrire cet article. Mais faut dire que j’ai un peu merdé dans les grandes largeurs [...]",
+      "link": "https://blog.seboss666.info/2026/01/vos-sauvegardes-windows-avec-plakar-et-un-backend-s3/",
+      "pubDate": "2026-01-20T17:00:54.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/01/placard-small.jpg"
+    },
+    {
+      "id": "7f4b855df133",
+      "title": "Benchmark : grepai vs grep sur Claude Code",
+      "description": "La recherche sémantique fait-elle vraiment économiser des tokens ? J'ai testé grepai sur la codebase de Excalidraw avec Claude Code. Résultat : -27% sur la facture API.",
+      "link": "https://yoandev.co/grepai-benchmark",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/grepai_vs_grep.webp"
+    },
+    {
+      "id": "be9a54873d01",
+      "title": "Pop!_OS 24.04, une expérience COSMIC",
+      "description": "J’utilise la distribution Linux Pop!_OS depuis presque cinq ans. J’ai toujours apprécié leur démarche autour de l’auto-tiling, qui est une fonctionnalité qui manque cruellement à GNOME (bien que des plugins existent). Après quelques mois passés sous Manjaro Linux, et des galères liées à des montées…",
+      "link": "https://codeka.io/2026/01/20/pop_os-24.04-une-exp%C3%A9rience-cosmic/",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "6603dc06ed6c",
+      "title": "Utiliser des composants customs avec Nuxt-mdc pour construire un système de thèmes",
+      "description": "Comment personnaliser les composants MDC par thème dans Nuxt avec MDCRenderer",
+      "link": "https://eventuallycoding.com/p/2026-01-nuxt-mdc-renderer",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390471-cover.jpg"
+    },
+    {
+      "id": "0912ed16b731",
+      "title": "FrankenPHP 1.11 : hot reload, logs structurés et performances améliorées",
+      "description": "FrankenPHP 1.11 est disponible depuis fin décembre. Cette nouvelle version apporte une amélioration significative de la DX (hot reload) et renforce encore davantage l’intégration entre PHP et l’écosystème Go. Elle introduit plusieurs fonctionnalités majeures ainsi que des optimisations de…",
+      "link": "https://les-tilleuls.coop/blog/frankenphp-1-11-hot-reload-logs-structures-et-performances-ameliorees",
+      "pubDate": "2026-01-19T14:44:40.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "/wp-content/uploads/2026/01/article-hot-reloading-1024x569.webp"
+    },
+    {
+      "id": "ab8a43d5a237",
+      "title": "Meilisearch : l'art de la recherche instantanée",
+      "description": "Marre du SQL LIKE ? Découvrez comment intégrer Meilisearch à Symfony pour une recherche résiliente, asynchrone et une latence inférieure à 50ms.",
+      "link": "https://lecodeestdanslepre.fr/billets/meilisearch-l-art-de-la-recherche-instantanee",
+      "pubDate": "2026-01-19T12:41:54.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "46a09348f420",
+      "title": "OWASP ZAP : comment implémenter un audit DAST automatisé avec Symfony et Docker",
+      "description": "Passer du SAST au DAST en intégrant OWASP ZAP à votre workflow local via Docker et Castor. Un guide technique pour un audit de sécurité automatisé.",
+      "link": "https://lecodeestdanslepre.fr/billets/owasp-zap-comment-implementer-un-audit-dast-automatise-avec-symfony-et-docker",
+      "pubDate": "2026-01-18T21:37:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "26b6324a9fdf",
+      "title": "Pas de backup, pas de prod",
+      "description": "Si vous n'avez pas de stratégie de sauvegarde testée, isolée et immuable, vous n'êtes pas en production. Vous faites du développement exposé publiquement. La règle 3-2-1-1-0 et les leçons de Maersk, CodeSpaces et OVHcloud.",
+      "link": "https://yoandev.co/pas-de-backup-pas-de-prod",
+      "pubDate": "2026-01-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/backup.webp"
+    },
+    {
+      "id": "c7308fd5df93",
+      "title": "La veille de Wittouck - Début janvier 2026",
+      "description": "Après des vacances bien méritées, la Veille de Wittouck est de retour avec la même formule : mon analyse rapide des articles, vidéos ou podcasts qui m’ont intéressés sur les deux dernières semaines. Je ferai également un feedback de mes participations aux différentes conférences de l’année en…",
+      "link": "https://codeka.io/2026/01/16/la-veille-de-wittouck-d%C3%A9but-janvier-2026/",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "2dbc8a569416",
+      "title": "Développeur à l’ère des agents IA : mutation, industrialisation et avenir du métier",
+      "description": "En 2025, les agents IA ont profondément transformé le développement logiciel. Revue de presse des impacts concrets sur le métier de développeur, entre industrialisation, expertise et renouveau.",
+      "link": "https://eventuallycoding.com/p/2026-01-engineering-job-mutation",
+      "pubDate": "2026-01-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390398-cover.jpg"
+    },
+    {
+      "id": "2cae3805556f",
+      "title": "Microservices et contrats d'API : Jane comme source de vérité",
+      "description": "Dans le développement d'une API, nous sommes tous confrontés au même défi : maintenir la cohérence entre la documentation et le code. Qui n'a jamais perdu des heures à débugger une erreur parce que le champ user_id était devenu userId dans le code, mais pas dans la documentation ? C'est ce qu'on…",
+      "link": "https://jolicode.com/blog/microservices-et-contrats-d-api-jane-comme-source-de-verite",
+      "pubDate": "2026-01-13T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "e9e3f453fe0a",
+      "title": "API Platform Conference 2026 : le call for papers est ouvert",
+      "description": "Après avoir célébré comme il se doit les dix ans du framework API Platform en 2025, l’API Platform Conference est de retour pour une sixième édition. Rendez-vous en septembre 2026 à EuraTechnologies, ainsi qu’en ligne, pour deux jours de conférences en anglais et en français autour d’API Platform…",
+      "link": "https://les-tilleuls.coop/blog/api-platform-conference-2026-le-call-for-papers-est-ouvert",
+      "pubDate": "2026-01-13T08:42:10.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/01/article-api-con-2026-1024x569.webp"
+    },
+    {
+      "id": "095fab416ac7",
+      "title": "Liens Tech - Janvier 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-janvier-2026/",
+      "pubDate": "2026-01-13T06:45:32.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech.webp"
+    },
+    {
+      "id": "ff619224f197",
+      "title": "Le FOUC n'est pas un bug graphique, c'est une faille d'architecture !",
+      "description": "Marre du contenu qui saute au chargement ? Découvrez comment éradiquer le FOUC (Flash of Unstyled Content), améliorer votre score CLS et optimiser l'UX de vos applications web modernes.",
+      "link": "https://lecodeestdanslepre.fr/billets/le-fouc-n-est-pas-un-bug-graphique-c-est-une-faille-d-architecture",
+      "pubDate": "2026-01-12T19:16:44.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "15bf6ff8261c",
+      "title": "Votre terminal est bête : voici comment le rendre intelligent",
+      "description": "Historique contextuel, autocomplétion Docker, switch PHP automatique... Découvrez comment transformer une fenêtre noire en véritable assistant de code.",
+      "link": "https://lecodeestdanslepre.fr/billets/votre-terminal-est-bete-voici-comment-le-rendre-intelligent",
+      "pubDate": "2026-01-11T16:57:03.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "01cc6a859536",
+      "title": "Symfony UX Icons : 200 000 icônes SVG sans CDN, sans sprite, sans prise de tête",
+      "description": "Fini les sprites et Font Awesome ! Découvrez comment Symfony UX Icons intègre 200k+ icônes (Iconify) nativement. Zéro requête HTTP, performances maximales.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ux-icons-200-000-icones-svg-sans-cdn-sans-sprite-sans-prise-de-tete",
+      "pubDate": "2026-01-11T11:15:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "5c595dbf48bd",
+      "title": "La recherche sémantique au service des agents IA",
+      "description": "Et si vos agents IA pouvaient chercher du code par intention plutôt que par mots-clés ? grepai apporte la recherche sémantique 100% locale à Claude Code.",
+      "link": "https://yoandev.co/grepai-agent-ia-recherche-semantique",
+      "pubDate": "2026-01-11T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/66748f27-3a23-4aae-a4f0-972c1dc718de.webp"
+    },
+    {
+      "id": "66a62c13ee8e",
+      "title": "Symfony UX Toolkit : quand le frontend devient (enfin) un plaisir",
+      "description": "Découvrez comment Symfony UX Toolkit et le kit Shadcn révolutionnent le frontend.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ux-toolkit-quand-le-frontend-devient-enfin-un-plaisir",
+      "pubDate": "2026-01-10T12:06:13.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "8baf5e243302",
+      "title": "Tailwind et l’open source à l’ère des LLM : quand la documentation ne monétise plus",
+      "description": "Le refus de Tailwind d'ajouter llms.txt met en évidence un problème plus profond : comment les projets open source peuvent-ils survivre à une époque où les LLM remplacent le trafic de documentation et où les modes de monétisation traditionnels s'effondrent ?",
+      "link": "https://eventuallycoding.com/p/2026-01-tailwind-llm",
+      "pubDate": "2026-01-08T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390540-cover.jpg"
+    },
+    {
+      "id": "b26eb40bb854",
+      "title": "Bloquer l'accès Internet d'un périphérique avec UniFi Network",
+      "description": "Historique de révision Révision Date Commentaires Unifi Networks 1 Septembre 2021 Version initiale 6.4.54 2 Janvier 2026 Gestion IPv4 et IPv6 10.0.160 Dans nos installations domotiques, nous intégrons de plus en plus d'objets connectés, et pour",
+      "link": "https://domopi.eu/bloquer-lacces-internet-dun-peripherique-avec-unifi-network/",
+      "pubDate": "2026-01-06T06:45:06.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2021/08/earth-2254769_1920.jpg"
+    },
+    {
+      "id": "f2c20e843ecc",
+      "title": "Comment former les juniors quand l'IA écrit le code ?",
+      "description": "Jusqu'à 79 % des tâches qui servaient à former les juniors pourraient être automatisées par l'IA. Le marché se contracte, mais le vrai problème n'est pas là : on continue à enseigner le métier à l'envers. En 2026, l'architecture s'enseigne avant la syntaxe. Voici pourquoi.",
+      "link": "https://yoandev.co/formation-juniors-2026",
+      "pubDate": "2026-01-06T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/002ea330-e7d1-4968-9097-7278e538efc7.jpeg"
+    },
+    {
+      "id": "493b18bc129d",
+      "title": "Introverti : en conférence, la meilleure place, c’est celle du speaker",
+      "description": "Vous m’avez vu en conférence. Vous me dites parfois que je suis super à l’aise en public, que j’avais l’air très confortable sur scène et que ma présentation était très bien donnée1 — que je ne peux donc pas être introverti. Mais le brouhaha et les foules m’épuisent, aller vers des gens pour lancer…",
+      "link": "https://blog.pascal-martin.fr/post/introverti-en-conference-speaker/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/introverti-en-conference-speaker/",
+      "pubDate": "2026-01-06T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "bad09b1729d3",
+      "title": "L'IA générative va changer notre façon de coder (unpopular opinion)",
+      "description": "Nous sommes en 2026, vous êtes encore développeur, bonjour. Ces 6 derniers mois j'ai vraiment rincé Claude Code. De la ré-écriture complète du site de la billetterie de Devoxx France, à la création d'un moteur de jeux de rôles, en passant aussi par mon travail pour proposer cet outil aux…",
+      "link": "https://www.touilleur-express.fr/2026/01/05/lia-generative-va-changer-notre-facon-de-coder-unpopular-opinion",
+      "pubDate": "2026-01-05T16:57:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "fdc67a2bb7a0",
+      "title": "Haro contre la tech US, la culture de la sécurité passoire en France, et plus...",
+      "description": "Dépendance à la tech US, souveraineté numérique, culture de la sécurité défaillante en France et veille critique sur l’actualité tech européenne.",
+      "link": "https://eventuallycoding.com/p/2026-01-tech-independence-data-leak-as-a-service",
+      "pubDate": "2026-01-02T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390716-cover.jpg"
+    }
+  ]
+}

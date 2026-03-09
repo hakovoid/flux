@@ -1,0 +1,72 @@
+feeds:
+  - url: https://blog.zwindler.fr/index.xml
+    name: Zwindler's Reflection
+    categories: [DevOps, Cloud, Programmation]
+
+  - url: https://medium.com/feed/@smaine-milianni
+    name: Smaïne Milianni
+    categories: [Programmation, IA]
+
+  - url: https://alex.balmes.co/fr/blog/rss.xml
+    name: Alex Balmes
+    categories: [Programmation, IA, Web]
+
+  - url: https://yoandev.co/rss.xml
+    name: YoanDev
+    categories: [Programmation, Web, DevOps, IA]
+
+  - url: https://les-tilleuls.coop/feed.xml
+    name: Les-Tilleuls.coop
+    categories: [Programmation, Web, Cloud, IA]
+
+  - url: https://jolicode.com/feed
+    name: JoliCode
+    categories: [Programmation, Web]
+
+  - url: https://lecodeestdanslepre.fr/feed.xml
+    name: Le Code est dans le Pré
+    categories: [Programmation, Web]
+
+  - url: https://blog.pascal-martin.fr/index.xml
+    name: Pascal Martin
+    categories: [Programmation, DevOps, Cloud]
+
+  - url: https://domopi.eu/rss/
+    name: DomoPi
+    categories: [DevOps, Cybersécurité]
+
+  - url: https://touilleur-express.fr/feed
+    name: Le Touilleur Express
+    categories: [Programmation, IA]
+
+  - url: https://www.damyr.fr/posts/index.xml
+    name: Damyr
+    categories: [DevOps, Cloud]
+
+  - url: https://codeka.io/index.xml
+    name: Codeka (Julien Wittouck)
+    categories: [Programmation, DevOps, Cloud]
+
+  - url: https://j.hommet.net/rss/
+    name: J.Hommet
+    categories: [DevOps, Cloud, Cybersécurité]
+
+  - url: https://une-tasse-de.cafe/index.xml
+    name: Une Tasse de Café
+    categories: [DevOps, Cloud, Cybersécurité]
+
+  - url: https://eventuallycoding.com/rss.xml
+    name: EventuallyCoding
+    categories: [Programmation, IA]
+
+  - url: https://blog.seboss666.info/feed
+    name: Seboss666
+    categories: [DevOps, Cloud, Programmation]
+
+  - url: https://code-garage.com/blog/rss
+    name: Code-Garage
+    categories: [Programmation, Web]
+
+  - url: https://nouslesdevs.com/feed
+    name: Nous Les Devs
+    categories: [Programmation, DevOps, Cybersécurité]

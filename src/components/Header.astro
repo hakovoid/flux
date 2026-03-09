@@ -1,0 +1,54 @@
+---
+import { loadAllArticles, getAllSources } from '../utils/articles';
+
+let articleCount = 0;
+let sourceCount = 0;
+
+try {
+  const articles = loadAllArticles();
+  articleCount = articles.length;
+  sourceCount = getAllSources(articles).length;
+} catch {
+  // No data yet
+}
+
+const navItems = [
+  { label: 'Articles', href: '/' },
+  { label: 'Sources', href: '/sources' },
+];
+---
+
+<header class="sticky top-0 z-50 bg-[var(--color-surface-0)]/80 backdrop-blur-xl border-b border-zinc-800/50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-3 group">
+        <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center shadow-lg shadow-indigo-500/20 group-hover:shadow-indigo-500/40 transition-shadow">
+          <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+        </div>
+        <span class="text-lg font-bold tracking-tight">Flux</span>
+      </a>
+
+      <!-- Nav -->
+      <nav class="flex items-center gap-6">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class="text-sm text-zinc-400 hover:text-white transition-colors"
+          >
+            {item.label}
+          </a>
+        ))}
+        <!-- Stats -->
+        <div class="hidden sm:flex items-center gap-3 text-xs text-zinc-500 border-l border-zinc-800 pl-6">
+          <span class="flex items-center gap-1.5">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+            {articleCount} articles
+          </span>
+          <span>·</span>
+          <span>{sourceCount} sources</span>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

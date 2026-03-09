@@ -1,0 +1,502 @@
+{
+  "month": "2026-02",
+  "articles": [
+    {
+      "id": "a3a3d551cbc5",
+      "title": "WebMCP : Quand vos pages web parlent directement à l'IA",
+      "description": "Et si votre page web pouvait parler directement à l'IA ? Avec WebMCP, c'est possible. On construit ensemble MiamMCP, une app Symfony de commande de nourriture pilotée par Claude via le navigateur — d'abord à la main, puis avec WebMcpBundle.",
+      "link": "https://yoandev.co/webmcp-demo-symfony",
+      "pubDate": "2026-02-27T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/webmcp-miammcp.webp"
+    },
+    {
+      "id": "ffdb5170f44f",
+      "title": "La veille de Wittouck - Fin février 2026",
+      "description": "Février a été un mois un peu chargé, avec mon premier Touraine Tech, et un gros travail de refonte sur ce site au niveau des perfs. Avec tout ça, j’avais un peu mis de côté la veille de Wittouck de mi-février, par manque de temps. On repart donc avec un résumé du mois de février, plusieurs sujets…",
+      "link": "https://codeka.io/2026/02/27/la-veille-de-wittouck-fin-f%C3%A9vrier-2026/",
+      "pubDate": "2026-02-27T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "06cf5efc69b6",
+      "title": "Kyverno a tué mon API Server. Encore.",
+      "description": "Le retour de la vengeance Vous avez peut-être lu mon article précédent sur etcd il y a 3 ans. Si vous vous en souvenez bien, le crash, c’était etcd, mais le vrai coupable, c’était Kyverno. J’adore Kyverno. C’est vraiment un logiciel que j’aime beaucoup. Notamment parce que c’est puissant(issime).…",
+      "link": "https://blog.zwindler.fr/2026/02/26/kyverno-a-tue-mon-api-server-encore/",
+      "pubDate": "2026-02-26T06:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/0_days_without_kyverno.webp"
+    },
+    {
+      "id": "37528664319f",
+      "title": "Generative Coding : here we are",
+      "description": "On y est. Le code est généré par des outils de génération de code, à base de prompts. Nous sommes au début de 2026. Les développeurs ouvrent un terminal, tapent \"Claude Code\", et génèrent du code avec des outils de GenAI. Je vous recommande la lecture passionnante du rapport \"The 2026 State of…",
+      "link": "https://www.touilleur-express.fr/2026/02/25/generative-coding-here-we-are",
+      "pubDate": "2026-02-25T13:21:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "f20884f4e39e",
+      "title": "Le syndrome B2BigB : comment les grands groupes tuent doucement les startups ",
+      "description": "Vendre à un grand groupe semble être la validation ultime pour une startup. C'est souvent le début de la fin. Cycles de vente interminables, trésorerie en tension, produit détourné de sa roadmap : voici pourquoi le B2BigB est un piège, et comment essayer de l'éviter.",
+      "link": "https://eventuallycoding.com/p/2026-02-b2bigb",
+      "pubDate": "2026-02-25T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390865-cover.jpg"
+    },
+    {
+      "id": "24c9cc992c51",
+      "title": "NixOS, ou comment j'ai arrêté de bricoler mon Linux",
+      "description": "Une belle histoire Debian, on connaît tous. Mère de nombreuses distributions modernes, je l’utilise depuis 13 ans. Rien qu’avec cette phrase, j’ai pris un coup de vieux. J’ai débuté avec Debian stable, en supprimant le dual boot pour me forcer à rester sous Linux. Après un passage sous Ubuntu, je…",
+      "link": "https://www.damyr.fr/p/nixos-ou-comment-jai-arr%C3%AAt%C3%A9-de-bricoler-mon-linux/",
+      "pubDate": "2026-02-24T19:20:05.000Z",
+      "source": "Damyr",
+      "sourceUrl": "https://www.damyr.fr/posts/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "dd9e28f3e0fc",
+      "title": "Diplôme, Titre RNCP, Bachelor, Mastère… quelles différences ?",
+      "description": "Vous cherchez votre future école et vous êtes perdu dans toute l'offre de diplômes, titres et certifications en tout genre ?",
+      "link": "https://code-garage.com/blog/differences-diplome-titre-rncp-bachelor-mastere",
+      "pubDate": "2026-02-23T13:16:04.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "5785602b40e3",
+      "title": "De F à A+ sur HTTP Observatory : sécuriser les headers de mon blog Hugo",
+      "description": "Après l’optimisation des performances du blog (AVIF, pré-compression), j’étais super content de moi. 🥳 Mais c’était sans compter sur Antoine Caron, qui est venu (à très juste titre) me chatouiller sur un autre aspect que j’avais ignoré, le rapport Mozilla Observatory… J’ai donc lancé un scan…",
+      "link": "https://blog.zwindler.fr/2026/02/20/securite-headers-http-observatory-hugo/",
+      "pubDate": "2026-02-21T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/observatory-a-plus.webp"
+    },
+    {
+      "id": "26b152ad394b",
+      "title": "GotenbergBundle : Generer des PDF comme un pro avec Symfony",
+      "description": "Decouvrez comment generer des PDF professionnels avec Symfony et GotenbergBundle. De l'installation a la creation de factures Factur-X, ce tutoriel vous guide pas a pas dans l'ecosysteme Docker-first de Gotenberg.",
+      "link": "https://yoandev.co/gotenberg-bundle",
+      "pubDate": "2026-02-21T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/4558274b-71de-4467-aea2-0c52613d762c.jpeg"
+    },
+    {
+      "id": "8bf0cf8a59a9",
+      "title": "Optimiser les perfs et la sécurité d'un site Hugo",
+      "description": "Sur les bons conseils du pote Antoine Caron, j’ai pris le temps cette semaine d’optimiser un peu mon site. Ce site que vous êtes en train de lire est un site statique, buildé avec Hugo. J’avais déjà un peu travaillé la compression des différentes ressources, principalement les illustrations, mais…",
+      "link": "https://codeka.io/2026/02/20/optimiser-les-perfs-et-la-s%C3%A9curit%C3%A9-dun-site-hugo/",
+      "pubDate": "2026-02-20T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "ac3b557f1988",
+      "title": "Optimisation webperf : AVIF et pré-compression pour le blog",
+      "description": "Ce blog a presque 16 ans d’existence. Sur cette période, j’ai accumulé plus de 530 articles avec plus de 2700 images. Il y a quelques années, j’avais commencé à taper des limites (notamment quand j’ai essayer Gitlab pages chez Froggit) en atteignant les 500 Mo de medias. J’avais fait une première…",
+      "link": "https://blog.zwindler.fr/2026/02/19/optimisation-webperf-avif-precompression/",
+      "pubDate": "2026-02-19T15:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/webperf0.webp"
+    },
+    {
+      "id": "6d59d235116c",
+      "title": "Du développement à l’orchestration : comment l’IA redéfinit nos métiers",
+      "description": "Chez Les-Tilleuls.coop, nous avons toujours à cœur d’explorer les technologies émergentes pour comprendre comment elles peuvent servir nos clients, mais aussi comment elles transforment notre propre quotidien. Récemment, nous nous sommes réunis pour un partage d’usages autour des LLM (Large…",
+      "link": "https://les-tilleuls.coop/blog/du-developpement-a-lorchestration-comment-lia-redefinit-nos-metiers",
+      "pubDate": "2026-02-18T14:29:16.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "/wp-content/uploads/2026/02/7e6c3088-8d5d-4f20-9144-fe5ddc23cd01-1024x683.jpg"
+    },
+    {
+      "id": "2d425c903f79",
+      "title": "Touraine Tech 2026 - Voyage au pays de la rillette",
+      "description": "Dans ma tournée des conférences tech de France pour jouer à Factorio, je suis passé par Touraine Tech, la semaine dernière. Comme toujours, c’est l’occasion de faire de nouvelles rencontres et de croiser les autres speakeuses et speakers. Voici donc le récap de ma visite à Touraine Tech, pour cette…",
+      "link": "https://codeka.io/2026/02/18/touraine-tech-2026-voyage-au-pays-de-la-rillette/",
+      "pubDate": "2026-02-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "63bc66f58a3c",
+      "title": "Générer des PDFs à partir de HTML avec SecretPDF",
+      "description": "Apprenez à générer des PDF depuis du HTML avec un seul call d'API !",
+      "link": "https://code-garage.com/blog/generer-des-pdfs-a-partir-de-html-avec-secretpdf",
+      "pubDate": "2026-02-17T13:46:21.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_02_17_a_11_12_20_6fa0af2297.png"
+    },
+    {
+      "id": "1a0606d940ab",
+      "title": "Liens Tech - Février 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-fevrier-2026/",
+      "pubDate": "2026-02-16T06:45:21.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp"
+    },
+    {
+      "id": "c3df7f23a2a2",
+      "title": "Des générations et des technologies… et une histoire qui se répète",
+      "description": "Aux environs de l’an 2000, des “amateurs”, parfois lycéens ou étudiants, sortaient des sites web, en PHP. C’était souvent vite fait1, c’était facile à mettre en place, les technologies étaient plutôt accessibles — vous vous souvenez des FAI qui proposaient un hébergement PHP + MySQL à leurs abonnés…",
+      "link": "https://blog.pascal-martin.fr/post/generations-et-technologies-histoire-se-repete/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/generations-et-technologies-histoire-se-repete/",
+      "pubDate": "2026-02-16T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "e68b30845e5a",
+      "title": "Posts",
+      "description": "",
+      "link": "https://blog.pascal-martin.fr/post/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/",
+      "pubDate": "2026-02-16T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "bbb725ea0b70",
+      "title": "Générer son SEO avec Symfony AI et Gemini",
+      "description": "Implémentez la génération automatique de titre, description et mots-clés SEO avec Symfony AI, Gemini et Messenger dans votre administration EasyAdmin",
+      "link": "https://lecodeestdanslepre.fr/billets/generer-son-seo-avec-symfony-ai-et-gemini",
+      "pubDate": "2026-02-15T10:29:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "2efe9db74122",
+      "title": "Construire un système de redirections HTTP complet avec Symfony",
+      "description": "Système de redirections HTTP avec Symfony : règles exactes et regex, cache Redis, tracking via Messenger et création automatique lors des changements de slugs",
+      "link": "https://lecodeestdanslepre.fr/billets/construire-un-systeme-de-redirections-http-complet-avec-symfony",
+      "pubDate": "2026-02-14T17:16:24.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "7551f057165d",
+      "title": "L’IA et les Devs (juniors?)",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/lia-et-les-devs-juniors-3cde6268d400?source=rss-c730ddf97658------2",
+      "pubDate": "2026-02-14T10:16:36.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*zSAXOFSm9eXMplkxCo0fNA.png"
+    },
+    {
+      "id": "828244575ca1",
+      "title": "Touraine Tech 2026 - Récap du jour 2",
+      "description": "Jour 2 - C’est reparti ! Me voici dans le train du retour et je prend un peu de temps pour mettre en forme mes notes de la journée. C’est parti pour le récap du jour 2 de Touraine Tech 2026 ! Après une soirée speakers très sympa dans un bar à jeux, je me suis levé un poil trop tard et j’ai loupé la…",
+      "link": "https://blog.zwindler.fr/2026/02/13/recap-touraine-tech-2026-jour2/",
+      "pubDate": "2026-02-13T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/tnt26-entree2.webp"
+    },
+    {
+      "id": "baa08262ea12",
+      "title": "Touraine Tech 2026 - Récap du jour 1",
+      "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
+      "link": "https://blog.zwindler.fr/2026/02/12/recap-touraine-tech-2026-jour1/",
+      "pubDate": "2026-02-12T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/tnt26-entree.webp"
+    },
+    {
+      "id": "b7d2b5b594e6",
+      "title": "Notre retour sur Cloud Native Days 2026",
+      "description": "Une partie de notre équipe SRE s’est rendue au Cloud Native Days France 2026 au CENTQUATRE-PARIS, un lieu bien adapté pour accueillir les quelque 2000 participants. Le programme à l’affiche était fort intéressant, découvrez avec nous quelques conférences et thématiques qui nous ont marquées lors de…",
+      "link": "https://les-tilleuls.coop/blog/notre-retour-sur-cloud-native-days-2026",
+      "pubDate": "2026-02-11T14:00:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/02/image-145-1024x567.png"
+    },
+    {
+      "id": "946f5d145622",
+      "title": "AutoMapper 10.0: High-performance mapping ready for the future",
+      "description": "This is a major milestone for the library: AutoMapper has reached version 10.0. While our promise remains unchanged — transforming your data from one format to another as fast as possible — this version marks a technological breakthrough. We took advantage of this major release to modernize the…",
+      "link": "https://jolicode.com/blog/automapper-10-0-high-performance-mapping-ready-for-the-future",
+      "pubDate": "2026-02-10T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/automapper-v10/profiler.png"
+    },
+    {
+      "id": "07c6148c4031",
+      "title": "AutoMapper 10.0 : Le mapping haute performance prêt pour le futur",
+      "description": "C’est une étape majeure pour la librairie : AutoMapper passe en version 10.0. Si notre promesse reste inchangée — transformer vos données d'un format à un autre le plus vite possible — cette version marque une rupture technologique. Nous avons profité de cette version majeure pour moderniser le…",
+      "link": "https://jolicode.com/blog/automapper-10-0-le-mapping-haute-performance-pret-pour-le-futur",
+      "pubDate": "2026-02-10T13:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/automapper-v10/profiler.png"
+    },
+    {
+      "id": "99a916df4c68",
+      "title": "101 façons de déployer Kubernetes : une nouvelle UI pour explorer les 118+ solutions",
+      "description": "De Google Sheet à une vraie application web Vous vous souvenez peut-être de mes précédents articles sur ce projet : d’abord un simple Google Sheet avec 93 méthodes, puis un dépôt GitHub avec plus de 100 entrées. Aujourd’hui, je peux présenter la dernière itération de ce projet : une vraie interface…",
+      "link": "https://blog.zwindler.fr/2026/02/09/101-facons-de-deployer-kubernetes-nouvelle-ui/",
+      "pubDate": "2026-02-09T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/101-kubernetes-ui-screenshot.webp"
+    },
+    {
+      "id": "2c711671671e",
+      "title": "J'ai essayé de quitter Windows pour Linux... Spoiler : ça s'est mal passé",
+      "description": "Sécurité, géopolitique, obsolescence : les raisons de quitter Windows n'ont jamais été aussi fortes. Récit d'une tentative de migration vers Linux",
+      "link": "https://eventuallycoding.com/p/2026-02-windows-migration",
+      "pubDate": "2026-02-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391122-cover.jpg"
+    },
+    {
+      "id": "3fedc0123717",
+      "title": "Avoir son ASN personnel pour annoncer ses IPs sur Internet",
+      "description": "Je vais bientôt souffler la première bougie de mon ASN : 209238 🎉. Je me suis dit qu’il n’y aurait pas de meilleur cadeau pour lui que d’en faire un article de blog pour expliquer mon parcours et comment je l’utilise. On va commencer par le début et expliquer déjà ce qu’est un ASN. Qu’est-ce qu’un…",
+      "link": "https://une-tasse-de.cafe/blog/bgp-kubernetes/",
+      "pubDate": "2026-02-07T22:05:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null
+    },
+    {
+      "id": "8671b6306f81",
+      "title": "Historique de versions dans EasyAdmin : capturer, comparer et restaurer chaque modification",
+      "description": "Implémentez un historique de versions dans EasyAdmin : capture Doctrine automatique, snapshots JSON, diff mot-à-mot avec jfcherng/php-diff et LiveComponent.",
+      "link": "https://lecodeestdanslepre.fr/billets/historique-de-versions-dans-easyadmin-capturer-comparer-et-restaurer-chaque-modification",
+      "pubDate": "2026-02-07T11:21:51.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "b24de20bac4e",
+      "title": "Impact de l'IA sur l'état de l'art de l'ingénierie logicielle en 2026",
+      "description": "Comment l'IA a-t-elle transformé l'ingénierie logicielle ? De la fin de l'ego-coding au 'Context Driven Engineering', découvrez des retours d'expérience de Doctolib, Malt, Alan et Google sur l'industrialisation des agents IA en 2026",
+      "link": "https://eventuallycoding.com/p/2026-02-context-driven-engineering",
+      "pubDate": "2026-02-06T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391028-cover.jpg"
+    },
+    {
+      "id": "618c3abfb039",
+      "title": "Cloud Native Days France 2026 : mon retour sur l'événement",
+      "description": "De retour de CND France 2026 3 ans après KCD France 2023 (que j’avais brièvement aidé à organiser), c’est le retour de la conf préférée des DevOps, SREs et autre platform engineers de France et de Navarre (enfin, je suis pas sûr pour la Navarre) : j’ai nommé Cloud Native Days France 2026, bien…",
+      "link": "https://blog.zwindler.fr/2026/02/04/recap-cndf-2026/",
+      "pubDate": "2026-02-04T14:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/cndf26-keynote.webp"
+    },
+    {
+      "id": "0747a15bd6f1",
+      "title": "OpenClaw (ex ClawdBot) et MoltBook : pour ceux qui ne savent pas",
+      "description": "Vous avez peu de temps car votre temps est précieux. Lisez. Et priez. OpenClaw (ex MoltBot, ex ClawdBot) Début novembre 2025, Peter Steinberger lance le projet \"Clawd\" puis \"ClawdBot\". 2 millions de visiteurs et 147k étoiles sur Github en quelques semaines... c'est 2 fois plus que Spring Boot qui a…",
+      "link": "https://www.touilleur-express.fr/2026/02/02/openclaw",
+      "pubDate": "2026-02-02T11:13:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "e1e7e1417181",
+      "title": "Recommandations de contenu avec Meilisearch",
+      "description": "Implémentez un système de recommandation d'articles sur votre blog Symfony en utilisant Meilisearch comme moteur de similarité sémantique.",
+      "link": "https://lecodeestdanslepre.fr/billets/recommandations-de-contenu-avec-meilisearch",
+      "pubDate": "2026-02-01T15:12:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "b076260c26da",
+      "title": "Comment j'ai transformé EasyAdmin en tableur intelligent",
+      "description": "Implémentez l'édition inline dans EasyAdmin avec Symfony UX Turbo et Stimulus. Textes, enums, dates, associations : modifiez vos champs sans quitter la liste.",
+      "link": "https://lecodeestdanslepre.fr/billets/comment-j-ai-transforme-easyadmin-en-tableur-intelligent",
+      "pubDate": "2026-02-01T12:16:19.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    }
+  ]
+}

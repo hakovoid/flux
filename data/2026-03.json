@@ -1,0 +1,165 @@
+{
+  "month": "2026-03",
+  "articles": [
+    {
+      "id": "110290748295",
+      "title": "Découvrez BullMQ, une MessageQueue simple avec NodeJS",
+      "description": "Dans une application moderne, certaines opérations peuvent être longues et bloquer l’application principale, on utilise alors souvent des files de tâches. BullMQ est une solution simple pour gérer ce type de traitement en arrière-plan.",
+      "link": "https://code-garage.com/blog/decouvrez-bullmq-une-message-queue-simple-avec-nodejs",
+      "pubDate": "2026-03-09T09:20:06.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "99362bd9d848",
+      "title": "De Codeur à Claude Codeur",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/de-codeur-%C3%A0-claude-codeur-cf2c0ca3f5b9?source=rss-c730ddf97658------2",
+      "pubDate": "2026-03-09T00:28:12.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*_ednxi7xo1bftOD6boKm0w.png"
+    },
+    {
+      "id": "41fc816993c5",
+      "title": "Coder 10x plus vite : à quoi ça sert vraiment ?",
+      "description": "L'IA accélère le code. Mais le gain de temps n'a de valeur que si on sait quoi en faire. Et si on explorait les vrais impacts de la productivité sur les devs, les startups et les freelances.",
+      "link": "https://eventuallycoding.com/p/coder-10x-plus-vite-a-quoi-ca-sert-vraiment",
+      "pubDate": "2026-03-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "dd21347be7bf",
+      "title": "Mon positionnement sur l'Intelligence Artificielle Générative",
+      "description": "En 2026, l'IA n'est plus une option mais un exosquelette. Entre productivité décuplée et nouveaux risques éthiques, le défi n'est plus de coder, mais d'orchestrer la valeur avec responsabilité.",
+      "link": "https://alex.balmes.co/fr/blog/mon-positionnement-sur-l-intelligence-artificielle-generative",
+      "pubDate": "2026-03-08T16:06:16.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "89236da1a06d",
+      "title": "GenAI et développement logiciel : retour d'expérience avec PodSweeper",
+      "description": "La GenAI, c’est fantastique ? Pas mal de gens ont sorti leur avis sur la Gen AI pour dev en très peu de temps, alors je me rends compte qu’il est plus que temps que je poste ce brouillon commencé il y a plus de deux semaines 🙃. Pour le travail, j’utilise de plus en plus d’assistants IA pour…",
+      "link": "https://blog.zwindler.fr/2026/03/08/genai-llm-dev-podsweeper/",
+      "pubDate": "2026-03-08T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/02/opencode.webp"
+    },
+    {
+      "id": "f0175e25614b",
+      "title": "Symfony AI Mate : Donnez des super-pouvoirs à Claude Code avec ce serveur MCP",
+      "description": "Découvrez comment connecter votre agent IA (Claude Code, Cursor, JetBrains AI...) à votre projet Symfony grâce à AI Mate, le serveur MCP officiel. Installation pas à pas, extensions Monolog et Profiler : tout pour transformer votre assistant IA en copilote Symfony.",
+      "link": "https://yoandev.co/symfony-ai-mate-claude-code",
+      "pubDate": "2026-03-08T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-ai-mate.webp"
+    },
+    {
+      "id": "38beecd11c4e",
+      "title": "Sécurise ton SSH : des clés, zéro mot de passe, zéro stress",
+      "description": "Tu viens de monter un nouveau serveur Linux (un VPS, une VM Proxmox, un Raspberry Pi), SSH est activé, tu t'y connectes avec ton mot de passe, ça marche, affaire classée. Sauf que si ton serveur est exposé sur internet, il se fait",
+      "link": "https://domopi.eu/securise-ton-ssh-des-cles-zero-mot-de-passe-zero-stress/",
+      "pubDate": "2026-03-06T06:45:44.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/ssh.webp"
+    },
+    {
+      "id": "14c6d149bce8",
+      "title": "J'ai passé la certif Scaleway Foundations",
+      "description": "Cela faisait quelque temps que je voulais investir sur les offres de Cloud souveraines. Je connaissais déjà pas trop mal l’écosystème Scaleway, pour l’avoir pratiqué avec quelques clients, et pour m’en servir sur des projets perso et avec mes étudiants en TP. J’ai donc décidé de m’y mettre…",
+      "link": "https://codeka.io/2026/03/06/scaleway-foundations/",
+      "pubDate": "2026-03-06T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "955f711dd170",
+      "title": "Nouveau blog et ligne éditoriale",
+      "description": "2025 a marqué un tournant avec l'IA générative. Entre débats et opportunités, j'ai choisi mon camp : celui de l'outil comme levier de création. Ce blog est mon nouvel espace pour partager mes réflexions, mes projets d'automatisation et mon retour aux sources par le code. Sans excuses.",
+      "link": "https://alex.balmes.co/fr/blog/nouveau-blog-et-ligne-editoriale",
+      "pubDate": "2026-03-04T10:14:41.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "574f65f05006",
+      "title": "Comment récupérer les variables d’environnement en COBOL ?",
+      "description": "Même si COBOL est un langage ancien, il reste encore utilisé dans de nombreux systèmes critiques. Mais comment faire pour adapter son comportement selon l’environnement, par exemple, passer du mode développement au mode production ? La réponse passe par les variables d’environnement.",
+      "link": "https://code-garage.com/blog/comment-recuperer-les-variables-environnement-en-cobol",
+      "pubDate": "2026-03-02T16:42:26.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "e651672f11b3",
+      "title": "Dogfooding : Pourquoi mon propre blog est passé sur Writizzy ?",
+      "description": "Dogfooding : Pourquoi j'ai migré EventuallyCoding vers Writizzy. Entre la difficulté de l'Open Source et l'agilité du SaaS, voici quelques retours d'expérience",
+      "link": "https://eventuallycoding.com/p/dogfooding-pourquoi-mon-propre-blog-est-passe-sur-writizzy",
+      "pubDate": "2026-03-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null
+    }
+  ]
+}
