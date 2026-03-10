@@ -18,6 +18,21 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/01/news-janvier/banner.avif"
     },
     {
+      "id": "d983e4527622",
+      "title": "Quelle est la différence entre les skills, les agents et les slash commands ?",
+      "description": "Voici comment j'ai appris à distinguer skills, agents et commandes pour garder un fil de conversation 8 fois plus propre et éviter que Claude \"oublie\" des détails critiques en pleine implémentation.",
+      "link": "https://codecodecoders.substack.com/p/quelle-est-la-difference-entre-les",
+      "pubDate": "2026-01-30T16:02:34.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/55df3ab3-5959-4dee-a06d-24227f2b4704_1344x896.png"
+    },
+    {
       "id": "13b8386a4f37",
       "title": "Patterns d'Architecture 2026 - Du Hype à la Réalité du Terrain Part. 1/2",
       "description": "Découvrez les patterns d'architecture incontournables de 2026 : EDA, API-First, CQRS et Saga. Optimisez scalabilité et résilience de votre SI.",
@@ -147,6 +162,20 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "db684a850908",
+      "title": "Comment l'IA bouleverse le logiciel Libre",
+      "description": "Ce week-end, j’ai réalisé que le développement assisté par l’IA est en train de bouleverser l’Open Source bien plus que je ne le pensais. Fan d’Open Source et de logiciel libre (on ne passe pas 17 ans sur le projet Mozilla comme ça), je vois un ami, Pablo Pernot développer seul avec une IA un…",
+      "link": "https://standblog.org/blog/post/2026/01/27/Comment-l-IA-bouleverse-le-logiciel-Libre",
+      "pubDate": "2026-01-27T10:44:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Screenshot-Ponos.jpg"
+    },
+    {
       "id": "03dacef65a51",
       "title": "Intégration d'un UPS dans Proxmox via NUT",
       "description": "NUT (Network UPS Tools) est une solution open-source de supervision d’onduleur (UPS). Elle récupère les informations de l’UPS (alimentation sur secteur ou batterie, niveau de charge, autonomie estimée, événements…) et peut les exposer sur le r&",
@@ -159,6 +188,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/12/BCO.9e8ed0ba-e305-48b9-8355-716993157c21.webp"
+    },
+    {
+      "id": "9a0f795956b2",
+      "title": "Quoi de neuf les devs? #163 - Veille tech et l'interview de Raphaël",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Raphaël le papa d'Alsacréations. On parlera aussi de ✅ ASCII, ✅ Livewire, ✅ Rust, ✅ Game Dev, ✅ Java 26, ✅ etc...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-163-veille",
+      "pubDate": "2026-01-26T15:42:19.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!S9Rd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12da67b8-6f64-4e13-8a33-1855a7f76eb9_2720x1773.png"
     },
     {
       "id": "1bce695c0b0c",
@@ -203,6 +247,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "ed72deb8071d",
+      "title": "Ta veille tech de la semaine du 19 au 25/01",
+      "description": "Il s'en est passé des choses cette semaine. Alors prenez-vous un p'tit chocolat chaud d'hiver et profitez de la lecture de votre newsletter veille tech de la semaine !",
+      "link": "https://codecodecoders.substack.com/p/ta-veille-tech-de-la-semaine-du-19",
+      "pubDate": "2026-01-25T14:13:01.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/TwMXi6tDzLE"
     },
     {
       "id": "fb7efc345571",
@@ -290,7 +349,79 @@
         "Cloud",
         "IA"
       ],
-      "image": "/wp-content/uploads/2026/01/article-voeux-2026-1024x569.webp"
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/01/article-voeux-2026-1024x569.webp"
+    },
+    {
+      "id": "3a2df5cc14de",
+      "title": "France et souveraineté numérique : de qui se moque-t-on ?",
+      "description": "La France proclame sa souveraineté numérique tout en confiant ses données les plus sensibles à des acteurs soumis au droit américain : ce n’est pas une contradiction, c’est une politique implicite.",
+      "link": "https://upskiller.substack.com/p/france-et-souverainete-numerique",
+      "pubDate": "2026-01-22T07:15:22.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!sqqV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8d7fe30-b7c3-4b54-9ff9-7f3c2cce7145_1920x1080.png"
+    },
+    {
+      "id": "8c5df5f6457a",
+      "title": "Passez au niveau supérieur avec les Core Web Vitals mis à jour en 2026",
+      "description": "Google durcit les règles cette année. LCP, CLS et l'arrivée des Soft Navigations : découvrez les optimisations de performances indispensables pour devancer vos concurrents",
+      "link": "https://codecodecoders.substack.com/p/passez-au-niveau-superieur-avec-les",
+      "pubDate": "2026-01-22T07:00:40.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!WWP1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e131c57-ff91-455e-bb4e-6cca2481c90d_799x345.png"
+    },
+    {
+      "id": "a9d64ecac7cc",
+      "title": "🎤 Talks donnés à Cloud Native Aix Marseille 🎤",
+      "description": "Liste de talks donnés lors de la conférence Cloud Native Aix Marseille",
+      "link": "https://philippart-s.github.io/blog/cnd-aix-2026/",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "db4c25a61e05",
+      "title": "🤖L&#39;IA et ses agents, comment ça marche ? 🔀",
+      "description": "Mr. Anderson, welcome back. We missed you. © Agent Smith",
+      "link": "https://philippart-s.github.io/blog/2026-01-22-ai-agents/",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "7392410eb2d3",
+      "title": "Mettre un datacenter dans l'espace n'a pas de sens",
+      "description": "“Pour faire de l’IA, on pourrait mettre des datacenters dans l’espace, et comme ça on résoudrait les problèmes d’énergie et ceux de refroidissement”, entend-on ces derniers temps de la part des patrons de la Tech. J’avoue que quand j’ai entendu ça, j’étais sceptique, alors j’ai fait quelques…",
+      "link": "https://standblog.org/blog/post/2026/01/21/Mettre-un-datacenter-dans-l-espace-n-a-pas-de-sens",
+      "pubDate": "2026-01-21T11:06:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/ISS_public_domain_NASA.jpg"
     },
     {
       "id": "27d9505a1759",
@@ -307,6 +438,21 @@
         "DevOps"
       ],
       "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGdpdHxlbnwwfHx8fDE3NjgyMDU2OTR8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000"
+    },
+    {
+      "id": "21144dad47a1",
+      "title": "🎤 Talks donnés à MarsJUG 🎤",
+      "description": "Liste de talks donnés lors de la conférence MarsJUG",
+      "link": "https://philippart-s.github.io/blog/marjusg-2026/",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
     },
     {
       "id": "7ecc192f73df",
@@ -336,6 +482,36 @@
         "Programmation"
       ],
       "image": "https://blog.seboss666.info/wp-content/uploads/2026/01/placard-small.jpg"
+    },
+    {
+      "id": "ac021478adcc",
+      "title": "Le code ne suffit plus : pourquoi vos soft skills sont votre meilleur atout",
+      "description": "85 % du succès professionnel vient des soft skills, pas du code. Voici les compétences que j'ai développées et qui font la différence dans mon quotidien.",
+      "link": "https://codecodecoders.substack.com/p/le-code-ne-suffit-plus-pourquoi-vos",
+      "pubDate": "2026-01-20T06:31:21.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ec454410-2f82-47b4-84d4-fb91d3440c81_1200x630.webp"
+    },
+    {
+      "id": "64d7bb3f408e",
+      "title": "Quoi de neuf les devs? #162 - Veille tech et l'interview de Nicolas",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Nicolas. On parlera aussi de ✅ Zig, ✅ Cybersécurité, ✅ MySQL 💀, ✅ Claude, ✅ SEO, etc..",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-162-veille",
+      "pubDate": "2026-01-20T05:42:18.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tnt1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F232ebcb7-8709-46d8-89aa-0955ea81b2a9_2813x1833.webp"
     },
     {
       "id": "7f4b855df133",
@@ -396,7 +572,7 @@
         "Cloud",
         "IA"
       ],
-      "image": "/wp-content/uploads/2026/01/article-hot-reloading-1024x569.webp"
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/01/article-hot-reloading-1024x569.webp"
     },
     {
       "id": "ab8a43d5a237",
@@ -442,6 +618,21 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "dd8c8587b431",
+      "title": "Ta veille tech de la semaine du 12 au 18/01",
+      "description": "Tu n’as plus le temps de te poser pour faire ta veille ou tu ne sais pas où chercher ? Aucun problème ! Cette semaine, j’ai déniché 7 ressources qui vont te faire gagner du temps !",
+      "link": "https://codecodecoders.substack.com/p/ta-veille-tech-de-la-semaine-du-12",
+      "pubDate": "2026-01-18T10:23:09.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!P0nb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F696c4197-0302-4c99-9316-0fcb42d4456d_2251x1417.png"
+    },
+    {
       "id": "26b6324a9fdf",
       "title": "Pas de backup, pas de prod",
       "description": "Si vous n'avez pas de stratégie de sauvegarde testée, isolée et immuable, vous n'êtes pas en production. Vous faites du développement exposé publiquement. La règle 3-2-1-1-0 et les leçons de Maersk, CodeSpaces et OVHcloud.",
@@ -456,6 +647,21 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/backup.webp"
+    },
+    {
+      "id": "ecb22f3c73ba",
+      "title": "\nNe pas se limiter à une spécialité dans sa carrière\n",
+      "description": "J’ai pas trop l’habitude de donner des conseils sur comment gérer sa carrière mais je vais faire une exception pour cet article. Plus on prend de l’expérience, plus on fait évoluer nos compétences. T pour l’évolution de ces compétences: la barre verticale de la lettre correspond à l’expertise…",
+      "link": "\nhttps://mcorbin.fr/posts/2026-01-18-carriere-dev-sre/\n",
+      "pubDate": "2026-01-17T23:00:00.000Z",
+      "source": "mcorbin",
+      "sourceUrl": "https://mcorbin.fr/feed.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null
     },
     {
       "id": "95405354e328",
@@ -547,6 +753,35 @@
       "image": null
     },
     {
+      "id": "5cfd074cae91",
+      "title": "🎤 Talks donnés à Snowcamp 🎤",
+      "description": "Liste de talks donnés lors de la conférence Snowcamp",
+      "link": "https://philippart-s.github.io/blog/talks/snowcamp-2026/",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
+      "id": "cf3442e1d095",
+      "title": "Timeline de Velorutopia par ChatGPT",
+      "description": "Mon collègue Mathieu a eu une drôle d’idée, celle de demander à ChatGPT de générer… la timeline de ma nouvelle, Vélorutopia. Je me suis dit que ça vous amuserait peut-être de voir, dans l’ordre chronologique, comment on est passé de 2025 (et même avant) à 2051, et ce qui s’est passé dans le monde.…",
+      "link": "https://standblog.org/blog/post/2026/01/14/Timeline-de-Velorutopia-par-ChatGPT",
+      "pubDate": "2026-01-14T17:31:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "2dbc8a569416",
       "title": "Développeur à l’ère des agents IA : mutation, industrialisation et avenir du métier",
       "description": "En 2025, les agents IA ont profondément transformé le développement logiciel. Revue de presse des impacts concrets sur le métier de développeur, entre industrialisation, expertise et renouveau.",
@@ -605,6 +840,21 @@
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/01/article-api-con-2026-1024x569.webp"
     },
     {
+      "id": "0ba14b76b144",
+      "title": "Le développeur-orchestrateur : au-delà du Vibe Coding",
+      "description": "L'IA capte 55 % des budgets tech. Pourtant, la confiance des devs chute à 29 %. Entre vibe coding et orchestration, où placer le curseur ?",
+      "link": "https://codecodecoders.substack.com/p/lere-du-developpeur-orchestrateur",
+      "pubDate": "2026-01-13T07:02:53.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/c92eb3a5-ec25-4c3b-94fe-7b176adb3628_1344x896.webp"
+    },
+    {
       "id": "095fab416ac7",
       "title": "Liens Tech - Janvier 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
@@ -631,6 +881,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "41183ff41da3",
+      "title": "Quoi de neuf les devs? #161 - Veille tech et l'interview de Jessim",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Jessim. On parlera aussi de ✅ l’IA et l’open source, ✅ Go, ✅ GemPlus, ✅ Markdown, ✅ Bash scripting, etc..",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-161-veille",
+      "pubDate": "2026-01-12T17:45:42.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!PwoY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31bce773-0080-48be-9297-9660e2a37e09_1920x1250.webp"
     },
     {
       "id": "adea0c8db9ea",
@@ -703,6 +968,20 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
+    },
+    {
+      "id": "de2f53ce5720",
+      "title": "Les syndicats, (tout) contre l’IA",
+      "description": "En 1977, la Confédération française démocratique du travail (CFDT) publie un épais ouvrage qui décrit le quotidien des travailleur·euses de la poste, des banques et d’autres secteurs concernés par l’automatisation 1. Le constat du syndicat est sans appel : l’accélération Les syndicats, (tout)…",
+      "link": "https://maisouvaleweb.fr/les-syndicats-tout-contre-lia/",
+      "pubDate": "2026-01-08T21:04:18.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null
     },
     {
       "id": "8baf5e243302",
@@ -778,6 +1057,21 @@
       "image": null
     },
     {
+      "id": "7ca73e6b18d7",
+      "title": "\nUn exemple d'observability trace-first\n",
+      "description": "Dans cet article, je présenterai une approche moderne et \"trace-first\" pour de l’observability applicatif. J’ai déjà écrit un article sur les traces en 2023 (c’est là où je me rends compte que le temps passe vite) où j’expliquais le tracing en détail et où j’abordais déjà l’idée de remplacer une…",
+      "link": "\nhttps://mcorbin.fr/posts/2026-01-06-traces-first/\n",
+      "pubDate": "2026-01-05T23:00:00.000Z",
+      "source": "mcorbin",
+      "sourceUrl": "https://mcorbin.fr/feed.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://mcorbin.fr/img/traces-clickhouse/buy_product.jpg"
+    },
+    {
       "id": "bad09b1729d3",
       "title": "L'IA générative va changer notre façon de coder (unpopular opinion)",
       "description": "Nous sommes en 2026, vous êtes encore développeur, bonjour. Ces 6 derniers mois j'ai vraiment rincé Claude Code. De la ré-écriture complète du site de la billetterie de Devoxx France, à la création d'un moteur de jeux de rôles, en passant aussi par mon travail pour proposer cet outil aux…",
@@ -790,6 +1084,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "4f6ee0ebf440",
+      "title": "Quoi de neuf les devs? #160 - Veille tech et l'interview de DamyR",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de DamyR. On parlera aussi de ✅ Vibe Coding, ✅ JS, ✅ Arduino, ✅ MongoDB, ✅ logiciel libre, etc..",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-160-veille",
+      "pubDate": "2026-01-05T11:42:29.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EYQO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a2aa2e1-6809-4376-aa51-dcca953fb74f_1920x1250.webp"
     },
     {
       "id": "231525a647ef",
@@ -807,6 +1116,34 @@
       "image": null
     },
     {
+      "id": "97292db50791",
+      "title": "Google 1 - Nvidia 0 :  Google revient au centre du jeu IA et Wall Street a déjà compris pourquoi",
+      "description": "Google est redevenu en deux ans un pilier central de la révolution en cours. Non par effet d’annonce, mais par une combinaison rare de cash, d’infra et de contrôle de la chaîne de valeur.",
+      "link": "https://upskiller.substack.com/p/google-1-nvidia-0-google-revient",
+      "pubDate": "2026-01-05T07:10:30.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2jIz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ebcfd50-2197-4a10-bf5e-0e588a4f2e7b_1000x380.png"
+    },
+    {
+      "id": "28af871c3d72",
+      "title": "Lancement de CodeCodeCoders !",
+      "description": "Apprendre, progresser et faire votre veille autrement.",
+      "link": "https://codecodecoders.substack.com/p/lancement-de-codecodecoders",
+      "pubDate": "2026-01-04T17:47:28.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Smwj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8321cf9d-fef1-43ee-a7ff-080e04459738_2375x2372.png"
+    },
+    {
       "id": "3ffc6c366222",
       "title": "Récapitulatif 2025",
       "description": "Je ne suis pas coutumier du traditionnel récapitulatif de l’année écoulée, néanmoins cela ne fait pas de mal de regarder un peu en arrière de temps en temps. Partage de contenu Je m’étais fixé comme objectif de relancer un peu ce blog et de publier de manière plus régulière. J’avais en tête un…",
@@ -818,7 +1155,7 @@
         "Programmation",
         "Web"
       ],
-      "image": "/img/blog/20260104-recapitulatif-2025/forumphp.jpeg"
+      "image": "https://www.jdecool.fr/img/blog/20260104-recapitulatif-2025/forumphp.jpeg"
     },
     {
       "id": "9369d00e351d",
@@ -851,6 +1188,19 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390716-cover.jpg"
     },
     {
+      "id": "f9f86fcd666c",
+      "title": "Six hypothèses sur le monde numérique de 2026",
+      "description": "Pas des prédictions, encore moins des promesses : six scénarios plausibles pour comprendre où glisse lentement la technologie - et ce que cela change pour nos usages quotidiens.",
+      "link": "https://upskiller.substack.com/p/six-hypotheses-sur-le-monde-numerique",
+      "pubDate": "2026-01-01T10:45:24.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yP16!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d803421-6d58-4b1c-bde8-9151a86f919d_2022x1130.png"
+    },
+    {
       "id": "568740fbe10b",
       "title": "À la conquête de Træfik",
       "description": "Découverte et expérimentation d’un reverse proxy",
@@ -862,6 +1212,21 @@
         "Programmation",
         "DevOps",
         "Cybersécurité"
+      ],
+      "image": null
+    },
+    {
+      "id": "f3813d517cf8",
+      "title": "👹 Migrer son blog Jekyll vers Quarkus Roq ⚡️",
+      "description": "Comment et pourquoi migrer son blog Jekyll vers Quarkus Roq",
+      "link": "https://philippart-s.github.io/blog/2026-01-01-jekyll-to-roq/",
+      "pubDate": "2026-01-01T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
       ],
       "image": null
     }

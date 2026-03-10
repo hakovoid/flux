@@ -30,22 +30,30 @@ function getMonthKey(dateStr: string): string {
   return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
 }
 
-function extractImage(item: RSSParser.Item): string | null {
+function resolveUrl(url: string, baseUrl: string): string {
+  try {
+    return new URL(url, baseUrl).href;
+  } catch {
+    return url;
+  }
+}
+
+function extractImage(item: RSSParser.Item, feedLink: string): string | null {
   // Try enclosure
-  if (item.enclosure?.url) return item.enclosure.url;
+  if (item.enclosure?.url) return resolveUrl(item.enclosure.url, feedLink);
 
   // Try media content
   const mediaContent = (item as any)['media:content'];
-  if (mediaContent?.$.url) return mediaContent.$.url;
+  if (mediaContent?.$.url) return resolveUrl(mediaContent.$.url, feedLink);
 
   // Try media thumbnail
   const mediaThumbnail = (item as any)['media:thumbnail'];
-  if (mediaThumbnail?.$.url) return mediaThumbnail.$.url;
+  if (mediaThumbnail?.$.url) return resolveUrl(mediaThumbnail.$.url, feedLink);
 
   // Try to extract first image from content
   const content = item['content:encoded'] || item.content || '';
   const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/);
-  if (imgMatch) return imgMatch[1];
+  if (imgMatch) return resolveUrl(imgMatch[1], feedLink);
 
   return null;
 }
@@ -181,7 +189,7 @@ async function main() {
         source: feedConfig.name,
         sourceUrl: feedConfig.url,
         categories: feedConfig.categories,
-        image: extractImage(item),
+        image: extractImage(item, item.link || feed.link || feedConfig.url),
       };
 
       // Add to the right month

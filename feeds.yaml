@@ -98,3 +98,39 @@ feeds:
   - url: https://vincent.bernat.ch/fr/blog/atom.xml
     name: Vincent Bernat
     categories: [DevOps, Programmation, Cybersécurité]
+
+  - url: https://boris.schapira.dev/feed.xml
+    name: Boris Schapira
+    categories: [Web, Programmation]
+
+  - url: https://standblog.org/blog/feed/atom
+    name: Standblog (Tristan Nitot)
+    categories: [IA, Web]
+
+  - url: https://maisouvaleweb.fr/feed/
+    name: Mais où va le Web
+    categories: [IA, Web]
+
+  - url: https://mcorbin.fr/feed.xml
+    name: mcorbin
+    categories: [DevOps, Cloud, Programmation]
+
+  - url: https://happytodev.substack.com/feed
+    name: Quoi de neuf les devs ?
+    categories: [Programmation, Web, IA]
+
+  - url: https://codecodecoders.substack.com/feed
+    name: CodeCodeCoders
+    categories: [Programmation, Web, IA]
+
+  - url: https://upskiller.substack.com/feed
+    name: Mind Upskiller
+    categories: [IA]
+
+  - url: https://joinmeimei.substack.com/feed
+    name: Les news IA de Meimei
+    categories: [IA]
+
+  - url: https://philippart-s.github.io/blog/rss.xml
+    name: Ourson's Blog (Stéphane Philippart)
+    categories: [Programmation, DevOps, IA]

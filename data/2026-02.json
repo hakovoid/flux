@@ -2,6 +2,20 @@
   "month": "2026-02",
   "articles": [
     {
+      "id": "961283623f63",
+      "title": "En vrac de février 2026",
+      "description": "Des nouvelles de l’IA GPT-5.3-Codex vs Claude Opus 4.6, le duel au sommet de l’IA agentique. La course à la puissance continue : “L’une des avancées majeures de la version 4.6 est l’introduction d’une fenêtre de contexte d’un million de tokens en bêta, contre 200 000 pour Opus 4.5. Cela représente…",
+      "link": "https://standblog.org/blog/post/2026/02/28/En-vrac-de-fevrier-2026",
+      "pubDate": "2026-02-28T18:12:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null
+    },
+    {
       "id": "ec15730913ff",
       "title": "Quand la peur de l’IA annihile la pensée",
       "description": "L'IA fait peur, mais cette peur est entretenu par les mogols de la tech qui s'en servent comme un argument de vente. Pourquoi tombons-nous toujours dans le panneau ? C'est la question que l'on se pose tous ici, à Numerika. L’article Quand la peur de l’IA annihile la pensée est apparu en premier sur…",
@@ -26,6 +40,34 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "c3491870d8f5",
+      "title": "Les 8 nouveautés tech de la semaine #9 à ne pas manquer",
+      "description": "Claude Code merge maintenant vos PRs pendant que vous dormez, Oxfmt humilie Prettier, un outil va changer votre façon de travailler en local et 6 autres actus !",
+      "link": "https://codecodecoders.substack.com/p/les-8-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-02-27T09:02:27.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Oaze!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6475533d-d1a9-45d9-9ffb-77f0d8b8c053_724x480.png"
+    },
+    {
+      "id": "6648a06f828a",
+      "title": "Chamillionaire, ou la revanche silencieuse de la discipline sur le storytelling dans la tech",
+      "description": "Un jour, une histoire : Chamillionnaire, ou comment les artistes deviennent les meilleurs business angels dans la Tech",
+      "link": "https://upskiller.substack.com/p/chamillionaire-ou-la-revanche-silencieuse",
+      "pubDate": "2026-02-27T08:55:20.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Notb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8f70b24-db57-46fb-b3ca-e5bff12d525d_1040x572.png"
     },
     {
       "id": "feeaf00f878d",
@@ -71,6 +113,48 @@
         "Programmation",
         "DevOps",
         "Cloud"
+      ],
+      "image": null
+    },
+    {
+      "id": "6a1dbadfc435",
+      "title": "Productivité et qualité",
+      "description": "Comment concilier l’augmentation de la productivité grâce à des outils comme les LLM avec le maintien d’une qualité élevée ? C’est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique. La délégation, ce serpent de mer Quand on parle de l’état du marché du…",
+      "link": "https://boris.schapira.dev/notes/2026-02-productivite-qualite/\n",
+      "pubDate": "2026-02-26T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null
+    },
+    {
+      "id": "1a7e9681c642",
+      "title": "Un cas où l'IA pourrait aider à réduire l'empreinte du numérique ?",
+      "description": "Quand on m’a dit “Et si on utilisait l’IA pour optimiser une application et réduire son empreinte environnementale ?”, j’avoue que j’ai grincé des dents : a priori, utiliser l’IA (très gourmande) pour optimiser un truc moins gourmand, ça ne me paraissait pas très intelligent. Sauf que l’IA…",
+      "link": "https://standblog.org/blog/post/2026/02/26/IA-pour-reduire-empreinte-du-numerique",
+      "pubDate": "2026-02-26T15:48:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "cd4f834f34e8",
+      "title": "Altman compare bêtement humains et machines",
+      "description": "Sam Altman, patron d’OpenAI, dans une interview, commet une erreur énorme quand il dit “Les gens parlent de l’énergie nécessaire à entraîner un modèle d’IA, mais cela consomme aussi beaucoup d’énergie pour entraîner un humain ! Cela prend genre 20 ans d’une vie et toute la nourriture nécessaire…",
+      "link": "https://standblog.org/blog/post/2026/02/26/Altman-compare-humains-et-machines",
+      "pubDate": "2026-02-26T15:36:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
       ],
       "image": null
     },
@@ -185,6 +269,36 @@
       "image": null
     },
     {
+      "id": "1c263806a0be",
+      "title": "Quoi de neuf les devs? #167 - Veille tech et l'interview de Marmotz",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Marmotz. On parlera aussi de ✅ AVIF, ✅ Code reviews, ✅ Golang, ✅ le format PDF, ✅ histoire du 1er microprocesseur, ...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-167-veille",
+      "pubDate": "2026-02-24T13:42:18.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EEz5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F338804e6-f3e1-4233-b9e2-efe5de215c93_1920x1252.webp"
+    },
+    {
+      "id": "6f78fd24792c",
+      "title": "Votre prochain git push --force écrasera peut-être le travail de quelqu'un (voici comment l'éviter)",
+      "description": "Un flag Git méconnu protège votre équipe des force push accidentels. Mais il a une faille que votre IDE peut exploiter sans que vous le sachiez.",
+      "link": "https://codecodecoders.substack.com/p/votre-prochain-git-push-force-ecrasera",
+      "pubDate": "2026-02-24T09:01:22.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/6668e869-3d97-420d-ade7-44fe1c79f08c_1200x630.webp"
+    },
+    {
       "id": "dd9e28f3e0fc",
       "title": "Diplôme, Titre RNCP, Bachelor, Mastère… quelles différences ?",
       "description": "Vous cherchez votre future école et vous êtes perdu dans toute l'offre de diplômes, titres et certifications en tout genre ?",
@@ -195,6 +309,21 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null
+    },
+    {
+      "id": "353fb233137c",
+      "title": "🔄 Apprendre à son agent à réfléchir avec le pattern ReAct et LangChain4j 🤖",
+      "description": "I’m not a man. I’m something that evolved. @Skynet",
+      "link": "https://philippart-s.github.io/blog/2026-02-22-react-agent/",
+      "pubDate": "2026-02-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
       ],
       "image": null
     },
@@ -246,6 +375,21 @@
       "image": "https://blog.ippon.fr/content/images/2026/02/image7.png"
     },
     {
+      "id": "019d5150276b",
+      "title": "Les 4 nouveautés tech de la semaine #8 à ne pas manquer",
+      "description": "Bad buzz pour OpenAI, un nouveau modèle pour Claude, Ollama qui rend Claude Code encore plus autonome et un client Git qui pourrait vous plaire.",
+      "link": "https://codecodecoders.substack.com/p/les-4-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-02-20T10:51:16.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Jg8L3SbgZ3o"
+    },
+    {
       "id": "8bf0cf8a59a9",
       "title": "Optimiser les perfs et la sécurité d'un site Hugo",
       "description": "Sur les bons conseils du pote Antoine Caron, j’ai pris le temps cette semaine d’optimiser un peu mon site. Ce site que vous êtes en train de lire est un site statique, buildé avec Hugo. J’avais déjà un peu travaillé la compression des différentes ressources, principalement les illustrations, mais…",
@@ -259,6 +403,21 @@
         "Cloud"
       ],
       "image": null
+    },
+    {
+      "id": "81d8a0d4575c",
+      "title": "J’ai automatisé ma discipline de self-review (et je vous offre l’outil gratuitement)",
+      "description": "Ma skill Claude Code complète pour transformer votre self-review en processus impossible à bâcler. Je vous l'offre gratuitement, prête à installer.",
+      "link": "https://codecodecoders.substack.com/p/jai-automatise-ma-discipline-de-self",
+      "pubDate": "2026-02-19T16:02:41.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/1c9eacbf-52b6-4393-97db-ae0447b87d96_1200x630.webp"
     },
     {
       "id": "eddd4a8d8bbc",
@@ -290,6 +449,21 @@
       "image": "https://blog.zwindler.fr/2026/02/webperf0.webp"
     },
     {
+      "id": "903bb36b3283",
+      "title": "Hooks Claude Code : le guide complet pour reprendre le contrôle de votre assistant IA",
+      "description": "Formatage automatique, blocage de commandes dangereuses, commits contextuels : 4 cas d'usage concrets avec du code prêt à l'emploi.",
+      "link": "https://codecodecoders.substack.com/p/hooks-claude-code-le-guide-complet",
+      "pubDate": "2026-02-19T09:10:26.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!vGju!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd14947d4-f0ca-4aa2-b267-e3733c24d36a_1200x630.png"
+    },
+    {
       "id": "6d59d235116c",
       "title": "Du développement à l’orchestration : comment l’IA redéfinit nos métiers",
       "description": "Chez Les-Tilleuls.coop, nous avons toujours à cœur d’explorer les technologies émergentes pour comprendre comment elles peuvent servir nos clients, mais aussi comment elles transforment notre propre quotidien. Récemment, nous nous sommes réunis pour un partage d’usages autour des LLM (Large…",
@@ -303,7 +477,7 @@
         "Cloud",
         "IA"
       ],
-      "image": "/wp-content/uploads/2026/02/7e6c3088-8d5d-4f20-9144-fe5ddc23cd01-1024x683.jpg"
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/02/7e6c3088-8d5d-4f20-9144-fe5ddc23cd01-1024x683.jpg"
     },
     {
       "id": "0371d13d6650",
@@ -337,6 +511,21 @@
       "image": null
     },
     {
+      "id": "465cd293cbe8",
+      "title": "🧑‍💻Les skills Anthropic, l&#39;arme ultime du vibe-coder ? 🤖",
+      "description": "Toujours par deux ils vont, ni plus, ni moins… Le Maître et son Apprenti… © Yoda",
+      "link": "https://philippart-s.github.io/blog/2026-02-18-anthropic-skills/",
+      "pubDate": "2026-02-18T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "9f400246f07c",
       "title": "Boring technology: les bases de données relationnelles",
       "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des…",
@@ -363,6 +552,21 @@
         "Web"
       ],
       "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_02_17_a_11_12_20_6fa0af2297.png"
+    },
+    {
+      "id": "cfae016ab210",
+      "title": "Quoi de neuf les devs? #166 - Veille tech et l'interview de Stella",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Stella. On parlera aussi de ✅ le langage Go, ✅ Rails, ✅ couleurs et contrastes, ✅ sudo, ✅ Japon, ✅ etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-166-veille",
+      "pubDate": "2026-02-16T17:49:25.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!FB1X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F636ea70e-1d2d-4df3-ba85-9669d6eadbdb_2722x1775.png"
     },
     {
       "id": "d0ea2691034b",
@@ -481,6 +685,35 @@
       "image": "https://cdn-images-1.medium.com/max/1024/1*zSAXOFSm9eXMplkxCo0fNA.png"
     },
     {
+      "id": "8a7befe6a320",
+      "title": "Comment l'IA tue le Web",
+      "description": "Si ChatGPT devient le nouveau Google, cela implique que l’IA est en train de tuer le Web. Je m’explique : Le Web, au départ, c’est que des humains écrivent des documents avec des hyperliens entre eux, ces documents comprenant du texte, une mise en page, des images, du son, des vidéos si nécessaire.…",
+      "link": "https://standblog.org/blog/post/2026/02/14/Comment-l-IA-tue-le-Web",
+      "pubDate": "2026-02-14T09:53:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Web_avant_IA.png"
+    },
+    {
+      "id": "ae00d9b020b7",
+      "title": "🎤 Talks donnés à Touraine Tech 🎤",
+      "description": "Liste de talks donnés lors de la conférence Touraine Tech",
+      "link": "https://philippart-s.github.io/blog/tnt-26/",
+      "pubDate": "2026-02-14T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "21aaf30e6706",
       "title": "Ce site est de retour en France",
       "description": "Cela fait plusieurs années que je m’intéresse beaucoup à la souveraineté numérique et la dépendance technologique que l’on peut avoir (principalement concentré sur des acteurs américains). J’en parlais dans un précédent article, mais à ce titre, je souhaite réduire ma dépendance aux GAFAM au profit…",
@@ -493,6 +726,21 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "95ed1320ed9f",
+      "title": "Les 5 nouveautés tech de la semaine #7 à ne pas manquer",
+      "description": "Warp qui lance Oz, Anthropic qui joue (presque) les altruistes, l'IDE Zed qui s'améliore et les quelques autres découvertes de la semaine !",
+      "link": "https://codecodecoders.substack.com/p/les-5-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-02-13T17:14:35.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!kf8P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3a2ff16-31f2-43ba-aac0-712eb2108503_1205x420.png"
     },
     {
       "id": "828244575ca1",
@@ -526,6 +774,19 @@
       "image": "https://blog.ippon.fr/content/images/2026/02/CloudNativeDays.png"
     },
     {
+      "id": "d195481870b0",
+      "title": "Les éditeurs de logiciels ne vendent plus des produits... mais des surfaces de pouvoir",
+      "description": "Le logiciel d’entreprise n’est plus un marché de produits. C’est une guerre pour devenir l’écran que le COMEX ouvre le matin. Si vous bossez dans la Tech, vous devez lire cet article.",
+      "link": "https://upskiller.substack.com/p/les-editeurs-de-logiciels-ne-vendent",
+      "pubDate": "2026-02-13T07:00:46.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHx0ZWNofGVufDB8fHx8MTc2NjU4MDMyNHww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    {
       "id": "baa08262ea12",
       "title": "Touraine Tech 2026 - Récap du jour 1",
       "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
@@ -539,6 +800,21 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/02/tnt26-entree.webp"
+    },
+    {
+      "id": "6a6d9bc370f9",
+      "title": "Le guide définitif : quand utiliser type vs interface en TypeScript",
+      "description": "J’ai épluché toutes les sources récentes sur type vs interface. Voici ce qu’il faut retenir ainsi que la règle que j’applique depuis plusieurs mois.",
+      "link": "https://codecodecoders.substack.com/p/le-guide-definitif-quand-utiliser",
+      "pubDate": "2026-02-12T09:01:39.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lySc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F969eaaac-d4ef-4d10-8d8f-166a5e666c13_1017x556.png"
     },
     {
       "id": "fe74b585a51f",
@@ -599,6 +875,21 @@
       "image": "https://jolicode.com//media/cache/content/2026/automapper-v10/profiler.png"
     },
     {
+      "id": "222f9d5767ef",
+      "title": "🛡️ Des garde-fous pour tes LLM avec LangChain4J 🛡️",
+      "description": "I'm sorry, Dave. I'm afraid I can't do that. © HAL 9000",
+      "link": "https://philippart-s.github.io/blog/2026-02-10-llm-guardrails/",
+      "pubDate": "2026-02-10T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "99a916df4c68",
       "title": "101 façons de déployer Kubernetes : une nouvelle UI pour explorer les 118+ solutions",
       "description": "De Google Sheet à une vraie application web Vous vous souvenez peut-être de mes précédents articles sur ce projet : d’abord un simple Google Sheet avec 93 méthodes, puis un dépôt GitHub avec plus de 100 entrées. Aujourd’hui, je peux présenter la dernière itération de ce projet : une vraie interface…",
@@ -612,6 +903,21 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/02/101-kubernetes-ui-screenshot.webp"
+    },
+    {
+      "id": "78e12a435781",
+      "title": "Quoi de neuf les devs? #165 - Veille tech et l'interview de Korben",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Korben. On parlera aussi de ✅ Claude Opus 4.6, ✅ CSS Bar charts, ✅ hacker, ✅ open source, ✅ sécurité, ✅ etc.",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-164-veille-c7c",
+      "pubDate": "2026-02-09T15:42:17.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!n2rd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81331660-3377-4a4f-b7c3-649059cccaad_1280x834.webp"
     },
     {
       "id": "2c711671671e",
@@ -688,6 +994,21 @@
       "image": "https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/banner.avif"
     },
     {
+      "id": "212a39289a56",
+      "title": "Les 7 nouveautés tech de la semaine à ne pas manquer",
+      "description": "Claude se met à jour et se muscle, GitHub ouvre ses portes aux agents concurrents et Apple met à jour XCode avec l'IA !",
+      "link": "https://codecodecoders.substack.com/p/les-7-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-02-06T17:00:06.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/dPn3GBI8lII"
+    },
+    {
       "id": "ba9d559de34b",
       "title": "Repenser les formulaires Symfony : une approche moderne",
       "description": "MapQue­ryS­tring et MapRequest­Pay­load de Symfony et en s’ai­dant de compo­sants Twig, nous propo­sons une nouvelle manière de faire des formu­laires dans un projet Symfony.",
@@ -730,6 +1051,21 @@
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179391028-cover.jpg"
     },
     {
+      "id": "a146d7a561bd",
+      "title": "De l’intuition à l’argumentation : comment structurer votre pensée technique pour convaincre",
+      "description": "Voici comment transformer votre intuition technique en arguments que personne ne peut balayer d'un revers de main.",
+      "link": "https://codecodecoders.substack.com/p/de-lintuition-a-largumentation-comment",
+      "pubDate": "2026-02-05T09:01:14.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/18d027e8-3422-4532-a9f5-8a98fba49a9f_1200x630.webp"
+    },
+    {
       "id": "618c3abfb039",
       "title": "Cloud Native Days France 2026 : mon retour sur l'événement",
       "description": "De retour de CND France 2026 3 ans après KCD France 2023 (que j’avais brièvement aidé à organiser), c’est le retour de la conf préférée des DevOps, SREs et autre platform engineers de France et de Navarre (enfin, je suis pas sûr pour la Navarre) : j’ai nommé Cloud Native Days France 2026, bien…",
@@ -761,6 +1097,21 @@
       "image": "https://blog.ippon.fr/content/images/2026/02/Design-sans-titre--18-.png"
     },
     {
+      "id": "d0469117cb08",
+      "title": "Quoi de neuf les devs? #164 - Veille tech et l'interview de Bernard",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Bernard, papa du langage ELO. On parlera aussi de ✅ TypeScript, ✅ IA, ✅ Plan9, ✅ Tests, ✅ ELO, ✅ etc...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-164-veille",
+      "pubDate": "2026-02-04T05:42:15.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!9ocx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff806da2b-f368-4f90-8043-82f08c0de439_2731x1778.webp"
+    },
+    {
       "id": "195cfd76b550",
       "title": "Siloter les équipes, c'est effriter la cohésion",
       "description": "J’évoque régulièrement la thématique du silotage des équipes. Aujourd’hui, j’aimerais revenir sur les barrières invisibles que cela crée pour la collaboration et le partage des connaissances. Découper les équipes, les isoler, c’est faire en sorte que ces dernières puissent se concentrer sur leur…",
@@ -775,6 +1126,19 @@
       "image": null
     },
     {
+      "id": "26433ba0423b",
+      "title": "Recrutement en France : pourquoi 90 % des candidats se trompent de combat",
+      "description": "Que vous sortiez d’école ou que vous ayez quinze ans d’expérience, le marché du recrutement vous applique désormais les mêmes règles, sans état d’âme. Explorons comment gérer cela.",
+      "link": "https://upskiller.substack.com/p/recrutement-en-france-pourquoi-90",
+      "pubDate": "2026-02-03T07:32:04.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Nmry!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe94f4ba-add8-49d9-ae86-279fd3d85c3e_922x602.png"
+    },
+    {
       "id": "0747a15bd6f1",
       "title": "OpenClaw (ex ClawdBot) et MoltBook : pour ceux qui ne savent pas",
       "description": "Vous avez peu de temps car votre temps est précieux. Lisez. Et priez. OpenClaw (ex MoltBot, ex ClawdBot) Début novembre 2025, Peter Steinberger lance le projet \"Clawd\" puis \"ClawdBot\". 2 millions de visiteurs et 147k étoiles sur Github en quelques semaines... c'est 2 fois plus que Spring Boot qui a…",
@@ -787,6 +1151,20 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "21084c512d61",
+      "title": "En vrac de janvier 2026",
+      "description": "Le coté sombre de l’IA AI Slop Report: The Global Rise of Low-Quality AI Videos. Les vidéos de mauvaise qualité en forte augmentation sur Youtube ; Le subterfuge de Nvidia pour avaler Groq (à ne pas confondre avec Grok.com, l’IA défaillante de Musk). C’est intéressant car Groq produit des puces…",
+      "link": "https://standblog.org/blog/post/2026/02/01/En-vrac-de-janvier-2026",
+      "pubDate": "2026-02-01T21:12:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=laugh.svg"
     },
     {
       "id": "e1e7e1417181",

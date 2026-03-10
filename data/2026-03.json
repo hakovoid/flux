@@ -2,6 +2,20 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "9e95027c43f4",
+      "title": "Migration d'un conteneur docker entre deux hôtes Linux",
+      "description": "Quand on change d’hôte Docker, on se dit souvent : “je copie, je relance, et c’est réglé”. Sauf qu’un service Docker, ce n’est pas juste une image : il y a aussi des volumes, des variables d&",
+      "link": "https://domopi.eu/migration-dun-conteneur-docker-entre-deux-hotes-linux/",
+      "pubDate": "2026-03-10T06:45:24.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/11/ChatGPT-Image-10-nov.-2025--12_28_22.png"
+    },
+    {
       "id": "9541cc796fe7",
       "title": "KubeSolo sur Raspberry Pi Zero : mon article dans Sysops Pratique",
       "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet…",
@@ -134,6 +148,19 @@
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
     },
     {
+      "id": "046b2afc4ad3",
+      "title": "SaaSpocalypse : l’IA ne détruit pas vos outils, elle détruit votre accès",
+      "description": "L’IA ne remplace pas encore votre métier, mais elle condamne déjà l’entrée des juniors et vaporise les monopoles du logiciel.",
+      "link": "https://upskiller.substack.com/p/saaspocalypse-lia-ne-detruit-pas",
+      "pubDate": "2026-03-06T14:57:39.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yQcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a6bdf11-910b-42a1-b81e-5c08024b9f3c_2012x928.png"
+    },
+    {
       "id": "c4d026cdd406",
       "title": "Hymne à la Vie IA",
       "description": "Tout a commencé par une question simple : c'est quoi la BCE Loss ? Binary Cross-Entropy, une fonction de perte utilisée en classification. La formule est simple en apparence, mais quelque chose de remarquable s'y cache. BCE = −[y · log(p) + (1−y)",
@@ -148,6 +175,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/03/Generated-Image-Mar-06-2026-from-Google-AI-Studio--1-.png"
+    },
+    {
+      "id": "c84409dc4a64",
+      "title": "Les 4 nouveautés tech de la semaine #10 à ne pas manquer",
+      "description": "Perplexity qui sort l’artillerie lourde, un retour haptique dans le navigateur, Obsidian qui passe en ligne de commande et une alternative gratuite à Postman. On en parle !",
+      "link": "https://codecodecoders.substack.com/p/les-4-nouveautes-tech-de-la-semaine-6f5",
+      "pubDate": "2026-03-06T09:02:04.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!PFaZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33dca8d6-19f0-4afb-a60e-c6e03aef87b7_1150x655.png"
     },
     {
       "id": "38beecd11c4e",
@@ -281,6 +323,21 @@
       "image": "https://blog.ippon.fr/content/images/2026/03/finops_by_design_img-1.png"
     },
     {
+      "id": "19efd34e6630",
+      "title": "Quoi de neuf les devs? #168 - Veille tech et l'interview de Camille",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Camille. On parlera aussi de ✅ Open source, ✅ CSS, ✅ WebMCP, ✅ Vinext, ✅ IA, ✅ etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-168-veille",
+      "pubDate": "2026-03-03T18:38:05.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!5gqG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa108f958-190c-47b9-a3aa-5eeb9d61bbca_1920x1253.webp"
+    },
+    {
       "id": "f73e307e0e6b",
       "title": "Anton Korinec : « Beaucoup de PIB ne sera pas produit par des humains, donc aucun travailleur n’en retirera les bénéfices »",
       "description": "Cette tribune critique la position de 3500 chercheurs français réclamant l'interdiction de l'IA générative, jugée rétrograde. Elle oppose cette vision à celle d'Anton Korinec, qui souligne l'importance d'anticiper l'impact de l'IA sur l'économie et l'emploi, tout en appelant à un débat ouvert et…",
@@ -292,6 +349,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "feb57940633f",
+      "title": "React Doctor : posez un diagnostic sur votre codebase résolvez les problèmes",
+      "description": "Une commande pour savoir exactement où votre code React prend de mauvaises habitudes et comment l'intégrer directement dans votre agent de code.",
+      "link": "https://codecodecoders.substack.com/p/react-doctor-posez-un-diagnostic",
+      "pubDate": "2026-03-03T09:07:18.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/15f04a2b-d5a0-49e2-92b8-f64b5b8e3020_1344x896.jpeg"
     },
     {
       "id": "574f65f05006",

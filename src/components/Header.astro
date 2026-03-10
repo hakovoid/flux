@@ -12,9 +12,18 @@ try {
   // No data yet
 }
 
+const buildDate = new Date().toLocaleDateString('fr-FR', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit',
+});
+
 const navItems = [
   { label: 'Articles', href: '/' },
   { label: 'Sources', href: '/sources' },
+  { label: 'À propos', href: '/a-propos' },
 ];
 ---
 
@@ -47,6 +56,8 @@ const navItems = [
           </span>
           <span>·</span>
           <span>{sourceCount} sources</span>
+          <span>·</span>
+          <span title="Dernière actualisation">MàJ {buildDate}</span>
         </div>
       </nav>
     </div>
