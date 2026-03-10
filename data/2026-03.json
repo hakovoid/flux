@@ -2,6 +2,34 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "d88fee335c39",
+      "title": "Le développeur dans 5 ans : voici les 10 compétences qui résisteront à l’IA",
+      "description": "Le WEF a publié son diagnostic sur les métiers tech d'ici 2030 et McKinsey a compté les compétences qui résistent à l'automatisation : voici un plan d'action que vous pouvez commencer cette semaine.",
+      "link": "https://codecodecoders.substack.com/p/le-developpeur-dans-5-ans-voici-les",
+      "pubDate": "2026-03-10T09:02:04.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!J-OS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e678723-6319-4b8d-81bc-2937581f2232_1024x608.png"
+    },
+    {
+      "id": "cb575970dcd0",
+      "title": "Communication : création facile de contenus à haute valeur ajoutée grâce à l’IA et à l’expertise de vos collaborateurs",
+      "description": "De nombreuses entreprises ont du mal à communiquer sur leurs activités en ligne, malgré la richesse d'informations que possèdent leurs collaborateurs. Pour optimiser cette communication, l'utilisation d'interviews régulières et d'outils d'IA, comme NotebookLM, facilite la création de contenu…",
+      "link": "https://oliviersauvage.com/2026/03/10/communication-creation-facile-de-contenus-a-haute-valeur-ajoutee-grace-a-lia-et-a-lexpertise-de-vos-collaborateurs/",
+      "pubDate": "2026-03-10T08:58:09.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null
+    },
+    {
       "id": "9e95027c43f4",
       "title": "Migration d'un conteneur docker entre deux hôtes Linux",
       "description": "Quand on change d’hôte Docker, on se dit souvent : “je copie, je relance, et c’est réglé”. Sauf qu’un service Docker, ce n’est pas juste une image : il y a aussi des volumes, des variables d&",

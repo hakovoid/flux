@@ -138,3 +138,7 @@ feeds:
   - url: https://blog.zenika.com/feed/
     name: Zenika
     categories: [Programmation, Web, IA, DevOps]
+
+  - url: https://lostinbrittany.dev/fr/feed.xml
+    name: Lost in Brittany (Horacio Gonzalez)
+    categories: [Programmation, Web, Cloud, IA]

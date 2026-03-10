@@ -92,6 +92,22 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "81552ce9d316",
+      "title": "Le futur tient dans votre poche : faire tourner un modèle de raisonnement sur mon téléphone",
+      "description": "Je viens de vivre un de ces rares moments où l'on entrevoit le futur. Pas comme un concept, mais fonctionnant là, dans ma main, générant des tokens à un rythme confortable sur un téléphone Android de milieu de gamme. Le modèle ? LFM 2.5 700M Thinking. Moins d'un gigaoctet de RAM. Des dizaines de…",
+      "link": "https://lostinbrittany.dev/fr/le-futur-tient-dans-votre-poche/",
+      "pubDate": "2026-01-29T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-01-29-the-future-fits-in-your-pocket-00.png"
+    },
+    {
       "id": "6fce22a754c9",
       "title": "Git : les vérités que personne ne vous dit",
       "description": "Découvrez les techniques Git avancées : rebase interactif, reflog, worktree, bisect pour transformer votre workflow de développement.",

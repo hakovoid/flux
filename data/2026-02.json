@@ -299,6 +299,22 @@
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/6668e869-3d97-420d-ade7-44fe1c79f08c_1200x630.webp"
     },
     {
+      "id": "f3483199ae66",
+      "title": "Pourquoi j'apprends Rust en 2026",
+      "description": "J'avais appris juste assez de Rust il y a quelques années pour hocher la tête dans les conversations, lire un peu de code, ressentir une vague culpabilité, et passer à autre chose. Je ne l'avais jamais vraiment utilisé. Et maintenant, en 2026, j'y reviens volontairement. Ce qui semble un peu…",
+      "link": "https://lostinbrittany.dev/fr/pourquoi-japprends-rust-en-2026/",
+      "pubDate": "2026-02-24T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-02-24-why-im-learning-rust-in-2026.png"
+    },
+    {
       "id": "dd9e28f3e0fc",
       "title": "Diplôme, Titre RNCP, Bachelor, Mastère… quelles différences ?",
       "description": "Vous cherchez votre future école et vous êtes perdu dans toute l'offre de diplômes, titres et certifications en tout genre ?",
