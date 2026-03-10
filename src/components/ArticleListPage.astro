@@ -1,0 +1,446 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import SearchBar from './SearchBar.astro';
+import CategoryFilter from './CategoryFilter.astro';
+import type { Article } from '../types/index';
+
+interface Props {
+  articles: Article[];
+  categories: string[];
+  sources: { name: string; url: string; categories: string[]; count: number }[];
+  currentPage: number;
+  totalPages: number;
+}
+
+const { articles, categories, sources, currentPage, totalPages } = Astro.props;
+
+function pageUrl(page: number): string {
+  return page === 1 ? '/' : `/page/${page}`;
+}
+
+const pages: (number | string)[] = [];
+for (let i = 1; i <= totalPages; i++) {
+  if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+    pages.push(i);
+  } else if (pages[pages.length - 1] !== '...') {
+    pages.push('...');
+  }
+}
+---
+
+<div class="flex flex-col gap-6">
+  <!-- Search + Filters -->
+  <div class="flex flex-col gap-3 sm:gap-5 p-3 sm:p-5 rounded-2xl bg-[var(--color-surface-1)]/50 border border-zinc-800/50 backdrop-blur-sm">
+    <div class="flex items-center gap-2">
+      <div class="flex-1">
+        <SearchBar />
+      </div>
+      <button
+        id="toggle-filters"
+        aria-label="Afficher les filtres"
+        aria-expanded="false"
+        class="sm:hidden flex items-center justify-center w-11 h-11 rounded-2xl border border-zinc-800 bg-[var(--color-surface-1)] text-zinc-400 hover:text-white hover:border-zinc-600 transition-all cursor-pointer shrink-0"
+      >
+        <svg id="filter-icon-closed" class="w-[18px] h-[18px]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75" />
+        </svg>
+        <svg id="filter-icon-open" class="w-[18px] h-[18px] hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+      </button>
+    </div>
+    <div id="filters-panel" class="hidden sm:block overflow-hidden transition-all duration-300">
+      <CategoryFilter categories={categories} sources={sources} />
+    </div>
+  </div>
+
+  <script is:inline>
+    (function() {
+      var btn = document.getElementById('toggle-filters');
+      var panel = document.getElementById('filters-panel');
+      var iconClosed = document.getElementById('filter-icon-closed');
+      var iconOpen = document.getElementById('filter-icon-open');
+      if (btn && panel) {
+        btn.onclick = function() {
+          var isOpen = !panel.classList.contains('hidden');
+          if (isOpen) {
+            panel.classList.add('hidden');
+            if (iconClosed) iconClosed.classList.remove('hidden');
+            if (iconOpen) iconOpen.classList.add('hidden');
+            btn.setAttribute('aria-expanded', 'false');
+          } else {
+            panel.classList.remove('hidden');
+            if (iconClosed) iconClosed.classList.add('hidden');
+            if (iconOpen) iconOpen.classList.remove('hidden');
+            btn.setAttribute('aria-expanded', 'true');
+          }
+        };
+      }
+    })();
+  </script>
+
+  <!-- Results count (search/filter mode) -->
+  <div id="results-count" class="hidden text-xs text-zinc-500"></div>
+
+  <!-- Browse mode: static articles -->
+  <div id="browse-mode">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {articles.map((article) => (
+        <ArticleCard article={article} />
+      ))}
+    </div>
+
+    {articles.length === 0 && (
+      <div class="text-center py-20 text-zinc-500">
+        <svg class="w-12 h-12 mx-auto mb-4 text-zinc-700" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 7.5h1.5m-1.5 3h1.5m-7.5 3h7.5m-7.5 3h7.5m3-9h3.375c.621 0 1.125.504 1.125 1.125V18a2.25 2.25 0 01-2.25 2.25M16.5 7.5V18a2.25 2.25 0 002.25 2.25M16.5 7.5V4.875c0-.621-.504-1.125-1.125-1.125H4.125C3.504 3.75 3 4.254 3 4.875V18a2.25 2.25 0 002.25 2.25h13.5M6 7.5h3v3H6v-3z" />
+        </svg>
+        <p class="text-lg font-medium">Aucun article pour le moment</p>
+        <p class="text-sm mt-1">Les articles apparaîtront après la première synchronisation RSS.</p>
+      </div>
+    )}
+
+    {totalPages > 1 && (
+      <nav aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8">
+        {currentPage > 1 && (
+          <a href={pageUrl(currentPage - 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page précédente">←</a>
+        )}
+        {pages.map((p) => (
+          p === '...' ? (
+            <span class="px-2 py-2 text-sm text-zinc-600">…</span>
+          ) : p === currentPage ? (
+            <span class="px-3 py-2 text-sm rounded-lg bg-indigo-500/20 border border-indigo-500/50 text-indigo-400 font-medium" aria-current="page">{p}</span>
+          ) : (
+            <a href={pageUrl(p as number)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all">{p}</a>
+          )
+        ))}
+        {currentPage < totalPages && (
+          <a href={pageUrl(currentPage + 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page suivante">→</a>
+        )}
+      </nav>
+    )}
+  </div>
+
+  <!-- Search/filter mode (hidden by default) -->
+  <div id="search-mode" class="hidden">
+    <div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    <nav id="search-pagination" aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8"></nav>
+  </div>
+
+  <!-- No results -->
+  <div id="no-results" class="hidden text-center py-20 text-zinc-500">
+    <p class="text-lg font-medium">Aucun résultat</p>
+    <p class="text-sm mt-1">Essayez avec d'autres termes de recherche.</p>
+  </div>
+</div>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  const PAGE_SIZE = 15;
+
+  interface SearchArticle {
+    id: string;
+    title: string;
+    description: string;
+    source: string;
+    sourceUrl: string;
+    categories: string[];
+    pubDate: string;
+    image: string;
+    link: string;
+  }
+
+  let searchIndex: SearchArticle[] | null = null;
+  let fuse: Fuse<SearchArticle> | null = null;
+
+  async function loadSearchIndex(): Promise<SearchArticle[]> {
+    if (searchIndex) return searchIndex;
+    const res = await fetch('/search-index.json');
+    searchIndex = await res.json();
+    return searchIndex!;
+  }
+
+  const categoryColors: Record<string, string> = {
+    Programmation: 'bg-violet-500/20 text-violet-400 border-violet-500/30',
+    IA: 'bg-emerald-500/20 text-emerald-400 border-emerald-500/30',
+    DevOps: 'bg-orange-500/20 text-orange-400 border-orange-500/30',
+    'Cybersécurité': 'bg-red-500/20 text-red-400 border-red-500/30',
+    Cloud: 'bg-sky-500/20 text-sky-400 border-sky-500/30',
+    Web: 'bg-amber-500/20 text-amber-400 border-amber-500/30',
+  };
+
+  const categoryGradients: Record<string, string> = {
+    Programmation: 'from-violet-600 to-purple-800',
+    IA: 'from-emerald-600 to-teal-800',
+    DevOps: 'from-orange-600 to-red-800',
+    'Cybersécurité': 'from-red-600 to-rose-800',
+    Cloud: 'from-sky-600 to-blue-800',
+    Web: 'from-amber-600 to-yellow-800',
+  };
+
+  function getCatColor(cat: string): string {
+    return categoryColors[cat] || 'bg-zinc-500/20 text-zinc-400 border-zinc-500/30';
+  }
+
+  function getCatGradient(cats: string[]): string {
+    for (const cat of cats) {
+      if (categoryGradients[cat]) return categoryGradients[cat];
+    }
+    return 'from-zinc-600 to-zinc-800';
+  }
+
+  function formatDate(dateStr: string): string {
+    return new Date(dateStr).toLocaleDateString('fr-FR', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+    });
+  }
+
+  function getFreshnessBadge(pubDate: string): { label: string; cls: string } | null {
+    const hoursAgo = (Date.now() - new Date(pubDate).getTime()) / (1000 * 60 * 60);
+    if (hoursAgo < 24) return { label: 'Nouveau', cls: 'bg-emerald-500 text-white border border-emerald-400 shadow-lg shadow-emerald-500/30' };
+    if (hoursAgo < 72) return { label: 'Récent', cls: 'bg-blue-500 text-white border border-blue-400 shadow-lg shadow-blue-500/30' };
+    return null;
+  }
+
+  function escapeHtml(str: string): string {
+    return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function renderCard(a: SearchArticle): string {
+    const badge = getFreshnessBadge(a.pubDate);
+    const gradient = getCatGradient(a.categories);
+
+    const catsHtml = a.categories
+      .map((c) => `<span class="px-2 py-0.5 text-xs font-medium rounded-full border ${getCatColor(c)}">${escapeHtml(c)}</span>`)
+      .join('');
+
+    const imageHtml = a.image
+      ? `<img src="${escapeHtml(a.image)}" alt="${escapeHtml(a.title)}" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+         <div class="w-full h-full bg-gradient-to-br ${gradient} items-center justify-center p-5 hidden"><span class="text-sm font-medium text-white/50 line-clamp-3 text-center leading-relaxed">${escapeHtml(a.title)}</span></div>`
+      : `<div class="w-full h-full bg-gradient-to-br ${gradient} flex items-center justify-center p-5"><span class="text-sm font-medium text-white/50 line-clamp-3 text-center leading-relaxed">${escapeHtml(a.title)}</span></div>`;
+
+    const badgeHtml = badge
+      ? `<span class="absolute top-3 left-3 px-2 py-0.5 text-xs font-medium rounded-full ${badge.cls}">${badge.label}</span>`
+      : '';
+
+    return `<article class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex flex-col">
+      <a href="/article/${escapeHtml(a.id)}" class="block relative aspect-[16/9] overflow-hidden">
+        ${imageHtml}
+        ${badgeHtml}
+      </a>
+      <div class="p-4 flex flex-col gap-3 flex-1">
+        <div class="flex flex-wrap gap-1.5">${catsHtml}</div>
+        <h3 class="font-semibold text-sm leading-snug line-clamp-2">
+          <a href="/article/${escapeHtml(a.id)}" class="hover:text-indigo-400 transition-colors">${escapeHtml(a.title)}</a>
+        </h3>
+        <p class="text-xs text-zinc-400 line-clamp-3 leading-relaxed">${escapeHtml(a.description)}</p>
+        <div class="flex items-center justify-between text-xs text-zinc-500 pt-1">
+          <time datetime="${escapeHtml(a.pubDate)}">${formatDate(a.pubDate)}</time>
+        </div>
+        <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer"
+           class="flex items-center justify-between gap-3 mt-auto px-3.5 py-2.5 rounded-xl bg-indigo-500/10 border border-indigo-500/20 hover:bg-indigo-500/20 hover:border-indigo-500/40 transition-all duration-200 group/cta">
+          <div class="flex items-center gap-2 min-w-0">
+            <div class="w-6 h-6 rounded-lg bg-indigo-500/20 flex items-center justify-center shrink-0">
+              <svg class="w-3 h-3 text-indigo-400" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
+            </div>
+            <span class="text-xs font-medium text-indigo-300 truncate">${escapeHtml(a.source)}</span>
+          </div>
+          <div class="flex items-center gap-1 text-xs text-indigo-400 shrink-0">
+            <span class="hidden sm:inline">Lire</span>
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+            </svg>
+          </div>
+        </a>
+      </div>
+    </article>`;
+  }
+
+  document.addEventListener('astro:page-load', () => {
+    const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+    const browseMode = document.getElementById('browse-mode');
+    const searchModeEl = document.getElementById('search-mode');
+    const searchResults = document.getElementById('search-results');
+    const searchPagination = document.getElementById('search-pagination');
+    const resultsCount = document.getElementById('results-count');
+    const noResults = document.getElementById('no-results');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const sourceSelect = document.getElementById('source-select') as HTMLSelectElement | null;
+
+    let activeCategory = 'all';
+    let activeSource = 'all';
+    let searchQuery = '';
+    let currentSearchPage = 1;
+
+    function isFilterActive(): boolean {
+      return searchQuery.length >= 2 || activeCategory !== 'all' || activeSource !== 'all';
+    }
+
+    async function updateView() {
+      if (!isFilterActive()) {
+        browseMode?.classList.remove('hidden');
+        searchModeEl?.classList.add('hidden');
+        noResults?.classList.add('hidden');
+        resultsCount?.classList.add('hidden');
+        return;
+      }
+
+      const index = await loadSearchIndex();
+      if (!fuse) {
+        fuse = new Fuse(index, {
+          keys: ['title', 'description', 'source', 'categories'],
+          threshold: 0.3,
+          ignoreLocation: true,
+        });
+      }
+
+      let results: SearchArticle[] = [...index];
+      if (searchQuery.length >= 2) {
+        results = fuse.search(searchQuery).map((r) => r.item);
+      }
+      if (activeCategory !== 'all') {
+        results = results.filter((a) => a.categories.includes(activeCategory));
+      }
+      if (activeSource !== 'all') {
+        results = results.filter((a) => a.source === activeSource);
+      }
+
+      browseMode?.classList.add('hidden');
+
+      if (results.length === 0) {
+        searchModeEl?.classList.add('hidden');
+        noResults?.classList.remove('hidden');
+        resultsCount?.classList.add('hidden');
+        return;
+      }
+
+      noResults?.classList.add('hidden');
+      searchModeEl?.classList.remove('hidden');
+      resultsCount?.classList.remove('hidden');
+
+      const totalPages = Math.ceil(results.length / PAGE_SIZE);
+      if (currentSearchPage > totalPages) currentSearchPage = totalPages;
+      const start = (currentSearchPage - 1) * PAGE_SIZE;
+      const pageResults = results.slice(start, start + PAGE_SIZE);
+
+      if (resultsCount) {
+        resultsCount.textContent = `${results.length} article${results.length > 1 ? 's' : ''} trouvé${results.length > 1 ? 's' : ''}`;
+      }
+
+      if (searchResults) {
+        searchResults.innerHTML = pageResults.map((a) => renderCard(a)).join('');
+      }
+
+      renderSearchPagination(totalPages);
+    }
+
+    function renderSearchPagination(totalPages: number) {
+      if (!searchPagination) return;
+      if (totalPages <= 1) {
+        searchPagination.innerHTML = '';
+        return;
+      }
+
+      const pgs: (number | string)[] = [];
+      for (let i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || (i >= currentSearchPage - 1 && i <= currentSearchPage + 1)) {
+          pgs.push(i);
+        } else if (pgs[pgs.length - 1] !== '...') {
+          pgs.push('...');
+        }
+      }
+
+      let html = '';
+      if (currentSearchPage > 1) {
+        html += `<button data-page="${currentSearchPage - 1}" class="search-page-btn px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all cursor-pointer" aria-label="Page précédente">←</button>`;
+      }
+      for (const p of pgs) {
+        if (p === '...') {
+          html += `<span class="px-2 py-2 text-sm text-zinc-600">…</span>`;
+        } else if (p === currentSearchPage) {
+          html += `<span class="px-3 py-2 text-sm rounded-lg bg-indigo-500/20 border border-indigo-500/50 text-indigo-400 font-medium" aria-current="page">${p}</span>`;
+        } else {
+          html += `<button data-page="${p}" class="search-page-btn px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all cursor-pointer">${p}</button>`;
+        }
+      }
+      if (currentSearchPage < totalPages) {
+        html += `<button data-page="${currentSearchPage + 1}" class="search-page-btn px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all cursor-pointer" aria-label="Page suivante">→</button>`;
+      }
+
+      searchPagination.innerHTML = html;
+      searchPagination.querySelectorAll('.search-page-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          currentSearchPage = parseInt((btn as HTMLElement).dataset.page || '1');
+          updateView();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      });
+    }
+
+    // Search input with debounce
+    let debounceTimer: ReturnType<typeof setTimeout>;
+    searchInput?.addEventListener('input', (e) => {
+      searchQuery = (e.target as HTMLInputElement).value;
+      currentSearchPage = 1;
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => updateView(), 200);
+    });
+
+    // Keyboard shortcut
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== searchInput) {
+        e.preventDefault();
+        searchInput?.focus();
+      }
+    });
+
+    // Category filter
+    const activeClasses = ['bg-indigo-500/15', 'text-indigo-300', 'border-indigo-500/40', 'shadow-[0_0_12px_-3px]', 'shadow-indigo-500/20'];
+    const inactiveClasses = ['bg-zinc-800/50', 'text-zinc-400', 'border-zinc-700/50'];
+
+    filterBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        activeCategory = (btn as HTMLElement).dataset.category || 'all';
+        filterBtns.forEach((b) => {
+          b.classList.remove('active', ...activeClasses);
+          b.classList.add(...inactiveClasses);
+        });
+        btn.classList.add('active', ...activeClasses);
+        btn.classList.remove(...inactiveClasses);
+        currentSearchPage = 1;
+        updateView();
+      });
+    });
+
+    // Source filter
+    sourceSelect?.addEventListener('change', () => {
+      activeSource = sourceSelect.value;
+      currentSearchPage = 1;
+      updateView();
+    });
+
+    // Mark new articles (localStorage) - static cards only
+    const LAST_VISIT_KEY = 'flux-last-visit';
+    const lastVisit = localStorage.getItem(LAST_VISIT_KEY);
+    if (lastVisit && browseMode) {
+      const cards = Array.from(browseMode.querySelectorAll('article'));
+      cards.forEach((card) => {
+        const id = card.getAttribute('data-article-id');
+        if (id && !localStorage.getItem(`flux-read-${id}`)) {
+          const titleEl = card.querySelector('h3');
+          if (titleEl) {
+            const dot = document.createElement('span');
+            dot.className = 'w-2 h-2 rounded-full bg-indigo-500 inline-block ml-1.5 flex-shrink-0';
+            dot.title = 'Non lu';
+            titleEl.classList.add('flex', 'items-start');
+            titleEl.appendChild(dot);
+          }
+        }
+      });
+    }
+    localStorage.setItem(LAST_VISIT_KEY, new Date().toISOString());
+  });
+</script>

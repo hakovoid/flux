@@ -1,0 +1,36 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleListPage from '../../components/ArticleListPage.astro';
+import { loadAllArticles, getAllCategories, getAllSources } from '../../utils/articles';
+
+export function getStaticPaths() {
+  const PAGE_SIZE = 15;
+  const allArticles = loadAllArticles();
+  const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
+  const categories = getAllCategories(allArticles);
+  const sources = getAllSources(allArticles);
+
+  return Array.from({ length: Math.max(0, totalPages - 1) }, (_, i) => ({
+    params: { page: String(i + 2) },
+    props: {
+      articles: allArticles.slice((i + 1) * PAGE_SIZE, (i + 2) * PAGE_SIZE),
+      currentPage: i + 2,
+      totalPages,
+      categories,
+      sources,
+    },
+  }));
+}
+
+const { articles, currentPage, totalPages, categories, sources } = Astro.props;
+---
+
+<Layout title={`Veille technologique - Page ${currentPage}`} image="https://flux.yoandev.co/og.webp">
+  <ArticleListPage
+    articles={articles}
+    categories={categories}
+    sources={sources}
+    currentPage={currentPage}
+    totalPages={totalPages}
+  />
+</Layout>
