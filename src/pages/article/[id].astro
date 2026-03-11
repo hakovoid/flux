@@ -97,10 +97,15 @@ const badge = getFreshnessBadge(article.pubDate);
             <span class="text-xs text-zinc-500 ml-auto">{article.duration}</span>
           )}
         </div>
-        <audio controls preload="none" class="w-full h-10 [&::-webkit-media-controls-panel]:bg-zinc-800">
+        <audio controls preload="none" class="w-full h-10 [&::-webkit-media-controls-panel]:bg-zinc-800" data-fallback-link={article.link}>
           <source src={article.audioUrl} type="audio/mpeg" />
-          Votre navigateur ne supporte pas la lecture audio.
         </audio>
+        <a href={article.link} target="_blank" rel="noopener noreferrer" class="audio-fallback hidden items-center gap-1.5 mt-3 text-sm text-fuchsia-400 hover:text-fuchsia-300 transition-colors">
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
+          </svg>
+          Ecouter sur le site original
+        </a>
       </div>
     )}
 
@@ -132,12 +137,30 @@ const badge = getFreshnessBadge(article.pubDate);
 </Layout>
 
 <script>
-  // Mark as read
   document.addEventListener('astro:page-load', () => {
+    // Mark as read
     const path = window.location.pathname;
     const id = path.split('/').filter(Boolean).pop();
     if (id) {
       localStorage.setItem(`flux-read-${id}`, 'true');
+    }
+
+    // Audio player fallback: show link if audio fails to load
+    const audio = document.querySelector('audio[data-fallback-link]') as HTMLAudioElement | null;
+    if (audio) {
+      const fallback = audio.parentElement?.querySelector('.audio-fallback') as HTMLElement | null;
+      audio.addEventListener('error', () => {
+        audio.style.display = 'none';
+        if (fallback) fallback.classList.remove('hidden');
+        if (fallback) fallback.classList.add('flex');
+      });
+      // Also handle source-level errors
+      const source = audio.querySelector('source');
+      source?.addEventListener('error', () => {
+        audio.style.display = 'none';
+        if (fallback) fallback.classList.remove('hidden');
+        if (fallback) fallback.classList.add('flex');
+      });
     }
   });
 </script>

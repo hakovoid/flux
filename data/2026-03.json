@@ -14,7 +14,7 @@
         "IA",
         "Web"
       ],
-      "image": "https://audio.audiomeans.fr/file/ayaVFqnsuO/0dcec652-3b1c-4fe5-925e-89449ef5ce98.mp3?_=1773147670",
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/0dcec652-3b1c-4fe5-925e-89449ef5ce98.mp3?_=1773147670",
       "duration": "47:40"
@@ -145,7 +145,7 @@
         "Programmation",
         "Web"
       ],
-      "image": "https://anchor.fm/s/f961679c/podcast/play/116655384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F9b42758a-48de-a973-07e3-734adaefe515.mp3",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/116655384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F9b42758a-48de-a973-07e3-734adaefe515.mp3",
       "duration": "00:10:35"
@@ -247,7 +247,7 @@
       "categories": [
         "Programmation"
       ],
-      "image": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/abl8NhK8LZjb.mp3?t=1772988523",
+      "image": "https://image.ausha.co/6G4wTm0vejreEcbBCHzertGYvc9UujXFsTkXKlHB_1400x1400.jpeg?t=1772988541",
       "type": "podcast",
       "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/abl8NhK8LZjb.mp3?t=1772988523",
       "duration": "13:09"
@@ -567,7 +567,7 @@
         "Programmation",
         "Web"
       ],
-      "image": "https://anchor.fm/s/f961679c/podcast/play/116280613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F2cbbc5cf-b384-16e1-22bb-b8cd0610d003.mp3",
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/116280613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F2cbbc5cf-b384-16e1-22bb-b8cd0610d003.mp3",
       "duration": "00:10:24"
@@ -611,7 +611,7 @@
         "Programmation",
         "Web"
       ],
-      "image": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1772388449/ART_128_cbbk9z.png",
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
       "duration": "2884"

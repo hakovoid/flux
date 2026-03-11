@@ -44,9 +44,13 @@ function resolveUrl(url: string, baseUrl: string): string {
   }
 }
 
-function extractImage(item: RSSParser.Item, feedLink: string): string | null {
-  // Try enclosure
-  if (item.enclosure?.url) return resolveUrl(item.enclosure.url, feedLink);
+function extractImage(item: RSSParser.Item, feedLink: string, isPodcast = false): string | null {
+  // For podcasts, use itunes:image (per-episode or feed-level)
+  const itunesImage = (item as any).itunes?.image;
+  if (itunesImage) return resolveUrl(itunesImage, feedLink);
+
+  // Try enclosure only for non-podcasts (podcast enclosures are audio files)
+  if (!isPodcast && item.enclosure?.url) return resolveUrl(item.enclosure.url, feedLink);
 
   // Try media content
   const mediaContent = (item as any)['media:content'];
@@ -199,7 +203,8 @@ async function main() {
         source: feedConfig.name,
         sourceUrl: feedConfig.url,
         categories: feedConfig.categories,
-        image: extractImage(item, item.link || feed.link || feedConfig.url),
+        image: extractImage(item, item.link || feed.link || feedConfig.url, feedType === 'podcast')
+          || (feedType === 'podcast' && (feed as any).itunes?.image ? (feed as any).itunes.image : null),
         type: feedType,
         ...(feedType === 'podcast' && item.enclosure?.url ? { audioUrl: item.enclosure.url } : {}),
         ...(feedType === 'podcast' && (item as any).itunes?.duration ? { duration: (item as any).itunes.duration } : {}),
