@@ -173,6 +173,10 @@ feeds:
     type: podcast
     categories: [Programmation, IA]
 
+  - url: https://www.microlinux.fr/feed_rss_created.xml
+    name: Microlinux (Nicolas Kovacs)
+    categories: [DevOps, Cloud]
+
   - url: https://www.camilleroux.com/feed/
     name: Camille Roux
     categories: [Programmation, Web]
