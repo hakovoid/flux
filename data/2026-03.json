@@ -2,6 +2,37 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "82debc6e10ee",
+      "title": "Model Context Protocol (MCP) : Comprendre le standard et retour d’expérience pour exposer un CLI Rust dans votre IDE",
+      "description": "Découvrez le Model Context Protocol (MCP) et comment exposer un CLI Rust dans un IDE pour rendre vos outils pilotables par des agents IA.",
+      "link": "https://blog.ippon.fr/2026/03/11/model-context-protocol-mcp-cli-rust-ide/",
+      "pubDate": "2026-03-11T08:00:50.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/mcp-cli-rust-ide-schema-architecture.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8719a693dd0",
+      "title": "Stratégies gagnantes d’engagement sur les réseaux sociaux en 2026",
+      "description": "Une étude révèle les secrets de l'engagement sur les réseaux sociaux en 2026. L'interaction humaine est au cœur du succès. Découvrez l'importance des réponses aux commentaires, l'adaptation à chaque plateforme et la nécessité d'une publication constante. Optimisez votre stratégie pour un impact…",
+      "link": "https://oliviersauvage.com/2026/03/11/strategies-gagnantes-dengagement-sur-les-reseaux-sociaux-en-2026/",
+      "pubDate": "2026-03-11T07:01:04.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "900253b54f06",
       "title": "#182.diff - Recrutement et tests techniques: Réussir un test technique avec Hugo Venturini",
       "description": "Il y a 3 ans, dans l'épisode #182 je recevais Hugo Venturini. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
@@ -33,6 +64,21 @@
         "DevOps"
       ],
       "image": null
+    },
+    {
+      "id": "55025ff4fe1e",
+      "title": "Parent pénible",
+      "description": "Réunion parents-profs. Je suis prêt, j’ai bien réservé tous mes créneaux de 5 minutes sur l’application, et j’ai noté les questions que je veux poser. C’est l’heure de mon passage devant le professeur de français. Je m’assois, me présente. Il écrit notre nom de famille sur son petit cahier, avec…",
+      "link": "https://boris.schapira.dev/notes/2026-03-parent-penible/\n",
+      "pubDate": "2026-03-10T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "0302f8f8c7c8",
