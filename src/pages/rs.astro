@@ -284,23 +284,26 @@ const siteUrl = 'https://flux.yoandev.co';
 
     articlesList.innerHTML = visibleArticles.map((article) => {
       const hasCached = !!cache[article.id];
+      const isArticlePosted = !!posted[article.id];
+      const postedDate = isArticlePosted ? new Date(posted[article.id]).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' }) : '';
       return `
-        <label class="rs-article-row group" data-id="${article.id}">
+        <label class="rs-article-row group ${isArticlePosted ? 'rs-article-posted' : ''}" data-id="${article.id}">
           <div class="rs-checkbox-wrap">
             <input type="checkbox" name="article" value="${article.id}" class="peer sr-only" />
             <div class="rs-checkbox">
               <svg class="w-3 h-3 text-white opacity-0 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="3"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
             </div>
           </div>
+          ${isArticlePosted ? '<div class="rs-posted-bar"></div>' : ''}
           <div class="min-w-0 flex-1">
-            <p class="text-[13px] text-zinc-300 font-medium leading-snug group-hover:text-white transition-colors line-clamp-2">${escapeHtml(article.title)}</p>
+            <p class="text-[13px] ${isArticlePosted ? 'text-zinc-500' : 'text-zinc-300'} font-medium leading-snug group-hover:text-white transition-colors line-clamp-2">${escapeHtml(article.title)}</p>
             <div class="flex items-center gap-1.5 mt-1">
               ${article.type === 'podcast' ? '<span class="rs-tag-podcast">Podcast</span>' : ''}
               <span class="text-[11px] text-zinc-600">${escapeHtml(article.source)}</span>
               <span class="text-zinc-800">&middot;</span>
               <span class="text-[11px] text-zinc-700">${formatDateLocal(article.pubDate)}</span>
               ${hasCached ? '<span class="rs-tag-cached">cache</span>' : ''}
-              ${posted[article.id] ? '<span class="rs-tag-posted">poste</span>' : ''}
+              ${isArticlePosted ? `<span class="rs-tag-posted"><svg class="w-2.5 h-2.5 inline -mt-px mr-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>${postedDate}</span>` : ''}
             </div>
           </div>
         </label>`;
@@ -818,6 +821,16 @@ Reponds UNIQUEMENT avec le texte du tweet, rien d'autre.`;
   }
   .rs-article-row:hover { background: rgba(39, 39, 42, 0.15); }
   .rs-article-selected { background: rgba(99, 102, 241, 0.04); }
+  .rs-article-posted { opacity: 0.55; }
+  .rs-article-posted:hover { opacity: 0.85; }
+
+  .rs-posted-bar {
+    width: 2px;
+    align-self: stretch;
+    border-radius: 1px;
+    background: #34d399;
+    flex-shrink: 0;
+  }
 
   .rs-checkbox-wrap { padding-top: 2px; flex-shrink: 0; position: relative; overflow: hidden; }
   .rs-checkbox {
