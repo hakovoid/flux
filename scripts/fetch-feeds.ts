@@ -11,11 +11,12 @@ const RETRY_DELAY = 1000;
 const CONCURRENCY = 5;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || '';
+const USER_AGENT = 'Mozilla/5.0 (compatible; Flux-RSS-Aggregator/1.0)';
 
 const parser = new RSSParser({
   timeout: 10000,
   headers: {
-    'User-Agent': 'Flux-RSS-Aggregator/1.0',
+    'User-Agent': USER_AGENT,
   },
 });
 
@@ -92,7 +93,7 @@ async function fetchWithRetry(url: string): Promise<RSSParser.Output<RSSParser.I
       }
       // On retry, fetch raw text and strip BOM/whitespace before parsing
       const response = await fetch(url, {
-        headers: { 'User-Agent': 'Flux-RSS-Aggregator/1.0' },
+        headers: { 'User-Agent': USER_AGENT },
         signal: AbortSignal.timeout(10000),
       });
       let text = await response.text();
