@@ -451,6 +451,22 @@
       "image": "https://domopi.eu/content/images/2025/11/ChatGPT-Image-10-nov.-2025--12_28_22.png"
     },
     {
+      "id": "38c5e5f20c76",
+      "title": "Comment je suis devenu manager malgré moi",
+      "description": "Comment je suis passé de développeur passionné à manager d'équipe sans l'avoir prévu. Six ans de recul sur les leçons apprises, les réflexes à désapprendre, et ce que signifie vraiment accompagner une équipe technique.",
+      "link": "https://codeheroes.fr/blog/devenu-manager-malgre-moi/",
+      "pubDate": "2026-03-10T00:00:00.000Z",
+      "source": "Code Heroes",
+      "sourceUrl": "https://codeheroes.fr/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bd6d01b907e4",
       "title": "RabbitMQ, Kafka et les messages brokers",
       "description": "Quand des services indépendants deviennent nombreux, la communication directe devient fragile. C’est précisément pour résoudre ce problème que l’on utilise des messages brokers comme RabbitMQ. Notes de l'épisode : Notre sponsor : https://www.secretpdf.io/",
