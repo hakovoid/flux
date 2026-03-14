@@ -2,6 +2,140 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8d7c289cdfa4",
+      "title": "Refonte de la page Conférences : data-driven avec Hugo",
+      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
+      "link": "https://blog.zwindler.fr/2026/03/13/refonte-page-conferences-hugo/",
+      "pubDate": "2026-03-13T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/conferences-apres.webp",
+      "type": "blog"
+    },
+    {
+      "id": "83f686a0487a",
+      "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
+      "link": "https://les-tilleuls.coop/blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
+      "pubDate": "2026-03-13T15:46:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/Gemini_Generated_Image_wgyyxbwgyyxbwgyy-1-1024x512.png",
+      "type": "blog"
+    },
+    {
+      "id": "8fa539bbe440",
+      "title": "Les tests d’architecture logicielle : 4 exemples pour les adopter",
+      "description": "Les tests d'architecture sont un outil puissant pour automatiser la vérification des patterns d’architecture, des standards, de valider les choses qu’un linter ne peut pas aisément valider.",
+      "link": "https://blog.octo.com/les-tests-d'architecture--4-exemples-pour-les-adopter.",
+      "pubDate": "2026-03-13T13:43:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d64241ec5e39",
+      "title": "Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs",
+      "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement…",
+      "link": "https://oliviersauvage.com/2026/03/13/le-parcours-dachat-b2b-cache-decrypter-les-nouvelles-habitudes-des-decideurs/",
+      "pubDate": "2026-03-13T11:15:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f6c47d393fa",
+      "title": "Débuggez votre salaire !",
+      "description": "“Je veux 55K€ parce que je veux m’acheter une nouvelle maison, une nouvelle voiture, ah et la nounou de mon fils me coûte tant par mois…” Dans cette situation, Shirley ALMOSNI CHICHE a envie de dire : TAIS-TOI ! 🤫 Lors d’un talk à Devoxx France, elle nous explique comment parler salaire 💰 parce…",
+      "link": "https://www.youtube.com/watch?v=vWbtV6rOBak",
+      "pubDate": "2026-03-13T09:14:06.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/vWbtV6rOBak/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "vWbtV6rOBak"
+    },
+    {
+      "id": "cb0f151ebde8",
+      "title": "Gemini CLI : Le Guide Complet du Plan Mode pour mieux coder ! 🚀",
+      "description": "Découvrez comment maîtriser le Gemini CLI et son mode le plus puissant : le Plan Mode. Dans ce guide complet, nous explorons comment l'outil d'IA en ligne de commande de Google transforme votre flux de travail de développeur. Le Plan Mode ne se contente pas de suggérer du code, il agit comme un…",
+      "link": "https://www.youtube.com/watch?v=pj6Tf2WWZ7k",
+      "pubDate": "2026-03-13T09:01:19.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/pj6Tf2WWZ7k/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "pj6Tf2WWZ7k"
+    },
+    {
+      "id": "be4c9fc65223",
+      "title": "Touraine Tech 2026",
+      "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",
+      "link": "https://blog.ippon.fr/2026/03/13/touraine-tech-2026/",
+      "pubDate": "2026-03-13T08:00:37.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/TNT-12---13-f--vrier-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e41292d64352",
+      "title": "MACI #156 - Agents IA, OpenAPI et WASM - Avec Ludovic Dussart de Zatsit",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques qui montrent à quel point l’écosystème logiciel évolue rapidement. Nous parlons d’outils open source comme World Monitor, des évolutions d’Elastic Stack autour de la recherche…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/nouvel-episode-du-12-03-10-08",
+      "pubDate": "2026-03-13T07:00:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/uAmvt8655FW7mbexhZ74e9XdqrGCgluCDDmGwuuc_1400x1400.jpeg?t=1773306603",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/o9vZque1rYNr.mp3?t=1773306561",
+      "duration": "58:11"
+    },
+    {
       "id": "a59c4b8097b1",
       "title": "#156.diff - Maria DB: MariaDB, du serveur primaire au sharding avec Sylvain Arbaudie",
       "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! Liens à suivre : Une personne tres interessante a suivre dans le monde des db : Benjamin Dicken https://www.linkedin.com/in/benjdicken Un flux rss tres planet mariadb par la…",
@@ -18,6 +152,54 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/3ba28a36-02c3-4b4f-be14-e6a8902669b6.mp3?_=1773320463",
       "duration": "51:04"
+    },
+    {
+      "id": "ce104dab957b",
+      "title": "Podcasts & Lives",
+      "description": "",
+      "link": "https://blog.zwindler.fr/podcasts-lives/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dbe06596536",
+      "title": "Publications",
+      "description": "",
+      "link": "https://blog.zwindler.fr/publications/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "558196eec4ef",
+      "title": "La veille de Wittouck - Début mars 2026",
+      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de…",
+      "link": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/cover_hu_242b02adc363f764.webp",
+      "type": "blog"
     },
     {
       "id": "86b67a0a022b",
