@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "f05d590357ed",
+      "title": "Before Shift - Bonnes pratique pour travailler sa créativité - Gen AI Nantes #15",
+      "description": "Conférence sur les meilleures pratiques pour travailler sa créativité par Simon Timssale Pour vous inscrire aux prochaines sessions du meetup Gen AI Nantes, c'est par ici : https://www.meetup.com/fr-FR/generative-ai-nantes/?eventOrigin=event_home_page",
+      "link": "https://www.youtube.com/watch?v=hMxts4Pygi0",
+      "pubDate": "2026-03-14T17:14:29.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/hMxts4Pygi0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "hMxts4Pygi0"
+    },
+    {
       "id": "8d7c289cdfa4",
       "title": "Refonte de la page Conférences : data-driven avec Hugo",
       "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
