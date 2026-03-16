@@ -2,6 +2,74 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b439428501e9",
+      "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
+      "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-185-refacto-baf3d669cf7e",
+      "pubDate": "2026-03-16T04:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/05baaa16-23ec-4d22-b760-baf3d669cf7e.mp3?_=1773579628",
+      "duration": "36:26"
+    },
+    {
+      "id": "6594e353b919",
+      "title": "Gérer du (gros) legacy avec Kevin Platel",
+      "description": "Dans cet épisode, Kevin Platel partage sa vision du code legacy et du rôle des architectes dans les grandes organisations comme Le Bon Coin. Au-delà de la technique, la discussion explore pourquoi le legacy apparaît souvent faute de conversations difficiles : manque de visibilité sur les impacts…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/ge-rer-du-gros-legacy-avec-kevin-platel",
+      "pubDate": "2026-03-15T17:13:00.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://image.ausha.co/yTzT4EDUqUAkNKOKbKLuQUXSDDHOqGGqIfBxcQrM_1400x1400.jpeg?t=1772990035",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/b3VLuMOx8pZy.mp3?t=1772989971",
+      "duration": "10:21"
+    },
+    {
+      "id": "ce9a09861225",
+      "title": "J'ai quitté les algorithmes : mes 2 outils pour reprendre le contrôle 👀",
+      "description": "Ras-le-bol du scroll infini, du FOMO et des algorithmes qui décident ce que je dois lire. J'ai décidé de reprendre le contrôle de mon flux d'information en créant mes propres outils, open source, en une semaine. Flux — Un agrégateur de veille tech francophone qui centralise 50+ sources (RSS,…",
+      "link": "https://www.youtube.com/watch?v=C0nnZsg7gfA",
+      "pubDate": "2026-03-15T17:00:14.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/C0nnZsg7gfA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "C0nnZsg7gfA"
+    },
+    {
+      "id": "7350e1629b21",
+      "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
+      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
+      "link": "https://blog.zwindler.fr/2026/03/15/flannel-networkpolicies-cilium-cni-chaining/",
+      "pubDate": "2026-03-15T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/flannel-cilium-chaining.webp",
+      "type": "blog"
+    },
+    {
       "id": "f05d590357ed",
       "title": "Before Shift - Bonnes pratique pour travailler sa créativité - Gen AI Nantes #15",
       "description": "Conférence sur les meilleures pratiques pour travailler sa créativité par Simon Timssale Pour vous inscrire aux prochaines sessions du meetup Gen AI Nantes, c'est par ici : https://www.meetup.com/fr-FR/generative-ai-nantes/?eventOrigin=event_home_page",
