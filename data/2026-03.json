@@ -2,6 +2,37 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "e8a07ffd8b93",
+      "title": "🎙️ Avant-goût du prochain épisode de Café Tech avec Imen ave @yoandevco",
+      "description": "Dans cet extrait, Yoan Bernabeu partage l’un des plus grands défis de son parcours dans la tech. Lead Developer, formateur et créateur de contenu, Yoan raconte comment il a fait face à cette situation et ce qu’elle lui a appris. 👉 L’épisode complet arrive très bientôt sur la chaîne. Si vous aimez…",
+      "link": "https://www.youtube.com/watch?v=PheMH7hZTys",
+      "pubDate": "2026-03-16T10:16:32.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/PheMH7hZTys/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PheMH7hZTys"
+    },
+    {
+      "id": "a496af1f1d11",
+      "title": "Liens Tech - Mars 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-mars-2026/",
+      "pubDate": "2026-03-16T06:45:33.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "b439428501e9",
       "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
       "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
