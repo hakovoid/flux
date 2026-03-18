@@ -2,6 +2,103 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5f340c282a63",
+      "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
+      "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-51d98889e8c2",
+      "pubDate": "2026-03-18T04:00:52.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38da8604-20cb-4439-bf35-e9835745ea06.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
+      "duration": "59:50"
+    },
+    {
+      "id": "ea68c54b97fa",
+      "title": "Before Shift - L'art du détournement - Gen AI Nantes #15",
+      "description": "Hacker, ce n'est pas seulement coder. C'est regarder le quotidien de travers, questionner ce qui semble évident et transformer des objets ordinaires en terrains de jeu. Pendant cette soirée, vous sortirez du cadre et nourrirez votre créativité autour de la thématique de cette année: détourner un…",
+      "link": "https://www.youtube.com/watch?v=HJjJfaDW_qY",
+      "pubDate": "2026-03-17T21:50:03.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/HJjJfaDW_qY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "HJjJfaDW_qY"
+    },
+    {
+      "id": "4904838e7e19",
+      "title": "Quoi de neuf dans API Platform 4.3 ? (MCP, Scalar, Filtres avancés) 🚀",
+      "description": "Découvrez toutes les nouveautés majeures d'API Platform 4.3 ! 🚀 Dans cette vidéo, nous décortiquons la dernière version du framework API préféré de l'écosystème PHP/Symfony et Laravel. La grande révolution de cette version 4.3 ? Le support natif du Model Context Protocol (MCP), qui permet de…",
+      "link": "https://www.youtube.com/watch?v=KOUX_PXIMS0",
+      "pubDate": "2026-03-17T20:59:01.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/KOUX_PXIMS0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KOUX_PXIMS0"
+    },
+    {
+      "id": "aa462b0fa59b",
+      "title": "GenAI et développement logiciel, épisode 2 : kubectl-debug-pvc, de l'idée à krew en 2x30 minutes",
+      "description": "Précédemment, dans “GenAI et dev” Dans mon article précédent, je vous parlais de mon retour d’expérience avec PodSweeper, un projet développé avec OpenCode et Claude Opus. Le bilan était nuancé : vitesse brute impressionnante, mais race conditions, gestion d’erreur laxiste, et nécessité constante…",
+      "link": "https://blog.zwindler.fr/2026/03/16/genai-llm-dev-kubectl-debug-pvc/",
+      "pubDate": "2026-03-17T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/kubectl-debug-pvc.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4a68f1887423",
+      "title": "Découvrir les niveaux de maturité de l'adoption des Coding Agents",
+      "description": "Si vous êtes plongé dans l'IA comme moi jusqu'au cou, vous avez dû vous rendre compte que chacun autour de vous a un niveau différent d'adoption des agents de développement (Coding Agent). Je m'intéresse ici uniquement aux outils qui permettent d'aider le développeur comme Claude Code, Open AI…",
+      "link": "https://www.touilleur-express.fr/2026/03/17/decouvrir-les-niveaux-de-maturite-de-ladoption-des-coding-agents",
+      "pubDate": "2026-03-17T16:43:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10b7b4be73aa",
+      "title": "L'IA met les Datacenters dans L'Espace! 🚀",
+      "description": "🚀 Le Futur de l'IA passera-t-il par l'ESPACE ? L'IA consomme trop d'énergie et trop d’espace sur terre: la solution est-elle en orbite ? Selon certains oui, mais souvent de manière incantatoire, et pas forcément scientifique. Dans cet épisode, on a invité Damien Dumestier, ingénieur aérospatial…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69b930fbb5ba12a227ca327d",
+      "pubDate": "2026-03-17T10:46:18.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1773744106145-94582886-41e8-42d0-b300-4c83940ed9e4.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69b930fbb5ba12a227ca327d/media.mp3",
+      "duration": "1:16:11"
+    },
+    {
       "id": "5b73ced72a58",
       "title": "Au-delà du prompt : maîtriser le Context Engineering en 2026",
       "description": "Le prompt engineering est devenu un simple sous-ensemble d'une discipline plus large. Ce guide vous explique laquelle, et comment l'appliquer dès cette semaine.",
