@@ -2,6 +2,73 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5e1fce6a356f",
+      "title": "FOSDEM 2026 : Retour sur deux jours d’Open Source à Bruxelles",
+      "description": "Le week-end des 31 janvier et 1er février s’est tenue l’édition 2026 de FOSDEM. Entre keynotes et sessions techniques, le",
+      "link": "https://blog.zenika.com/2026/03/18/fosdem-2026-retour-sur-deux-jours-dopen-source-a-bruxelles/",
+      "pubDate": "2026-03-18T13:00:55.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30b.png",
+      "type": "blog"
+    },
+    {
+      "id": "2da36a2e401b",
+      "title": "Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques",
+      "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est…",
+      "link": "https://oliviersauvage.com/2026/03/18/reseaux-sociaux-comment-capter-lattention-avec-des-infographies-et-des-graphiques/",
+      "pubDate": "2026-03-18T09:26:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8f45c0c239f7",
+      "title": "Le pouvoir d'un commit atomique",
+      "description": "Vos commits sont trop gros, trop flous… et ça vous ralentit. Découvrez comment une simple habitude peut rendre votre Git beaucoup plus propre, lisible et puissant. Notes de l'épisode : Les conventional commits : https://code-garage.com/podcast/classic/episode-104 Notre cours Git/Github complet :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-pouvoir-dun-commit-atomique-e3gk908",
+      "pubDate": "2026-03-18T09:15:20.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117105096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-18%2F88b5fcf5-49ea-af14-c158-9f3d0306f456.mp3",
+      "duration": "00:10:48"
+    },
+    {
+      "id": "039bd6423beb",
+      "title": "Tester les apps Spring Boot, sous toutes les coutures",
+      "description": "“Je suis là pour vous parler de Spring !” SpringBootTest est simple à utiliser, et permet de démarrer immédiatement. Mais en l'utilisant partout, les développeurs passent à côté de tout ce que Boot peut apporter en terme de tests. Ils ne pensent pas suffisamment à l'architecture de leur tests, ne…",
+      "link": "https://www.youtube.com/watch?v=a0T7WTXOsLU",
+      "pubDate": "2026-03-18T08:42:05.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/a0T7WTXOsLU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "a0T7WTXOsLU"
+    },
+    {
       "id": "5f340c282a63",
       "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
       "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
