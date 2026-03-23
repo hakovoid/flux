@@ -772,6 +772,22 @@
       "type": "blog"
     },
     {
+      "id": "50a5d6260758",
+      "title": "Nouvelle version du site, v8",
+      "description": "Régulièrement, il m’arrive de tout changer, souvent de manière radicale. En ce début d’année 2026, pas d’exception, mon site est de nouveau refait ! Depuis plus de 5 ans, j’utilisais des serveurs en ligne (des machines virtuelles) auprès de différents hébergeurs européens (OVHcloud, Contabo,…",
+      "link": "https://j.hommet.net/nouveau-depart-2/",
+      "pubDate": "2026-03-13T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7f6c47d393fa",
       "title": "Débuggez votre salaire !",
       "description": "“Je veux 55K€ parce que je veux m’acheter une nouvelle maison, une nouvelle voiture, ah et la nounou de mon fils me coûte tant par mois…” Dans cette situation, Shirley ALMOSNI CHICHE a envie de dire : TAIS-TOI ! 🤫 Lors d’un talk à Devoxx France, elle nous explique comment parler salaire 💰 parce…",

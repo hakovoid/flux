@@ -47,7 +47,7 @@ feeds:
     name: Codeka (Julien Wittouck)
     categories: [Programmation, DevOps, Cloud]
 
-  - url: https://j.hommet.net/rss/
+  - url: https://j.hommet.net/index.xml
     name: J.Hommet
     categories: [DevOps, Cloud, Cybersécurité]
 
