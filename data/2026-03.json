@@ -2,6 +2,88 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "f65baaf93767",
+      "title": "Une app mobile native avec Symfony ? C'est maintenant possible !",
+      "description": "Et si vous pouviez transformer votre application Symfony en app mobile native, sans réécrire une seule ligne de code ? Avec Symfony UX Native (nouveau bundle expérimental basé sur Hotwire Native), c'est désormais possible. Votre app web existante est encapsulée dans un shell natif iOS/Android :…",
+      "link": "https://www.youtube.com/watch?v=YgqFUlEUQXQ",
+      "pubDate": "2026-03-22T17:00:51.000Z",
+      "source": "YoanDev (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCRlsJWh1XwmNGxZPFgJ0Zlw",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/YgqFUlEUQXQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "YgqFUlEUQXQ"
+    },
+    {
+      "id": "5fa79f8a3e19",
+      "title": "J'ai installé OpenClaw, ma vie a changé (pas trop)",
+      "description": "Cela faisait plusieurs semaines que l'idée me trottait en tête... mais bon, on a un vrai métier, pas le temps de faire des bidouilles, toussa. Et puis Devoxx France arrive dans 4 semaines. Je le sais, car on reçoit une bonne vingtaine d'emails chaque jour. \"Et comment je paye ? Et comment je…",
+      "link": "https://www.touilleur-express.fr/2026/03/22/installation-openclaw",
+      "pubDate": "2026-03-22T16:30:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55e026464829",
+      "title": "Calculer « 1/(40rods/​hogshead) → L/100km » depuis l'invite Zsh",
+      "description": "J’ai souvent besoin d’un calcul rapide ou de convertir une unité en une autre. Plutôt que de recourir à un outil séparé, quelques lignes de configuration Zsh transforment = en calculatrice. En tapant = 660km / (2/3)c * 2 -> ms, j’obtiens 6.60457 ms1 sans quitter mon terminal, grâce à l’éditeur de…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-calculatrice-zsh",
+      "pubDate": "2026-03-22T13:37:09.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/simpson-s06e18@1x.387986d4ff4a51.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9867b42e6ffe",
+      "title": "Fault : injecter du chaos dans vos microservices",
+      "description": "Il y a une loi non écrite dans notre métier mais bien connue : un service qui n’a jamais subi de panne en production tombera en production, au pire moment possible, de la façon la plus inattendue qui soit. À peu près de la même manière qu’un SRE qui n’a jamais causé d’incident finira inévitablement…",
+      "link": "https://une-tasse-de.cafe/blog/fault/",
+      "pubDate": "2026-03-22T09:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b626c12e4ee",
+      "title": "Symfony UX Native : Transformez votre app web en application mobile native",
+      "description": "Et si vous pouviez transformer votre application Symfony en app mobile native, sans réécrire une seule ligne de code ? Avec UX Native et Hotwire Native, c'est possible. On construit ensemble un Carnet de Notes et on le prépare pour iOS et Android, pas à pas.",
+      "link": "https://yoandev.co/symfony-ux-native",
+      "pubDate": "2026-03-22T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-ux-native.webp",
+      "type": "blog"
+    },
+    {
       "id": "967f216d9fa0",
       "title": "Le bottleneck n'est jamais là où vous croyez : 4 bugs en cascade sur une API audio temps réel",
       "description": "« Combien d'utilisateurs simultanés peut-on supporter ? » Une question simple, quatre bottlenecks en cascade. Event loop bloqué, quotas invisibles, race condition gRPC : sur une API audio FastAPI/Cloud Run, chaque fix révélait le problème suivant. REX complet avec méthodo, métriques et code.",
