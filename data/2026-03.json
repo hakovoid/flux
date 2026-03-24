@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "69ef44b1d9a0",
+      "title": "Installer un serveur NTP local",
+      "description": "La synchronisation temporelle, c'est un de ces trucs qu'on ne remarque pas quand ça fonctionne, mais qui devient vite pénible quand ce n'est pas le cas : logs décalés entre deux machines, automatisations qui partent au mauvais moment,",
+      "link": "https://domopi.eu/installer-un-serveur-ntp-local/",
+      "pubDate": "2026-03-24T06:45:20.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--2-.png",
+      "type": "blog"
+    },
+    {
+      "id": "a45e2dbb6cb9",
+      "title": "Stitch : le nouvel outil de design d’interfaces de Google",
+      "description": "Stitch est un nouvel outil de design proposé par Google qui permet aux utilisateurs de créer des maquettes et prototypes de sites web et d'applications rapidement, sans compétences en design. Basé sur l'IA, il offre des fonctionnalités comme la création par prompt et l'exportation de systèmes de…",
+      "link": "https://oliviersauvage.com/2026/03/24/stitch-le-nouvel-outil-de-design-dinterfaces-de-google/",
+      "pubDate": "2026-03-24T06:28:54.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f32fdec4da14",
+      "title": "Quoi de neuf les devs? #171 - Veille tech et l'interview de Thomas",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Thomas de UNEED. On parlera aussi de ✅ JavaScript, ✅ Chaos Engineering, ✅ Terafab, ✅ Laravel 13, ✅ commit atomique ...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-171-veille",
+      "pubDate": "2026-03-24T00:26:52.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6QTm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7a6ef8d-0c3d-4ed0-90de-6521d1931c0e_1920x1250.webp",
+      "type": "blog"
+    },
+    {
       "id": "12e1bdd6d219",
       "title": "Café Tech avec Imen ☕ #12 — On connaît YoanDev… mais connaissez vous vraiment l’homme derrière ?",
       "description": "On connaît tous @yoandevco , le créateur de contenu. On est nombreux à suivre ses vidéos sur YouTube. Mais est-ce que vous connaissez vraiment la personne derrière YoanDev ? Son parcours ? Ce qu’il a traversé pour en arriver là ? Parce que dans Café Tech avec Imen, mon objectif est simple : 👉…",
