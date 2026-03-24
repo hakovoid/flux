@@ -2,6 +2,71 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "12e1bdd6d219",
+      "title": "Café Tech avec Imen ☕ #12 — On connaît YoanDev… mais connaissez vous vraiment l’homme derrière ?",
+      "description": "On connaît tous @yoandevco , le créateur de contenu. On est nombreux à suivre ses vidéos sur YouTube. Mais est-ce que vous connaissez vraiment la personne derrière YoanDev ? Son parcours ? Ce qu’il a traversé pour en arriver là ? Parce que dans Café Tech avec Imen, mon objectif est simple : 👉…",
+      "link": "https://www.youtube.com/watch?v=4X2H_AxaGVg",
+      "pubDate": "2026-03-23T16:40:13.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/4X2H_AxaGVg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4X2H_AxaGVg"
+    },
+    {
+      "id": "66a8b73c927a",
+      "title": "Quand Mistral veut moraliser le pillage",
+      "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
+      "link": "https://maisouvaleweb.fr/quand-mistral-veut-moraliser-le-pillage/",
+      "pubDate": "2026-03-23T12:05:30.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0765a95993f4",
+      "title": "Le Coding Agent : tu l'aimes ou tu le quittes ?",
+      "description": "Dans cette interview, Arnaud Héritier répond aux questions d'Emmanuel Bernard, sur les agents IA de développement, comme Claude Code ou Codex CLI. Quel est l'impact des outils d'assistance et de génération de code, basés sur l'IA ? Comment évaluer, tester et se lancer ? Où se replace le développeur…",
+      "link": "https://www.youtube.com/watch?v=AyZRGl6ockU",
+      "pubDate": "2026-03-23T07:59:50.000Z",
+      "source": "Devoxx France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA",
+        "Cloud"
+      ],
+      "image": "https://i.ytimg.com/vi/AyZRGl6ockU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "AyZRGl6ockU"
+    },
+    {
+      "id": "0deb8619764e",
+      "title": "image-optimizer : générez vos images AVIF, WebP et responsive en une commande",
+      "description": "Automatisez la conversion de vos images PNG/JPG en AVIF et WebP dans plusieurs tailles grâce à ce package PHP.",
+      "link": "https://uxcode.fr/articles/php-composer-image-optimizer",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f65baaf93767",
       "title": "Une app mobile native avec Symfony ? C'est maintenant possible !",
       "description": "Et si vous pouviez transformer votre application Symfony en app mobile native, sans réécrire une seule ligne de code ? Avec Symfony UX Native (nouveau bundle expérimental basé sur Hotwire Native), c'est désormais possible. Votre app web existante est encapsulée dans un shell natif iOS/Android :…",
@@ -30,6 +95,22 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73aba7f17a36",
+      "title": "AI Workflow Framework - le CLI est dispo pour tout le monde",
+      "description": "Lancement d'AWF CLI : un outil en Go pour piloter des workflows IA déterministes et complexes. Conçu pour automatiser le \"vibe coding\" via YAML. Pour aider Claude, Gemini, Codex et leurs amis...",
+      "link": "https://alex.balmes.co/fr/blog/ai-workflow-framework-le-cli-est-dispo-pour-tout-le-monde",
+      "pubDate": "2026-03-22T15:24:59.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -335,6 +416,21 @@
         "DevOps"
       ],
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30b.png",
+      "type": "blog"
+    },
+    {
+      "id": "6bbbf21dad61",
+      "title": "Commentaire sur la polémique des perroquets",
+      "description": "Un court commentaire à propos de ce papier d’ Hubert Guillaud, sur l’état de la critique de l’IA à gauche qui nierait en quelque sorte, son potentiel, et la critique de la critique de l’IA. Le papier est orienté vers Commentaire sur la polémique des perroquets first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/commentaire-sur-la-polemique-des-perroquets/",
+      "pubDate": "2026-03-18T11:51:00.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
