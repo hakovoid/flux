@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c51371df9e0b",
+      "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
+      "description": "Il y a des projets qu'on repousse pendant des mois. Pas parce qu'ils sont complexes, mais parce qu'ils ne sont pas urgents. L'infra tourne, les services fonctionnent, et remettre les mains dedans hors la maintenance habituelle, les mises à jour ou le",
+      "link": "https://domopi.eu/reorganisation-des-lxc-panne-du-nuc-refonte-du-homelab-retour-sur-un-mois-mouvemente/",
+      "pubDate": "2026-03-26T06:45:36.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/rack.webp",
+      "type": "blog"
+    },
+    {
       "id": "b3a7ddb792e5",
       "title": "📆 RDV dimanche à 18 h sur la chaîne YouTube pour découvrir cette ITW dans son intégralité !",
       "description": "Au programme : 1h15 d'échange sur son parcours, Symfony, l'Open Source ou l'IA. ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
@@ -129,6 +144,22 @@
         "Web"
       ],
       "image": "https://jolicode.com//media/cache/content/2026/on-premise-docker-castor/arsol-schema-onpremise.png",
+      "type": "blog"
+    },
+    {
+      "id": "4f7cd09df772",
+      "title": "Les sub-agents Claude Code : vos premiers employés virtuels",
+      "description": "Skills ou agents ? Telle est la question. La confusion entre les deux vous coûte du temps et du contexte. Apprenez à créer vos agents et comment les combiner avec des skills.",
+      "link": "https://codecodecoders.substack.com/p/les-sub-agents-claude-code-vos-premiers",
+      "pubDate": "2026-03-25T09:11:45.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yLGn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3b59db7-adc1-48d5-8e87-b439c05a4ec3_1200x630.jpeg",
       "type": "blog"
     },
     {
