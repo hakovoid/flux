@@ -2,6 +2,22 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "25e1345a320f",
+      "title": "320 lecteurs en 3 mois. Et maintenant ?",
+      "description": "Ce qui change dès maintenant, ce qui arrive bientôt et pourquoi la newsletter ne sera plus tout à fait la même.",
+      "link": "https://codecodecoders.substack.com/p/320-lecteurs-en-3-mois-et-maintenant",
+      "pubDate": "2026-03-27T16:03:14.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!2gJf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7173b44-4af9-43ca-8956-e817b688a35d_2375x2372.png",
+      "type": "blog"
+    },
+    {
       "id": "2a9ecf68bc49",
       "title": "Café Tech avec Imen est en direct de SymfonyLive Paris avec Paola de Symfony  !",
       "description": "",
@@ -32,6 +48,22 @@
       "image": "https://i.ytimg.com/vi/OgjvBiehCwQ/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "OgjvBiehCwQ"
+    },
+    {
+      "id": "f7f7ab22b6c2",
+      "title": "Les 7 nouveautés tech de la semaine #13 à ne pas manquer",
+      "description": "Cursor sort son nouveau modèle, OpenAI tire le rideau sur Sora, Anthropic lâche Claude sur votre Mac, TypeScript 6.0 est là, une pépite pour vos PDFs React et Ollama qui s’invite nativement",
+      "link": "https://codecodecoders.substack.com/p/les-7-nouveautes-tech-de-la-semaine-76e",
+      "pubDate": "2026-03-27T09:33:35.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NveS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72dcbda-b5f1-4f2d-8593-b462aff55e9f_685x476.png",
+      "type": "blog"
     },
     {
       "id": "82fad7cc311a",
