@@ -68,7 +68,7 @@
     {
       "id": "82fad7cc311a",
       "title": "NuxtJS, le framework Vue avec des super-pouvoirs !",
-      "description": "Découvrez pourquoi apprendre NuxtJS vous permet de passer de Vue à un framework complet avec SSR, SEO, routing automatique et performances optimisées. Notes de l'épisode : Bibliothèque vs Framework : https://code-garage.com/podcast/classic/episode-11 Cours complet NuxtJS :…",
+      "description": "Découvrez pourquoi apprendre NuxtJS vous permet de passer de Vue à un framework complet avec SSR, SEO, routing automatique et performances optimisées. Notes de l'épisode : Bibliothèque vs Framework : https://code-garage.com/podcast/classic/episode-11 Cours complet NuxtJS : https://code-garage.com/courses/nuxtjs",
       "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/NuxtJS--le-framework-Vue-avec-des-super-pouvoirs-e3h1ql4",
       "pubDate": "2026-03-27T09:00:08.000Z",
       "source": "Code-Garage (Podcast)",
@@ -85,7 +85,7 @@
     {
       "id": "b34409025030",
       "title": "MACI #157 - PostgreSQL, Redis et React - Avec Ludovic Dussart de Zatsit",
-      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques autour des bases de données, de l’open source et des outils développeurs. Nous parlons des évolutions de PostgreSQL et MySQL, du sharding avec PgDog, et de la fin de vie de certaines…",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques autour des bases de données, de l’open source et des outils développeurs. Nous parlons des évolutions de PostgreSQL et MySQL, du sharding avec PgDog, et de la fin de vie de certaines versions. La discussion se poursuit avec des outils concrets comme BentoPDF ou Inkscape, des environnements orientés IA, ainsi que des usages variés de l’open source, de eLife Science à…",
       "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-157-postgresql-redis-et-react-avec-ludovic-dussart-de-zatsit",
       "pubDate": "2026-03-27T06:30:00.000Z",
       "source": "Message à caractère informatique",
@@ -103,7 +103,7 @@
     {
       "id": "2c64de19f77e",
       "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
-      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn | Instagram | Youtube | Twitch | Job Board | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-exe-b617f0a5ec50",
       "pubDate": "2026-03-27T04:00:30.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -121,7 +121,7 @@
     {
       "id": "1f63d3ab2922",
       "title": "La veille de Wittouck - Fin mars 2026",
-      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur…",
+      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur propre tag 😆 Je vous conseille aussi deux chouettes talks que j’ai regardé cette semaine.",
       "link": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/",
       "pubDate": "2026-03-27T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -137,7 +137,7 @@
     {
       "id": "62b7057e18dd",
       "title": "TNT",
-      "description": "Les garçons sont à fond dans leur partie en coop de Minecraft en mode survie, ce qui donne des conversations d’initiés comme : – Si on collecte un bâton de Blaze, on le transforme en poudre, comme ça après on fait un oeil de l’End en mélangeant avec une perle. Dans ces moments-là, je suis un peu…",
+      "description": "Les garçons sont à fond dans leur partie en coop de Minecraft en mode survie, ce qui donne des conversations d’initiés comme : – Si on collecte un bâton de Blaze, on le transforme en poudre, comme ça après on fait un oeil de l’End en mélangeant avec une perle. Dans ces moments-là, je suis un peu largué (j’ai du ouvrir un Wiki Minecraft pour réécrire le dialogue ci-dessus sans commettre d’impair). Donc mon cerveau divague. En l’occurence, je me suis rappelé que je n’avais pas exploré les…",
       "link": "https://boris.schapira.dev/notes/2026-03-tnt/\n",
       "pubDate": "2026-03-26T23:00:00.000Z",
       "source": "Boris Schapira",
@@ -248,7 +248,7 @@
     {
       "id": "36202f6fee2f",
       "title": "Déploiement On-Premise - Partie 2 - Castor à la rescousse",
-      "description": "Dans le précédent article, nous avons vu toutes les étapes nécessaires pour préparer les images Docker qui seront utilisées en production. Mais nous allons maintenant aller plus loin pour automatiser et simplifier encore un peu plus cette étape grâce à Castor et les runners GitLab, le but étant de…",
+      "description": "Dans le précédent article, nous avons vu toutes les étapes nécessaires pour préparer les images Docker qui seront utilisées en production. Mais nous allons maintenant aller plus loin pour automatiser et simplifier encore un peu plus cette étape grâce à Castor et les runners GitLab, le but étant de faciliter la procédure de déploiement de nouvelles versions de l'application afin que le client puisse être autonome. Création et publication des images Comme souvent quand nos projets nécessitent de…",
       "link": "https://jolicode.com/blog/deploiement-on-premise-partie-2-castor-a-la-rescousse",
       "pubDate": "2026-03-26T09:41:00.000Z",
       "source": "JoliCode",
@@ -279,7 +279,7 @@
     {
       "id": "c51371df9e0b",
       "title": "Réorganisation des LXC, panne du NUC, refonte du homelab : retour sur un mois mouvementé",
-      "description": "Il y a des projets qu'on repousse pendant des mois. Pas parce qu'ils sont complexes, mais parce qu'ils ne sont pas urgents. L'infra tourne, les services fonctionnent, et remettre les mains dedans hors la maintenance habituelle, les mises à jour ou le",
+      "description": "Une migration propre, un onduleur qui lâche dans la nuit, une carte mère HS au réveil. Parfois c'est une panne qui finit par forcer les bonnes décisions.",
       "link": "https://domopi.eu/reorganisation-des-lxc-panne-du-nuc-refonte-du-homelab-retour-sur-un-mois-mouvemente/",
       "pubDate": "2026-03-26T06:45:36.000Z",
       "source": "DomoPi",
@@ -327,7 +327,7 @@
     {
       "id": "48c1d2aa99f2",
       "title": "Aux sources de notre industrie avec Yannick Grenzinger",
-      "description": "\"Ecrire plus de lignes de code n'est pas la solution pour livrer de la valeur plus vite\" A l'heure de l'IA générative, cette punchline a plus de sens que jamais. D’habitude, les épisodes qui parlent d’IA vieillissent mal. Pas celui-là. Tant mieux d’ailleurs, on l’a enregistré il y a un an. Pourtant…",
+      "description": "\"Ecrire plus de lignes de code n'est pas la solution pour livrer de la valeur plus vite\" A l'heure de l'IA générative, cette punchline a plus de sens que jamais. D’habitude, les épisodes qui parlent d’IA vieillissent mal. Pas celui-là. Tant mieux d’ailleurs, on l’a enregistré il y a un an. Pourtant il est plus que d’actualité. https://www.flowcon.fr/ https://www.linkedin.com/in/yannickgrenzinger/ Hébergé par Ausha. Visitez ausha.co/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcast.ausha.co/artisan-developpeur/aux-sources-de-notre-industrie-avec-yannick-grenzinger",
       "pubDate": "2026-03-25T14:02:10.000Z",
       "source": "Artisan Développeur",
@@ -343,7 +343,7 @@
     {
       "id": "4436a5bfb487",
       "title": "Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux",
-      "description": "Les liens dans les posts sur les réseaux sociaux sont souvent pénalisés. Mais pourtant, ils sont importants. Dans cet article, je vous explique pourquoi il faut en faire et comment. L’article Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux est apparu en premier sur…",
+      "description": "Les liens dans les posts sur les réseaux sociaux sont souvent pénalisés. Mais pourtant, ils sont importants. Dans cet article, je vous explique pourquoi il faut en faire et comment. L’article Pourquoi il faut mettre des liens dans les posts de vos réseaux sociaux est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/25/pourquoi-il-faut-mettre-des-liens-dans-les-posts-de-vos-reseaux-sociaux/",
       "pubDate": "2026-03-25T11:30:40.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -374,7 +374,7 @@
     {
       "id": "216d28517837",
       "title": "Décommission de kibana.zwindler.fr, le Kibana qui hébergeait les sondages Okiwi",
-      "description": "La fin d’une époque ? Si vous me suivez depuis quelques années, vous savez que parmis mes nombreux side projects, j’héberge (hébergeais ?) un serveur Kibana pour permettre à tout le monde de consulter les résultats des sondages sur les salaires dans la tech Girondine, organisés par l’association…",
+      "description": "La fin d’une époque ? Si vous me suivez depuis quelques années, vous savez que parmis mes nombreux side projects, j’ai beaucoup participé à des sondages sur les salaires dans la tech Girondine, organisés par l’association Okiwi. C’est un projet qui a contribué à me rendre un peu “visible” (toute proportion gardée) dans l’écosystème local et qui m’a par ailleurs apporté beaucoup de statisfaction, car j’ai vraiment à coeur les sujets autour des salaires ou de la transparence salariale. Au delà de…",
       "link": "https://blog.zwindler.fr/2026/03/25/decomission-kibana-zwindler-fr-sondages-okiwi/",
       "pubDate": "2026-03-25T11:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -407,7 +407,7 @@
     {
       "id": "41e908f14019",
       "title": "Les 4C, votre assurance qualité face au Vibe Coding",
-      "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guide nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
+      "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guident nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
       "link": "https://blog.ippon.fr/2026/03/25/les-4c-votre-assurance-qualite-face-au-vibe-coding/",
       "pubDate": "2026-03-25T10:30:17.000Z",
       "source": "Ippon Technologies",
@@ -424,7 +424,7 @@
     {
       "id": "473f3bcb2fd2",
       "title": "Déploiement On-Premise - Partie 1 - Le socle Docker",
-      "description": "Dans cet article, nous vous expliquons notre approche de déploiement hybride pour une application Symfony conteneurisée avec Docker. Ce système permet un déploiement à la fois sur des serveurs connectés à Internet et en mode local (on-premise) pour les zones de travail sans connectivité réseau. Le…",
+      "description": "Dans cet article, nous vous expliquons notre approche de déploiement hybride pour une application Symfony conteneurisée avec Docker. Ce système permet un déploiement à la fois sur des serveurs connectés à Internet et en mode local (on-premise) pour les zones de travail sans connectivité réseau. Le contexte Nous avons récemment entrepris la refonte complète de l'application ArSol pour l'équipe archéologique de l'université de Tours. Le logiciel original, une application desktop, était obsolète.…",
       "link": "https://jolicode.com/blog/deploiement-on-premise-partie-1-le-socle-docker",
       "pubDate": "2026-03-25T09:41:00.000Z",
       "source": "JoliCode",
@@ -455,7 +455,7 @@
     {
       "id": "a3220e9089ec",
       "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
-      "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
+      "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique... c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur la place des soft skills dans une carrière tech, loin des clichés du développeur purement technique. Il insiste sur l'importance de l'empathie, de l'écoute active et de la capacité à s'expliquer pour…",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-810380cbbb8d",
       "pubDate": "2026-03-25T04:00:33.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -473,7 +473,7 @@
     {
       "id": "cc2df75c737a",
       "title": "Déploiement continu et cycles de développement longs",
-      "description": "Lorsque l’on travaille sur des applications web orientées SaaS, on a la chance de pouvoir livrer rapidement et régulièrement de nouvelles fonctionnalités aux utilisateurs. C’est ce qui se cache derrière les concepts de livraison ou de déploiement continu. Pourtant, beaucoup d’équipes font des mises…",
+      "description": "Lorsque l’on travaille sur des applications web orientées SaaS, on a la chance de pouvoir livrer rapidement et régulièrement de nouvelles fonctionnalités aux utilisateurs. C’est ce qui se cache derrière les concepts de livraison ou de déploiement continu. Pourtant, beaucoup d’équipes font des mises en production qui concentrent des semaines de développement. Et c’est à mon sens un problème. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est…",
       "link": "https://www.jdecool.fr/blog/2026/03/25/deploiement-continu-et-cycles-de-developpement-longs.html",
       "pubDate": "2026-03-24T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -503,7 +503,7 @@
     {
       "id": "4cb9bbc89ca8",
       "title": "📱 Il a créé /e/OS, le projet open source mobile qui nous libère de Google & Apple",
-      "description": "Bataille des OS mobiles : Peut-on vraiment échapper à Google et Apple ? 📱🛡️ Qu'est-ce qu'une tech de haute qualité éthique et comment reprendre le contrôle de sa vie privée sans sacrifier ses applications quotidiennes ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi reçoivent Gaël…",
+      "description": "Bataille des OS mobiles : Peut-on vraiment échapper à Google et Apple ? 📱🛡️ Qu'est-ce qu'une tech de haute qualité éthique et comment reprendre le contrôle de sa vie privée sans sacrifier ses applications quotidiennes ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi reçoivent Gaël Duval, pionnier de l'open source et fondateur de Mandrake Linux, pour décoder l'avenir de notre indépendance numérique. En 2026, le constat est brutal : nos smartphones sont devenus des forteresses…",
       "link": "https://shows.acast.com/a-la-french/episodes/69c271c57878605e11d3acdd",
       "pubDate": "2026-03-24T11:13:09.000Z",
       "source": "A la French",
@@ -537,7 +537,7 @@
     {
       "id": "69ef44b1d9a0",
       "title": "Installer un serveur NTP local",
-      "description": "La synchronisation temporelle, c'est un de ces trucs qu'on ne remarque pas quand ça fonctionne, mais qui devient vite pénible quand ce n'est pas le cas : logs décalés entre deux machines, automatisations qui partent au mauvais moment,",
+      "description": "Des logs décalés, une automatisation qui part au mauvais moment : souvent c'est le NTP qui fait défaut. Un conteneur Docker plus tard, toute l'infra tourne sur la même référence horaire.",
       "link": "https://domopi.eu/installer-un-serveur-ntp-local/",
       "pubDate": "2026-03-24T06:45:20.000Z",
       "source": "DomoPi",
@@ -552,7 +552,7 @@
     {
       "id": "a45e2dbb6cb9",
       "title": "Stitch : le nouvel outil de design d’interfaces de Google",
-      "description": "Stitch est un nouvel outil de design proposé par Google qui permet aux utilisateurs de créer des maquettes et prototypes de sites web et d'applications rapidement, sans compétences en design. Basé sur l'IA, il offre des fonctionnalités comme la création par prompt et l'exportation de systèmes de…",
+      "description": "Stitch est un nouvel outil de design proposé par Google qui permet aux utilisateurs de créer des maquettes et prototypes de sites web et d'applications rapidement, sans compétences en design. Basé sur l'IA, il offre des fonctionnalités comme la création par prompt et l'exportation de systèmes de design, tout en étant intégré à l'écosystème Google. L’article Stitch : le nouvel outil de design d’interfaces de Google est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/24/stitch-le-nouvel-outil-de-design-dinterfaces-de-google/",
       "pubDate": "2026-03-24T06:28:54.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -613,7 +613,7 @@
     {
       "id": "66a8b73c927a",
       "title": "Quand Mistral veut moraliser le pillage",
-      "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
+      "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le pillage first appeared on Mais où va le Web.",
       "link": "https://maisouvaleweb.fr/quand-mistral-veut-moraliser-le-pillage/",
       "pubDate": "2026-03-23T12:05:30.000Z",
       "source": "Mais où va le Web",
@@ -725,7 +725,7 @@
     {
       "id": "55e026464829",
       "title": "Calculer « 1/(40rods/​hogshead) → L/100km » depuis l'invite Zsh",
-      "description": "J’ai souvent besoin d’un calcul rapide ou de convertir une unité en une autre. Plutôt que de recourir à un outil séparé, quelques lignes de configuration Zsh transforment = en calculatrice. En tapant = 660km / (2/3)c * 2 -> ms, j’obtiens 6.60457 ms1 sans quitter mon terminal, grâce à l’éditeur de…",
+      "description": "J’ai souvent besoin d’un calcul rapide ou de convertir une unité en une autre. Plutôt que de recourir à un outil séparé, quelques lignes de configuration Zsh transforment = en calculatrice. En tapant = 660km / (2/3)c * 2 -> ms, j’obtiens 6.60457 ms1 sans quitter mon terminal, grâce à l’éditeur de ligne de Zsh. L’alias = Le problème des caractères spéciaux Protéger l’expression automatiquement avec ZLE Conserver l’expression originale dans l’historique L’alias = L’idée de base est simple :…",
       "link": "https://vincent.bernat.ch/fr/blog/2026-calculatrice-zsh",
       "pubDate": "2026-03-22T13:37:09.000Z",
       "source": "Vincent Bernat",
@@ -821,7 +821,7 @@
     {
       "id": "e5b839ee339a",
       "title": "#315.exe - Apprentissage visuel: Dessine moi un Kube par Julien Dubois",
-      "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn |…",
+      "description": "Pour l'épisode #315 je recevais Aurélie Vache. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn | Instagram | Youtube | Twitch | Job Board | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-315-exe-d2e41d48e8ef",
       "pubDate": "2026-03-20T04:00:11.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -839,7 +839,7 @@
     {
       "id": "46ba974e2652",
       "title": "Timbernetes : Ajuster les ressources à chaud d'une appli Java",
-      "description": "La version 1.35 de Kubernetes, nommée “Timbernetes”, est sortie le 17 décembre dernier (ça passe vite !) et est déjà disponible sur toutes les bonnes plateformes de Cloud. Une des nouveautés importantes de cette version est le passage en Stable des In-place updates of Pod resources. Le principe de…",
+      "description": "La version 1.35 de Kubernetes, nommée “Timbernetes”, est sortie le 17 décembre dernier (ça passe vite !) et est déjà disponible sur toutes les bonnes plateformes de Cloud. Une des nouveautés importantes de cette version est le passage en Stable des In-place updates of Pod resources. Le principe de cette feature est de permettre de modifier à chaud, sans redémarrage donc, les ressources CPU ou RAM allouées à un Pod ou à un Container. Dans cet article, j’explore cette feature, en particulier pour…",
       "link": "https://codeka.io/2026/03/20/timbernetes-java/",
       "pubDate": "2026-03-20T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -855,7 +855,7 @@
     {
       "id": "1cf316f76904",
       "title": "Migrer 1156 posts WordPress vers Eleventy avec Claude",
-      "description": "Vous vous souvenez de l'âge d'or des blogs français ? Entre 2005 et 2012, plus ou moins. L'époque où des gens comme Korben démarraient, où il existait une vraie blogosphère française, où la plupart des blogueurs se connaissaient, se mettaient dans des blogrolls mutuels, allaient à des rencontres…",
+      "description": "Vous vous souvenez de l'âge d'or des blogs français ? Entre 2005 et 2012, plus ou moins. L'époque où des gens comme Korben démarraient, où il existait une vraie blogosphère française, où la plupart des blogueurs se connaissaient, se mettaient dans des blogrolls mutuels, allaient à des rencontres IRL... Il se trouve qu'à cette époque, il y a 20 ans, j'avais un blog. Assez actif, même. lostinbrittany.org. J'y écrivais sur des sujets très divers, j'allais à des rencontres de blogueurs, on se…",
       "link": "https://lostinbrittany.dev/fr/migrer-1156-posts-wordpress-vers-eleventy-avec-claude/",
       "pubDate": "2026-03-20T00:00:00.000Z",
       "source": "Lost in Brittany (Horacio Gonzalez)",
@@ -872,7 +872,7 @@
     {
       "id": "3c4d1522e507",
       "title": "Autonomie",
-      "description": "En tant que parent, on se fait toute une idée de l’autonomie. Comme quoi un jour, nos chers enfants feront les choses seuls, sans notre aide, et que ça sera à la fois génial et un peu triste. Et puis en fait, comme pour la marche, ça vient après une succession de mouvements désordonés. – Mais, t’es…",
+      "description": "En tant que parent, on se fait toute une idée de l’autonomie. Comme quoi un jour, nos chers enfants feront les choses seuls, sans notre aide, et que ça sera à la fois génial et un peu triste. Et puis en fait, comme pour la marche, ça vient après une succession de mouvements désordonés. – Mais, t’es allé chez la coiffeuse ? On y était presque 🤏 rédigés en français. ce flux.",
       "link": "https://boris.schapira.dev/notes/2026-03-autonomie/\n",
       "pubDate": "2026-03-19T23:00:00.000Z",
       "source": "Boris Schapira",
@@ -919,7 +919,7 @@
     {
       "id": "d43825878bb9",
       "title": "Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA",
-      "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le…",
+      "description": "Wordsellers intègre l'IA, de l'assistance au codage au développement agentique, avec des outils comme Mistral, Claude et Gemini. L'IA améliore la productivité, transforme le rôle des développeurs et ouvre la voie à des applications à faible coût, tout en mettant l'accent sur la valeur humaine et le service client. L'objectif : rendre l'exportation plus facile. L’article Vibe coding : comment l’agence World Sellers est passé des LLM aux agents IA est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/19/vibe-coding-comment-lagence-world-sellers-est-passe-des-llm-aux-agents-ia/",
       "pubDate": "2026-03-19T11:19:47.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -933,7 +933,7 @@
     {
       "id": "737002313f74",
       "title": "Pourquoi construire une identité de marque forte à l’heure des IA génératives ?",
-      "description": "Les petits éditeurs sont les plus touchés par la baisse du trafic de recherche. L'IA ne compense pas les pertes. Les stratégies des grands éditeurs incluent la diversification du trafic. Les petits éditeurs doivent construire une marque forte et explorer l'IA pour survivre. L’article Pourquoi…",
+      "description": "Les petits éditeurs sont les plus touchés par la baisse du trafic de recherche. L'IA ne compense pas les pertes. Les stratégies des grands éditeurs incluent la diversification du trafic. Les petits éditeurs doivent construire une marque forte et explorer l'IA pour survivre. L’article Pourquoi construire une identité de marque forte à l’heure des IA génératives ? est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/19/pourquoi-construire-une-identite-de-marque-forte-a-lheure-des-ia-generatives/",
       "pubDate": "2026-03-19T09:19:29.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -980,7 +980,7 @@
     {
       "id": "c193e3c87590",
       "title": "GAFAM et souveraineté numérique : quelles sont les alternatives ?",
-      "description": "Comme beaucoup de monde, j'ai longtemps utilisé les services les plus évidents : Google pour chercher, Gmail pour les mails, Drive pour stocker, WhatsApp pour discuter. Les outils des GAFAM, quoi. Ceux qu'on ouvre sans même y penser, parce qu'ils sont",
+      "description": "On utilise les services GAFAM par réflexe, pas vraiment par choix. Les alternatives européennes existent, elles sont matures. La question c'est juste par où commencer.",
       "link": "https://domopi.eu/gafam-et-souverainete-numerique-quelles-sont-les-alternatives/",
       "pubDate": "2026-03-19T06:45:34.000Z",
       "source": "DomoPi",
@@ -995,7 +995,7 @@
     {
       "id": "94aa44bd0552",
       "title": "Le mythe du développeur augmenté par l’IA - Partie 1",
-      "description": "Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstresCahiers de prison (1983) de Antonio GramsciAujourd’hui, dans le monde du développement logiciel, l’IA générative suscite de nombreux fantasmes. Le plus répandu est sans doute l’idée que coder…",
+      "description": "Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstresCahiers de prison (1983) de Antonio GramsciAujourd’hui, dans le monde du développement logiciel, l’IA générative suscite de nombreux fantasmes. Le plus répandu est sans doute l’idée que coder ne servirait bientôt plus à rien, puisque l’IA",
       "link": "https://blog.octo.com/l'illusion-du-developpeur-augmente",
       "pubDate": "2026-03-18T15:08:10.000Z",
       "source": "OCTO Talks",
@@ -1044,7 +1044,7 @@
     {
       "id": "2da36a2e401b",
       "title": "Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques",
-      "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est…",
+      "description": "Sur les réseaux sociaux, capter l'attention est devenu un défi à cause de la surcharge d'informations. Pour sortir les utilisateurs de leur routine, il est conseillé d'utiliser des visuels attractifs, tels que des visages humains, des contrastes de couleurs, et des textes percutants. L'objectif est de stimuler la curiosité et d'interrompre le scrolling. L’article Réseaux sociaux : comment capter l’attention avec des infographies et des graphiques est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/18/reseaux-sociaux-comment-capter-lattention-avec-des-infographies-et-des-graphiques/",
       "pubDate": "2026-03-18T09:26:25.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1058,7 +1058,7 @@
     {
       "id": "8f45c0c239f7",
       "title": "Le pouvoir d'un commit atomique",
-      "description": "Vos commits sont trop gros, trop flous… et ça vous ralentit. Découvrez comment une simple habitude peut rendre votre Git beaucoup plus propre, lisible et puissant. Notes de l'épisode : Les conventional commits : https://code-garage.com/podcast/classic/episode-104 Notre cours Git/Github complet :…",
+      "description": "Vos commits sont trop gros, trop flous… et ça vous ralentit. Découvrez comment une simple habitude peut rendre votre Git beaucoup plus propre, lisible et puissant. Notes de l'épisode : Les conventional commits : https://code-garage.com/podcast/classic/episode-104 Notre cours Git/Github complet : https://code-garage.com/courses/git-et-github",
       "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-pouvoir-dun-commit-atomique-e3gk908",
       "pubDate": "2026-03-18T09:15:20.000Z",
       "source": "Code-Garage (Podcast)",
@@ -1094,7 +1094,7 @@
     {
       "id": "5f340c282a63",
       "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
-      "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
+      "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont forgé une conviction centrale : il faut libérer les équipes de dev du poids de l'infrastructure pour se concentrer sur la vraie valeur métier. Il explique pourquoi la gestion des données, le typage fort…",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-51d98889e8c2",
       "pubDate": "2026-03-18T04:00:52.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1112,7 +1112,7 @@
     {
       "id": "8209ed67440b",
       "title": "News Mars 2026, Vite+, Void Cloud, du drama et de l'IA",
-      "description": "Nous évoquons le média L'Équipe qui repasse en MPA, Void Zero qui arrive avec plusieurs sorties. Vite 8, Vite Plus et Void Cloud. Datagouv nous propose du MCP, Mistral vous donne la possibilité d'avoir votre propre modèle, un DB vectoriel embarqué et des études sur l'IA. Retrouvez toutes les notes…",
+      "description": "Nous évoquons le média L'Équipe qui repasse en MPA, Void Zero qui arrive avec plusieurs sorties. Vite 8, Vite Plus et Void Cloud. Datagouv nous propose du MCP, Mistral vous donne la possibilité d'avoir votre propre modèle, un DB vectoriel embarqué et des études sur l'IA. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-mars26/",
       "link": "https://double-slash.dev/podcasts/news-mars26/",
       "pubDate": "2026-03-18T00:00:00.000Z",
       "source": "Double Slash",
@@ -1129,7 +1129,7 @@
     {
       "id": "4f4bfb08acbd",
       "title": "Période difficile pour les conférences développeur",
-      "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
+      "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Cela fait quelque temps que de nombreuses conférences, qui sont essentielles à notre métier, étaient en difficulté. Avec une économie compliquée, le sponsoring…",
       "link": "https://www.jdecool.fr/blog/2026/03/18/periode-difficile-pour-les-conferences-developpeur.html",
       "pubDate": "2026-03-17T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -1175,7 +1175,7 @@
     {
       "id": "aa462b0fa59b",
       "title": "GenAI et développement logiciel, épisode 2 : kubectl-debug-pvc, de l'idée à krew en 2x30 minutes",
-      "description": "Précédemment, dans “GenAI et dev” Dans mon article précédent, je vous parlais de mon retour d’expérience avec PodSweeper, un projet développé avec OpenCode et Claude Opus. Le bilan était nuancé : vitesse brute impressionnante, mais race conditions, gestion d’erreur laxiste, et nécessité constante…",
+      "description": "Précédemment, dans “GenAI et dev” Dans mon article précédent, je vous parlais de mon retour d’expérience avec PodSweeper, un projet développé avec OpenCode et Claude Opus. Le bilan était nuancé : vitesse brute impressionnante, mais race conditions, gestion d’erreur laxiste, et nécessité constante de supervision humaine (entre autres déconvenues). Aujourd’hui, je vous parle d’un deuxième projet, bien plus simple, né d’un vrai besoin en production. Et le constat est assez différent. L’incident…",
       "link": "https://blog.zwindler.fr/2026/03/16/genai-llm-dev-kubectl-debug-pvc/",
       "pubDate": "2026-03-17T17:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -1206,7 +1206,7 @@
     {
       "id": "10b7b4be73aa",
       "title": "L'IA met les Datacenters dans L'Espace! 🚀",
-      "description": "🚀 Le Futur de l'IA passera-t-il par l'ESPACE ? L'IA consomme trop d'énergie et trop d’espace sur terre: la solution est-elle en orbite ? Selon certains oui, mais souvent de manière incantatoire, et pas forcément scientifique. Dans cet épisode, on a invité Damien Dumestier, ingénieur aérospatial…",
+      "description": "🚀 Le Futur de l'IA passera-t-il par l'ESPACE ? L'IA consomme trop d'énergie et trop d’espace sur terre: la solution est-elle en orbite ? Selon certains oui, mais souvent de manière incantatoire, et pas forcément scientifique. Dans cet épisode, on a invité Damien Dumestier, ingénieur aérospatial qui a dirigé la plus grande étude de faisabilité technique et économique de l’envoi, l’assemblage et la maintenance de datacenters dans l'espace. Et qui explique les hypothèses qui rendent le projet…",
       "link": "https://shows.acast.com/a-la-french/episodes/69b930fbb5ba12a227ca327d",
       "pubDate": "2026-03-17T10:46:18.000Z",
       "source": "A la French",
@@ -1254,7 +1254,7 @@
     {
       "id": "26af4645062b",
       "title": "Les 3 règles d’or de la communication sur les réseaux sociaux en B2B",
-      "description": "L'attention est une ressource précieuse sur les réseaux sociaux, ce qui rend difficile sa capture pour les entreprises. La régularité et la variété dans les publications sont essentielles. Il faut également surprendre son audience pour éviter la monotonie. Enfin, des éléments visuels attractifs…",
+      "description": "L'attention est une ressource précieuse sur les réseaux sociaux, ce qui rend difficile sa capture pour les entreprises. La régularité et la variété dans les publications sont essentielles. Il faut également surprendre son audience pour éviter la monotonie. Enfin, des éléments visuels attractifs renforcent l'impact des communications. L’article Les 3 règles d’or de la communication sur les réseaux sociaux en B2B est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/17/les-3-regles-dor-de-la-communication-sur-les-reseaux-sociaux-en-b2b/",
       "pubDate": "2026-03-17T07:44:05.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1300,7 +1300,7 @@
     {
       "id": "a496af1f1d11",
       "title": "Liens Tech - Mars 2026",
-      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "description": "Ce mois-ci : prise de notes, logs Docker, sécurité, sauvegardes et PDF. 5 outils utiles à garder sous le coude.",
       "link": "https://domopi.eu/liens-tech-mars-2026/",
       "pubDate": "2026-03-16T06:45:33.000Z",
       "source": "DomoPi",
@@ -1315,7 +1315,7 @@
     {
       "id": "b439428501e9",
       "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
-      "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn | Instagram | Youtube | Twitch | Job Board | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-185-refacto-baf3d669cf7e",
       "pubDate": "2026-03-16T04:00:28.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1333,7 +1333,7 @@
     {
       "id": "6594e353b919",
       "title": "Gérer du (gros) legacy avec Kevin Platel",
-      "description": "Dans cet épisode, Kevin Platel partage sa vision du code legacy et du rôle des architectes dans les grandes organisations comme Le Bon Coin. Au-delà de la technique, la discussion explore pourquoi le legacy apparaît souvent faute de conversations difficiles : manque de visibilité sur les impacts…",
+      "description": "Dans cet épisode, Kevin Platel partage sa vision du code legacy et du rôle des architectes dans les grandes organisations comme Le Bon Coin. Au-delà de la technique, la discussion explore pourquoi le legacy apparaît souvent faute de conversations difficiles : manque de visibilité sur les impacts long terme, arbitrages court terme. Un épisode sur le courage d’aborder les sujets inconfortables avant qu’ils ne deviennent des blocages majeurs. 🎙️ https://www.flowcon.fr/…",
       "link": "https://podcast.ausha.co/artisan-developpeur/ge-rer-du-gros-legacy-avec-kevin-platel",
       "pubDate": "2026-03-15T17:13:00.000Z",
       "source": "Artisan Développeur",
@@ -1383,7 +1383,7 @@
     {
       "id": "7350e1629b21",
       "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
-      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
+      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il se configure en 2 minutes. Que demander de plus ? Ben justement. Il y a un truc que flannel ne fait pas : les NetworkPolicies. (Et c’est très grave). Flannel is focused on networking. For network…",
       "link": "https://blog.zwindler.fr/2026/03/15/flannel-networkpolicies-cilium-cni-chaining/",
       "pubDate": "2026-03-15T16:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -1414,7 +1414,7 @@
     {
       "id": "8d7c289cdfa4",
       "title": "Refonte de la page Conférences : data-driven avec Hugo",
-      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
+      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont disponibles dans /misc/conferences-refonte/ si vous voulez reproduire ou vous en inspirer. Le problème Ma page Conférences était un gros fichier Markdown monolithique. Talks, podcasts, publications, orga :…",
       "link": "https://blog.zwindler.fr/2026/03/13/refonte-page-conferences-hugo/",
       "pubDate": "2026-03-13T19:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -1430,7 +1430,7 @@
     {
       "id": "83f686a0487a",
       "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
-      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de filtrage avancées, des optimisations de sécurité, une meilleure conformité aux […] L’article Sortie d’API Platform 4.3 : rencontre avec l’IA est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
       "pubDate": "2026-03-13T15:46:32.000Z",
       "source": "Les-Tilleuls.coop",
@@ -1464,7 +1464,7 @@
     {
       "id": "d64241ec5e39",
       "title": "Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs",
-      "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement…",
+      "description": "L'étude réalisée par Reddit et SurveyMonkey révèle que le parcours d'achat B2B est devenu complexe pour les entreprises, avec 83 % des décideurs menant leurs propres recherches avant de contacter les ventes. Les recommandations de pairs sont valorisées, tandis que Reddit influence significativement les décisions d'achat, dépassant les sources traditionnelles. L’article Le parcours d’achat B2B caché : décrypter les nouvelles habitudes des décideurs est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/13/le-parcours-dachat-b2b-cache-decrypter-les-nouvelles-habitudes-des-decideurs/",
       "pubDate": "2026-03-13T11:15:42.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1478,7 +1478,7 @@
     {
       "id": "50a5d6260758",
       "title": "Nouvelle version du site, v8",
-      "description": "Régulièrement, il m’arrive de tout changer, souvent de manière radicale. En ce début d’année 2026, pas d’exception, mon site est de nouveau refait ! Depuis plus de 5 ans, j’utilisais des serveurs en ligne (des machines virtuelles) auprès de différents hébergeurs européens (OVHcloud, Contabo,…",
+      "description": "Régulièrement, il m’arrive de tout changer, souvent de manière radicale. En ce début d’année 2026, pas d’exception, mon site est de nouveau refait ! Depuis plus de 5 ans, j’utilisais des serveurs en ligne (des machines virtuelles) auprès de différents hébergeurs européens (OVHcloud, Contabo, Hetzner), puis ai déployé une pile technique à base de Debian, portant le service docker pour y déployer des conteneurs. Les images étaient les suivantes : Traefik, Ghost, Umami, MySQL, PostgreSQL,…",
       "link": "https://j.hommet.net/nouveau-depart-2/",
       "pubDate": "2026-03-13T10:00:00.000Z",
       "source": "J.Hommet",
@@ -1562,7 +1562,7 @@
     {
       "id": "e41292d64352",
       "title": "MACI #156 - Agents IA, OpenAPI et WASM - Avec Ludovic Dussart de Zatsit",
-      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques qui montrent à quel point l’écosystème logiciel évolue rapidement. Nous parlons d’outils open source comme World Monitor, des évolutions d’Elastic Stack autour de la recherche…",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques qui montrent à quel point l’écosystème logiciel évolue rapidement. Nous parlons d’outils open source comme World Monitor, des évolutions d’Elastic Stack autour de la recherche sémantique et de l’observabilité, et de nouvelles approches d’agents IA capables d’accompagner les développeurs juniors. La discussion se poursuit autour de MiniMax M2.5, un modèle d’IA accessible via Ollama,…",
       "link": "https://podcast.ausha.co/message-a-caractere-informatique/nouvel-episode-du-12-03-10-08",
       "pubDate": "2026-03-13T07:00:00.000Z",
       "source": "Message à caractère informatique",
@@ -1580,7 +1580,7 @@
     {
       "id": "a59c4b8097b1",
       "title": "#156.diff - Maria DB: MariaDB, du serveur primaire au sharding avec Sylvain Arbaudie",
-      "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! Liens à suivre : Une personne tres interessante a suivre dans le monde des db : Benjamin Dicken https://www.linkedin.com/in/benjdicken Un flux rss tres planet mariadb par la…",
+      "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn | Instagram | Youtube | Twitch | Job Board | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-156-refacto-e6a8902669b6",
       "pubDate": "2026-03-13T04:00:03.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1630,7 +1630,7 @@
     {
       "id": "558196eec4ef",
       "title": "La veille de Wittouck - Début mars 2026",
-      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de…",
+      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de vidéos et de podcasts les dernières semaines, donc je vous ai listé celles qui m’ont plu, en particulier le nouveau podcast “À la french”, très bien réalisé, avec un sujet cool sur “La Suite” développée…",
       "link": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/",
       "pubDate": "2026-03-13T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -1678,7 +1678,7 @@
     {
       "id": "73128c5f50d5",
       "title": "Visibilité IA sur LinkedIn : stratégies pour influencer les réponses de chatGPT",
-      "description": "Découvrez comment votre contenu LinkedIn peut influencer les réponses de l'IA. Apprenez à créer du contenu original et éducatif, à favoriser la régularité et à tirer parti du leadership éclairé pour maximiser votre visibilité. Obtenez un plan d'action concret pour dominer l'écosystème de l'IA grâce…",
+      "description": "Découvrez comment votre contenu LinkedIn peut influencer les réponses de l'IA. Apprenez à créer du contenu original et éducatif, à favoriser la régularité et à tirer parti du leadership éclairé pour maximiser votre visibilité. Obtenez un plan d'action concret pour dominer l'écosystème de l'IA grâce à LinkedIn. L’article Visibilité IA sur LinkedIn : stratégies pour influencer les réponses de chatGPT est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/12/visibilite-ia-sur-linkedin-strategies-pour-influencer-les-reponses-de-chatgpt/",
       "pubDate": "2026-03-12T12:09:35.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1723,7 +1723,7 @@
     {
       "id": "d3d6912e48d7",
       "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
-      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
+      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la communication et valorise l'image de l'entreprise. L’article Où trouver des contenus originaux pour créer des contenus marketing ? est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/12/ou-trouver-des-contenus-originaux-pour-creer-des-contenus-marketing/",
       "pubDate": "2026-03-12T08:24:18.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1737,7 +1737,7 @@
     {
       "id": "4c00be375013",
       "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
-      "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
+      "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la génération d'images. L’article Découvrez Nano Banana 2 : la nouvelle référence en génération d’images est apparu en premier sur OlivierSauvage.com.",
       "link": "https://oliviersauvage.com/2026/03/12/decouvrez-nano-banana-2-la-nouvelle-reference-en-generation-dimages/",
       "pubDate": "2026-03-12T05:37:41.000Z",
       "source": "Olivier Sauvage (Numerika)",
@@ -1766,7 +1766,7 @@
     {
       "id": "90495f56c1d5",
       "title": "Les profils T-Shaped",
-      "description": "Il y a un type de profil qui performe particulièrement bien dans les équipes projet. Des profils spécialisés, mais qui ont un truc en plus: des compétences transverses complémentaires. C’est ce que l’on retrouve derrière la notion de profil “T-Shaped”. Ce billet a été initialement publié sur…",
+      "description": "Il y a un type de profil qui performe particulièrement bien dans les équipes projet. Des profils spécialisés, mais qui ont un truc en plus: des compétences transverses complémentaires. C’est ce que l’on retrouve derrière la notion de profil “T-Shaped”. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Ce type de profil possède une expertise poussée dans un domaine, à…",
       "link": "https://www.jdecool.fr/blog/2026/03/12/les-profils-t-shaped.html",
       "pubDate": "2026-03-11T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -1880,7 +1880,7 @@
     {
       "id": "900253b54f06",
       "title": "#182.diff - Recrutement et tests techniques: Réussir un test technique avec Hugo Venturini",
-      "description": "Il y a 3 ans, dans l'épisode #182 je recevais Hugo Venturini. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "description": "Il y a 3 ans, dans l'épisode #182 je recevais Hugo Venturini. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn | Instagram | Youtube | Twitch | Job Board | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-182-refacto-89449ef5ce98",
       "pubDate": "2026-03-11T04:00:10.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1913,7 +1913,7 @@
     {
       "id": "55025ff4fe1e",
       "title": "Parent pénible",
-      "description": "Réunion parents-profs. Je suis prêt, j’ai bien réservé tous mes créneaux de 5 minutes sur l’application, et j’ai noté les questions que je veux poser. C’est l’heure de mon passage devant le professeur de français. Je m’assois, me présente. Il écrit notre nom de famille sur son petit cahier, avec…",
+      "description": "Réunion parents-profs. Je suis prêt, j’ai bien réservé tous mes créneaux de 5 minutes sur l’application, et j’ai noté les questions que je veux poser. C’est l’heure de mon passage devant le professeur de français. Je m’assois, me présente. Il écrit notre nom de famille sur son petit cahier, avec l’heure. Il me parle de mon fils, de son comportement en classe, de ses résultats. C’est très rapide et parfaitement générique, et je ne peux pas lui en vouloir, l’exercice est difficile. Puis il me…",
       "link": "https://boris.schapira.dev/notes/2026-03-parent-penible/\n",
       "pubDate": "2026-03-10T23:00:00.000Z",
       "source": "Boris Schapira",
@@ -1928,7 +1928,7 @@
     {
       "id": "0302f8f8c7c8",
       "title": "Windows pour FrankenPHP désormais disponible ",
-      "description": "Nous sommes ravis d’annoncer la disponibilité immédiate du support officiel de Windows pour FrankenPHP. Depuis le lancement du projet en 2022, c’était de loin la fonctionnalité la plus demandée. Si beaucoup d’entre vous utilisaient déjà FrankenPHP sur Windows via WSL (Windows Subsystem for Linux),…",
+      "description": "Nous sommes ravis d’annoncer la disponibilité immédiate du support officiel de Windows pour FrankenPHP. Depuis le lancement du projet en 2022, c’était de loin la fonctionnalité la plus demandée. Si beaucoup d’entre vous utilisaient déjà FrankenPHP sur Windows via WSL (Windows Subsystem for Linux), le support natif restait un défi après lequel nous courions depuis […] L’article Windows pour FrankenPHP désormais disponible est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/windows-pour-frankenphp-desormais-disponible",
       "pubDate": "2026-03-10T20:17:55.000Z",
       "source": "Les-Tilleuls.coop",
@@ -1985,7 +1985,7 @@
     {
       "id": "2aea072a2d45",
       "title": "Lean IT : Cybersecurity Always",
-      "description": "Maintenant que nous disposons, parmi nos belles histoires, de sujets liés à la cyber sécurité, nous souhaitons vous en partager quelques-unes afin de montrer comment le Lean permet là encore d’obtenir des résultats significatifs sur des processus que, à notre connaissance, l’agile ou le Lean IT…",
+      "description": "Maintenant que nous disposons, parmi nos belles histoires, de sujets liés à la cyber sécurité, nous souhaitons vous en partager quelques-unes afin de montrer comment le Lean permet là encore d’obtenir des résultats significatifs sur des processus que, à notre connaissance, l’agile ou le Lean IT n’ont pas trop loisir d’explorer.",
       "link": "https://blog.octo.com/lean-it--cybersecurity-always-!",
       "pubDate": "2026-03-10T12:49:10.000Z",
       "source": "OCTO Talks",
@@ -2002,7 +2002,7 @@
     {
       "id": "188fb184a800",
       "title": "La dette technique : le piège des startups et des grands groupes?",
-      "description": "Dette Technique : Faut-il TOUT réécrire ou payer les intérêts ? 💸👨‍💻 Qu'est-ce que la dette technique en développement logiciel et comment la gérer sans ralentir la croissance de votre startup ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi s'attaquent au plus grand défi des…",
+      "description": "Dette Technique : Faut-il TOUT réécrire ou payer les intérêts ? 💸👨‍💻 Qu'est-ce que la dette technique en développement logiciel et comment la gérer sans ralentir la croissance de votre startup ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi s'attaquent au plus grand défi des équipes tech et des CTO. Que vous soyez développeur back-end, front-end ou architecte logiciel, vous avez déjà été confronté à ce dilemme : faire vite pour livrer une fonctionnalité (le fameux \"quick and…",
       "link": "https://shows.acast.com/a-la-french/episodes/69afba52a2ae95013b3760a4",
       "pubDate": "2026-03-10T10:45:00.000Z",
       "source": "A la French",
@@ -2063,7 +2063,7 @@
     {
       "id": "9e95027c43f4",
       "title": "Migration d'un conteneur docker entre deux hôtes Linux",
-      "description": "Quand on change d’hôte Docker, on se dit souvent : “je copie, je relance, et c’est réglé”. Sauf qu’un service Docker, ce n’est pas juste une image : il y a aussi des volumes, des variables d&",
+      "description": "Changer d'hôte Docker, c'est pas juste copier-coller une image. Volumes, variables d'environnement, bases de données : voici comment migrer sans rien perdre.",
       "link": "https://domopi.eu/migration-dun-conteneur-docker-entre-deux-hotes-linux/",
       "pubDate": "2026-03-10T06:45:24.000Z",
       "source": "DomoPi",
@@ -2110,7 +2110,7 @@
     {
       "id": "9541cc796fe7",
       "title": "KubeSolo sur Raspberry Pi Zero : mon article dans Sysops Pratique",
-      "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet…",
+      "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet : faire tourner KubeSolo, une distribution extra-légère de Kubernetes développée par Portainer, sur un Raspberry Pi Zero 2 W et ses maigres 512 Mo de RAM. KubeSolo, c’est quoi ? KubeSolo est une…",
       "link": "https://blog.zwindler.fr/2026/03/09/kubesolo-raspberry-pi-zero-sysops-pratique/",
       "pubDate": "2026-03-09T16:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -2201,7 +2201,7 @@
     {
       "id": "79a7b68f0e67",
       "title": "La réversibilité pour garantir sa véritable souveraineté cloud",
-      "description": "La souveraineté numérique devient de plus en plus un enjeu vital pour les organisations, notamment lorsque le contexte géopolitique international se tend. Cependant, quand il s’agit d’aborder ce sujet, nous entendons beaucoup d’avis différents sur cette question. Qu’est-ce que vraiment la…",
+      "description": "La souveraineté numérique devient de plus en plus un enjeu vital pour les organisations, notamment lorsque le contexte géopolitique international se tend. Cependant, quand il s’agit d’aborder ce sujet, nous entendons beaucoup d’avis différents sur cette question. Qu’est-ce que vraiment la souveraineté ? C’est consommer local ? Mais si consommer local revient à se locker avec un fournisseur, est-ce que ce principe de souveraineté est toujours appliqué ? Les enjeux sont grands pour les…",
       "link": "https://blog.cockpitio.com/cloud/reversibilite-souverainete-cloud/",
       "pubDate": "2026-03-09T07:00:00.000Z",
       "source": "Cockpit io",
@@ -2217,7 +2217,7 @@
     {
       "id": "12361d2abb42",
       "title": "Quand les managers deviennent architectes de la transformation Lean à l’échelle (Partie 2)",
-      "description": "Diffuser le Lean ne consiste pas à déployer des outils, mais à transformer le management. À travers l’A3, dans cette seconde partie, quatre managers vont expérimenter et mesurer des contre-mesures. Ils passent de l’action impulsive à l’apprentissage structuré, ancrant le Kaizen dans la culture de…",
+      "description": "Diffuser le Lean ne consiste pas à déployer des outils, mais à transformer le management. À travers l’A3, dans cette seconde partie, quatre managers vont expérimenter et mesurer des contre-mesures. Ils passent de l’action impulsive à l’apprentissage structuré, ancrant le Kaizen dans la culture de l'organisation.",
       "link": "https://blog.octo.com/quand-les-managers-deviennent-architectes-de-la-transformation-lean-a-l'echelle-(partie-2)",
       "pubDate": "2026-03-09T06:11:10.000Z",
       "source": "OCTO Talks",
@@ -2280,7 +2280,7 @@
     {
       "id": "dc5f234ea930",
       "title": "L'architecte avec David Berthier",
-      "description": "Pendant longtemps, l’architecte d’entreprise était perçu comme une figure omnisciente, définissant les standards depuis une tour d’ivoire. Mais ce rôle est en train de profondément évoluer. Dans cet épisode, nous explorons ce tournant : comment l’architecte passe d’une posture de contrôle à un rôle…",
+      "description": "Pendant longtemps, l’architecte d’entreprise était perçu comme une figure omnisciente, définissant les standards depuis une tour d’ivoire. Mais ce rôle est en train de profondément évoluer. Dans cet épisode, nous explorons ce tournant : comment l’architecte passe d’une posture de contrôle à un rôle de facilitateur au service des équipes. Nous parlons de l’équilibre entre cadre d’architecture et autonomie, des pratiques qui favorisent les décisions collectives (ADR, Event Storming, kata), de la…",
       "link": "https://podcast.ausha.co/artisan-developpeur/l-architecte-avec-david-berthier",
       "pubDate": "2026-03-08T16:48:59.000Z",
       "source": "Artisan Développeur",
@@ -2311,7 +2311,7 @@
     {
       "id": "89236da1a06d",
       "title": "GenAI et développement logiciel : retour d'expérience avec PodSweeper",
-      "description": "La GenAI, c’est fantastique ? Pas mal de gens ont sorti leur avis sur la Gen AI pour dev en très peu de temps, alors je me rends compte qu’il est plus que temps que je poste ce brouillon commencé il y a plus de deux semaines 🙃. Pour le travail, j’utilise de plus en plus d’assistants IA pour…",
+      "description": "La GenAI, c’est fantastique ? Pas mal de gens ont sorti leur avis sur la Gen AI pour dev en très peu de temps, alors je me rends compte qu’il est plus que temps que je poste ce brouillon commencé il y a plus de deux semaines 🙃. Pour le travail, j’utilise de plus en plus d’assistants IA pour m’épauler dans mes tâches du quotidien. En 2024, c’était surtout pour automatiser des tâches pénibles (scripter des trucs, faire une liste pénible de tâches répétitives sans coder ça proprement). Courant…",
       "link": "https://blog.zwindler.fr/2026/03/08/genai-llm-dev-podsweeper/",
       "pubDate": "2026-03-08T16:00:00.000Z",
       "source": "Zwindler's Reflection",
@@ -2387,7 +2387,7 @@
     {
       "id": "c4d026cdd406",
       "title": "Hymne à la Vie IA",
-      "description": "Tout a commencé par une question simple : c'est quoi la BCE Loss ? Binary Cross-Entropy, une fonction de perte utilisée en classification. La formule est simple en apparence, mais quelque chose de remarquable s'y cache. BCE = −[y · log(p) + (1−y)",
+      "description": "Comprendre la BCE Loss, une fonction clé en classification, et son lien avec la probabilité, la sigmoïde et l’optimisation des modèles IA modernes.",
       "link": "https://blog.ippon.fr/2026/03/06/hymne-a-la-vie-ia-2/",
       "pubDate": "2026-03-06T14:26:03.000Z",
       "source": "Ippon Technologies",
@@ -2447,7 +2447,7 @@
     {
       "id": "38beecd11c4e",
       "title": "Sécurise ton SSH : des clés, zéro mot de passe, zéro stress",
-      "description": "Tu viens de monter un nouveau serveur Linux (un VPS, une VM Proxmox, un Raspberry Pi), SSH est activé, tu t'y connectes avec ton mot de passe, ça marche, affaire classée. Sauf que si ton serveur est exposé sur internet, il se fait",
+      "description": "Ton serveur SSH tourne avec un mot de passe et une IP publique ? Il se fait scanner en ce moment même. Voici comment y mettre fin en quelques minutes.",
       "link": "https://domopi.eu/securise-ton-ssh-des-cles-zero-mot-de-passe-zero-stress/",
       "pubDate": "2026-03-06T06:45:44.000Z",
       "source": "DomoPi",
@@ -2461,7 +2461,7 @@
     {
       "id": "14c6d149bce8",
       "title": "J'ai passé la certif Scaleway Foundations",
-      "description": "Cela faisait quelque temps que je voulais investir sur les offres de Cloud souveraines. Je connaissais déjà pas trop mal l’écosystème Scaleway, pour l’avoir pratiqué avec quelques clients, et pour m’en servir sur des projets perso et avec mes étudiants en TP. J’ai donc décidé de m’y mettre…",
+      "description": "Cela faisait quelque temps que je voulais investir sur les offres de Cloud souveraines. Je connaissais déjà pas trop mal l’écosystème Scaleway, pour l’avoir pratiqué avec quelques clients, et pour m’en servir sur des projets perso et avec mes étudiants en TP. J’ai donc décidé de m’y mettre sérieusement, et d’entamer le parcours de certification sur Scaleway sur les prochaines semaines.",
       "link": "https://codeka.io/2026/03/06/scaleway-foundations/",
       "pubDate": "2026-03-06T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -2476,7 +2476,7 @@
     {
       "id": "4c47295b952c",
       "title": "Arrêtez de blâmer vos utilisateurs",
-      "description": "On a tous des phrases qui nous font réagir intérieurement. Parmi celles qui me font certainement le plus réagir, il y a les réactions du style « la plateforme est plantée, c’est la faute du client, il a fait n’importe quoi ». Parce que dans bien des cas, si le client a pu faire n’importe quoi,…",
+      "description": "On a tous des phrases qui nous font réagir intérieurement. Parmi celles qui me font certainement le plus réagir, il y a les réactions du style « la plateforme est plantée, c’est la faute du client, il a fait n’importe quoi ». Parce que dans bien des cas, si le client a pu faire n’importe quoi, c’est parce que l’outil le lui a permis. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une…",
       "link": "https://www.jdecool.fr/blog/2026/03/06/arretez-de-blamer-vos-utilisateurs.html",
       "pubDate": "2026-03-05T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -2505,7 +2505,7 @@
     {
       "id": "43bbc6d25256",
       "title": "Découverte automatique de métriques Prometheus avec les labels Docker",
-      "description": "Akvorado, un collecteur de flux réseau, s’appuie sur Traefik, un proxy HTTP, pour exposer les services HTTP d’un environnement Docker Compose. Des labels Docker attachés à chaque service définissent les règles de routage. Traefik les prend en compte automatiquement au démarrage d’un conteneur.…",
+      "description": "Akvorado, un collecteur de flux réseau, s’appuie sur Traefik, un proxy HTTP, pour exposer les services HTTP d’un environnement Docker Compose. Des labels Docker attachés à chaque service définissent les règles de routage. Traefik les prend en compte automatiquement au démarrage d’un conteneur. Plutôt que de maintenir un fichier de configuration statique pour collecter les métriques Prometheus, la même approche s’applique avec Grafana Alloy, simplifiant sa configuration. Traefik & Docker…",
       "link": "https://vincent.bernat.ch/fr/blog/2026-decouverte-metriques-prometheus-labels-docker",
       "pubDate": "2026-03-05T15:40:24.000Z",
       "source": "Vincent Bernat",
@@ -2533,7 +2533,7 @@
     {
       "id": "b117b4779a0d",
       "title": "Les news du mois de février 2026",
-      "description": "Photo du Mont Blanc prises sur les pistes de ski de fond de la station des saisies @zebeurton De retour de vacances où je me suis ressourcé à la montagne, il est temps pour moi de passer en revue les différents articles, podcasts ou vidéos YouTube que j'ai pu glaner au mois de février. Au programme…",
+      "description": "Photo du Mont Blanc prises sur les pistes de ski de fond de la station des saisies @zebeurton De retour de vacances où je me suis ressourcé à la montagne, il est temps pour moi de passer en revue les différents articles, podcasts ou vidéos YouTube que j'ai pu glaner au mois de février. Au programme : des problématiques de production et de mise à l’échelle côté Kubernetes et observabilité, les enjeux toujours d’actualité de la souveraineté numérique, et un chapitre dédié à l’IA générative qui…",
       "link": "https://david.drugeon-hamon.bzh/blog/2026/02/news-fevrier/",
       "pubDate": "2026-03-05T00:00:00.000Z",
       "source": "David Drugeon-Hamon",
@@ -2625,7 +2625,7 @@
     {
       "id": "43545a22092f",
       "title": "FinOps by Design - Intégrer le FinOps dès la conception d’une architecture cloud",
-      "description": "I - Introduction Depuis des années, les équipes Architecture, Développement, DevOps ont appris à intégrer la sécurité, la scalabilité et la résilience dès les premières étapes de conception. Pourtant, le co&",
+      "description": "Intégrez le FinOps dès la conception de vos architectures cloud pour optimiser coûts, performance et pilotage financier dès le départ.",
       "link": "https://blog.ippon.fr/2026/03/04/finops-by-design-integrer-le-finops-des-la-conception-dune-architecture-cloud/",
       "pubDate": "2026-03-04T09:08:05.000Z",
       "source": "Ippon Technologies",
@@ -2702,7 +2702,7 @@
     {
       "id": "232032b18115",
       "title": "Les échecs face à l'IA, avec le Grand Maître Laurent Fressinet",
-      "description": "Depuis que Deep Blue a terrassé Kasparov en 97, le débat semblait clos : la machine a gagné. Pourtant, on n’a jamais autant \"poussé du bois\" qu’aujourd’hui. Depuis le raz-de-marée avec Le Jeu de la Dame sur Netflix et le développement de l'IA, les échecs vivent une renaissance paradoxale. Mais au…",
+      "description": "Depuis que Deep Blue a terrassé Kasparov en 97, le débat semblait clos : la machine a gagné. Pourtant, on n’a jamais autant \"poussé du bois\" qu’aujourd’hui. Depuis le raz-de-marée avec Le Jeu de la Dame sur Netflix et le développement de l'IA, les échecs vivent une renaissance paradoxale. Mais au fond, pourquoi s'acharner ? Si un simple smartphone peut humilier le meilleur d'entre nous, quel sens reste-t-il à la compétition humaine ? C’est la question qu'on pose aujourd'hui à notre invité -…",
       "link": "https://shows.acast.com/a-la-french/episodes/69a6c451f484a27b0573dbcf",
       "pubDate": "2026-03-03T11:21:53.000Z",
       "source": "A la French",
@@ -2858,7 +2858,7 @@
     {
       "id": "e580acb67162",
       "title": "L'IA nous rend-elle plus productifs... ou plus crevés ?",
-      "description": "L'IA nous rend souvent plus productifs, ça, c'est indéniable. Seulement, pourquoi vous sentez-vous plus fatigué que jamais ? Vos tâches ont-elles radicalement changé ? Avez-vous l'impression de ne plus maîtriser les choses, que tout va trop vite ? Peut-être êtes-vous victime de la fatigue liée à…",
+      "description": "L'IA nous rend souvent plus productifs, ça, c'est indéniable. Seulement, pourquoi vous sentez-vous plus fatigué que jamais ? Vos tâches ont-elles radicalement changé ? Avez-vous l'impression de ne plus maîtriser les choses, que tout va trop vite ? Peut-être êtes-vous victime de la fatigue liée à l'IA ? Dans cet épisode, nous allons parler de ce mal qui émerge et dont personne ne parle encore. Retrouvez toutes les notes et les liens de l'épisode sur cette page :…",
       "link": "https://double-slash.dev/podcasts/iafatigue/",
       "pubDate": "2026-03-02T00:00:00.000Z",
       "source": "Double Slash",

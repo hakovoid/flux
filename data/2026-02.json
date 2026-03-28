@@ -105,7 +105,7 @@
     {
       "id": "d5b085f3ce8c",
       "title": "MACI #155 - IA, veille techno et société - Avec Sébastien Prunier de SERLI",
-      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui…",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui redéfinissent la manière de concevoir des outils pour développeurs. L’épisode interroge aussi les conséquences de ces usages sur l’enseignement du code et la formation des nouvelles générations, avant…",
       "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-154-ia-veille-techno-et-societe-avec-sebastien-prunier-de-serli-2",
       "pubDate": "2026-02-27T06:30:00.000Z",
       "source": "Message à caractère informatique",
@@ -139,7 +139,7 @@
     {
       "id": "ffdb5170f44f",
       "title": "La veille de Wittouck - Fin février 2026",
-      "description": "Février a été un mois un peu chargé, avec mon premier Touraine Tech, et un gros travail de refonte sur ce site au niveau des perfs. Avec tout ça, j’avais un peu mis de côté la veille de Wittouck de mi-février, par manque de temps. On repart donc avec un résumé du mois de février, plusieurs sujets…",
+      "description": "Février a été un mois un peu chargé, avec mon premier Touraine Tech, et un gros travail de refonte sur ce site au niveau des perfs. Avec tout ça, j’avais un peu mis de côté la veille de Wittouck de mi-février, par manque de temps. On repart donc avec un résumé du mois de février, plusieurs sujets autour de l’IA (dont des coups de gueule), et des réflexions autour de la souveraineté numérique.",
       "link": "https://codeka.io/2026/02/27/la-veille-de-wittouck-fin-f%C3%A9vrier-2026/",
       "pubDate": "2026-02-27T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -154,7 +154,7 @@
     {
       "id": "6a1dbadfc435",
       "title": "Productivité et qualité",
-      "description": "Comment concilier l’augmentation de la productivité grâce à des outils comme les LLM avec le maintien d’une qualité élevée ? C’est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique. La délégation, ce serpent de mer Quand on parle de l’état du marché du…",
+      "description": "Comment concilier l’augmentation de la productivité grâce à des outils comme les LLM avec le maintien d’une qualité élevée ? C’est la question que je me pose depuis un moment, et je pense que nous sommes à un tournant critique. La délégation, ce serpent de mer Quand on parle de l’état du marché du numérique, on parle souvent de productivité. Et on entend des discours comme : Grâce aux LLM, on a remplacé trois juniors par un seul senior. Il n’a plus qu’à relire et valider le travail généré. On a…",
       "link": "https://boris.schapira.dev/notes/2026-02-productivite-qualite/\n",
       "pubDate": "2026-02-26T23:00:00.000Z",
       "source": "Boris Schapira",
@@ -327,7 +327,7 @@
     {
       "id": "6007a2b34f02",
       "title": "Ne confondez pas dette technique et préférence personnelle",
-      "description": "Quand on évolue dans la tech, on entend souvent parler de « dette technique ». Je trouve ce terme assez galvaudé, car souvent, lorsque l’on me parle de dette technique, ce que l’on m’explique c’est que le code ne correspond pas au « standard » du développeur qui en parle. Ce billet a été…",
+      "description": "Quand on évolue dans la tech, on entend souvent parler de « dette technique ». Je trouve ce terme assez galvaudé, car souvent, lorsque l’on me parle de dette technique, ce que l’on m’explique c’est que le code ne correspond pas au « standard » du développeur qui en parle. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Qui n’a jamais rencontré cette situation ? Un…",
       "link": "https://www.jdecool.fr/blog/2026/02/25/ne-confondez-pas-dette-technique-et-preference-personnelle.html",
       "pubDate": "2026-02-24T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -341,7 +341,7 @@
     {
       "id": "24c9cc992c51",
       "title": "NixOS, ou comment j'ai arrêté de bricoler mon Linux",
-      "description": "Une belle histoire Debian, on connaît tous. Mère de nombreuses distributions modernes, je l’utilise depuis 13 ans. Rien qu’avec cette phrase, j’ai pris un coup de vieux. J’ai débuté avec Debian stable, en supprimant le dual boot pour me forcer à rester sous Linux. Après un passage sous Ubuntu, je…",
+      "description": "Une belle histoire Debian, on connaît tous. Mère de nombreuses distributions modernes, je l’utilise depuis 13 ans. Rien qu’avec cette phrase, j’ai pris un coup de vieux. J’ai débuté avec Debian stable, en supprimant le dual boot pour me forcer à rester sous Linux. Après un passage sous Ubuntu, je suis revenu sur Debian testing, qui cochait toutes les cases : ça marche, les paquets sont récents, pas de question à se poser.",
       "link": "https://www.damyr.fr/p/nixos-ou-comment-jai-arr%C3%AAt%C3%A9-de-bricoler-mon-linux/",
       "pubDate": "2026-02-24T19:20:05.000Z",
       "source": "Damyr",
@@ -386,7 +386,7 @@
     {
       "id": "50a89749b400",
       "title": "La Suite Numérique : Comment la France reprend le contrôle ?",
-      "description": "Bye-bye les GAFAM - Pourquoi et comment l’État français développe-t-il ses propres outils numériques en Open Source ? Dans cet épisode de À la French, Mehdi, JB et Steeve reçoivent Samuel Paccoud, le cerveau technique derrière le projet ambitieux : \"La Suite\". 🇫🇷 L'État peut-il (enfin) se passer…",
+      "description": "Bye-bye les GAFAM - Pourquoi et comment l’État français développe-t-il ses propres outils numériques en Open Source ? Dans cet épisode de À la French, Mehdi, JB et Steeve reçoivent Samuel Paccoud, le cerveau technique derrière le projet ambitieux : \"La Suite\". 🇫🇷 L'État peut-il (enfin) se passer des géants du Web ? Ancien CTO de FUN (France Université Numérique), Samuel nous dévoile les coulisses d'une révolution silencieuse : celle où l'administration devient éditeur de logiciels pour…",
       "link": "https://shows.acast.com/a-la-french/episodes/699d8979f5c7a684d743be89",
       "pubDate": "2026-02-24T11:20:25.000Z",
       "source": "A la French",
@@ -435,7 +435,7 @@
     {
       "id": "549d8b9c2db2",
       "title": "Alternatives à MinIO en 2026 : SeaweedFS, RustFS, Garage, CubeFS ou Ceph ?",
-      "description": "Contexte : MinIO passe en maintenance modeMinIO était la référence pour le stockage objet open source, utilisé massivement par des clusters Kubernetes, pipelines CI/CD, data lakes, et des solutions SaaS. Le 3 décembre 2025, l’annonce tombe via le README du répertoire GitHub : le projet MinIO passe…",
+      "description": "Contexte : MinIO passe en maintenance modeMinIO était la référence pour le stockage objet open source, utilisé massivement par des clusters Kubernetes, pipelines CI/CD, data lakes, et des solutions SaaS. Le 3 décembre 2025, l’annonce tombe via le README du répertoire GitHub : le projet MinIO passe en “maintenance mode”. Concrètement, cela signifie la fin du développement de nouvelles fonctionnalités et l’arrêt de l’acceptation des pull requests communautaires. Une décision commerciale qui peut…",
       "link": "https://blog.cockpitio.com/cloud/minio-maintenance-mode-migration-ceph-alternatives/",
       "pubDate": "2026-02-24T07:00:00.000Z",
       "source": "Cockpit io",
@@ -451,7 +451,7 @@
     {
       "id": "f3483199ae66",
       "title": "Pourquoi j'apprends Rust en 2026",
-      "description": "J'avais appris juste assez de Rust il y a quelques années pour hocher la tête dans les conversations, lire un peu de code, ressentir une vague culpabilité, et passer à autre chose. Je ne l'avais jamais vraiment utilisé. Et maintenant, en 2026, j'y reviens volontairement. Ce qui semble un peu…",
+      "description": "J'avais appris juste assez de Rust il y a quelques années pour hocher la tête dans les conversations, lire un peu de code, ressentir une vague culpabilité, et passer à autre chose. Je ne l'avais jamais vraiment utilisé. Et maintenant, en 2026, j'y reviens volontairement. Ce qui semble un peu contre-intuitif, parce qu'on est à l'ère où les assistants de code peuvent générer une implémentation plausible de presque n'importe quoi en quelques secondes. Si la machine peut écrire du Rust à ta place,…",
       "link": "https://lostinbrittany.dev/fr/pourquoi-japprends-rust-en-2026/",
       "pubDate": "2026-02-24T00:00:00.000Z",
       "source": "Lost in Brittany (Horacio Gonzalez)",
@@ -593,7 +593,7 @@
     {
       "id": "9a6723b5620f",
       "title": "L’Histoire du Deep Learning : quand les machines ont commencé à apprendre",
-      "description": "Le deep learning est aujourd’hui omniprésent dans les systèmes de vision, de langage et de recommandation. Pourtant, son succès est relativement récent à l’échelle de l’informatique. Pendant plusieurs décennies, les réseaux",
+      "description": "Histoire du deep learning : du perceptron aux Transformers, comprendre les ruptures techniques et l’évolution des architectures IA modernes.",
       "link": "https://blog.ippon.fr/2026/02/20/lhistoire-du-deep-learning-quand-les-machines-ont-commence-a-apprendre/",
       "pubDate": "2026-02-20T15:40:35.000Z",
       "source": "Ippon Technologies",
@@ -624,7 +624,7 @@
     {
       "id": "15fa5c248e78",
       "title": "MACI #154 - IA, veille techno et société - Avec Sébastien Prunier de SERLI",
-      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui…",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui redéfinissent la manière de concevoir des outils pour développeurs. L’épisode interroge aussi les conséquences de ces usages sur l’enseignement du code et la formation des nouvelles générations, avant…",
       "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-154-ia-veille-techno-et-societe-avec-sebastien-prunier-de-serli",
       "pubDate": "2026-02-20T06:30:00.000Z",
       "source": "Message à caractère informatique",
@@ -642,7 +642,7 @@
     {
       "id": "8bf0cf8a59a9",
       "title": "Optimiser les perfs et la sécurité d'un site Hugo",
-      "description": "Sur les bons conseils du pote Antoine Caron, j’ai pris le temps cette semaine d’optimiser un peu mon site. Ce site que vous êtes en train de lire est un site statique, buildé avec Hugo. J’avais déjà un peu travaillé la compression des différentes ressources, principalement les illustrations, mais…",
+      "description": "Sur les bons conseils du pote Antoine Caron, j’ai pris le temps cette semaine d’optimiser un peu mon site. Ce site que vous êtes en train de lire est un site statique, buildé avec Hugo. J’avais déjà un peu travaillé la compression des différentes ressources, principalement les illustrations, mais je m’étais arrêté à ça. Dans cet article, je détaille comment j’ai optimisé le build de ce site, pour minimiser les temps de chargement, et comment j’ai amélioré sa sécurité en suivant les bonnes…",
       "link": "https://codeka.io/2026/02/20/optimiser-les-perfs-et-la-s%C3%A9curit%C3%A9-dun-site-hugo/",
       "pubDate": "2026-02-20T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -764,7 +764,7 @@
     {
       "id": "6d59d235116c",
       "title": "Du développement à l’orchestration : comment l’IA redéfinit nos métiers",
-      "description": "Chez Les-Tilleuls.coop, nous avons toujours à cœur d’explorer les technologies émergentes pour comprendre comment elles peuvent servir nos clients, mais aussi comment elles transforment notre propre quotidien. Récemment, nous nous sommes réunis pour un partage d’usages autour des LLM (Large…",
+      "description": "Chez Les-Tilleuls.coop, nous avons toujours à cœur d’explorer les technologies émergentes pour comprendre comment elles peuvent servir nos clients, mais aussi comment elles transforment notre propre quotidien. Récemment, nous nous sommes réunis pour un partage d’usages autour des LLM (Large Language Models). Loin du hype marketing, nous avons discuté concrètement : qu’est-ce qui marche ? […] L’article Du développement à l’orchestration : comment l’IA redéfinit nos métiers est apparu en premier…",
       "link": "https://les-tilleuls.coop/blog/du-developpement-a-lorchestration-comment-lia-redefinit-nos-metiers",
       "pubDate": "2026-02-18T14:29:16.000Z",
       "source": "Les-Tilleuls.coop",
@@ -827,7 +827,7 @@
     {
       "id": "0371d13d6650",
       "title": "Spec-Driven Development (SDD) : de la spécification au code avec l’IA (exemple complet avec Kiro)",
-      "description": "Découvrez le Spec-Driven Development (SDD) et comment l’IA, avec Kiro, transforme une spécification en code structuré et vérifié par les tests.",
+      "description": "Qu’est-ce que le Spec-Driven Development (SDD) ? Découvrez comment passer de la spécification au code, aux tâches et aux tests, avec l’IA et un exemple complet avec Kiro.",
       "link": "https://blog.ippon.fr/2026/02/18/spec-driven-development/",
       "pubDate": "2026-02-18T07:47:00.000Z",
       "source": "Ippon Technologies",
@@ -843,7 +843,7 @@
     {
       "id": "4f4362f6a61a",
       "title": "#347.src - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer avec Pierre Lemaire",
-      "description": "\"Il n'y a qu'une seule chose qui m'intéresse dans ce que je fais, c'est l'utilité.\" Le D.E.V. de la semaine est Pierre Lemaire, Startup Builder chez Hexa. Cet épisode revient sur la montée du Vibe Coding, ces nouvelles pratiques où l'on crée des MVPs bluffants sans pour autant être un dev…",
+      "description": "\"Il n'y a qu'une seule chose qui m'intéresse dans ce que je fais, c'est l'utilité.\" Le D.E.V. de la semaine est Pierre Lemaire, Startup Builder chez Hexa. Cet épisode revient sur la montée du Vibe Coding, ces nouvelles pratiques où l'on crée des MVPs bluffants sans pour autant être un dev &lsquofull stack'. Pierre partage sa vision : valider des idées, apprendre sur le terrain, itérer vite&hellip tout en réaffirmant l'importance de l'expertise métier, même dans un monde boosté par l'IA. Il…",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-347-82cd87000c97",
       "pubDate": "2026-02-18T04:00:53.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -861,7 +861,7 @@
     {
       "id": "2d425c903f79",
       "title": "Touraine Tech 2026 - Voyage au pays de la rillette",
-      "description": "Dans ma tournée des conférences tech de France pour jouer à Factorio, je suis passé par Touraine Tech, la semaine dernière. Comme toujours, c’est l’occasion de faire de nouvelles rencontres et de croiser les autres speakeuses et speakers. Voici donc le récap de ma visite à Touraine Tech, pour cette…",
+      "description": "Dans ma tournée des conférences tech de France pour jouer à Factorio, je suis passé par Touraine Tech, la semaine dernière. Comme toujours, c’est l’occasion de faire de nouvelles rencontres et de croiser les autres speakeuses et speakers. Voici donc le récap de ma visite à Touraine Tech, pour cette 8ᵉ édition, mais la première pour moi.",
       "link": "https://codeka.io/2026/02/18/touraine-tech-2026-voyage-au-pays-de-la-rillette/",
       "pubDate": "2026-02-18T00:00:00.000Z",
       "source": "Codeka (Julien Wittouck)",
@@ -891,7 +891,7 @@
     {
       "id": "dce0234eb937",
       "title": "News Février 2026, du WebMCP, des agents spammeurs et du Markdown.",
-      "description": "Nous évoquons l'arrivée des WebMCP, l'option Cloudflare qui permet de retourner du markdown sur une requête, NativePHP qui devient open-source et gratuit, un jeu éducatif pour les enfants, TransformerJS qui arrive en V4, les projets open-source qui se font spammer et la perte de confiance des…",
+      "description": "Nous évoquons l'arrivée des WebMCP, l'option Cloudflare qui permet de retourner du markdown sur une requête, NativePHP qui devient open-source et gratuit, un jeu éducatif pour les enfants, TransformerJS qui arrive en V4, les projets open-source qui se font spammer et la perte de confiance des marchés envers les SaaS. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-fev26/",
       "link": "https://double-slash.dev/podcasts/news-fev26/",
       "pubDate": "2026-02-18T00:00:00.000Z",
       "source": "Double Slash",
@@ -908,7 +908,7 @@
     {
       "id": "9f400246f07c",
       "title": "Boring technology: les bases de données relationnelles",
-      "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des…",
+      "description": "La semaine dernière, j’évoquais les « boring technologies » et le fait qu’elles soient sous-cotées dans l’esprit collectif. Les bases de données relationnelles et le langage SQL en sont probablement l’exemple le plus courant. Très largement utilisées dans les projets nécessitant de stocker des informations, elles sont pourtant régulièrement boudées par les développeurs au premier problème. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est…",
       "link": "https://www.jdecool.fr/blog/2026/02/18/boring-technology-les-bases-de-donnees-relationnelles.html",
       "pubDate": "2026-02-17T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -922,7 +922,7 @@
     {
       "id": "77806009a0c3",
       "title": "Pourquoi on a créé le format PDF ?",
-      "description": "Quand est-ce qu'il a été créé ? Par qui ? Et surtout pour résoudre quels problèmes ? Notes de l'épisode : Le sponsor : https://www.secretpdf.io/ Combien de PDF créé chaque jour ? : https://www.secretpdf.io/blog/how-many-pdfs-are-generated-every-day Notre référentiel des écoles de code :…",
+      "description": "Quand est-ce qu'il a été créé ? Par qui ? Et surtout pour résoudre quels problèmes ? Notes de l'épisode : Le sponsor : https://www.secretpdf.io/ Combien de PDF créé chaque jour ? : https://www.secretpdf.io/blog/how-many-pdfs-are-generated-every-day Notre référentiel des écoles de code : https://code-garage.com/schools/search",
       "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Pourquoi-on-a-cr-le-format-PDF-e3f7baj",
       "pubDate": "2026-02-17T14:45:28.000Z",
       "source": "Code-Garage (Podcast)",
@@ -969,7 +969,7 @@
     {
       "id": "7678cb2b0026",
       "title": "IA: Pourquoi la taille ne compte plus ?",
-      "description": "Peut-on battre les modèles de Google ou Meta avec seulement 4 GPU et une disquette Zip ? C’est le pari fou de notre invité.e qui nous explique comment le \"Data Design\" est en train de ringardiser le scraping massif du web. 🥖 L'IA qui tient sur une disquette : La fin du gigantisme ? Dans cet…",
+      "description": "Peut-on battre les modèles de Google ou Meta avec seulement 4 GPU et une disquette Zip ? C’est le pari fou de notre invité.e qui nous explique comment le \"Data Design\" est en train de ringardiser le scraping massif du web. 🥖 L'IA qui tient sur une disquette : La fin du gigantisme ? Dans cet épisode, on plonge dans le coeur de l'IA souveraine : pourquoi la qualité des données (tokens) prime sur la quantité, et comment les Small Language Models (SLM) vont permettre de décentraliser…",
       "link": "https://shows.acast.com/a-la-french/episodes/69944a418b7fe5457d2b6267",
       "pubDate": "2026-02-17T11:00:16.000Z",
       "source": "A la French",
@@ -1017,7 +1017,7 @@
     {
       "id": "84b1c33cbb19",
       "title": "Cloud Native Days France 2026 : notre retour d'expérience",
-      "description": "Crédit ©Hopimage 1. IntroductionLe 3 février 2026, l’équipe Cockpit io s’est rendue au Cloud Native Days France 2026, l’événement incontournable de la communauté Cloud Native francophone. Cette journée a été l’occasion de découvrir les dernières tendances, d’assister à des retours d’expérience…",
+      "description": "Crédit ©Hopimage 1. IntroductionLe 3 février 2026, l’équipe Cockpit io s’est rendue au Cloud Native Days France 2026, l’événement incontournable de la communauté Cloud Native francophone. Cette journée a été l’occasion de découvrir les dernières tendances, d’assister à des retours d’expérience concrets et d’échanger avec des acteurs majeurs de l’écosystème. Entre talks techniques, tables rondes et moments de convivialité, voici notre retour sur cette édition riche en enseignements. 2. Keynote…",
       "link": "https://blog.cockpitio.com/events/cloud-native-days-france-2026/",
       "pubDate": "2026-02-16T23:00:00.000Z",
       "source": "Cockpit io",
@@ -1048,7 +1048,7 @@
     {
       "id": "d0ea2691034b",
       "title": "Une journée (riche) aux Cloud Native Days France 2026 (Partie 2/2)",
-      "description": "Nous sommes heureux de vous retrouver sur ce deuxième article dédié à la journée que nous avons passée lors des Cloud Native Days. Enchainons tout de suite sur 3 autres conférences qui nous ont marquées REX Sellsy",
+      "description": "Retour sur les Cloud Native Days 2026 : migrations massives, Kubernetes multi-tenant et MLOps à l’INSEE pour industrialiser l’IA et le cloud.",
       "link": "https://blog.ippon.fr/2026/02/16/une-journee-riche-aux-cloud-native-days-france-2026-partie-2-2/",
       "pubDate": "2026-02-16T13:00:25.000Z",
       "source": "Ippon Technologies",
@@ -1095,7 +1095,7 @@
     {
       "id": "1a0606d940ab",
       "title": "Liens Tech - Février 2026",
-      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "description": "La sélection du mois : sauvegardes, outils réseau, conversion de fichiers, forge Git et un nouveau protocole VPN open source !",
       "link": "https://domopi.eu/liens-tech-fevrier-2026/",
       "pubDate": "2026-02-16T06:45:21.000Z",
       "source": "DomoPi",
@@ -1109,7 +1109,7 @@
     {
       "id": "c3df7f23a2a2",
       "title": "Des générations et des technologies… et une histoire qui se répète",
-      "description": "Aux environs de l’an 2000, des “amateurs”, parfois lycéens ou étudiants, sortaient des sites web, en PHP. C’était souvent vite fait1, c’était facile à mettre en place, les technologies étaient plutôt accessibles — vous vous souvenez des FAI qui proposaient un hébergement PHP + MySQL à leurs abonnés…",
+      "description": "Aux environs de l’an 2000, des “amateurs”, parfois lycéens ou étudiants, sortaient des sites web, en PHP. C’était souvent vite fait1, c’était facile à mettre en place, les technologies étaient plutôt accessibles — vous vous souvenez des FAI qui proposaient un hébergement PHP + MySQL à leurs abonnés ? Et ça marchait. Bon, modulo les failles de sécurité. Et l’absence de backups. J’ai même un peu commencé à cette époque2 😉",
       "link": "https://blog.pascal-martin.fr/post/generations-et-technologies-histoire-se-repete/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/generations-et-technologies-histoire-se-repete/",
       "pubDate": "2026-02-16T00:00:00.000Z",
       "source": "Pascal Martin",
@@ -1139,7 +1139,7 @@
     {
       "id": "eac026cc4450",
       "title": "Simplifier vos objets immuables avec PHP 8.5",
-      "description": "PHP 8.5 a été publié le 20 novembre 2025 et, dans les nouvelles fonctionnalités proposées par cette version, on trouve notamment la possibilité de mettre à jour des propriétés lors du clonage d’objets. Une amélioration qui va permettre de simplifier nos objets immuables. En programmation orientée…",
+      "description": "PHP 8.5 a été publié le 20 novembre 2025 et, dans les nouvelles fonctionnalités proposées par cette version, on trouve notamment la possibilité de mettre à jour des propriétés lors du clonage d’objets. Une amélioration qui va permettre de simplifier nos objets immuables. En programmation orientée objet, un objet immuable est un objet dont l’état ne peut pas être modifié après sa création. Ainsi, toute “modification” visant à changer l’état de ce dernier conduit à la création d’une nouvelle…",
       "link": "https://www.jdecool.fr/blog/2026/02/16/simplifier-vos-objets-immuables-avec-php-8-5.html",
       "pubDate": "2026-02-15T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -1224,7 +1224,7 @@
     {
       "id": "21aaf30e6706",
       "title": "Ce site est de retour en France",
-      "description": "Cela fait plusieurs années que je m’intéresse beaucoup à la souveraineté numérique et la dépendance technologique que l’on peut avoir (principalement concentré sur des acteurs américains). J’en parlais dans un précédent article, mais à ce titre, je souhaite réduire ma dépendance aux GAFAM au profit…",
+      "description": "Cela fait plusieurs années que je m’intéresse beaucoup à la souveraineté numérique et la dépendance technologique que l’on peut avoir (principalement concentré sur des acteurs américains). J’en parlais dans un précédent article, mais à ce titre, je souhaite réduire ma dépendance aux GAFAM au profit d’acteurs français (ou européens). J’ai l’année dernière quitté la galaxie Google pour basculer chez Proton. Toutes mes applications et serveurs sont actuellement hébergés chez Scaleway avec les noms…",
       "link": "https://www.jdecool.fr/blog/2026/02/14/ce-site-est-de-retour-en-france.html",
       "pubDate": "2026-02-13T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -1268,7 +1268,7 @@
     {
       "id": "f16771403d7c",
       "title": "Une journée (riche) aux Cloud Native Days France 2026 (Partie 1/2)",
-      "description": "Le mardi 3 Février 2026, Ippon Technologies était présente au Cloud Native Days France (anciennement Kubernetes Community Days) le salon du Cloud Native, du DevOps et de la souveraineté 3 ans après la première édition en 2023. L&",
+      "description": "Retour sur le Cloud Native Days 2026 : souveraineté numérique, open source, Kubernetes et retours d’expérience du CERN, DINUM, Scaleway et plus.",
       "link": "https://blog.ippon.fr/2026/02/13/une-journee-riche-aux-cloud-native-days-france-2026-partie-1-2/",
       "pubDate": "2026-02-13T13:44:42.000Z",
       "source": "Ippon Technologies",
@@ -1297,7 +1297,7 @@
     {
       "id": "d7a8e286ef7e",
       "title": "MACI #153 - LLM mobile, open source et jQuery 4 - Avec David Caussinus",
-      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent une série d’actualités techniques qui illustrent l’évolution rapide de l’écosystème logiciel. Nous parlons d’Adventure Log et de nouveaux usages orientés produit, d’OpenClaw et de l’automatisation via des agents, avant de…",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent une série d’actualités techniques qui illustrent l’évolution rapide de l’écosystème logiciel. Nous parlons d’Adventure Log et de nouveaux usages orientés produit, d’OpenClaw et de l’automatisation via des agents, avant de nous pencher sur LMF 2.5, un LLM exécutable directement sur smartphone, et ce que cela change pour l’IA embarquée. L’épisode revient enfin sur un moment symbolique du web : la sortie de jQuery 4.0,…",
       "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-153-llm-mobile-open-source-et-jquery-4-avec-david-caussinus",
       "pubDate": "2026-02-13T06:30:00.000Z",
       "source": "Message à caractère informatique",
@@ -1395,7 +1395,7 @@
     {
       "id": "fe74b585a51f",
       "title": "Savoir jusqu'où utiliser les \"boring technologies\"",
-      "description": "Je milite activement pour l’utilisation des « boring technologies », les technologies ennuyeuses, mais maîtrisées par rapport aux solutions « tendances ». Le plus dur étant de savoir où s’arrêter et de déterminer à quel moment il est temps de changer de solutions. Ce billet a été initialement…",
+      "description": "Je milite activement pour l’utilisation des « boring technologies », les technologies ennuyeuses, mais maîtrisées par rapport aux solutions « tendances ». Le plus dur étant de savoir où s’arrêter et de déterminer à quel moment il est temps de changer de solutions. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Choisir une technologie « ennuyante », c’est par exemple…",
       "link": "https://www.jdecool.fr/blog/2026/02/12/savoir-jusqu-ou-utiliser-les-boring-technologies.html",
       "pubDate": "2026-02-11T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -1409,7 +1409,7 @@
     {
       "id": "b7d2b5b594e6",
       "title": "Notre retour sur Cloud Native Days 2026",
-      "description": "Une partie de notre équipe SRE s’est rendue au Cloud Native Days France 2026 au CENTQUATRE-PARIS, un lieu bien adapté pour accueillir les quelque 2000 participants. Le programme à l’affiche était fort intéressant, découvrez avec nous quelques conférences et thématiques qui nous ont marquées lors de…",
+      "description": "Une partie de notre équipe SRE s’est rendue au Cloud Native Days France 2026 au CENTQUATRE-PARIS, un lieu bien adapté pour accueillir les quelque 2000 participants. Le programme à l’affiche était fort intéressant, découvrez avec nous quelques conférences et thématiques qui nous ont marquées lors de cette journée. Mise à jour du 19 février : […] L’article Notre retour sur Cloud Native Days 2026 est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/notre-retour-sur-cloud-native-days-2026",
       "pubDate": "2026-02-11T14:00:32.000Z",
       "source": "Les-Tilleuls.coop",
@@ -1425,7 +1425,7 @@
     {
       "id": "2c7d75b9d100",
       "title": "#346.src - IA & DevX: Code assisté, valeur humaine préservée avec Jocelyn N'takpe",
-      "description": "\"Il ne faut pas que l'humain se dédouane de son rôle\" Le D.E.V. de la semaine est Jocelyn N'takpe, Head of Engineering et Head of Architecture chez ManoMano. Avec l'explosion des outils IA dans le quotidien des devs, Jocelyn partage comment ManoMano intègre Claude Code, Cursor et JetBrains AI pour…",
+      "description": "\"Il ne faut pas que l'humain se dédouane de son rôle\" Le D.E.V. de la semaine est Jocelyn N'takpe, Head of Engineering et Head of Architecture chez ManoMano. Avec l'explosion des outils IA dans le quotidien des devs, Jocelyn partage comment ManoMano intègre Claude Code, Cursor et JetBrains AI pour amplifier la productivité tout en gardant une culture de la revue humaine. Il alerte sur la nécessité de former les juniors à un usage réfléchi des LLM, pour ne pas casser la chaîne d'apprentissage…",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-346-bc8b48298766",
       "pubDate": "2026-02-11T04:00:52.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1474,7 +1474,7 @@
     {
       "id": "946f5d145622",
       "title": "AutoMapper 10.0: High-performance mapping ready for the future",
-      "description": "This is a major milestone for the library: AutoMapper has reached version 10.0. While our promise remains unchanged — transforming your data from one format to another as fast as possible — this version marks a technological breakthrough. We took advantage of this major release to modernize the…",
+      "description": "This is a major milestone for the library: AutoMapper has reached version 10.0. While our promise remains unchanged — transforming your data from one format to another as fast as possible — this version marks a technological breakthrough. We took advantage of this major release to modernize the core engine and align with the latest Symfony standards: and much more! Under the hood: The arrival of symfony/type-info This is the most impactful invisible change. I have been working on Jane and…",
       "link": "https://jolicode.com/blog/automapper-10-0-high-performance-mapping-ready-for-the-future",
       "pubDate": "2026-02-10T13:42:00.000Z",
       "source": "JoliCode",
@@ -1488,7 +1488,7 @@
     {
       "id": "07c6148c4031",
       "title": "AutoMapper 10.0 : Le mapping haute performance prêt pour le futur",
-      "description": "C’est une étape majeure pour la librairie : AutoMapper passe en version 10.0. Si notre promesse reste inchangée — transformer vos données d'un format à un autre le plus vite possible — cette version marque une rupture technologique. Nous avons profité de cette version majeure pour moderniser le…",
+      "description": "C’est une étape majeure pour la librairie : AutoMapper passe en version 10.0. Si notre promesse reste inchangée — transformer vos données d'un format à un autre le plus vite possible — cette version marque une rupture technologique. Nous avons profité de cette version majeure pour moderniser le cœur du réacteur et s'aligner sur les derniers standards de Symfony et bien plus encore ! Sous le capot : L'arrivée de symfony/type-info C'est le changement invisible le plus impactant. Je travaille sur…",
       "link": "https://jolicode.com/blog/automapper-10-0-le-mapping-haute-performance-pret-pour-le-futur",
       "pubDate": "2026-02-10T13:41:00.000Z",
       "source": "JoliCode",
@@ -1502,7 +1502,7 @@
     {
       "id": "3c0859b30848",
       "title": "L'entrepreneuriat: La Revanche des Techs",
-      "description": "Nvidia, Google, Tesla... La quasi-totalité des géants mondiaux partagent un ADN commun : ils ont été fondés et sont dirigés par des profils techniques, des chercheurs ou des \"dropouts\" en Computer Science. Et en France ? On sépare encore trop souvent deux mondes : ceux qui font de la tech avec de…",
+      "description": "Nvidia, Google, Tesla... La quasi-totalité des géants mondiaux partagent un ADN commun : ils ont été fondés et sont dirigés par des profils techniques, des chercheurs ou des \"dropouts\" en Computer Science. Et en France ? On sépare encore trop souvent deux mondes : ceux qui font de la tech avec de l'argent, et ceux qui font de l'argent avec la tech. Dans ce 8ème épisode de À la French, on s'attaque à un mythe tenace de notre écosystème : l'idée qu'un ingénieur doit rester \"à la cave\" pendant…",
       "link": "https://shows.acast.com/a-la-french/episodes/698b0ea65e0cb52f158eda76",
       "pubDate": "2026-02-10T11:09:49.000Z",
       "source": "A la French",
@@ -1612,7 +1612,7 @@
     {
       "id": "00e827d26cc9",
       "title": "Fragments d'un web adolescent",
-      "description": "J’ai exhumé quelques vieux articles tapés, adolescent, entre 1996 et 1998. Sans éclat à leur époque, ces pages composent, trois décennies plus tard, la chronique d’un temps disparu. Le mot « blog » n’existe pas encore. Wikipédia reste à venir. Google n’a pas vu le jour. AltaVista règne sur les…",
+      "description": "J’ai exhumé quelques vieux articles tapés, adolescent, entre 1996 et 1998. Sans éclat à leur époque, ces pages composent, trois décennies plus tard, la chronique d’un temps disparu. Le mot « blog » n’existe pas encore. Wikipédia reste à venir. Google n’a pas vu le jour. AltaVista règne sur les recherches, tout en peinant déjà à embrasser l’immensité naissante du web1. Pour se rencontrer, il faut s’accorder au préalable et préparer son chemin sur des cartes de papier. 🗺️ Le web s’élance. La…",
       "link": "https://vincent.bernat.ch/fr/blog/2026-anciens-articles",
       "pubDate": "2026-02-08T13:51:44.000Z",
       "source": "Vincent Bernat",
@@ -1703,7 +1703,7 @@
     {
       "id": "86695356ebda",
       "title": "Mon environnement de développement avec mise et chez-moi",
-      "description": "Photo de Anastasia Chepinska sur Unsplash Depuis plusieurs mois, j’utilise différentes machines sous différents OS en fonction de l’activité : ordinateurs personnels sous MacOS ou Fedora (Merci Asahi Linux), et ordinateur professionnel sous Ubuntu 24. Sur chaque environnement, j’installe les mêmes…",
+      "description": "Photo de Anastasia Chepinska sur Unsplash Depuis plusieurs mois, j’utilise différentes machines sous différents OS en fonction de l’activité : ordinateurs personnels sous MacOS ou Fedora (Merci Asahi Linux), et ordinateur professionnel sous Ubuntu 24. Sur chaque environnement, j’installe les mêmes outils à savoir Zed, Neovim ou Intellij pour le développement, 1password comme gestionnaire de mots de passe sans compter Ghostty et zsh pour le terminal. Je suis tombé alors sur une problématique…",
       "link": "https://david.drugeon-hamon.bzh/blog/2026/02/env-dev-avec-mise-et-chezmoi/",
       "pubDate": "2026-02-07T00:00:00.000Z",
       "source": "David Drugeon-Hamon",
@@ -1921,7 +1921,7 @@
     {
       "id": "ead675b77edf",
       "title": "Construire le programme d'une conf avec Yannick Grenzinger",
-      "description": "Yannick kiffe préparer le programme de FlowCon. Mais attends, ça veut dire quoi en fait ? T'es-tu déjà demandé comment était fait le programme d'une conf ? Yannick est clairement passionné, ça s'entend et c'est contagieux. Alors, si tu as envie de savoir pourquoi il fait ça, ce que ça lui apporte…",
+      "description": "Yannick kiffe préparer le programme de FlowCon. Mais attends, ça veut dire quoi en fait ? T'es-tu déjà demandé comment était fait le programme d'une conf ? Yannick est clairement passionné, ça s'entend et c'est contagieux. Alors, si tu as envie de savoir pourquoi il fait ça, ce que ça lui apporte et comment tu pourrais toi aussi d'impliquer dans une conf, écoute cet épisode. https://www.linkedin.com/in/yannickgrenzinger/ https://www.youtube.com/@flowconfrance Hébergé par Ausha. Visitez…",
       "link": "https://podcast.ausha.co/artisan-developpeur/construire-le-programme-d-une-conf-avec-yannick-grenzinger",
       "pubDate": "2026-02-04T08:00:23.000Z",
       "source": "Artisan Développeur",
@@ -1969,7 +1969,7 @@
     {
       "id": "f6a05e1c13ba",
       "title": "#345.src - Les pièges du CTO: La lucidité, l'arme secrète du CTO avec Jean-Marc Leglise",
-      "description": "\"il faut être convaincu de la valeur humaine\" Le D.E.V. de la semaine est Jean-Marc Leglise, CTO et accompagnateur de CTOs. Avec 25 ans d'expérience et CTO depuis 15 ans, Jean-Marc partage son parcours : des petites équipes aux organisations IT de 120 personnes, il a appris à naviguer entre…",
+      "description": "\"il faut être convaincu de la valeur humaine\" Le D.E.V. de la semaine est Jean-Marc Leglise, CTO et accompagnateur de CTOs. Avec 25 ans d'expérience et CTO depuis 15 ans, Jean-Marc partage son parcours : des petites équipes aux organisations IT de 120 personnes, il a appris à naviguer entre technique et management. Au fil de l'épisode, il aborde les réalités peu partagées du métier : pression constante, décisions sous contraintes, pièges à éviter et lucidité à conserver. Son credo, appris \"the…",
       "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-345-453be1a0c555",
       "pubDate": "2026-02-04T04:00:34.000Z",
       "source": "IFTTD - If This Then Dev",
@@ -1987,7 +1987,7 @@
     {
       "id": "195cfd76b550",
       "title": "Siloter les équipes, c'est effriter la cohésion",
-      "description": "J’évoque régulièrement la thématique du silotage des équipes. Aujourd’hui, j’aimerais revenir sur les barrières invisibles que cela crée pour la collaboration et le partage des connaissances. Découper les équipes, les isoler, c’est faire en sorte que ces dernières puissent se concentrer sur leur…",
+      "description": "J’évoque régulièrement la thématique du silotage des équipes. Aujourd’hui, j’aimerais revenir sur les barrières invisibles que cela crée pour la collaboration et le partage des connaissances. Découper les équipes, les isoler, c’est faire en sorte que ces dernières puissent se concentrer sur leur périmètre. Mais c’est aussi complexifier et réduire les interactions avec les autres équipes. Moins de communication, c’est plus d’incompréhensions. On perd ainsi progressivement la vision globale où…",
       "link": "https://www.jdecool.fr/blog/2026/02/04/siloter-les-equipes-c-est-effriter-la-cohesion.html",
       "pubDate": "2026-02-03T23:00:00.000Z",
       "source": "Jérémy Decool",
@@ -2017,7 +2017,7 @@
     {
       "id": "615a895b7e7c",
       "title": "Le Web Agentique",
-      "description": "\"C'est pas une révolution. Il faut arrêter de dire que c'est incroyable. Quand on ouvre le capot, on voit plus de scotch que de tuyau.\" 🛠️ Bienvenue dans un nouvel épisode de A la French ! 🇫🇷 Après le Vibe Coding, on s'attaque à l'autre gros Buzzword du moment : le Web Agentique et les Agents…",
+      "description": "\"C'est pas une révolution. Il faut arrêter de dire que c'est incroyable. Quand on ouvre le capot, on voit plus de scotch que de tuyau.\" 🛠️ Bienvenue dans un nouvel épisode de A la French ! 🇫🇷 Après le Vibe Coding, on s'attaque à l'autre gros Buzzword du moment : le Web Agentique et les Agents IA. Est-ce le Web 4.0 ou juste un rebranding marketing pour vendre du rêve ? Avec Mehdi, JB (VLC) et Steeve, on débunque la hype pour regarder ce qui se passe vraiment sous le capot (et spoiler : c'est…",
       "link": "https://shows.acast.com/a-la-french/episodes/6981d43119ef991f73993f5a",
       "pubDate": "2026-02-03T10:55:44.000Z",
       "source": "A la French",
