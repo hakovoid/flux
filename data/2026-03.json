@@ -2,6 +2,55 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2a9ecf68bc49",
+      "title": "Café Tech avec Imen est en direct de SymfonyLive Paris avec Paola de Symfony  !",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=N0cN1Hc8t0U",
+      "pubDate": "2026-03-27T15:41:09.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/N0cN1Hc8t0U/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "N0cN1Hc8t0U"
+    },
+    {
+      "id": "4cb78f4267c3",
+      "title": "Café Tech avec Imen est en direct de SymfonyLive Paris 2026 avec Benjamin zaslavsky !",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=OgjvBiehCwQ",
+      "pubDate": "2026-03-27T14:10:45.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/OgjvBiehCwQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OgjvBiehCwQ"
+    },
+    {
+      "id": "82fad7cc311a",
+      "title": "NuxtJS, le framework Vue avec des super-pouvoirs !",
+      "description": "Découvrez pourquoi apprendre NuxtJS vous permet de passer de Vue à un framework complet avec SSR, SEO, routing automatique et performances optimisées. Notes de l'épisode : Bibliothèque vs Framework : https://code-garage.com/podcast/classic/episode-11 Cours complet NuxtJS :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/NuxtJS--le-framework-Vue-avec-des-super-pouvoirs-e3h1ql4",
+      "pubDate": "2026-03-27T09:00:08.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117549156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F0e49bdad-ed73-e5d7-2cab-51e361fd3050.mp3",
+      "duration": "00:12:19"
+    },
+    {
       "id": "b34409025030",
       "title": "MACI #157 - PostgreSQL, Redis et React - Avec Ludovic Dussart de Zatsit",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique, nos invités parcourent plusieurs actualités techniques autour des bases de données, de l’open source et des outils développeurs. Nous parlons des évolutions de PostgreSQL et MySQL, du sharding avec PgDog, et de la fin de vie de certaines…",
@@ -36,6 +85,37 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8af292f4-9d4f-4f3f-b226-b617f0a5ec50.mp3?_=1774530150",
       "duration": "12:29"
+    },
+    {
+      "id": "1f63d3ab2922",
+      "title": "La veille de Wittouck - Fin mars 2026",
+      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur…",
+      "link": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/",
+      "pubDate": "2026-03-27T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/cover_hu_2d8aab1631788c76.webp",
+      "type": "blog"
+    },
+    {
+      "id": "62b7057e18dd",
+      "title": "TNT",
+      "description": "Les garçons sont à fond dans leur partie en coop de Minecraft en mode survie, ce qui donne des conversations d’initiés comme : – Si on collecte un bâton de Blaze, on le transforme en poudre, comme ça après on fait un oeil de l’End en mélangeant avec une perle. Dans ces moments-là, je suis un peu…",
+      "link": "https://boris.schapira.dev/notes/2026-03-tnt/\n",
+      "pubDate": "2026-03-26T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "5fcbb38c82cc",
