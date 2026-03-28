@@ -20,7 +20,7 @@
     {
       "id": "d330477eb015",
       "title": "Postfix minimal sur un serveur dédié Debian 13",
-      "description": "Postfix minimal sur un serveur dédié Debian 13 {align=right} [Postfix][1] est un serveur mail, et plus exactement un MTA (Mail Transfer Agent). Il gère l'envoi et la réception de mails par Internet en utilisant le protocole SMTP. Le monde de l'Open Source offre toute une panoplie de MTA, parmi…",
+      "description": "Postfix minimal sur un serveur dédié Debian 13 {align=right} [Postfix][1] est un serveur mail, et plus exactement un MTA (Mail Transfer Agent). Il gère l'envoi et la réception de mails par Internet en utilisant le protocole SMTP. Le monde de l'Open Source offre toute une panoplie de MTA, parmi lesquels on trouve Postfix, Exim, Qmail et Sendmail.",
       "link": "https://www.microlinux.fr/blog/debian-13-postfix-minimal/",
       "pubDate": "2026-01-31T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -35,7 +35,7 @@
     {
       "id": "1215144a7689",
       "title": "Déployer Clawdbot (OpenClaw) chez Cloudflare avec Moltworker",
-      "description": "Dans cette vidéo, je t’explique comment installer et déployer Clawdbot (OpenClaw) sur Cloudflare Workers en utilisant Moltworker, la solution idéale pour exécuter des agents IA rapidement, de manière sécurisée et scalable. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter :…",
+      "description": "Dans cette vidéo, je t’explique comment installer et déployer Clawdbot (OpenClaw) sur Cloudflare Workers en utilisant Moltworker, la solution idéale pour exécuter des agents IA rapidement, de manière sécurisée et scalable. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP : http://bit.ly/php-course-fr ★ Les…",
       "link": "https://www.youtube.com/watch?v=amJXaVqp7vA",
       "pubDate": "2026-01-30T17:38:51.000Z",
       "source": "Pentiminax (YouTube)",
@@ -115,7 +115,7 @@
     {
       "id": "8b55c907919c",
       "title": "Pare-feu avec FirewallD sur un serveur Debian 13",
-      "description": "Pare-feu avec FirewallD sur un serveur Debian 13 {align=right} [FirewallD][1] est un système de pare-feu principalement utilisé sur les systèmes Fedora et Red Hat Enterprise Linux et toutes les distributions dérivées de cette dernière comme Rocky Linux, AlmaLinux et Oracle Linux. On le trouve…",
+      "description": "Pare-feu avec FirewallD sur un serveur Debian 13 {align=right} [FirewallD][1] est un système de pare-feu principalement utilisé sur les systèmes Fedora et Red Hat Enterprise Linux et toutes les distributions dérivées de cette dernière comme Rocky Linux, AlmaLinux et Oracle Linux. On le trouve également sur d'autres distributions comme OpenSUSE et Debian.",
       "link": "https://www.microlinux.fr/blog/debian-13-firewalld/",
       "pubDate": "2026-01-30T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -161,7 +161,7 @@
     {
       "id": "59ab6b2cc8d4",
       "title": "Clawdbot / Moltbot / OpenClaw : Installation propre, rapide et sécurisée 🛡️",
-      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Découvrez Clawdbot, l’un des outils IA les plus puissants du moment 🤖 Dans cette vidéo, je vous montre comment installer Clawdbot proprement, l’utiliser efficacement, et…",
+      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Découvrez Clawdbot, l’un des outils IA les plus puissants du moment 🤖 Dans cette vidéo, je vous montre comment installer Clawdbot proprement, l’utiliser efficacement, et surtout éviter les erreurs de sécurité courantes ⚠️ Liens utiles : ▶️ https://www.molt.bot/ 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les…",
       "link": "https://www.youtube.com/watch?v=FNy-fa0aSn4",
       "pubDate": "2026-01-29T15:00:32.000Z",
       "source": "Pentiminax (YouTube)",
@@ -191,7 +191,7 @@
     {
       "id": "962885e9f3ac",
       "title": "Vos requêtes SQL 10 000× plus rapides ⚡",
-      "description": "Vos requêtes SQL peuvent être beaucoup (beaucoup) plus rapides ⚡ Jusqu’à 10 000× plus rapides, et surtout du-ra-ble-ment ! Dans cet extrait, Alain Lesage (Consultant PostgreSQL chez Dalibo) rappelle une vérité simple : PostgreSQL n’est pas magique. Les performances ne tombent jamais du ciel. Elles…",
+      "description": "Vos requêtes SQL peuvent être beaucoup (beaucoup) plus rapides ⚡ Jusqu’à 10 000× plus rapides, et surtout du-ra-ble-ment ! Dans cet extrait, Alain Lesage (Consultant PostgreSQL chez Dalibo) rappelle une vérité simple : PostgreSQL n’est pas magique. Les performances ne tombent jamais du ciel. Elles se construisent, entre autres, grâce à : • une bonne compréhension du MVCC (Multiversion concurrency control) • l’impact réel de l’architecture matérielle sur les performances • les paramètres…",
       "link": "https://www.youtube.com/watch?v=n4LGJ2Q1Zzk",
       "pubDate": "2026-01-29T08:53:19.000Z",
       "source": "Devoxx France (YouTube)",
@@ -240,7 +240,7 @@
     {
       "id": "1be7f8791209",
       "title": "Des SKILLS pour GREPAI 🔥",
-      "description": "Infos : https://yoanbernabeu.github.io/grepai/blog/introducing-grepai-skills/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "description": "Infos : https://yoanbernabeu.github.io/grepai/blog/introducing-grepai-skills/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent…",
       "link": "https://www.youtube.com/watch?v=5_1hiThd498",
       "pubDate": "2026-01-28T17:00:07.000Z",
       "source": "YoanDev (YouTube)",
@@ -366,7 +366,7 @@
     {
       "id": "db684a850908",
       "title": "Comment l'IA bouleverse le logiciel Libre",
-      "description": "Ce week-end, j’ai réalisé que le développement assisté par l’IA est en train de bouleverser l’Open Source bien plus que je ne le pensais. Fan d’Open Source et de logiciel libre (on ne passe pas 17 ans sur le projet Mozilla comme ça), je vois un ami, Pablo Pernot développer seul avec une IA un…",
+      "description": "Ce week-end, j’ai réalisé que le développement assisté par l’IA est en train de bouleverser l’Open Source bien plus que je ne le pensais. Fan d’Open Source et de logiciel libre (on ne passe pas 17 ans sur le projet Mozilla comme ça), je vois un ami, Pablo Pernot développer seul avec une IA un réseau social professionnel, Ponos-Jobs, concurrent de LinkedIn. J’ignore encore à quel point le projet sera un succès, mais je découvre qu’il est open source et que son auteur affirme “comme c’est codé…",
       "link": "https://standblog.org/blog/post/2026/01/27/Comment-l-IA-bouleverse-le-logiciel-Libre",
       "pubDate": "2026-01-27T10:44:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -409,7 +409,7 @@
     {
       "id": "94c291320f2e",
       "title": "Attacher des fichiers à vos models Eloquent",
-      "description": "🔗 Article : https://grafikart.fr/tutoriels/has-media-laravel-2312 Quand on a besoin d'attacher des fichiers à nos modèles Eloquent, on pense souvent à des packages comme Spatie MediaLibrary. Le problème, c'est que ces extensions créent une table séparée pour gérer les médias. Dans certaines…",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/has-media-laravel-2312 Quand on a besoin d'attacher des fichiers à nos modèles Eloquent, on pense souvent à des packages comme Spatie MediaLibrary. Le problème, c'est que ces extensions créent une table séparée pour gérer les médias. Dans certaines situations, on veut quelque chose de plus simple : sauvegarder directement le nom du fichier dans la table du modèle. Dans cet article, on va voir comment créer un trait `HasMedia` qui permet de gérer cela…",
       "link": "https://www.youtube.com/watch?v=nlLBMQ_Wa70",
       "pubDate": "2026-01-26T14:02:00.000Z",
       "source": "Grafikart (YouTube)",
@@ -441,7 +441,7 @@
     {
       "id": "caea0d2e3d63",
       "title": "✨ Café Tech avec Imen ☕ #8 :Épisode avec Dorra Bartaguiz",
-      "description": "🎙️ Café Tech avec Imen — Épisode avec Dorra Bartaguiz Dans cet épisode de Café Tech avec Imen, je reçois 💎Dorra BARTAGUIZ // , CTO chez Arolla, coach, conférencière et autrice, engagée depuis des années dans le Software Craftsmanship et les bonnes pratiques de développement. Dorra est co-autrice…",
+      "description": "🎙️ Café Tech avec Imen — Épisode avec Dorra Bartaguiz Dans cet épisode de Café Tech avec Imen, je reçois 💎Dorra BARTAGUIZ // , CTO chez Arolla, coach, conférencière et autrice, engagée depuis des années dans le Software Craftsmanship et les bonnes pratiques de développement. Dorra est co-autrice du livre de référence : 📘 « Software Craft : TDD, Clean Code et autres pratiques essentielles » (Dunod), aux côtés de Cyrille Martraire, Arnaud Thiéfaine, Fabien Hiegel et Houssam Fakih. Elle a…",
       "link": "https://www.youtube.com/watch?v=HEhx8w9Mfio",
       "pubDate": "2026-01-26T13:00:38.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -457,7 +457,7 @@
     {
       "id": "b2b0bded6f55",
       "title": "J'ai créé un outil qui comprend VRAIMENT ton code 👀",
-      "description": "🚀 On vient de lancer grepai sur Product Hunt ! J'adorerais avoir ton retour : https://www.producthunt.com/products/grepai?launch=grepai Fini de chercher des noms exacts de fonctions ou de variables. Avec grepai, tu décris ce que tu cherches en langage naturel et l'outil comprend ton intention. 📦…",
+      "description": "🚀 On vient de lancer grepai sur Product Hunt ! J'adorerais avoir ton retour : https://www.producthunt.com/products/grepai?launch=grepai Fini de chercher des noms exacts de fonctions ou de variables. Avec grepai, tu décris ce que tu cherches en langage naturel et l'outil comprend ton intention. 📦 Open source, local-first, compatible Ollama et OpenAI. 🔗 Liens utiles : • GitHub : https://github.com/yoanbernabeu/grepai • Documentation : https://yoanbernabeu.github.io/grepai/ ---------- 🚀…",
       "link": "https://www.youtube.com/watch?v=XE0MLWf2M1Y",
       "pubDate": "2026-01-26T08:01:19.000Z",
       "source": "YoanDev (YouTube)",
@@ -475,7 +475,7 @@
     {
       "id": "062715707e7b",
       "title": "Configuration réseau d'un serveur Debian 13",
-      "description": "Configuration réseau d'un serveur Debian 13 {align=right} Dans cet article, je vais m'intéresser de plus près à la configuration du réseau sur un serveur Debian. Dans la mesure du possible, je vais privilégier une approche pratique et pragmatique, en m'appuyant sur trois cas de figure de mon…",
+      "description": "Configuration réseau d'un serveur Debian 13 {align=right} Dans cet article, je vais m'intéresser de plus près à la configuration du réseau sur un serveur Debian. Dans la mesure du possible, je vais privilégier une approche pratique et pragmatique, en m'appuyant sur trois cas de figure de mon quotidien :",
       "link": "https://www.microlinux.fr/blog/debian-13-reseau/",
       "pubDate": "2026-01-26T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -561,7 +561,7 @@
     {
       "id": "d131b971d801",
       "title": "Configuration de base d'un serveur Debian 13",
-      "description": "Configuration de base d'un serveur Debian 13 {align=right} Dans cet article, nous allons partir d'une installation fraîche de Debian 13 Trixie sur un serveur. Peu importe si c'est une [machine locale][1], un [serveur dédié][2] ou un [routeur][3]. La configuration post-installation de chaque serveur…",
+      "description": "Configuration de base d'un serveur Debian 13 {align=right} Dans cet article, nous allons partir d'une installation fraîche de Debian 13 Trixie sur un serveur. Peu importe si c'est une [machine locale][1], un [serveur dédié][2] ou un [routeur][3]. La configuration post-installation de chaque serveur Linux comprend toute une série de manipulations comme la mise en place des droits d'administration, la personnalisation du shell, le choix d'un éditeur de texte, la configuration des dépôts de…",
       "link": "https://www.microlinux.fr/blog/debian-13-configuration/",
       "pubDate": "2026-01-25T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -590,7 +590,7 @@
     {
       "id": "8c6680079482",
       "title": "APPRENDRE PHP ET LARAVEL EN 2026",
-      "description": "En 2026, l’écosystème Laravel n’a jamais été aussi fluide… à condition de partir sur de bonnes bases. Dans cette vidéo, je te montre comment mettre en place un environnement PHP moderne et productif, puis comment apprendre efficacement PHP et Laravel avec les ressources officielles. On commence par…",
+      "description": "En 2026, l’écosystème Laravel n’a jamais été aussi fluide… à condition de partir sur de bonnes bases. Dans cette vidéo, je te montre comment mettre en place un environnement PHP moderne et productif, puis comment apprendre efficacement PHP et Laravel avec les ressources officielles. On commence par l’installation de PHP via php.new, la méthode la plus simple et rapide pour démarrer sans se battre avec la configuration système. Ensuite, on pose les fondamentaux de PHP et de Laravel en s’appuyant…",
       "link": "https://www.youtube.com/watch?v=-LF2n7wNV1U",
       "pubDate": "2026-01-24T10:57:23.000Z",
       "source": "Laravel Jutsu (YouTube)",
@@ -606,7 +606,7 @@
     {
       "id": "b44ddd4604e8",
       "title": "Vibe Coder un clone de X/Twitter avec Claude Code (Guide complet)",
-      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le \"Vibe Coding\", c'est coder à la vitesse de la pensée avec l'IA. Dans cette vidéo, je vous montre exactement…",
+      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le \"Vibe Coding\", c'est coder à la vitesse de la pensée avec l'IA. Dans cette vidéo, je vous montre exactement comment faire en utilisant Claude Code pour réaliser un défi technique : créer un clone de Twitter (micro-blogging) fonctionnel en seulement 1 heure. 🚀 Mais attention, ce n'est pas juste une…",
       "link": "https://www.youtube.com/watch?v=hIVj9fkVPRI",
       "pubDate": "2026-01-24T08:00:54.000Z",
       "source": "YoanDev (YouTube)",
@@ -624,7 +624,7 @@
     {
       "id": "08ac6feb4517",
       "title": "Installer un serveur dédié Debian 13 chez Scaleway",
-      "description": "Installer un serveur dédié Debian 13 chez Scaleway {align=right} Depuis quelques années, la société [Scaleway][1] (anciennement Online) propose une gamme de serveurs dédiés à des prix extrêmement intéressants, notamment la Dedibox Start, qui vous permet de disposer d'un accès root sur votre propre…",
+      "description": "Installer un serveur dédié Debian 13 chez Scaleway {align=right} Depuis quelques années, la société [Scaleway][1] (anciennement Online) propose une gamme de serveurs dédiés à des prix extrêmement intéressants, notamment la Dedibox Start, qui vous permet de disposer d'un accès root sur votre propre machine pour une dizaine d'euros par mois. Cet article décrit de manière succincte l'installation et la configuration de la distribution [Debian][2] sur une Dedibox de type Start-2-S-SSD.",
       "link": "https://www.microlinux.fr/blog/debian-13-dedibox/",
       "pubDate": "2026-01-24T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -639,7 +639,7 @@
     {
       "id": "a8e5b1ee8b0e",
       "title": "GEO (Generative Engine Optimization) : un enjeu stratégique pour les marques - Gen AI Rennes #10",
-      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii Rennes le 23 janvier 2026. Antoine Heftler, Accompagnement Stratégique GEO – Ardelys AI, a décrypté le fonctionnement des moteurs génératifs et les différences fondamentales avec le SEO. Il nous a démontré pourquoi chaque…",
+      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii Rennes le 23 janvier 2026. Antoine Heftler, Accompagnement Stratégique GEO – Ardelys AI, a décrypté le fonctionnement des moteurs génératifs et les différences fondamentales avec le SEO. Il nous a démontré pourquoi chaque action d’une marque — contenus, messages, sources, structure — nourrit désormais les réponses de l’IA, et comment l’expertise métier devient un facteur clé de performance et de différenciation. 👉…",
       "link": "https://www.youtube.com/watch?v=a5LS8n-tUPo",
       "pubDate": "2026-01-23T11:41:47.000Z",
       "source": "Generative AI France (YouTube)",
@@ -654,7 +654,7 @@
     {
       "id": "a01593efac5b",
       "title": "IA générative et création visuelle : le point de vue d’un Creative Director - Gen AI Rennes #10",
-      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii le 23 janvier 2026. Quentin Lesturgeon, Creative Director et fondateur de Grandmur nous a partagé un retour d’expérience sans filtre sur l’usage de l’IA générative dans la production d’images et de vidéos. Entre fantasmes,…",
+      "description": "Captation vidéo de Generative AI Rennes #10 enregistrée chez @groupe_sii le 23 janvier 2026. Quentin Lesturgeon, Creative Director et fondateur de Grandmur nous a partagé un retour d’expérience sans filtre sur l’usage de l’IA générative dans la production d’images et de vidéos. Entre fantasmes, réalités de production et décisions créatives, il a apporté un éclairage précieux pour les équipes marketing et communication confrontées à ces nouveaux outils. 👉 Rejoignez le meetup :…",
       "link": "https://www.youtube.com/watch?v=Jok-a04Sjp8",
       "pubDate": "2026-01-23T11:26:13.000Z",
       "source": "Generative AI France (YouTube)",
@@ -717,7 +717,7 @@
     {
       "id": "6444fe2ac1ac",
       "title": "Installer Debian 13 sur une carte PC Engines",
-      "description": "Installer Debian 13 sur une carte PC Engines {align=right} Cet article décrit [l'installation de Debian 13 Trixie][1] sur un routerboard PC Engines, en remplacement du système [pfSense][2] préinstallé. La particularité de cette installation, c'est que la machine ne dispose pas de carte vidéo et…",
+      "description": "Installer Debian 13 sur une carte PC Engines {align=right} Cet article décrit [l'installation de Debian 13 Trixie][1] sur un routerboard PC Engines, en remplacement du système [pfSense][2] préinstallé. La particularité de cette installation, c'est que la machine ne dispose pas de carte vidéo et qu'il faut communiquer avec elle via le port série pour l'installation du système.",
       "link": "https://www.microlinux.fr/blog/debian-13-pcengines/",
       "pubDate": "2026-01-23T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -732,7 +732,7 @@
     {
       "id": "53e4072f53bc",
       "title": "Crée tes vidéos avec du code ! 🧑‍💻",
-      "description": "Source : https://www.remotion.dev/docs/ai/skills ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "description": "Source : https://www.remotion.dev/docs/ai/skills ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser en Symfony, PHP,…",
       "link": "https://www.youtube.com/watch?v=dR3XABCBqXI",
       "pubDate": "2026-01-22T17:01:06.000Z",
       "source": "YoanDev (YouTube)",
@@ -839,7 +839,7 @@
     {
       "id": "7392410eb2d3",
       "title": "Mettre un datacenter dans l'espace n'a pas de sens",
-      "description": "“Pour faire de l’IA, on pourrait mettre des datacenters dans l’espace, et comme ça on résoudrait les problèmes d’énergie et ceux de refroidissement”, entend-on ces derniers temps de la part des patrons de la Tech. J’avoue que quand j’ai entendu ça, j’étais sceptique, alors j’ai fait quelques…",
+      "description": "“Pour faire de l’IA, on pourrait mettre des datacenters dans l’espace, et comme ça on résoudrait les problèmes d’énergie et ceux de refroidissement”, entend-on ces derniers temps de la part des patrons de la Tech. J’avoue que quand j’ai entendu ça, j’étais sceptique, alors j’ai fait quelques recherches sur le sujet. J’ai trouvé par exemple un article d’un certain Alistair Alexander à qui donne quelques ordres de grandeur. Spoiler alert : ➡️ c’est totalement stupide. ⬅️ On va partir d’un truc…",
       "link": "https://standblog.org/blog/post/2026/01/21/Mettre-un-datacenter-dans-l-espace-n-a-pas-de-sens",
       "pubDate": "2026-01-21T11:06:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -1072,7 +1072,7 @@
     {
       "id": "f778209dbed8",
       "title": "⚠️ DÉSINSTALLE REACT : jQuery 4.0 est là !",
-      "description": "C'est pas une blaque : https://blog.jquery.com/2026/01/17/jquery-4-0-0/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "description": "C'est pas une blaque : https://blog.jquery.com/2026/01/17/jquery-4-0-0/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser…",
       "link": "https://www.youtube.com/watch?v=eUbPcU2ELWI",
       "pubDate": "2026-01-19T17:01:12.000Z",
       "source": "YoanDev (YouTube)",
@@ -1195,7 +1195,7 @@
     {
       "id": "b3447dcad0e0",
       "title": "\nNe pas se limiter à une spécialité dans sa carrière\n",
-      "description": "J’ai pas trop l’habitude de donner des conseils sur comment gérer sa carrière mais je vais faire une exception pour cet article. Plus on prend de l’expérience, plus on fait évoluer nos compétences. T pour l’évolution de ces compétences: la barre verticale de la lettre correspond à l’expertise…",
+      "description": "J’ai pas trop l’habitude de donner des conseils sur comment gérer sa carrière mais je vais faire une exception pour cet article. Plus on prend de l’expérience, plus on fait évoluer nos compétences. T pour l’évolution de ces compétences: la barre verticale de la lettre correspond à l’expertise principale de la personne, et la barre horizontale à des connaissances annexes. Développeur et SRE Un SRE avec un profil en T pourrait par exemple avoir une grosse expertise en infrastructure (Kubernetes,…",
       "link": "https://mcorbin.fr/posts/2026-01-18-carriere-dev-sre/",
       "pubDate": "2026-01-17T23:00:00.000Z",
       "source": "mcorbin",
@@ -1210,7 +1210,7 @@
     {
       "id": "913847149cb4",
       "title": "L'erreur fatale qui a tué des business",
-      "description": "Imagine te réveiller demain matin : ta base de données Supabase est vide ou corrompue, et tu réalises que ta dernière sauvegarde date d'il y a 3 mois... C'est le scénario catastrophe qui a mis la clé sous la porte de nombreux projets SaaS. Dans cette vidéo, on arrête de bricoler des scripts cron…",
+      "description": "Imagine te réveiller demain matin : ta base de données Supabase est vide ou corrompue, et tu réalises que ta dernière sauvegarde date d'il y a 3 mois... C'est le scénario catastrophe qui a mis la clé sous la porte de nombreux projets SaaS. Dans cette vidéo, on arrête de bricoler des scripts cron fragiles. Je te montre comment sécuriser ton business avec Databasus, un outil redoutable pour gérer tes backups sans prise de tête. Au programme de cette démo : 🔌 Connexion : Comment backuper une BDD…",
       "link": "https://www.youtube.com/watch?v=uq9p84EbSvk",
       "pubDate": "2026-01-17T08:01:08.000Z",
       "source": "YoanDev (YouTube)",
@@ -1228,7 +1228,7 @@
     {
       "id": "b8ef945f538d",
       "title": "Le père de Linux code avec une IA ? 🐧🤖",
-      "description": "🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist…",
+      "description": "🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser en Symfony, PHP, Docker, DevOps, CI/CD, infrastructure, et dans les bonnes…",
       "link": "https://www.youtube.com/watch?v=79PVv-f7_2I",
       "pubDate": "2026-01-16T16:30:02.000Z",
       "source": "YoanDev (YouTube)",
@@ -1350,7 +1350,7 @@
     {
       "id": "cb1d54f04441",
       "title": "Debian 13 KDE aux petits oignons",
-      "description": "Debian 13 KDE aux petits oignons {align=right} Dans mon précédent article, j'ai publié un [topo détaillé][1] sur mes préférences personnelles en matière de systèmes d'exploitation. Aujourd'hui je vous ai mitonné une petite illustration pratique de tout cela, en partageant avec vous la configuration…",
+      "description": "Debian 13 KDE aux petits oignons {align=right} Dans mon précédent article, j'ai publié un [topo détaillé][1] sur mes préférences personnelles en matière de systèmes d'exploitation. Aujourd'hui je vous ai mitonné une petite illustration pratique de tout cela, en partageant avec vous la configuration « aux petits oignons » de mon PC sous Debian.",
       "link": "https://www.microlinux.fr/blog/debian-13-microlinux/",
       "pubDate": "2026-01-16T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -1365,7 +1365,7 @@
     {
       "id": "fff38945ebcc",
       "title": "🛑 Ton Agent IA gaspille ton argent !",
-      "description": "GrepAI: https://yoanbernabeu.github.io/grepai/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "description": "GrepAI: https://yoanbernabeu.github.io/grepai/ ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser en Symfony, PHP, Docker,…",
       "link": "https://www.youtube.com/watch?v=KjRjQPmgOlY",
       "pubDate": "2026-01-15T17:30:17.000Z",
       "source": "YoanDev (YouTube)",
@@ -1400,7 +1400,7 @@
     {
       "id": "3df1c71540d1",
       "title": "Je ne déteste plus TailwindCSS ?!",
-      "description": "TailwindCSS, je l'ai détesté à sa sortie. Aujourd'hui, je l'utilise sur quasiment tous mes projets. Dans cette vidéo, je vous explique ce qui m'a fait changer d'avis. - 00:00 Introduction - 00:44 C'est quoi Tailwind ? - 01:19 Pourquoi j'ai détesté ? - 02:43 Pourquoi j'ai changé d'avis ? - 02:54…",
+      "description": "TailwindCSS, je l'ai détesté à sa sortie. Aujourd'hui, je l'utilise sur quasiment tous mes projets. Dans cette vidéo, je vous explique ce qui m'a fait changer d'avis. - 00:00 Introduction - 00:44 C'est quoi Tailwind ? - 01:19 Pourquoi j'ai détesté ? - 02:43 Pourquoi j'ai changé d'avis ? - 02:54 Difficulté à nommer les choses en CSS - 03:33 Découpage en composant - 06:09 Des UI Kits quand on a pas de design - 08:05 Les points que je n'aime toujours pas - 11:20 Conclusion Soutenez Grafikart:…",
       "link": "https://www.youtube.com/watch?v=AX2ZUpF_OkE",
       "pubDate": "2026-01-15T14:15:01.000Z",
       "source": "Grafikart (YouTube)",
@@ -1481,7 +1481,7 @@
     {
       "id": "f8d2d7132bdb",
       "title": "Claude Cowork, le Claude Code pour ta grand mère ?",
-      "description": "Info: https://claude.com/blog/cowork-research-preview ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
+      "description": "Info: https://claude.com/blog/cowork-research-preview ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉 https://formation.yoandev.co/creer-son-premier-bundle-symfony-de-l-idee-a-la-publication-sur-packagist ---------- Bienvenue sur YoanDev, la chaîne dédiée à toutes les développeuses et tous les développeurs qui veulent progresser en Symfony, PHP,…",
       "link": "https://www.youtube.com/watch?v=9WpA99Q55Jc",
       "pubDate": "2026-01-14T17:00:16.000Z",
       "source": "YoanDev (YouTube)",
@@ -1499,7 +1499,7 @@
     {
       "id": "d09e6e7bf3bc",
       "title": "🤖 L’IA va-t-elle remplacer les développeurs ?",
-      "description": "Dans cet extrait de Café Tech avec Imen, Hubert partage une vision lucide et rassurante sur l’arrivée de l’intelligence artificielle dans notre quotidien de développeur. 👉 Non, l’IA ne remplace pas les devs. 👉 Oui, elle nous aide énormément, surtout sur des tâches chronophages comme la…",
+      "description": "Dans cet extrait de Café Tech avec Imen, Hubert partage une vision lucide et rassurante sur l’arrivée de l’intelligence artificielle dans notre quotidien de développeur. 👉 Non, l’IA ne remplace pas les devs. 👉 Oui, elle nous aide énormément, surtout sur des tâches chronophages comme la documentation, la compréhension du code ou certaines automatisations. Un message important pour remettre les choses en perspective : le rôle du développeur évolue, il ne disparaît pas. ☕️ Épisode complet…",
       "link": "https://www.youtube.com/watch?v=kg7riielf1U",
       "pubDate": "2026-01-14T11:07:32.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1578,7 +1578,7 @@
     {
       "id": "3d08e3d67812",
       "title": "Pourquoi ton CFP n’est pas sélectionné (et comment l’améliorer)",
-      "description": "Soumettre un CFP, c’est bien. Être sélectionné, c’est autre chose. Dans ce short, Cécile partage les vrais critères de sélection d’un CFP : ce que les comités regardent vraiment, ce qui fait la différence entre un talk accepté… ou refusé, et comment maximiser tes chances sans être “expert reconnu”.…",
+      "description": "Soumettre un CFP, c’est bien. Être sélectionné, c’est autre chose. Dans ce short, Cécile partage les vrais critères de sélection d’un CFP : ce que les comités regardent vraiment, ce qui fait la différence entre un talk accepté… ou refusé, et comment maximiser tes chances sans être “expert reconnu”. Un extrait de l’épisode Café Tech avec Imen ☕ Si tu veux parler en conférence, meetup ou event tech, ce conseil peut clairement tout changer. 👉 Et toi, tu as déjà soumis un CFP ? Accepté ou refusé ?…",
       "link": "https://www.youtube.com/watch?v=XIpC1X0rssQ",
       "pubDate": "2026-01-13T14:49:21.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1670,7 +1670,7 @@
     {
       "id": "e38b0f85f27f",
       "title": "Comment j'ai choisi mon système d'exploitation",
-      "description": "Comment j'ai choisi mon système d'exploitation {align=right} Le Moyen Âge et la Renaissance avaient leurs guerres de religion, où l'on avait tout loisir de partir en croisade pour fracasser allègrement le crâne de tous les incroyants et, plus généralement, de tous ceux qui avaient le malheur de ne…",
+      "description": "Comment j'ai choisi mon système d'exploitation {align=right} Le Moyen Âge et la Renaissance avaient leurs guerres de religion, où l'on avait tout loisir de partir en croisade pour fracasser allègrement le crâne de tous les incroyants et, plus généralement, de tous ceux qui avaient le malheur de ne pas souscrire à la même religion.",
       "link": "https://www.microlinux.fr/blog/choisir-mon-os/",
       "pubDate": "2026-01-13T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -1714,7 +1714,7 @@
     {
       "id": "1f3b12cf191b",
       "title": "✨ Café Tech avec Imen – Épisode spécial avec Cécile Helary Hamerel ☕",
-      "description": "Dans cet épisode, nous explorons le marketing, les événements tech, la communauté, la transmission et la place des femmes dans la tech. Cécile partage son expérience et nous raconte : - le travail de fond derrière les événements tech - l’importance du sens, de la cohérence et de l’impact - comment…",
+      "description": "Dans cet épisode, nous explorons le marketing, les événements tech, la communauté, la transmission et la place des femmes dans la tech. Cécile partage son expérience et nous raconte : - le travail de fond derrière les événements tech - l’importance du sens, de la cohérence et de l’impact - comment créer des expériences qui rassemblent vraiment les communautés - et comment encourager la visibilité et la participation des femmes dans la tech ✨ Ce moment tombe à point nommé avec l’ouverture de la…",
       "link": "https://www.youtube.com/watch?v=pmEwneYmuhE",
       "pubDate": "2026-01-12T14:07:58.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1817,7 +1817,7 @@
     {
       "id": "079e6e5fc2cd",
       "title": "Symfony + FrankenPHP + Hostinger : Le combo gagnant ?",
-      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le repo du projet : https://github.com/yoanbernabeu/FrankenHostinger ---------- 🚀 FORMATIONS 📘 Symfony 7 en…",
+      "description": "Profitez des offres VPS chez Hostinger en cliquant sur mon lien https://www.hostinger.fr/yoandev10 et utiliser mon code coupon YOANDEV10 pour une réduction supplémentaire de 10% ---------- Le repo du projet : https://github.com/yoanbernabeu/FrankenHostinger ---------- 🚀 FORMATIONS 📘 Symfony 7 en 7 Projets 👉 https://formation.yoandev.co/decouvrez-symfony-7-en-7-projets 📦 Créer son premier Bundle Symfony — De l’idée à la publication sur Packagist 👉…",
       "link": "https://www.youtube.com/watch?v=4a0j4vFTSOE",
       "pubDate": "2026-01-10T08:00:11.000Z",
       "source": "YoanDev (YouTube)",
@@ -1835,7 +1835,7 @@
     {
       "id": "5795391f0596",
       "title": "L’IA ne va pas nous remplacer… elle va nous aider (vraiment)",
-      "description": "Dans cet extrait de Café Tech avec Imen, on parle d’IA sans fantasmes ni peur : documentation, tâches répétitives, charge mentale… 👉 l’IA comme alliée, pas comme menace. Et toi, sur quoi l’IA t’aide le plus au quotidien ? 🤖💡 ☕️ Épisode complet disponible sur la chaîne 👉 Pense à t’abonner pour…",
+      "description": "Dans cet extrait de Café Tech avec Imen, on parle d’IA sans fantasmes ni peur : documentation, tâches répétitives, charge mentale… 👉 l’IA comme alliée, pas comme menace. Et toi, sur quoi l’IA t’aide le plus au quotidien ? 🤖💡 ☕️ Épisode complet disponible sur la chaîne 👉 Pense à t’abonner pour ne rien rater des prochains échanges",
       "link": "https://www.youtube.com/watch?v=u4l84Yt_q1g",
       "pubDate": "2026-01-09T15:06:15.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1879,7 +1879,7 @@
     {
       "id": "44a867a264cd",
       "title": "Structure de données : le UnionFind",
-      "description": "🔗 Article : https://grafikart.fr/tutoriels/union-find-structure-2310 Dans cette vidéo je vous propose de découvrir une nouvelle structure de données : le \"Union-Find\" qui permet de travailler sur des groupes disjoint. Pour vous donner un cas concret j'ai créé sur mon site un système permettant de…",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/union-find-structure-2310 Dans cette vidéo je vous propose de découvrir une nouvelle structure de données : le \"Union-Find\" qui permet de travailler sur des groupes disjoint. Pour vous donner un cas concret j'ai créé sur mon site un système permettant de faire le lien entre mes vidéos et j'aimerais obtenir quelques informations sur certains de mes noeuds : ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
       "link": "https://www.youtube.com/watch?v=M7hVY3bCWJE",
       "pubDate": "2026-01-07T10:00:39.000Z",
       "source": "Grafikart (YouTube)",
@@ -1927,7 +1927,7 @@
     {
       "id": "d3cbeb3044bc",
       "title": "Rencontrez le comité CFP de Devoxx France 2026 !",
-      "description": "Le Call for Papers (CFP) pour Devoxx France 2026 ferme ses portes le dimanche 11 janvier 2026 à minuit ⏰ Dans cette vidéo, quelques membres du comité CFP se sont prêtés au jeu des questions : 🔸 “Qu’est-ce que ça fait d’être membre du comité ?” 🔸 “C’est quoi la recette magique pour être accepté…",
+      "description": "Le Call for Papers (CFP) pour Devoxx France 2026 ferme ses portes le dimanche 11 janvier 2026 à minuit ⏰ Dans cette vidéo, quelques membres du comité CFP se sont prêtés au jeu des questions : 🔸 “Qu’est-ce que ça fait d’être membre du comité ?” 🔸 “C’est quoi la recette magique pour être accepté comme speaker à Devoxx ?” 🔸 “Quel est le dernier effet “waouh” que tu as eu avec l’IA ?” 👉 Soumettez vite votre talk sur https://devoxxfr2026.cfp.dev",
       "link": "https://www.youtube.com/watch?v=GrOx8NeZkl4",
       "pubDate": "2026-01-06T12:44:28.000Z",
       "source": "Devoxx France (YouTube)",
@@ -2006,7 +2006,7 @@
     {
       "id": "64d735f70b2d",
       "title": "\nUn exemple d'observability trace-first\n",
-      "description": "Dans cet article, je présenterai une approche moderne et \"trace-first\" pour de l’observability applicatif. J’ai déjà écrit un article sur les traces en 2023 (c’est là où je me rends compte que le temps passe vite) où j’expliquais le tracing en détail et où j’abordais déjà l’idée de remplacer une…",
+      "description": "Dans cet article, je présenterai une approche moderne et \"trace-first\" pour de l’observability applicatif. J’ai déjà écrit un article sur les traces en 2023 (c’est là où je me rends compte que le temps passe vite) où j’expliquais le tracing en détail et où j’abordais déjà l’idée de remplacer une majorité de logs, et pourquoi pas les métriques, par des traces. Je vous conseille de lire cet article si vous n’êtes pas familier avec le tracing distribué. L’approche que je vais présenter dans ce…",
       "link": "https://mcorbin.fr/posts/2026-01-06-traces-first/",
       "pubDate": "2026-01-05T23:00:00.000Z",
       "source": "mcorbin",
@@ -2021,7 +2021,7 @@
     {
       "id": "bad09b1729d3",
       "title": "L'IA générative va changer notre façon de coder (unpopular opinion)",
-      "description": "Nous sommes en 2026, vous êtes encore développeur, bonjour. Ces 6 derniers mois j'ai vraiment rincé Claude Code. De la ré-écriture complète du site de la billetterie de Devoxx France, à la création d'un moteur de jeux de rôles, en passant aussi par mon travail pour proposer cet outil aux…",
+      "description": "Nous sommes en 2026, vous êtes encore développeur, bonjour. Ces 6 derniers mois j'ai vraiment rincé Claude Code. De la ré-écriture complète du site de la billetterie de Devoxx France, à la création d'un moteur de jeux de rôles, en passant aussi par mon travail pour proposer cet outil aux développeurs de Back Market... il s'en est passé des choses. Je pense qu'en 2026, la majorité du code que j'écrirai...",
       "link": "https://www.touilleur-express.fr/2026/01/05/lia-generative-va-changer-notre-facon-de-coder-unpopular-opinion",
       "pubDate": "2026-01-05T16:57:00.000Z",
       "source": "Le Touilleur Express",

@@ -4,7 +4,7 @@
     {
       "id": "961283623f63",
       "title": "En vrac de février 2026",
-      "description": "Des nouvelles de l’IA GPT-5.3-Codex vs Claude Opus 4.6, le duel au sommet de l’IA agentique. La course à la puissance continue : “L’une des avancées majeures de la version 4.6 est l’introduction d’une fenêtre de contexte d’un million de tokens en bêta, contre 200 000 pour Opus 4.5. Cela représente…",
+      "description": "Des nouvelles de l’IA GPT-5.3-Codex vs Claude Opus 4.6, le duel au sommet de l’IA agentique. La course à la puissance continue : “L’une des avancées majeures de la version 4.6 est l’introduction d’une fenêtre de contexte d’un million de tokens en bêta, contre 200 000 pour Opus 4.5. Cela représente l’équivalent d’environ 1 500 pages de texte ou de dizaines de milliers de lignes de code dans un seul prompt.” “Apollo (un laboratoire indépendant spécialisé dans la détection des comportements…",
       "link": "https://standblog.org/blog/post/2026/02/28/En-vrac-de-fevrier-2026",
       "pubDate": "2026-02-28T18:12:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -182,7 +182,7 @@
     {
       "id": "1a7e9681c642",
       "title": "Un cas où l'IA pourrait aider à réduire l'empreinte du numérique ?",
-      "description": "Quand on m’a dit “Et si on utilisait l’IA pour optimiser une application et réduire son empreinte environnementale ?”, j’avoue que j’ai grincé des dents : a priori, utiliser l’IA (très gourmande) pour optimiser un truc moins gourmand, ça ne me paraissait pas très intelligent. Sauf que l’IA…",
+      "description": "Quand on m’a dit “Et si on utilisait l’IA pour optimiser une application et réduire son empreinte environnementale ?”, j’avoue que j’ai grincé des dents : a priori, utiliser l’IA (très gourmande) pour optimiser un truc moins gourmand, ça ne me paraissait pas très intelligent. Sauf que l’IA générative a fait beaucoup de progrès, et qu’on sait de mieux en mieux s’en servir pour faire des choses étonnantes. Il se trouve aussi que deux de mes brillants collègues (chez OCTO) se sont vu confier une…",
       "link": "https://standblog.org/blog/post/2026/02/26/IA-pour-reduire-empreinte-du-numerique",
       "pubDate": "2026-02-26T15:48:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -196,7 +196,7 @@
     {
       "id": "cd4f834f34e8",
       "title": "Altman compare bêtement humains et machines",
-      "description": "Sam Altman, patron d’OpenAI, dans une interview, commet une erreur énorme quand il dit “Les gens parlent de l’énergie nécessaire à entraîner un modèle d’IA, mais cela consomme aussi beaucoup d’énergie pour entraîner un humain ! Cela prend genre 20 ans d’une vie et toute la nourriture nécessaire…",
+      "description": "Sam Altman, patron d’OpenAI, dans une interview, commet une erreur énorme quand il dit “Les gens parlent de l’énergie nécessaire à entraîner un modèle d’IA, mais cela consomme aussi beaucoup d’énergie pour entraîner un humain ! Cela prend genre 20 ans d’une vie et toute la nourriture nécessaire pendant ce temps-là pour devenir intelligent”. C’est à la fois vrai… et complètement faux (et scandaleux) de mettre sur un pied d’égalité la machine et l’humain (voire la machine et le vivant dans son…",
       "link": "https://standblog.org/blog/post/2026/02/26/Altman-compare-humains-et-machines",
       "pubDate": "2026-02-26T15:36:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -210,7 +210,7 @@
     {
       "id": "b6b5e86cc8bc",
       "title": "Animer le changement de thème sur son site",
-      "description": "🔗 Article : https://grafikart.fr/tutoriels/theme-switcher-circle-2315 Dans cette vidéo je vous propose de découvrir comment on peut utiliser le système de `ViewTransition` pour dynamiser le changement de thème sur un site avec un effet de cercle qui grandit et qui masque la page.…",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/theme-switcher-circle-2315 Dans cette vidéo je vous propose de découvrir comment on peut utiliser le système de `ViewTransition` pour dynamiser le changement de thème sur un site avec un effet de cercle qui grandit et qui masque la page. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
       "link": "https://www.youtube.com/watch?v=yNDUDGHC0g8",
       "pubDate": "2026-02-26T14:10:01.000Z",
       "source": "Grafikart (YouTube)",
@@ -267,7 +267,7 @@
     {
       "id": "37528664319f",
       "title": "Generative Coding : here we are",
-      "description": "On y est. Le code est généré par des outils de génération de code, à base de prompts. Nous sommes au début de 2026. Les développeurs ouvrent un terminal, tapent \"Claude Code\", et génèrent du code avec des outils de GenAI. Je vous recommande la lecture passionnante du rapport \"The 2026 State of…",
+      "description": "On y est. Le code est généré par des outils de génération de code, à base de prompts. Nous sommes au début de 2026. Les développeurs ouvrent un terminal, tapent \"Claude Code\", et génèrent du code avec des outils de GenAI. Je vous recommande la lecture passionnante du rapport \"The 2026 State of Software Delivery Report\" publié par CircleCI. C'est une mine d'or car il observe presque 28 millions de pipeline CircleCI......",
       "link": "https://www.touilleur-express.fr/2026/02/25/generative-coding-here-we-are",
       "pubDate": "2026-02-25T13:21:00.000Z",
       "source": "Le Touilleur Express",
@@ -294,7 +294,7 @@
     {
       "id": "045276078812",
       "title": "\"L'IA peut coder très vite, mais code très mal !\"",
-      "description": "On entend parler d’IA partout : dans nos feeds, dans nos équipes, dans nos boards stratégiques. Le constat est souvent le même : ✅ Ça code très vite ❌ Mais ça peut coder très mal ! En tout cas au regard des standards comme la maintenabilité, bref : pas exactement ce qu’on appelle du software…",
+      "description": "On entend parler d’IA partout : dans nos feeds, dans nos équipes, dans nos boards stratégiques. Le constat est souvent le même : ✅ Ça code très vite ❌ Mais ça peut coder très mal ! En tout cas au regard des standards comme la maintenabilité, bref : pas exactement ce qu’on appelle du software craftsmanship ! 🛠 Florine Chevrier et Clément Virieux (Ippon) partent alors d’une conviction : le software craftsmanship n’est pas une option, c’est probablement LA meilleure manière de construire du…",
       "link": "https://www.youtube.com/watch?v=j-usNx0AFSI",
       "pubDate": "2026-02-25T07:35:54.000Z",
       "source": "Devoxx France (YouTube)",
@@ -355,7 +355,7 @@
     {
       "id": "d9daf9466eb9",
       "title": "Double Authentification en PHP : le tuto que personne ne t'a montré 🚀",
-      "description": "Dans ce tuto, on implémente un système de double authentification (2FA) dans une app PHP Vanilla — sans Laravel, sans Symfony — grâce au package open source de @mrpunyapal (https://github.com/MrPunyapal/php-2fa). Compatible Google Authenticator, Authy et toutes les apps d'authentification TOTP. Au…",
+      "description": "Dans ce tuto, on implémente un système de double authentification (2FA) dans une app PHP Vanilla — sans Laravel, sans Symfony — grâce au package open source de @mrpunyapal (https://github.com/MrPunyapal/php-2fa). Compatible Google Authenticator, Authy et toutes les apps d'authentification TOTP. Au programme : Mise en place du package via Composer Implémentation de l'interface TwoFactorUser sur ton modèle Génération du QR code + codes de récupération Confirmation et vérification à la connexion…",
       "link": "https://www.youtube.com/watch?v=jLYtaZ8Wknk",
       "pubDate": "2026-02-24T15:22:14.000Z",
       "source": "Laravel Jutsu (YouTube)",
@@ -481,7 +481,7 @@
     {
       "id": "628e35b2acda",
       "title": "🎙️ Café Tech avec Imen  ☕ #10– Épisode avec Raphaël Geffroy",
-      "description": "Dans cet épisode, je reçois Raphaël Geffroy, développeur chez SensioLabs, issu d’une reconversion professionnelle inspirante. Avant de travailler dans l’informatique, Raphaël évoluait dans le monde de la restauration. Aujourd’hui, il contribue à l’écosystème Symfony au sein de l’entreprise…",
+      "description": "Dans cet épisode, je reçois Raphaël Geffroy, développeur chez SensioLabs, issu d’une reconversion professionnelle inspirante. Avant de travailler dans l’informatique, Raphaël évoluait dans le monde de la restauration. Aujourd’hui, il contribue à l’écosystème Symfony au sein de l’entreprise historique derrière le framework. Dans cet échange, nous parlons : ☕ de sa reconversion de la restauration vers le développement 🚀 des défis et des doutes rencontrés en changeant de carrière ⚙️ de son…",
       "link": "https://www.youtube.com/watch?v=32Etma7GRVI",
       "pubDate": "2026-02-23T13:00:06.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -513,7 +513,7 @@
     {
       "id": "7fa097a548dc",
       "title": "GotenbergBundle : LA nouvelle référence pour le PDF en Symfony",
-      "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour…",
+      "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour Symfony. Fini les rendus CSS approximatifs et les bibliothèques obsolètes (RIP wkhtmltopdf). On passe sur une architecture moderne \"Docker-first\" utilisant Chromium pour un rendu pixel-perfect. Au…",
       "link": "https://www.youtube.com/watch?v=BwH2APvOb2U",
       "pubDate": "2026-02-22T17:00:16.000Z",
       "source": "YoanDev (YouTube)",
@@ -531,7 +531,7 @@
     {
       "id": "a5280a5696b2",
       "title": "Laravel Fuse : Protégez vos jobs des APIs qui tombent (Circuit Breaker Pattern)",
-      "description": "Tu as déjà eu des centaines de jobs qui fail en cascade parce qu'une API externe est down ? Laravel Fuse règle ce problème avec le pattern Circuit Breaker : quand trop d'erreurs sont détectées, le circuit s'ouvre et tes jobs arrêtent de s'exécuter inutilement. Fini les timeouts en chaîne, fini les…",
+      "description": "Tu as déjà eu des centaines de jobs qui fail en cascade parce qu'une API externe est down ? Laravel Fuse règle ce problème avec le pattern Circuit Breaker : quand trop d'erreurs sont détectées, le circuit s'ouvre et tes jobs arrêtent de s'exécuter inutilement. Fini les timeouts en chaîne, fini les ressources gaspillées. Dans cette vidéo, je te montre comment installer et configurer Laravel Fuse, définir un seuil d'échec, gérer les états closed / open / half-open, et reprendre automatiquement…",
       "link": "https://www.youtube.com/watch?v=-eTnYPBuQrg",
       "pubDate": "2026-02-22T13:42:28.000Z",
       "source": "Laravel Jutsu (YouTube)",
@@ -657,7 +657,7 @@
     {
       "id": "fccda56d1aef",
       "title": "Doctrine Doctor : Ton ORM est malade ? Voici le diagnostic 🩺",
-      "description": "Ton ORM rame, tes requêtes explosent en N+1, et tu ne sais plus d’où viennent les lenteurs ? 😵‍💫 Doctrine Doctor est un bundle Symfony qui fait un diagnostic runtime de Doctrine ORM directement dans le Symfony Web Profiler. Objectif : gagner du temps, réduire la charge DB, et rendre ton app…",
+      "description": "Ton ORM rame, tes requêtes explosent en N+1, et tu ne sais plus d’où viennent les lenteurs ? 😵‍💫 Doctrine Doctor est un bundle Symfony qui fait un diagnostic runtime de Doctrine ORM directement dans le Symfony Web Profiler. Objectif : gagner du temps, réduire la charge DB, et rendre ton app Symfony plus saine ✅ ⭐ Doctrine Doctor : https://github.com/ahmed-bhs/doctrine-doctor 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures…",
       "link": "https://www.youtube.com/watch?v=4UHCWWk99cc",
       "pubDate": "2026-02-19T17:47:56.000Z",
       "source": "Pentiminax (YouTube)",
@@ -733,7 +733,7 @@
     {
       "id": "d6b83f7c86ce",
       "title": "L'IA s'invite sur mes missions Freelance",
-      "description": "🔗 Article : https://grafikart.fr/blog/impact-llm-freelance-ia Qu'on le veuille ou non, l'IA s'invite dans notre activité de freelance à travers les clients et les projets sur lesquels on est amené à travailler et elle est de plus en plus présente. Aussi, aujourd'hui je voulais partager avec…",
+      "description": "🔗 Article : https://grafikart.fr/blog/impact-llm-freelance-ia Qu'on le veuille ou non, l'IA s'invite dans notre activité de freelance à travers les clients et les projets sur lesquels on est amené à travailler et elle est de plus en plus présente. Aussi, aujourd'hui je voulais partager avec l'évolution que j'ai pu observer dans la place qu'à l'IA dans mes projets Freelance. 00:00 Introduction 00:41 Reprise de projet IA 04:53 Revue de code par IA 08:49 Evolution et maintenance via IA 11:18 Le…",
       "link": "https://www.youtube.com/watch?v=KaheIi944OA",
       "pubDate": "2026-02-19T14:00:38.000Z",
       "source": "Grafikart (YouTube)",
@@ -780,7 +780,7 @@
     {
       "id": "d3124b90f945",
       "title": "Claude Sonnet 4.6 : Le modèle qui bouscule Opus ? 🤯",
-      "description": "Découvrez Claude Sonnet 4.6, le tout dernier modèle d'IA dévoilé par Anthropic, qui redéfinit les capacités des modèles de langage. Dans cette vidéo, nous analysons pourquoi ce modèle est devenu le favori des développeurs, surpassant même Claude Opus 4.5 sur de nombreuses tâches complexes. Liens…",
+      "description": "Découvrez Claude Sonnet 4.6, le tout dernier modèle d'IA dévoilé par Anthropic, qui redéfinit les capacités des modèles de langage. Dans cette vidéo, nous analysons pourquoi ce modèle est devenu le favori des développeurs, surpassant même Claude Opus 4.5 sur de nombreuses tâches complexes. Liens utiles : ▶️ Introducing Claude Sonnet 4.6 : https://www.anthropic.com/news/claude-sonnet-4-6 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les…",
       "link": "https://www.youtube.com/watch?v=aAEbyW2zG6g",
       "pubDate": "2026-02-18T10:00:54.000Z",
       "source": "Pentiminax (YouTube)",
@@ -796,7 +796,7 @@
     {
       "id": "2970c96cacf8",
       "title": "Le guide complet pour utiliser Claude Code dans VS Code",
-      "description": "Claude Code s’intègre désormais directement dans VS Code… et ça change tout pour les développeurs. Dans ce guide complet, je te montre comment installer, configurer et utiliser Claude Code dans Visual Studio Code pour booster ta productivité : génération de code, refactoring, compréhension du…",
+      "description": "Claude Code s’intègre désormais directement dans VS Code… et ça change tout pour les développeurs. Dans ce guide complet, je te montre comment installer, configurer et utiliser Claude Code dans Visual Studio Code pour booster ta productivité : génération de code, refactoring, compréhension du contexte projet, modifications multi-fichiers, workflows agentiques, et bien plus. 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures…",
       "link": "https://www.youtube.com/watch?v=7dosmTFkaQI",
       "pubDate": "2026-02-18T09:00:17.000Z",
       "source": "Pentiminax (YouTube)",
@@ -812,7 +812,7 @@
     {
       "id": "6ed103227130",
       "title": "Projets et retours d'expérience autour de l'IA générative et du Cloud dans un environnement bancaire",
-      "description": "🎥 Agents IA en banque digitale : retour d’expérience concret chez Alpian Bank Comment déployer des agents IA dans une banque 100 % cloud et régulée FINMA ? Qu’est-ce qui fonctionne vraiment… et qu’est-ce qui échoue ? Dans cette présentation, l’équipe tech d’Alpian, banque digitale suisse lancée en…",
+      "description": "🎥 Agents IA en banque digitale : retour d’expérience concret chez Alpian Bank Comment déployer des agents IA dans une banque 100 % cloud et régulée FINMA ? Qu’est-ce qui fonctionne vraiment… et qu’est-ce qui échoue ? Dans cette présentation, l’équipe tech d’Alpian, banque digitale suisse lancée en 2022, partage un retour d’expérience terrain sur l’implémentation d’agents IA en production. 🔎 Au programme : 🧠 1. Le premier agent (et pourquoi il a échoué) ✔️ Agent de support basé sur une base…",
       "link": "https://www.youtube.com/watch?v=WpeHe9a8nXo",
       "pubDate": "2026-02-18T08:00:40.000Z",
       "source": "Generative AI France (YouTube)",
@@ -939,7 +939,7 @@
     {
       "id": "b8afa0f40351",
       "title": "La syntaxe Markdown",
-      "description": "🔗 Article : https://grafikart.fr/tutoriels/markdown-377 Le Markdown est une syntaxe incontournable pour tout développeur que l'on retrouve partout : dans les fichiers `README.md` sur GitHub, dans les commentaires d'issues, dans les outils de prise de note comme [Obsidian](https://obsidian.md/) ou…",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/markdown-377 Le Markdown est une syntaxe incontournable pour tout développeur que l'on retrouve partout : dans les fichiers `README.md` sur GitHub, dans les commentaires d'issues, dans les outils de prise de note comme [Obsidian](https://obsidian.md/) ou [Notion](https://www.notion.so/), et même dans les systèmes de commentaires de certains sites. Dans cet article on va voir ensemble ce qu'est le Markdown, sa syntaxe de base et ses extensions les plus…",
       "link": "https://www.youtube.com/watch?v=UmQDMqAjZiw",
       "pubDate": "2026-02-17T14:07:00.000Z",
       "source": "Grafikart (YouTube)",
@@ -986,7 +986,7 @@
     {
       "id": "2aa9707f26a3",
       "title": "Cline CLI 2.0 : Le meilleur agent de code IA Open Source ?",
-      "description": "Cline CLI 2.0 débarque ! Dans cette vidéo, on explore en détail la nouvelle version de Cline CLI, l’agent de code IA open source qui transforme votre manière de développer. Si vous vous intéressez aux agents IA, au dev assisté par IA, ou aux outils open source pour développeurs, cette vidéo est…",
+      "description": "Cline CLI 2.0 débarque ! Dans cette vidéo, on explore en détail la nouvelle version de Cline CLI, l’agent de code IA open source qui transforme votre manière de développer. Si vous vous intéressez aux agents IA, au dev assisté par IA, ou aux outils open source pour développeurs, cette vidéo est faite pour vous. Liens utiles : ▶️ Cline : https://cline.bot/ 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour…",
       "link": "https://www.youtube.com/watch?v=IR_FqMRy17E",
       "pubDate": "2026-02-17T09:00:33.000Z",
       "source": "Pentiminax (YouTube)",
@@ -1002,7 +1002,7 @@
     {
       "id": "997754b04e53",
       "title": "Construire une couche de confiance pour l’IA en entreprise : contrôle des données et gouvernance",
-      "description": "🎥 IA & Finance : Pourquoi l’IA générique ne suffit pas dans les domaines hyper-sécurisés Dans cette intervention, retour d’expérience sur trois années d’expérimentation intensive de l’IA dans les services financiers au sein de la startup Candice AI (https://candiceai.com/) Après des décennies…",
+      "description": "🎥 IA & Finance : Pourquoi l’IA générique ne suffit pas dans les domaines hyper-sécurisés Dans cette intervention, retour d’expérience sur trois années d’expérimentation intensive de l’IA dans les services financiers au sein de la startup Candice AI (https://candiceai.com/) Après des décennies passées à modéliser des processus bancaires, aligner business et IT et automatiser des opérations complexes, Guillaume Beauverd nous expose la question devenue centrale : l’IA générative peut-elle…",
       "link": "https://www.youtube.com/watch?v=2Wbg-vDzcmo",
       "pubDate": "2026-02-17T08:00:03.000Z",
       "source": "Generative AI France (YouTube)",
@@ -1064,7 +1064,7 @@
     {
       "id": "dc79f6cee5d7",
       "title": "EasyAdminBundle : Découverte des nouveautés (v4.28, v.4.29 et v5.0)",
-      "description": "Dans cette vidéo, on explore les nouveautés majeures qui débarquent avec EasyAdminBundle v5.0 (beta). Cette version apporte des améliorations très attendues pour rendre vos backends Symfony encore plus puissants, flexibles et propres. Au programme : ✅ Support des CSP nonce (Content Security Policy)…",
+      "description": "Dans cette vidéo, on explore les nouveautés majeures qui débarquent avec EasyAdminBundle v5.0 (beta). Cette version apporte des améliorations très attendues pour rendre vos backends Symfony encore plus puissants, flexibles et propres. Au programme : ✅ Support des CSP nonce (Content Security Policy) ✅ Nouveaux filtres intégrés : pays, devises, langues, locales, fuseaux horaires ✅ Possibilité de demander une confirmation avant une action ✅ Définition de choix préférés dans les champs Choice &…",
       "link": "https://www.youtube.com/watch?v=_Gn-hl_wXek",
       "pubDate": "2026-02-16T09:00:53.000Z",
       "source": "Pentiminax (YouTube)",
@@ -1080,7 +1080,7 @@
     {
       "id": "97ce8b6bbbb0",
       "title": "Premiers pas pour créer son propre workflow d’agents IA avec vos données métiers",
-      "description": "🎥 Reprendre le contrôle des LLM dans la banque et l’assurance Dans cette conférence 100% live et interactive, Vincent Bertin explore l’écosystème des LLM (Large Language Models) et montre pourquoi les acteurs régulés — notamment banques et assurances — doivent reprendre le contrôle de leurs…",
+      "description": "🎥 Reprendre le contrôle des LLM dans la banque et l’assurance Dans cette conférence 100% live et interactive, Vincent Bertin explore l’écosystème des LLM (Large Language Models) et montre pourquoi les acteurs régulés — notamment banques et assurances — doivent reprendre le contrôle de leurs modèles et de leurs données. 🔎 Au programme : ✔️ Panorama des modèles dominants (US, Chine, open source…) ✔️ Comprendre le RAG (Retrieval Augmented Generation) simplement ✔️ Démonstration d’un GPT…",
       "link": "https://www.youtube.com/watch?v=zXO_FHXWY1I",
       "pubDate": "2026-02-16T08:01:16.000Z",
       "source": "Generative AI France (YouTube)",
@@ -1195,7 +1195,7 @@
     {
       "id": "8a7befe6a320",
       "title": "Comment l'IA tue le Web",
-      "description": "Si ChatGPT devient le nouveau Google, cela implique que l’IA est en train de tuer le Web. Je m’explique : Le Web, au départ, c’est que des humains écrivent des documents avec des hyperliens entre eux, ces documents comprenant du texte, une mise en page, des images, du son, des vidéos si nécessaire.…",
+      "description": "Si ChatGPT devient le nouveau Google, cela implique que l’IA est en train de tuer le Web. Je m’explique : Le Web, au départ, c’est que des humains écrivent des documents avec des hyperliens entre eux, ces documents comprenant du texte, une mise en page, des images, du son, des vidéos si nécessaire. Et de l’autre côté de l’écran, des humains lisent les textes et naviguent entre ces documents en suivant les liens. Pour cela, ils utilisent un navigateur (un “user-agent” dans le jargon), un…",
       "link": "https://standblog.org/blog/post/2026/02/14/Comment-l-IA-tue-le-Web",
       "pubDate": "2026-02-14T09:53:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -1361,7 +1361,7 @@
     {
       "id": "9d946ea7e19b",
       "title": "Using GraalVM in Production",
-      "description": "“Quand ne PAS utiliser GraalVM ?” 🤔 C’est la question qu’on pose à Alina Yurenko pratiquement à chaque conférence 😅 Sa réponse : toujours l’utiliser… mais pas forcément de la même manière. Dans cet extrait de sa conférence “Bring the Action: Using GraalVM in Production”, Alina rappelle une chose…",
+      "description": "“Quand ne PAS utiliser GraalVM ?” 🤔 C’est la question qu’on pose à Alina Yurenko pratiquement à chaque conférence 😅 Sa réponse : toujours l’utiliser… mais pas forcément de la même manière. Dans cet extrait de sa conférence “Bring the Action: Using GraalVM in Production”, Alina rappelle une chose essentielle : GraalVM ne remplace pas le JDK. Il l’étend. Deux approches possibles : - Utiliser GraalVM comme JDK→ Migration simple→ Environ 10 à 15 % de gain de performance grâce au JIT hautement…",
       "link": "https://www.youtube.com/watch?v=SFdn2XWaxLA",
       "pubDate": "2026-02-12T10:17:52.000Z",
       "source": "Devoxx France (YouTube)",
@@ -1459,7 +1459,7 @@
     {
       "id": "755a527b50e5",
       "title": "REX : Gen AI et développement logiciel, récit d'une mutation profonde par Xavier Gorse",
-      "description": "​Pour ce premier meetup de l'année, Xavier Gorse vient nous partager le retour d'expérience de son équipe chez Elao . ​20 ans de développement sur mesure. Des méthodes rodées, une expertise construite projet après projet. Et en quelques mois, tout a bougé. ​La Gen AI a atteint une maturité qui…",
+      "description": "​Pour ce premier meetup de l'année, Xavier Gorse vient nous partager le retour d'expérience de son équipe chez Elao . ​20 ans de développement sur mesure. Des méthodes rodées, une expertise construite projet après projet. Et en quelques mois, tout a bougé. ​La Gen AI a atteint une maturité qui change la donne : l'écosystème est prêt, les outils sont là, et la mise en oeuvre au quotidien devient réalité. Résultat : tout bouge. La place de la conception, la documentation et les specs, le modèle…",
       "link": "https://www.youtube.com/watch?v=4C7ttR2lS_E",
       "pubDate": "2026-02-10T14:55:24.000Z",
       "source": "Generative AI France (YouTube)",
@@ -1564,7 +1564,7 @@
     {
       "id": "1c13b325221c",
       "title": "Café Tech avec Imen ☕ #9 — Mathéo Daninos",
-      "description": "Dans ce nouvel épisode de Café Tech avec Imen ☕, j’ai le plaisir d’échanger avec Mathéo Daninos, membre de la core team Symfony UX. Ensemble, on discute de : ✨ son parcours dans l’écosystème Symfony ✨ ce que signifie vraiment travailler sur Symfony UX ✨ l’importance de l’expérience développeur et…",
+      "description": "Dans ce nouvel épisode de Café Tech avec Imen ☕, j’ai le plaisir d’échanger avec Mathéo Daninos, membre de la core team Symfony UX. Ensemble, on discute de : ✨ son parcours dans l’écosystème Symfony ✨ ce que signifie vraiment travailler sur Symfony UX ✨ l’importance de l’expérience développeur et de l’UX côté outils ✨ l’impact des décisions techniques sur des milliers de développeurs ✨ l’open source, la collaboration et la responsabilité que cela implique Un échange riche, concret et…",
       "link": "https://www.youtube.com/watch?v=SKCywxr_yRI",
       "pubDate": "2026-02-09T13:00:49.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1594,7 +1594,7 @@
     {
       "id": "d726f8fc8942",
       "title": "J'ai créé une app pour les JO 2026 plus vite que le CIO (Merci Claude Code !)",
-      "description": "J'ai créé une app pour les JO 2026 plus vite que le CIO 😅 Les JO d'hiver 2026 de Milano Cortina débutent et... pas d'app desktop officielle pour suivre les résultats. Alors j'ai décidé de la coder moi-même. Dans cette vidéo, je crée de A à Z avec Claude Code une application macOS qui se loge dans…",
+      "description": "J'ai créé une app pour les JO 2026 plus vite que le CIO 😅 Les JO d'hiver 2026 de Milano Cortina débutent et... pas d'app desktop officielle pour suivre les résultats. Alors j'ai décidé de la coder moi-même. Dans cette vidéo, je crée de A à Z avec Claude Code une application macOS qui se loge dans la barre de menu et permet de suivre en temps réel : - Le tableau des médailles par pays - Le programme du jour avec les épreuves en cours - La liste des médaillés avec filtres par discipline Le tout…",
       "link": "https://www.youtube.com/watch?v=pyKywW1gH5s",
       "pubDate": "2026-02-08T17:01:17.000Z",
       "source": "YoanDev (YouTube)",
@@ -1627,7 +1627,7 @@
     {
       "id": "07fc7933fc7e",
       "title": "The power of “why” in teamwork — bien plus qu’une phrase inspirante.",
-      "description": "Dans cet extrait de Café Tech avec Imen, Dorra Bartaguiz nous rappelle pourquoi poser la question “pourquoi ?” est un moteur puissant dans une équipe technique : 👉 donner du sens, 👉 aligner les intentions, 👉 éviter les malentendus, 👉 et renforcer la confiance. Quand une équipe comprend le…",
+      "description": "Dans cet extrait de Café Tech avec Imen, Dorra Bartaguiz nous rappelle pourquoi poser la question “pourquoi ?” est un moteur puissant dans une équipe technique : 👉 donner du sens, 👉 aligner les intentions, 👉 éviter les malentendus, 👉 et renforcer la confiance. Quand une équipe comprend le pourquoi avant le comment, elle devient plus autonome, plus agile et plus créative — pas juste plus productive. ☕ Épisode complet disponible sur la chaîne. 🔔 Abonnez-vous pour ne rater aucun échange…",
       "link": "https://www.youtube.com/watch?v=-jn3QwW4784",
       "pubDate": "2026-02-08T13:21:54.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -1643,7 +1643,7 @@
     {
       "id": "3fedc0123717",
       "title": "Avoir son ASN personnel pour annoncer ses IPs sur Internet",
-      "description": "Je vais bientôt souffler la première bougie de mon ASN : 209238 🎉. Je me suis dit qu’il n’y aurait pas de meilleur cadeau pour lui que d’en faire un article de blog pour expliquer mon parcours et comment je l’utilise. On va commencer par le début et expliquer déjà ce qu’est un ASN. Qu’est-ce qu’un…",
+      "description": "Comment j'ai obtenu mon propre ASN et utilisé BGP pour annoncer des routes IPv6 depuis chez moi.",
       "link": "https://une-tasse-de.cafe/blog/bgp-kubernetes/",
       "pubDate": "2026-02-07T22:05:00.000Z",
       "source": "Une Tasse de Café",
@@ -1658,7 +1658,7 @@
     {
       "id": "7741ac54680d",
       "title": "Comment créer une équipe d’agents IA en 2026 - Gen AI Nantes #14",
-      "description": "Benoît est le co-fondateur et ex-CTO d’Agorapulse, une entreprise SaaS lancée en 2011 et devenue un leader mondial de la gestion des réseaux sociaux. Depuis deux ans, il explore l’état de l’art de l’IA agentique et l’applique à son nouveau projet : Globetrotters.ai , un assistant de voyage basé sur…",
+      "description": "Benoît est le co-fondateur et ex-CTO d’Agorapulse, une entreprise SaaS lancée en 2011 et devenue un leader mondial de la gestion des réseaux sociaux. Depuis deux ans, il explore l’état de l’art de l’IA agentique et l’applique à son nouveau projet : Globetrotters.ai , un assistant de voyage basé sur une équipe d’agents IA. Un an après son premier retour d'expérience, il revient avec une rétrospective sans bullshit sur les 12 derniers mois : pourquoi il a rebooté le projet, comment il utilise…",
       "link": "https://www.youtube.com/watch?v=yObMfiPUMfM",
       "pubDate": "2026-02-07T18:33:46.000Z",
       "source": "Generative AI France (YouTube)",
@@ -1673,7 +1673,7 @@
     {
       "id": "7dfe60180570",
       "title": "Mago PHP : Le nouvel outil ultra-rapide écrit en Rust pour analyser votre code !",
-      "description": "Découvrez Mago, le nouvel outil PHP qui fait sensation ! Écrit en Rust, il propose 3 outils essentiels en un seul package pour vos projets PHP : ✅ Analyseur statique pour détecter les bugs ✅ Formateur de code pour un style cohérent ✅ Linter pour améliorer la qualité du code 🚀 Performance…",
+      "description": "Découvrez Mago, le nouvel outil PHP qui fait sensation ! Écrit en Rust, il propose 3 outils essentiels en un seul package pour vos projets PHP : ✅ Analyseur statique pour détecter les bugs ✅ Formateur de code pour un style cohérent ✅ Linter pour améliorer la qualité du code 🚀 Performance exceptionnelle : 81 secondes avec PHPStan vs 1,84 secondes avec Mago ! 📋 Au programme : Installation et configuration sous Linux Initialisation avec mago init Formatage automatique du code (mago fmt) Linting…",
       "link": "https://www.youtube.com/watch?v=b0LHlgMOmjE",
       "pubDate": "2026-02-07T15:43:51.000Z",
       "source": "Laravel Jutsu (YouTube)",
@@ -1762,7 +1762,7 @@
     {
       "id": "44db6a8f8e08",
       "title": "Créer des animations avec du Code (Motion Canvas)",
-      "description": "🔗 Article : https://grafikart.fr/tutoriels/motion-canvas-animation-code-2313 Quand on a besoin de créer des vidéos techniques, ajouter des animations est un bon moyen d'améliorer les explications et la compréhension. Malheureusement les logiciels d'animation classiques ne sont pas adaptés à ce…",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/motion-canvas-animation-code-2313 Quand on a besoin de créer des vidéos techniques, ajouter des animations est un bon moyen d'améliorer les explications et la compréhension. Malheureusement les logiciels d'animation classiques ne sont pas adaptés à ce type de contenu et c'est là que Motion Canvas intervient - 00:00 Introduction - 01:24 Installation - 03:25 Première animation - 07:04 Les refs - 08:10 Les signaux - 05:00 Les signaux - 15:40 Les layouts…",
       "link": "https://www.youtube.com/watch?v=kC51TiPAgQ4",
       "pubDate": "2026-02-06T10:10:00.000Z",
       "source": "Grafikart (YouTube)",
@@ -1778,7 +1778,7 @@
     {
       "id": "9ca31b7a21bf",
       "title": "TDD & IA",
-      "description": "\"Je suis un senior dev, pourquoi j’aurais besoin d’un assistant de code ?\" Comme beaucoup, Benoît Prioux a d’abord été sceptique. Puis, à force de voir l’IA s’immiscer dans son workflow, il a fini par l’adopter… sans pour autant renoncer à ses principes. Car c’est là que le bât blesse : Copilot…",
+      "description": "\"Je suis un senior dev, pourquoi j’aurais besoin d’un assistant de code ?\" Comme beaucoup, Benoît Prioux a d’abord été sceptique. Puis, à force de voir l’IA s’immiscer dans son workflow, il a fini par l’adopter… sans pour autant renoncer à ses principes. Car c’est là que le bât blesse : Copilot promet de générer vos tests automatiquement. Une promesse alléchante… mais qui entre en collision frontale avec l’esprit du Test Driven Development (TDD). \"C’est bizarre, ça ne matche pas avec ce que je…",
       "link": "https://www.youtube.com/watch?v=vgv65QDV7Ms",
       "pubDate": "2026-02-06T08:46:49.000Z",
       "source": "Devoxx France (YouTube)",
@@ -1811,7 +1811,7 @@
     {
       "id": "7b2a9641667e",
       "title": "Claude Opus 4.6 vs GPT-5.3-Codex ⚔️",
-      "description": "Dans cette vidéo, je compare Opus 4.6 (Claude) et GPT-5.3 Codex (ChatGPT) dans un véritable duel d’IA 🔥 Code, raisonnement, génération de réponses, vitesse, précision, compréhension du contexte… quelle IA est vraiment la plus forte en 2026 ? Développeur, créateur de contenu ou simplement curieux…",
+      "description": "Dans cette vidéo, je compare Opus 4.6 (Claude) et GPT-5.3 Codex (ChatGPT) dans un véritable duel d’IA 🔥 Code, raisonnement, génération de réponses, vitesse, précision, compréhension du contexte… quelle IA est vraiment la plus forte en 2026 ? Développeur, créateur de contenu ou simplement curieux de l’IA, cette comparaison te montre les forces, faiblesses et cas d’usage réels de Claude vs ChatGPT, sans bullshit marketing. Liens utiles : ▶️ Claude Opus 4.6 :…",
       "link": "https://www.youtube.com/watch?v=RcmEbO3XBts",
       "pubDate": "2026-02-05T21:01:56.000Z",
       "source": "Pentiminax (YouTube)",
@@ -1827,7 +1827,7 @@
     {
       "id": "7a4d35862e46",
       "title": "Installer et utiliser OpenClaw (Clawdbot) sur un VPS Hostinger 💡",
-      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Dans cette vidéo, je te montre comment installer et utiliser OpenClaw (Clawdbot) sur un VPS Hostinger, étape par étape. OpenClaw est un agent IA open-source puissant qui permet…",
+      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHIm4 Dans cette vidéo, je te montre comment installer et utiliser OpenClaw (Clawdbot) sur un VPS Hostinger, étape par étape. OpenClaw est un agent IA open-source puissant qui permet d’automatiser des tâches, d’orchestrer des agents et d’exécuter des workflows intelligents directement sur ton serveur. Cette vidéo est idéale si tu veux héberger ton propre agent IA, garder le…",
       "link": "https://www.youtube.com/watch?v=L8kCOeATY5M",
       "pubDate": "2026-02-05T20:15:13.000Z",
       "source": "Pentiminax (YouTube)",
@@ -1858,7 +1858,7 @@
     {
       "id": "35d5549385bb",
       "title": "Mago : la toolchain PHP moderne (linter, formatter, analyzer)",
-      "description": "Mago n’est pas un simple linter PHP. C’est une toolchain PHP moderne, écrite en Rust, qui combine linting, formatting et analyse statique dans un seul outil ultra-rapide. Mago s’inscrit dans une nouvelle génération d’outils PHP : Plus rapides, plus stricts, plus cohérents, pensés pour les projets…",
+      "description": "Mago n’est pas un simple linter PHP. C’est une toolchain PHP moderne, écrite en Rust, qui combine linting, formatting et analyse statique dans un seul outil ultra-rapide. Mago s’inscrit dans une nouvelle génération d’outils PHP : Plus rapides, plus stricts, plus cohérents, pensés pour les projets modernes et les équipes exigeantes. Si tu fais du PHP, Symfony, ou que tu cherches à améliorer la qualité de ton code, cette vidéo est pour toi. Liens utiles : ▶️ Mago : https://mago.carthage.software/…",
       "link": "https://www.youtube.com/watch?v=7MoYQTPUH-c",
       "pubDate": "2026-02-04T15:00:19.000Z",
       "source": "Pentiminax (YouTube)",
@@ -1889,7 +1889,7 @@
     {
       "id": "e28291e4a8c5",
       "title": "TDD is not unit tests",
-      "description": "❌ Le TDD, ce n’est pas “faire des tests unitaires”. Dans ce short, Dora Bartaguiz casse une idée reçue très répandue : le Test Driven Development, ce n’est pas écrire des tests après coup, ni cocher une case qualité. 👉 Le TDD, c’est avant tout : une méthode de conception une façon de penser le…",
+      "description": "❌ Le TDD, ce n’est pas “faire des tests unitaires”. Dans ce short, Dora Bartaguiz casse une idée reçue très répandue : le Test Driven Development, ce n’est pas écrire des tests après coup, ni cocher une case qualité. 👉 Le TDD, c’est avant tout : une méthode de conception une façon de penser le code avant de l’écrire un outil pour écrire du code plus simple, plus lisible et plus maintenable Un extrait de l’épisode Café Tech avec Imen ☕️ pour mieux comprendre ce que le TDD apporte vraiment……",
       "link": "https://www.youtube.com/watch?v=wcRe7qhJn6U",
       "pubDate": "2026-02-04T09:07:31.000Z",
       "source": "Café Tech avec Imen (YouTube)",
@@ -2001,7 +2001,7 @@
     {
       "id": "26563c0e7b28",
       "title": "OpenAI lance l’app Codex (Claude Code Killer ?)",
-      "description": "OpenAI lance l’app Codex sur macOS : un \"command center\" pour piloter des agents de développement en parallèle. Liens utiles : ▶️ Codex : https://chatgpt.com/codex 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour…",
+      "description": "OpenAI lance l’app Codex sur macOS : un \"command center\" pour piloter des agents de développement en parallèle. Liens utiles : ▶️ Codex : https://chatgpt.com/codex 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr ▶️ Twitter : https://twitter.com/Pentiminax ★ Les meilleures formations pour apprendre à programmer ★ ▶️ Apprendre le C# : http://bit.ly/csharp-course-fr ▶️ Apprendre le PHP : http://bit.ly/php-course-fr ★ Les meilleurs tutoriels ★ ▶️ Tutoriel C# :…",
       "link": "https://www.youtube.com/watch?v=z6X9EnqQpNw",
       "pubDate": "2026-02-03T15:01:51.000Z",
       "source": "Pentiminax (YouTube)",
@@ -2047,7 +2047,7 @@
     {
       "id": "25f18ceaef86",
       "title": "Dnsmasq sur un routeur sous Debian 13",
-      "description": "Dnsmasq sur un routeur sous Debian 13 {align=right} Cette page décrit la configuration de [Dnsmasq][1] sur un [routeur tournant sous Debian 13][2]. Dnsmasq est un serveur léger qui fournit les services DHCP et DNS pour des réseaux locaux, même de taille importante. Il est extrêmement facile à…",
+      "description": "Dnsmasq sur un routeur sous Debian 13 {align=right} Cette page décrit la configuration de [Dnsmasq][1] sur un [routeur tournant sous Debian 13][2]. Dnsmasq est un serveur léger qui fournit les services DHCP et DNS pour des réseaux locaux, même de taille importante. Il est extrêmement facile à configurer, et l'on pourra l'utiliser pour remplacer une configuration plus classique basée sur un serveur DHCP et Bind. Ce dernier n'est pas très adapté pour les DNS de réseaux locaux, notamment à cause…",
       "link": "https://www.microlinux.fr/blog/debian-13-dnsmasq/",
       "pubDate": "2026-02-03T00:00:00.000Z",
       "source": "Microlinux (Nicolas Kovacs)",
@@ -2077,7 +2077,7 @@
     {
       "id": "0747a15bd6f1",
       "title": "OpenClaw (ex ClawdBot) et MoltBook : pour ceux qui ne savent pas",
-      "description": "Vous avez peu de temps car votre temps est précieux. Lisez. Et priez. OpenClaw (ex MoltBot, ex ClawdBot) Début novembre 2025, Peter Steinberger lance le projet \"Clawd\" puis \"ClawdBot\". 2 millions de visiteurs et 147k étoiles sur Github en quelques semaines... c'est 2 fois plus que Spring Boot qui a…",
+      "description": "Vous avez peu de temps car votre temps est précieux. Lisez. Et priez. OpenClaw (ex MoltBot, ex ClawdBot) Début novembre 2025, Peter Steinberger lance le projet \"Clawd\" puis \"ClawdBot\". 2 millions de visiteurs et 147k étoiles sur Github en quelques semaines... c'est 2 fois plus que Spring Boot qui a vingt ans. ClawdBot (renommé en OpenClaw, on en parle après) c'est au départ l'idée de se créer un assistant personnel, qui aurait...",
       "link": "https://www.touilleur-express.fr/2026/02/02/openclaw",
       "pubDate": "2026-02-02T11:13:00.000Z",
       "source": "Le Touilleur Express",
@@ -2091,7 +2091,7 @@
     {
       "id": "21084c512d61",
       "title": "En vrac de janvier 2026",
-      "description": "Le coté sombre de l’IA AI Slop Report: The Global Rise of Low-Quality AI Videos. Les vidéos de mauvaise qualité en forte augmentation sur Youtube ; Le subterfuge de Nvidia pour avaler Groq (à ne pas confondre avec Grok.com, l’IA défaillante de Musk). C’est intéressant car Groq produit des puces…",
+      "description": "Le coté sombre de l’IA AI Slop Report: The Global Rise of Low-Quality AI Videos. Les vidéos de mauvaise qualité en forte augmentation sur Youtube ; Le subterfuge de Nvidia pour avaler Groq (à ne pas confondre avec Grok.com, l’IA défaillante de Musk). C’est intéressant car Groq produit des puces destinées à l’inférence IA (la partie usage des LLM) qui promettent plus de rapidité et une moindre consommation électrique. Le mouvement vers l’optimisation de l’inférence est en marche ! Justement, à…",
       "link": "https://standblog.org/blog/post/2026/02/01/En-vrac-de-janvier-2026",
       "pubDate": "2026-02-01T21:12:00.000Z",
       "source": "Standblog (Tristan Nitot)",
@@ -2105,7 +2105,7 @@
     {
       "id": "fa4983526072",
       "title": "Ton SaaS n'est pas en sécurité ! (Teste-le tout de suite)",
-      "description": "Tu penses que ton projet Supabase est sécurisé parce que tu as activé les règles RLS ? Attention, c'est souvent là que se cachent les plus grosses erreurs de configuration. Dans cette vidéo, on va auditer la sécurité d'une application réelle. Je te montre les erreurs classiques que font 90% des…",
+      "description": "Tu penses que ton projet Supabase est sécurisé parce que tu as activé les règles RLS ? Attention, c'est souvent là que se cachent les plus grosses erreurs de configuration. Dans cette vidéo, on va auditer la sécurité d'une application réelle. Je te montre les erreurs classiques que font 90% des développeurs et solopreneurs quand ils veulent aller trop vite. On va utiliser le repository supabase-pentest-skills pour faire un crash-test de la base de données. L'objectif : vérifier que tes données…",
       "link": "https://www.youtube.com/watch?v=KaB3hp95h1k",
       "pubDate": "2026-02-01T18:00:29.000Z",
       "source": "YoanDev (YouTube)",
@@ -2151,7 +2151,7 @@
     {
       "id": "be1bd3e4d258",
       "title": "Mon VS Code Minimaliste 2026 - Setup Complet (Thème, Extensions & Config)",
-      "description": "Dans cette vidéo, je vous partage ma configuration VS Code minimaliste complète ! 🎨 Ce que vous allez découvrir : Mon thème personnalisé Tailwind Ninja (gratuit sur le Marketplace) Les extensions essentielles que j'utilise pour Laravel/PHP Ma configuration complète (settings.json disponible)…",
+      "description": "Dans cette vidéo, je vous partage ma configuration VS Code minimaliste complète ! 🎨 Ce que vous allez découvrir : Mon thème personnalisé Tailwind Ninja (gratuit sur le Marketplace) Les extensions essentielles que j'utilise pour Laravel/PHP Ma configuration complète (settings.json disponible) Astuces pour un environnement de développement épuré 📦 Ressources mentionnées : Thème : Tailwind Ninja Theme (VS Code Marketplace) Police : JetBrains Mono (gratuite) Icons : JetBrains New UI File Icon…",
       "link": "https://www.youtube.com/watch?v=OBwB2gGzDok",
       "pubDate": "2026-02-01T11:54:37.000Z",
       "source": "Laravel Jutsu (YouTube)",
