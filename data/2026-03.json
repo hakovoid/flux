@@ -2,6 +2,22 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "2a2f7a97e86b",
+      "title": "Symfony UX Native : Transforme ton app web en APP MOBILE en 5 min 😱",
+      "description": "Symfony peut maintenant faire des applications mobiles natives 🤯 Avec Symfony UX Native, transforme ton application web en véritable app mobile, sans passer par React Native ou Flutter. Dans cette vidéo, je te montre comment utiliser Symfony UX Native pour créer une expérience mobile native directement depuis ton projet Symfony. 🔗 Liens utiles 👉 UX Native : https://ux.symfony.com/native 👉Hotwired Native : https://native.hotwired.dev 📌 Retrouvez moi sur : ▶️ Mon site : https://pentiminax.fr…",
+      "link": "https://www.youtube.com/watch?v=7FhcCvwrexE",
+      "pubDate": "2026-03-28T10:09:20.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7FhcCvwrexE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7FhcCvwrexE"
+    },
+    {
       "id": "25e1345a320f",
       "title": "320 lecteurs en 3 mois. Et maintenant ?",
       "description": "Ce qui change dès maintenant, ce qui arrive bientôt et pourquoi la newsletter ne sera plus tout à fait la même.",
