@@ -17,6 +17,156 @@
       "type": "blog"
     },
     {
+      "id": "2dd418fb3b55",
+      "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
+      "description": "A supply chain attack targeting the widely used HTTP client Axios has introduced a malicious dependency into specific npm releases, including axios@1.14.1 and axios@0.30.4. The latest version pulls in plain-crypto-js@4.2.1, a package that Socket has confirmed as malicious. Our analysis shows the malicious package deploys a multi-stage payload, including a remote access trojan (RAT) capable of executing arbitrary commands, exfiltrating system data, and persisting on infected machines. Axios is…",
+      "link": "https://socket.dev/blog/axios-npm-package-compromised?utm_medium=feed",
+      "pubDate": "2026-03-31T02:52:36.359Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/a9a3c4f14bd3ca592b307f83e3ad23f0d01f20d7-945x505.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "3ad4d7cea6aa",
+      "title": "TeamPCP Compromises Telnyx Python SDK to Deliver Credential-Stealing Malware",
+      "description": "Socket has identified a supply chain attack affecting the telnyx Python package on PyPI. The telnyx library is the official Python SDK for the Telnyx communications platform, providing developers with programmatic access to APIs for voice calls, SMS/MMS messaging, WhatsApp, fax, IoT connectivity, and SIP trunking. It is commonly used in backend systems to integrate real-time communications and telephony into applications. Because the library is used to authenticate and send requests directly to…",
+      "link": "https://socket.dev/blog/telnyx-python-sdk-compromised?utm_medium=feed",
+      "pubDate": "2026-03-27T09:49:11.089Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/64c78604d9ce0af14850d522c193f2cbcf32bf58-2850x1388.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1b17bc5e0955",
+      "title": "TeamPCP Partners With Ransomware Group Vect to Target Open Source Supply Chains",
+      "description": "The ongoing attacks targeting Trivy, LiteLLM, and other open source security tools are entering a new phase, with claims that TeamPCP has partnered with the Vect ransomware group to leverage supply chain compromises for ransomware operations. Posts attributed to Vect on BreachForums announced a partnership with TeamPCP, the actors behind recent cross-ecosystem supply chain attacks involving GitHub Actions, OpenVSX extensions, Docker images, and npm and PyPI packages: Vect Ransomware Group is…",
+      "link": "https://socket.dev/blog/teampcp-partners-with-vect-targeting-oss-supply-chains?utm_medium=feed",
+      "pubDate": "2026-03-26T16:45:21.079Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/8fc66e7960f38410940c15950344819c83d17a43-2048x1219.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ccef606e507a",
+      "title": "Widespread GitHub Campaign Uses Fake VS Code Security Alerts to Deliver Malware",
+      "description": "A large-scale phishing campaign is targeting developers directly inside GitHub, using fake Visual Studio Code security alerts posted through Discussions to trick users into installing malicious software. Here's one example, saved to the Internet Archive, as we assume these will quickly be taken down: Early searches show thousands of nearly identical posts across repositories, indicating this is not an isolated incident but a coordinated spam campaign. Because GitHub Discussions trigger email…",
+      "link": "https://socket.dev/blog/widespread-github-campaign-uses-fake-vs-code-security-alerts-to-deliver-malware?utm_medium=feed",
+      "pubDate": "2026-03-25T20:31:16.336Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/2801d70b2fbaf37d8b9effb71a7a9724cb2f181e-1095x1085.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "50cd137e7d93",
+      "title": "5 Malicious npm Packages Typosquat Solana and Ethereum Libraries to Steal Private Keys",
+      "description": "Socket's Threat Research Team identified five malicious npm packages published under the account galedonovan, all targeting cryptocurrency developers. Each package typosquats a legitimate crypto library and exfiltrates private keys to a single hardcoded Telegram bot. The campaign covers both the Solana and Ethereum ecosystems, and the C2 infrastructure was confirmed active as of March 23, 2026. One of the packages, base_xd, was published by the same account but was unpublished within five…",
+      "link": "https://socket.dev/blog/5-malicious-npm-packages-typosquat-solana-and-ethereum-libraries-steal-private-keys?utm_medium=feed",
+      "pubDate": "2026-03-24T20:19:48.044Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/b8c4e8c694678e3866e2760f87ffc000d599ebd2-556x226.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9c3ece0f474b",
+      "title": "TeamPCP Is Systematically Targeting Security Tools Across the OSS Ecosystem",
+      "description": "TeamPCP is escalating a coordinated campaign targeting security tools and open source developer infrastructure, and is now openly taking credit for multiple follow-on attacks across ecosystems. In recent Telegram posts, the group has claimed responsibility for expanding beyond the initial Trivy compromise, pointing to attacks on GitHub Actions, OpenVSX extensions, and now PyPI. The latest development includes attacks on Checkmarx' KICS scanner and OpenVSX extensions and a trojanized release of…",
+      "link": "https://socket.dev/blog/teampcp-targeting-security-tools-across-oss-ecosystem?utm_medium=feed",
+      "pubDate": "2026-03-24T15:56:00.139Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/b6b9246d45f5476f6c85076a06bd4f5916f8c411-1206x894.jpg?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "c012fce8e332",
+      "title": "TypeScript 6.0 Released: The Final JavaScript-Based Version",
+      "description": "TypeScript 6.0 landed today marking a milestone: this is the final release built on the existing JavaScript codebase. TypeScript 7.0, currently in preview, will run on a Go-native compiler, and the team says the release is imminent. \"TypeScript 6.0 acts as the bridge between TypeScript 5.9 and 7.0,\" Microsoft's TypeScript Principal Product Manager Daniel Rosenwasser said. \"As such, most changes in TypeScript 6.0 are meant to help align and prepare for adopting TypeScript 7.0. It may seem…",
+      "link": "https://socket.dev/blog/typescript-6-0-released-final-javascript-based-version?utm_medium=feed",
+      "pubDate": "2026-03-23T23:15:12.249Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fb9900f3bc88",
+      "title": "Trivy Supply Chain Attack Expands to Compromised Docker Images",
+      "description": "Socket's threat research team has identified additional compromised Trivy artifacts published to Docker Hub, following the recently disclosed GitHub Actions compromise affecting the aquasecurity/trivy-action repository. New image tags 0.69.5 and 0.69.6 were pushed on March 22 without corresponding GitHub releases or tags. Both images contain indicators of compromise associated with the same TeamPCP infostealer observed in earlier stages of this campaign. The latest tag currently points to…",
+      "link": "https://socket.dev/blog/trivy-docker-images-compromised?utm_medium=feed",
+      "pubDate": "2026-03-22T23:44:03.885Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/4008583188fb8ff495068ac85ef90b365ec73e73-1248x1994.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a0dac42528fa",
+      "title": "CanisterWorm: npm Publisher Compromise Deploys Backdoor Across 29+ Packages",
+      "description": "As of March 21, 2026, the CanisterWorm supply chain attack has expanded to 135 malicious package artifacts spanning more than 64 unique packages. We are tracking the incident on Socket’s dedicated CanisterWorm supply chain attack page: https://socket.dev/supply-chain-attacks/canisterworm. According to the Wiz investigation report released on March 20, 2026, the attack is attributed to “TeamPCP”, a threat actor behind the earlier Aqua Security's Trivy attacks [1 and 2]. We continue to monitor…",
+      "link": "https://socket.dev/blog/canisterworm-npm-publisher-compromise-deploys-backdoor-across-29-packages?utm_medium=feed",
+      "pubDate": "2026-03-20T23:33:55.983Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9023a8c246eac3a7459d4f61ee21e4171330edaa-1800x1050.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "38f26f7c7f85",
+      "title": "Trivy Under Attack Again: Widespread GitHub Actions Tag Compromise Exposes CI/CD Secrets",
+      "description": "Update — March 22, 2026: Additional compromised Trivy artifacts have been identified in Docker Hub. New image tags (0.69.5 and 0.69.6), along with the previously identified 0.69.4, were found to contain the same infostealer payload, with latest pointing to a malicious image during the exposure window. Read our full update on the Docker image compromise here: https://socket.dev/blog/trivy-docker-images-compromised A new supply chain attack targeting Trivy has been disclosed today by Paul…",
+      "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise?utm_medium=feed",
+      "pubDate": "2026-03-20T03:15:33.970Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/3c283698250f6e6a079a96cdd9860cec0bc9b92d-2048x1180.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
       "id": "db246085c50a",
       "title": "Windows Support for FrankenPHP: It’s Finally Alive!",
       "description": "It’s happening! I am thrilled to announce the immediate availability of official Windows support for FrankenPHP. Since the project’s initial release, this has been by far the most requested feature. While many of you have been successfully running FrankenPHP on Windows via WSL (Windows Subsystem for Linux), native support was the “white whale” we’ve been... Windows Support for FrankenPHP: It’s Finally Alive! first appeared on Kévin Dunglas.",

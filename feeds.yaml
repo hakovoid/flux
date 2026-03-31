@@ -255,3 +255,7 @@ feeds_world:
   - url: https://dunglas.dev/feed/
     name: Kévin Dunglas
     categories: [Programmation, Web]
+
+  - url: https://socket.dev/api/blog/feed.atom
+    name: Socket
+    categories: [Cybersécurité, Programmation]
