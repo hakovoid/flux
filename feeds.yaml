@@ -99,6 +99,10 @@ feeds:
     name: Vincent Bernat
     categories: [DevOps, Programmation, Cybersécurité]
 
+  - url: https://f2r.github.io/feed/fr.xml
+    name: F2R (Frédéric Bouchery)
+    categories: [Programmation, Web]
+
   - url: https://boris.schapira.dev/feed.xml
     name: Boris Schapira
     categories: [Web, Programmation]

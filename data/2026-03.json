@@ -2,6 +2,183 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "44308ba4edb7",
+      "title": "Styles de fond & bordures en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-background-border-2321 Dans ce chapitre, on va découvrir comment styliser l'arrière-plan et les contours d'un élément. Ce sont des propriétés très utilisées en CSS car elles permettent rapidement de donner du relief à une interface, de structurer visuellement une zone et de mieux faire ressortir certains éléments. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter :…",
+      "link": "https://www.youtube.com/watch?v=oTQz2sCRc8s",
+      "pubDate": "2026-03-31T13:30:38.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/oTQz2sCRc8s/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "oTQz2sCRc8s"
+    },
+    {
+      "id": "25c23dd1f6dd",
+      "title": "Le code source de Claude Code a fuité ! (Et c'est une mine d'or) 🚨",
+      "description": "C’est le séisme de l’année 2026 pour les développeurs. Le code source intégral de Claude Code, l’outil CLI révolutionnaire d’Anthropic, vient de fuiter publiquement via le registre npm. Dans cette vidéo, on analyse comment une simple erreur de configuration de source maps a exposé plus de 512 000 lignes de TypeScript. On plonge dans les entrailles de l’architecture de Claude Code : Pourquoi ont-ils choisi Bun ? Comment fonctionne leur système multi-agents ? Liens utiles : ▶️ Code source de…",
+      "link": "https://www.youtube.com/watch?v=9gXLud-Pn30",
+      "pubDate": "2026-03-31T11:52:01.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/9gXLud-Pn30/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "9gXLud-Pn30"
+    },
+    {
+      "id": "c9e2414f41b7",
+      "title": "Quand va t-on atteindre les limites matérielles de l'IA et du numérique? ft Philippe Bihouix",
+      "description": "Croissance infinie vs Monde fini : L’’IA va t’elle nous faire sombrer ou nous sauver ? 🌍⛏️ Peut-on continuer à innover sans limites dans un monde aux ressources physiques épuisables ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi reçoivent Philippe Bihouix, ingénieur et auteur de référence sur les \"low-tech\", pour confronter nos rêves de grandeur technologique à la dure réalité de la géologie et de la thermodynamique. Alors que l’on nous promet l'IA généralisée, des gains de…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69cba3c603f0e1583048ce67",
+      "pubDate": "2026-03-31T10:37:14.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1774953286456-48e04592-fff1-4a07-b92d-5d1916eb9f25.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69cba3c603f0e1583048ce67/media.mp3",
+      "duration": "1:25:48"
+    },
+    {
+      "id": "7fb6b79d1a1c",
+      "title": "Atomiser ses contenus grâce à l’IA pour publier plus sur les réseaux sociaux",
+      "description": "Le recyclage de contenu consiste à transformer des articles, vidéos, ou podcasts en formats plus courts pour accroître la visibilité en ligne. En découpant des contenus longs, on crée de nouveaux posts adaptés aux réseaux sociaux, facilitant ainsi la communication régulière sans nécessiter une création originale. Cela optimise le trafic sans investissement publicitaire. L’article Atomiser ses contenus grâce à l’IA pour publier plus sur les réseaux sociaux est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/03/31/atomiser-ses-contenus-grace-a-lia-pour-publier-plus-sur-les-reseaux-sociaux/",
+      "pubDate": "2026-03-31T09:21:55.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c317f526df1f",
+      "title": "Les styles de texte en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-text-style-2320 Ce chapitre est l'occasion de découvrir les premières vraies propriétés CSS mais aussi de comprendre un mécanisme fondamental du langage : l'héritage, à l'origine du mot _Cascading_ dans CSS. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=jce-1pZ5L34",
+      "pubDate": "2026-03-31T09:20:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/jce-1pZ5L34/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "jce-1pZ5L34"
+    },
+    {
+      "id": "e2393a919f11",
+      "title": "Les sélecteurs CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-selector-2319 Les sélecteurs sont au cœur du CSS : ce sont eux qui permettent de cibler précisément les éléments auxquels on veut appliquer un style. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=fEgYZlDKCyI",
+      "pubDate": "2026-03-31T09:12:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/fEgYZlDKCyI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fEgYZlDKCyI"
+    },
+    {
+      "id": "48888aa8d96d",
+      "title": "Introduction au CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-presentation-2318 Quand on commence à apprendre le développement web, la première étape passe généralement par l'HTML : un langage qui permet de structurer le contenu d'une page. Le problème, c'est qu'une page HTML brute est particulièrement austère. Pour lui donner vie et lui apporter un vrai design, on va devoir utiliser le **CSS**. CSS signifie **Cascading Style Sheet** (feuille de style en cascade). C'est le langage qui s'occupe de la mise en…",
+      "link": "https://www.youtube.com/watch?v=fwyKJwScbus",
+      "pubDate": "2026-03-31T09:10:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/fwyKJwScbus/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "fwyKJwScbus"
+    },
+    {
+      "id": "759b86eb9c04",
+      "title": "Je refais la formation CSS",
+      "description": "🔗 Voir la formation : https://grafikart.fr/formations/apprendre-css Petite vidéo pour justifier mon absence de vidéo récente et vous annoncer la sortie de la version 2026 de la formation CSS. L'occasion de réorganiser l'ordre d'apprentissage et de voir un CSS plus moderner que la précédente formation qui commençait à se faire un peu vieille. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter :…",
+      "link": "https://www.youtube.com/watch?v=7Te4N3R0BC0",
+      "pubDate": "2026-03-31T09:08:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7Te4N3R0BC0/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7Te4N3R0BC0"
+    },
+    {
+      "id": "3c031de75254",
+      "title": "Git Worktrees : ce que c’est, comment les utiliser, et pourquoi l’IA change tout",
+      "description": "Une commande, un nouveau répertoire, votre travail courant intact. Et si git stash était la mauvaise réponse depuis le début ?",
+      "link": "https://codecodecoders.substack.com/p/git-worktrees-ce-que-cest-comment",
+      "pubDate": "2026-03-31T08:01:33.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!dW7Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2eeda7d-022f-438b-b628-45df1f4ea914_1024x608.png",
+      "type": "blog"
+    },
+    {
+      "id": "7dda0a675829",
+      "title": "Retour sur la LaraconEU 2026",
+      "description": "Pour la troisième année consécutive, notre coopérative a pris part à la LaraconEU. Avec près de 1 000 participants au Passenger Terminal Amsterdam, cette édition record fut un concentré d’innovations techniques et d’échanges architecturaux. Voici notre récapitulatif de ces deux jours intensifs. Retour sur la Keynote de Taylor Otwell Le créateur de Laravel, Taylor Otwell, […] L’article Retour sur la LaraconEU 2026 est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/retour-sur-la-laraconeu-2026",
+      "pubDate": "2026-03-31T08:01:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/30951-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "357801b10e33",
+      "title": "KubeCon & CloudNativeCon 2026 (Partie 1)",
+      "description": "Une fois de plus, la KubeCon revient ! Cette année, Amsterdam a pu accueillir cet évènement avec ses 13 000 visiteurs, et quelques centaines d'exposants sur la semaine du 23 Mars. Riche en annonces, conférences et de présentations en tous",
+      "link": "https://blog.ippon.fr/2026/03/31/kubecon-cloudnativecon-2026-partie-1/",
+      "pubDate": "2026-03-31T07:04:46.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026-1.png",
+      "type": "blog"
+    },
+    {
       "id": "1f0b50f4c02c",
       "title": "Jane now supports OpenAPI 3.1 and JSON Schema 2020-12",
       "description": "Version 7.11.0 of Jane PHP, the API client and Normalizer generator, is now available. This major update to the generation engine focuses on aligning with the latest industry standards through the support of JSON Schema 2020-12 and OpenAPI 3.1. 🚀 Major Updates JSON Schema 2020-12 Support One of the most important changes introduced in this version is the integration of support for JSON Schema 2020-12 (PR #918). This update allows Jane to process much more modern and complex data schemas, thus…",
@@ -3076,6 +3253,21 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_128_iafatigue.mp3",
       "duration": "2884"
+    },
+    {
+      "id": "a56b08f0d803",
+      "title": "Pourquoi utiliser des closures statiques ?",
+      "description": "Pourquoi utiliser des closures statiques ? (Publié le 3 mars 2026 - English version)",
+      "link": "https://f2r.github.io/fr/closures-statiques.html",
+      "pubDate": "2026-03-02T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "11640f28a4df",
