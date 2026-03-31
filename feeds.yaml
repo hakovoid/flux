@@ -3,6 +3,10 @@ feeds:
     name: Taha K.
     categories: [Programmation, IA]
 
+  - url: https://www.elao.com/blog/rss.xml
+    name: Elao
+    categories: [Programmation, Web]
+
   - url: https://kolapsis.com/index.xml
     name: Kolapsis (Benjamin Touchard)
     categories: [Programmation, DevOps]

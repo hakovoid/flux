@@ -541,6 +541,21 @@
       "type": "blog"
     },
     {
+      "id": "a09fe7e22cb6",
+      "title": "[Épisode 2] Pédagogie, curiosité et humilité : des nouvelles clés pour s’épanouir chez Elao",
+      "description": "On a posé la question aux équipes des soft skills qui comptent pour eux et voici leurs réponses…",
+      "link": "https://www.elao.com/blog/elao/soft-skills/soft-skills-episode-2",
+      "pubDate": "2026-02-23T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7fa097a548dc",
       "title": "GotenbergBundle : LA nouvelle référence pour le PDF en Symfony",
       "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour Symfony. Fini les rendus CSS approximatifs et les bibliothèques obsolètes (RIP wkhtmltopdf). On passe sur une architecture moderne \"Docker-first\" utilisant Chromium pour un rendu pixel-perfect. Au…",

@@ -243,6 +243,21 @@
       "type": "blog"
     },
     {
+      "id": "597e5262d8a9",
+      "title": "Paralléliser des tâches avec Claude Code : comparatif de 4 approches",
+      "description": "Retour d'expérience sur 4 approches de parallélisation de tâches dans Claude Code : séquentielle, batch, Agent Teams et Task Worker Pool.",
+      "link": "https://www.elao.com/blog/ia/paralleliser-taches-claude-code",
+      "pubDate": "2026-03-30T14:02:59.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1f0b50f4c02c",
       "title": "Jane now supports OpenAPI 3.1 and JSON Schema 2020-12",
       "description": "Version 7.11.0 of Jane PHP, the API client and Normalizer generator, is now available. This major update to the generation engine focuses on aligning with the latest industry standards through the support of JSON Schema 2020-12 and OpenAPI 3.1. 🚀 Major Updates JSON Schema 2020-12 Support One of the most important changes introduced in this version is the integration of support for JSON Schema 2020-12 (PR #918). This update allows Jane to process much more modern and complex data schemas, thus…",
@@ -317,6 +332,21 @@
         "IA"
       ],
       "image": "https://cdn-images-1.medium.com/max/1024/0*qb9MMGn4tet5i1zx.png",
+      "type": "blog"
+    },
+    {
+      "id": "3727bed5ef92",
+      "title": "Cycles de travail : la flexibilité qui marche… à condition de poser un cadre",
+      "description": "Chez Elao, chaque membre de l'équipe choisit son rythme de travail grâce aux cycles. On vous partage ce qui fonctionne, ce qu'on a dû ajuster et les clés pour que la flexibilité reste un vrai levier.",
+      "link": "https://www.elao.com/blog/elao/cycles-de-travail-et-flexibilite",
+      "pubDate": "2026-03-30T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1820,6 +1850,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/05baaa16-23ec-4d22-b760-baf3d669cf7e.mp3?_=1773579628",
       "duration": "36:26"
+    },
+    {
+      "id": "0099040e3da4",
+      "title": "Animer et structurer intelligemment : 4 fonctionnalités CSS qui changent la donne",
+      "description": "View Transitions, Scroll-Driven Animations, animation-composition, @property… Découvrez les fonctionnalités CSS modernes qui transforment la façon d'animer et de structurer les interactions — sans JavaScript.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025-part2",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "6594e353b919",

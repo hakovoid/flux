@@ -488,6 +488,21 @@
       "type": "blog"
     },
     {
+      "id": "e971ab3ae3a8",
+      "title": "[Épisode 1] Autonomie & esprit d’équipe, deux clés pour s’épanouir chez Elao",
+      "description": "On a posé la question aux équipes des soft-skills qui comptent pour eux et voici leurs réponses…",
+      "link": "https://www.elao.com/blog/elao/soft-skills/soft-skills-episode-1",
+      "pubDate": "2026-01-26T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a0eb4bfad002",
       "title": "PHP 8.3 : typage renforcé et nouvelles fonctionnalités",
       "description": "PHP 8.3 : constantes typées, json_validate(), attribut #[Override] et clonage readonly. Découvrez les nouveautés qui améliorent la sûreté et les performances du langage.",
@@ -1163,6 +1178,21 @@
         "Cybersécurité"
       ],
       "image": "https://d2pzklc15kok91.cloudfront.net/images/raid-md0.bd970fa35a6b71.svg"
+    },
+    {
+      "id": "a6b889c781ec",
+      "title": "Les 4 nouveautés CSS qui changent tout (et comment les utiliser)",
+      "description": "CSS Nesting, @layer, Container Queries, :has()… Découvrez les fonctionnalités CSS modernes prêtes pour la production qui transforment notre façon de concevoir les styles.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025",
+      "pubDate": "2026-01-19T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "46a09348f420",
