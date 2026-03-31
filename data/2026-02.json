@@ -1222,6 +1222,22 @@
       "image": null
     },
     {
+      "id": "e587e87c7874",
+      "title": "🎤 Talks donnés à Touraine Tech 🎤",
+      "description": "Liste de talks donnés lors de la conférence Touraine Tech",
+      "link": "https://philippart-s.github.io/blog/talks/tnt-26/",
+      "pubDate": "2026-02-14T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "21aaf30e6706",
       "title": "Ce site est de retour en France",
       "description": "Cela fait plusieurs années que je m’intéresse beaucoup à la souveraineté numérique et la dépendance technologique que l’on peut avoir (principalement concentré sur des acteurs américains). J’en parlais dans un précédent article, mais à ce titre, je souhaite réduire ma dépendance aux GAFAM au profit d’acteurs français (ou européens). J’ai l’année dernière quitté la galaxie Google pour basculer chez Proton. Toutes mes applications et serveurs sont actuellement hébergés chez Scaleway avec les noms…",

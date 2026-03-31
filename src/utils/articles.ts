@@ -16,6 +16,21 @@ export function loadAllArticles(): Article[] {
   return articles;
 }
 
+export function loadWorldArticles(): Article[] {
+  const modules = import.meta.glob<MonthlyData>('/data-world/*.json', { eager: true });
+  const articles: Article[] = [];
+
+  for (const mod of Object.values(modules)) {
+    if (mod.articles) {
+      articles.push(...mod.articles);
+    }
+  }
+
+  articles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+  return articles;
+}
+
 export function getAllCategories(articles: Article[]): string[] {
   const cats = new Set<string>();
   for (const article of articles) {

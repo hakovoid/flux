@@ -1,11 +1,11 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { loadAllArticles, getAllSources, getCategoryColor, getMetaDescription } from '../../utils/articles';
+import { loadAllArticles, loadWorldArticles, getAllSources, getCategoryColor, getMetaDescription } from '../../utils/articles';
 
 export function getStaticPaths() {
   const PAGE_SIZE = 15;
-  const allArticles = loadAllArticles();
+  const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
   const sources = getAllSources(allArticles);
   const paths: any[] = [];
 

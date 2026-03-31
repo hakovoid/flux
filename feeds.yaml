@@ -250,3 +250,8 @@ feeds:
     name: Generative AI France (YouTube)
     type: youtube
     categories: [IA]
+
+feeds_world:
+  - url: https://dunglas.dev/feed/
+    name: Kévin Dunglas
+    categories: [Programmation, Web]

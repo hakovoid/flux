@@ -1,11 +1,11 @@
 ---
-import { loadAllArticles, getAllSources } from '../utils/articles';
+import { loadAllArticles, loadWorldArticles, getAllSources } from '../utils/articles';
 
 let articleCount = 0;
 let sourceCount = 0;
 
 try {
-  const articles = loadAllArticles();
+  const articles = [...loadAllArticles(), ...loadWorldArticles()];
   articleCount = articles.length;
   sourceCount = getAllSources(articles).length;
 } catch {
@@ -22,6 +22,7 @@ const buildDate = new Date().toLocaleDateString('fr-FR', {
 
 const navItems = [
   { label: 'Articles', href: '/' },
+  { label: 'World', href: '/world' },
   { label: 'Sources', href: '/sources' },
   { label: 'Newsletter', href: '/newsletter' },
   { label: 'À propos', href: '/a-propos' },

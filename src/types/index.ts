@@ -9,6 +9,7 @@ export interface FeedConfig {
 
 export interface FeedsConfig {
   feeds: FeedConfig[];
+  feeds_world?: FeedConfig[];
 }
 
 export interface Article {

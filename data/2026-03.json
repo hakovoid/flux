@@ -2,6 +2,54 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1fbb454d4c2a",
+      "title": "Créer une boucle dans vos templates Helm",
+      "description": "Y’a des jours comme ça, on se retrouve à devoir trouver des solutions un peu sales pour gérer une application mal foutue dont on a [...]",
+      "link": "https://blog.seboss666.info/2026/03/creer-une-boucle-dans-vos-templates-helm/",
+      "pubDate": "2026-03-31T15:26:36.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2019/09/kubernetes.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "faf9ac9625c8",
+      "title": "Un VPN n'est pas un outil magique. Mais c'est quoi alors ?",
+      "description": "D'après les fournisseurs de VPN, activez-le et vous devenez invisible, anonyme et pleins d'autres super-pouvoirs. Mais qu'en est-il réellement ?",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Un-VPN-nest-pas-un-outil-magique--Mais-cest-quoi-alors-e3h7ub4",
+      "pubDate": "2026-03-31T15:04:31.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/117749540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-31%2F3984e0c2-fe38-8a7b-864f-01e845203585.mp3",
+      "duration": "00:08:59"
+    },
+    {
+      "id": "838711125350",
+      "title": "La différence entre RUN et CMD avec Docker",
+      "description": "Découvrez la différence entre RUN et CMD dans Docker, leur rôle dans un Dockerfile et comment éviter les erreurs courantes.",
+      "link": "https://code-garage.com/blog/la-difference-entre-run-et-cmd-avec-docker",
+      "pubDate": "2026-03-31T14:43:51.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "44308ba4edb7",
       "title": "Styles de fond & bordures en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-background-border-2321 Dans ce chapitre, on va découvrir comment styliser l'arrière-plan et les contours d'un élément. Ce sont des propriétés très utilisées en CSS car elles permettent rapidement de donner du relief à une interface, de structurer visuellement une zone et de mieux faire ressortir certains éléments. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter :…",
@@ -176,6 +224,22 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "11d8b247b604",
+      "title": "🎤 Talks donnés à Voxxed Days Zurich 🎤",
+      "description": "Liste de talks donnés lors de la conférence Voxxed Days Zurich",
+      "link": "https://philippart-s.github.io/blog/talks/voxxed-days-zurich-2026/",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

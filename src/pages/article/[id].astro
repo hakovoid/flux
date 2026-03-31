@@ -1,13 +1,15 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
-import { loadAllArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor, slugify, getMetaDescription } from '../../utils/articles';
+import { loadAllArticles, loadWorldArticles, getRelatedArticles, formatDate, getCategoryColor, getCategoryGradient, getFreshnessBadge, getTypeLabel, getTypeColor, slugify, getMetaDescription } from '../../utils/articles';
 
 export function getStaticPaths() {
-  const articles = loadAllArticles();
-  return articles.map((article) => ({
+  const frArticles = loadAllArticles();
+  const worldArticles = loadWorldArticles();
+  const allArticles = [...frArticles, ...worldArticles];
+  return allArticles.map((article) => ({
     params: { id: article.id },
-    props: { article, allArticles: articles },
+    props: { article, allArticles },
   }));
 }
 

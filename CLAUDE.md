@@ -13,11 +13,11 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 | `npm run dev` | Dev server on localhost:4321 |
 | `npm run build` | Production build → `./dist/` |
 | `npm run preview` | Preview production build |
-| `npm run fetch-feeds` | Fetch RSS articles → `/data/*.json` |
+| `npm run fetch-feeds` | Fetch RSS articles → `/data/*.json` + `/data-world/*.json` |
 
 ## Architecture
 
-**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser for RSS/Atom, YouTube Data API v3 for YouTube channels, parallel batch processing) → monthly JSON files in `/data/` → Astro static build → Netlify deploy.
+**Data pipeline:** `feeds.yaml` → `scripts/fetch-feeds.ts` (rss-parser for RSS/Atom, YouTube Data API v3 for YouTube channels, parallel batch processing) → monthly JSON files in `/data/` (French) and `/data-world/` (international) → Astro static build → Netlify deploy.
 
 **Key flow:** GitHub Actions runs `fetch-feeds` daily at 4 UTC, commits new articles, then Netlify rebuilds. The fetch-feeds script uses `--env-file-if-exists=.env` so `.env` is loaded locally but ignored silently in CI (where env vars come from GitHub secrets).
 
@@ -31,7 +31,7 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 
 ## Key Files
 
-- `feeds.yaml` — RSS/YouTube source definitions with categories and types
+- `feeds.yaml` — RSS/YouTube source definitions with `feeds:` (French) and `feeds_world:` (international) sections
 - `scripts/fetch-feeds.ts` — Aggregation script (dedup via SHA256 URL hash, image extraction, date filtering, `process.exit(0)` for clean termination)
 - `src/utils/articles.ts` — Article loading, search, categorization, `slugify()` utility
 - `src/types/index.ts` — TypeScript interfaces (Article, FeedsConfig)
@@ -44,7 +44,10 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 - `src/pages/rs.astro` — Tweet generation tool (noindex)
 - `src/pages/a-propos.astro` — About page
 - `src/pages/search-index.json.ts` — JSON search index for Fuse.js (on-demand)
-- `src/pages/rss.xml.ts` — Outbound RSS feed (50 latest articles)
+- `src/pages/rss.xml.ts` — Outbound RSS feed (50 latest French articles)
+- `src/pages/world/index.astro` — International articles page (separate from main)
+- `src/pages/world/rss.xml.ts` — Outbound RSS feed for international articles
+- `src/pages/world/search-index.json.ts` — Search index for international articles
 
 ## Conventions
 
@@ -52,7 +55,7 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 - Path alias: `@/*` maps to `src/*`
 - TypeScript strict mode enabled
 - Articles are deduplicated by SHA256 hash of URL (first 12 chars)
-- Data files are organized monthly: `/data/YYYY-MM.json`
+- Data files are organized monthly: `/data/YYYY-MM.json` (French) and `/data-world/YYYY-MM.json` (international)
 - Article pages are indexable with `canonicalOverride` pointing to the original source URL
 - Sources are sorted alphabetically everywhere (filter dropdown, sources page)
 - Category tags and source names are clickable links to their dedicated pages

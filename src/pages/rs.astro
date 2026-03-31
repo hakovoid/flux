@@ -1,8 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { loadAllArticles } from '../utils/articles';
+import { loadAllArticles, loadWorldArticles } from '../utils/articles';
 
-const allArticles = loadAllArticles();
+const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
 const siteUrl = 'https://flux.yoandev.co';
 ---
 
@@ -373,9 +373,9 @@ const siteUrl = 'https://flux.yoandev.co';
     const prompt = `Tu es un community manager tech francophone. A partir de la liste d'articles ci-dessous, genere un thread Twitter complet de ${totalTweets} tweets.
 
 Le thread doit contenir :
-1. Un tweet d'introduction (1/${totalTweets}) SANS lien qui resume en une mini-phrase les 2-3 themes principaux des articles, suivi de "(thread)". Exemple : "1/${totalTweets} IA generative, securite cloud et clean architecture : ma selection de ressources tech du ${today} (thread)"
+1. Un tweet d'introduction (1/${totalTweets}) SANS lien, plus developpe (2-3 phrases) : commence par citer les 2-3 themes principaux des articles, puis ajoute une phrase d'accroche qui donne envie de lire le thread, termine par "(thread)". Utilise au maximum les 280 caracteres. Exemple : "1/${totalTweets} IA generative, securite cloud et clean architecture : voici ma selection de ressources tech du ${today}. Des lectures et decouvertes pour rester a jour sans perdre de temps (thread)"
 2. Un tweet par article (2/${totalTweets} a ${totalTweets - 1}/${totalTweets}), chacun incluant le lien fourni a la fin
-3. Un tweet de cloture (${totalTweets}/${totalTweets}) invitant a decouvrir plus de ressources sur ${siteUrl}
+3. Un tweet de cloture (${totalTweets}/${totalTweets}) invitant a decouvrir plus de ressources sur ${siteUrl} et a me soutenir sur Patreon (https://www.patreon.com/YoanDev) ou l'on poursuit la decouverte au jour le jour, sans filtre
 
 Regles strictes pour CHAQUE tweet :
 - 280 caracteres MAXIMUM par tweet (numerotation + texte + lien compris)

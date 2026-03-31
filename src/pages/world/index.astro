@@ -1,0 +1,25 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleListPage from '../../components/ArticleListPage.astro';
+import { loadWorldArticles, getAllCategories, getAllSources, getAllTypes } from '../../utils/articles';
+
+const PAGE_SIZE = 15;
+const allArticles = loadWorldArticles();
+const categories = getAllCategories(allArticles);
+const sources = getAllSources(allArticles);
+const types = getAllTypes(allArticles);
+const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
+const articles = allArticles.slice(0, PAGE_SIZE);
+---
+
+<Layout title="World — Veille internationale" description={`${allArticles.length} articles de veille technologique internationale agrégés depuis ${sources.length} sources.`} image="https://flux.yoandev.co/og.webp">
+  <ArticleListPage
+    articles={articles}
+    categories={categories}
+    sources={sources}
+    types={types}
+    currentPage={1}
+    totalPages={totalPages}
+    basePath="world"
+  />
+</Layout>

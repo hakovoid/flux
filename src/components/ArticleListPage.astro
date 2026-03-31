@@ -11,13 +11,19 @@ interface Props {
   types: FeedType[];
   currentPage: number;
   totalPages: number;
+  basePath?: string;
 }
 
-const { articles, categories, sources, types, currentPage, totalPages } = Astro.props;
+const { articles, categories, sources, types, currentPage, totalPages, basePath = '' } = Astro.props;
 
 function pageUrl(page: number): string {
+  if (basePath) {
+    return page === 1 ? `/${basePath}` : `/${basePath}/page/${page}`;
+  }
   return page === 1 ? '/' : `/page/${page}`;
 }
+
+const searchIndexUrl = basePath ? `/${basePath}/search-index.json` : '/search-index.json';
 
 const pages: (number | string)[] = [];
 for (let i = 1; i <= totalPages; i++) {
@@ -135,6 +141,10 @@ for (let i = 1; i <= totalPages; i++) {
   </div>
 </div>
 
+<script is:inline define:vars={{ searchIndexUrl }}>
+  window.__searchIndexUrl = searchIndexUrl;
+</script>
+
 <script>
   import Fuse from 'fuse.js';
 
@@ -160,7 +170,7 @@ for (let i = 1; i <= totalPages; i++) {
 
   async function loadSearchIndex(): Promise<SearchArticle[]> {
     if (searchIndex) return searchIndex;
-    const res = await fetch('/search-index.json');
+    const res = await fetch((window as any).__searchIndexUrl || '/search-index.json');
     searchIndex = await res.json();
     return searchIndex!;
   }

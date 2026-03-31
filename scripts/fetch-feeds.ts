@@ -5,6 +5,7 @@ import { createHash } from 'crypto';
 import type { FeedsConfig, Article, MonthlyData } from '../src/types/index.ts';
 
 const DATA_DIR = 'data';
+const DATA_WORLD_DIR = 'data-world';
 const FEEDS_FILE = 'feeds.yaml';
 const MAX_RETRIES = 2;
 const RETRY_DELAY = 1000;
@@ -122,14 +123,14 @@ async function fetchWithRetry(url: string): Promise<RSSParser.Output<RSSParser.I
   return null;
 }
 
-function loadExistingArticleIds(): Set<string> {
+function loadExistingArticleIds(dataDir: string): Set<string> {
   const ids = new Set<string>();
-  if (!existsSync(DATA_DIR)) return ids;
+  if (!existsSync(dataDir)) return ids;
 
-  const files = readdirSync(DATA_DIR).filter((f) => f.endsWith('.json'));
+  const files = readdirSync(dataDir).filter((f) => f.endsWith('.json'));
   for (const file of files) {
     try {
-      const data: MonthlyData = JSON.parse(readFileSync(`${DATA_DIR}/${file}`, 'utf-8'));
+      const data: MonthlyData = JSON.parse(readFileSync(`${dataDir}/${file}`, 'utf-8'));
       for (const article of data.articles) {
         ids.add(article.id);
       }
@@ -140,14 +141,14 @@ function loadExistingArticleIds(): Set<string> {
   return ids;
 }
 
-function loadExistingData(): Map<string, MonthlyData> {
+function loadExistingData(dataDir: string): Map<string, MonthlyData> {
   const dataMap = new Map<string, MonthlyData>();
-  if (!existsSync(DATA_DIR)) return dataMap;
+  if (!existsSync(dataDir)) return dataMap;
 
-  const files = readdirSync(DATA_DIR).filter((f) => f.endsWith('.json'));
+  const files = readdirSync(dataDir).filter((f) => f.endsWith('.json'));
   for (const file of files) {
     try {
-      const data: MonthlyData = JSON.parse(readFileSync(`${DATA_DIR}/${file}`, 'utf-8'));
+      const data: MonthlyData = JSON.parse(readFileSync(`${dataDir}/${file}`, 'utf-8'));
       dataMap.set(data.month, data);
     } catch {
       // Skip corrupted files
@@ -187,116 +188,111 @@ async function fetchYouTubeVideos(channelId: string): Promise<YouTubeVideo[]> {
   }));
 }
 
-async function main() {
-  console.log('🚀 Démarrage de la récupération des flux RSS...\n');
+async function processFeed(feedConfig: FeedsConfig['feeds'][number], existingIds: Set<string>): Promise<Article[]> {
+  const articles: Article[] = [];
+  const feedType = feedConfig.type || 'blog';
 
-  // Load feeds config
-  const config: FeedsConfig = parse(readFileSync(FEEDS_FILE, 'utf-8'));
-  console.log(`📋 ${config.feeds.length} flux configurés\n`);
+  console.log(`📡 Récupération: ${feedConfig.name}`);
 
-  // Load existing article IDs for deduplication
-  const existingIds = loadExistingArticleIds();
-  const existingData = loadExistingData();
-  console.log(`📦 ${existingIds.size} articles existants en base\n`);
-
-  // Ensure data directory exists
-  if (!existsSync(DATA_DIR)) {
-    mkdirSync(DATA_DIR, { recursive: true });
-  }
-
-  let newArticleCount = 0;
-
-  async function processFeed(feedConfig: FeedsConfig['feeds'][number]): Promise<Article[]> {
-    const articles: Article[] = [];
-    const feedType = feedConfig.type || 'blog';
-
-    console.log(`📡 Récupération: ${feedConfig.name}`);
-
-    // YouTube feeds: use YouTube Data API
-    if (feedType === 'youtube') {
-      if (!YOUTUBE_API_KEY) {
-        console.warn(`  ⚠ YOUTUBE_API_KEY non définie, flux YouTube ignoré.`);
-        return articles;
-      }
-
-      try {
-        const videos = await fetchYouTubeVideos(feedConfig.url);
-        console.log(`  → ${videos.length} vidéos trouvées (${feedConfig.name})`);
-
-        for (const video of videos) {
-          const link = `https://www.youtube.com/watch?v=${video.videoId}`;
-          const id = generateId(link);
-          if (existingIds.has(id)) continue;
-
-          const parsedDate = new Date(video.publishedAt);
-          if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
-          if (parsedDate.getTime() > Date.now()) continue;
-
-          articles.push({
-            id,
-            title: video.title,
-            description: truncateDescription(video.description || `Vidéo YouTube publiée par ${feedConfig.name} — ${video.title}`),
-            link,
-            pubDate: parsedDate.toISOString(),
-            source: feedConfig.name,
-            sourceUrl: `https://www.youtube.com/channel/${feedConfig.url}`,
-            categories: feedConfig.categories,
-            image: video.thumbnail,
-            type: 'youtube',
-            videoId: video.videoId,
-          });
-        }
-      } catch (error) {
-        const message = error instanceof Error ? error.message : String(error);
-        console.error(`  ✗ Erreur YouTube API pour ${feedConfig.name}: ${message}`);
-      }
+  // YouTube feeds: use YouTube Data API
+  if (feedType === 'youtube') {
+    if (!YOUTUBE_API_KEY) {
+      console.warn(`  ⚠ YOUTUBE_API_KEY non définie, flux YouTube ignoré.`);
       return articles;
     }
 
-    // RSS/Atom feeds
-    const feed = await fetchWithRetry(feedConfig.url);
-    if (!feed) return articles;
+    try {
+      const videos = await fetchYouTubeVideos(feedConfig.url);
+      console.log(`  → ${videos.length} vidéos trouvées (${feedConfig.name})`);
 
-    const items = feed.items || [];
-    console.log(`  → ${items.length} articles trouvés (${feedConfig.name})`);
+      for (const video of videos) {
+        const link = `https://www.youtube.com/watch?v=${video.videoId}`;
+        const id = generateId(link);
+        if (existingIds.has(id)) continue;
 
-    for (const item of items) {
-      const rawLink = item.link;
-      if (!rawLink) continue;
-      const baseUrl = (feed.link && isAbsoluteUrl(feed.link)) ? feed.link : feedConfig.url;
-      const link = resolveUrl(rawLink, baseUrl);
+        const parsedDate = new Date(video.publishedAt);
+        if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
+        if (parsedDate.getTime() > Date.now()) continue;
 
-      const id = generateId(link);
-      if (existingIds.has(id)) continue;
-
-      const pubDate = item.pubDate || item.isoDate || new Date().toISOString();
-      const parsedDate = new Date(pubDate);
-      if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
-      if (parsedDate.getTime() > Date.now()) continue;
-
-      articles.push({
-        id,
-        title: item.title || 'Sans titre',
-        description: truncateDescription(item.contentSnippet || item.content || item.summary),
-        link,
-        pubDate: new Date(pubDate).toISOString(),
-        source: feedConfig.name,
-        sourceUrl: feedConfig.url,
-        categories: feedConfig.categories,
-        image: extractImage(item, item.link || feed.link || feedConfig.url, feedType === 'podcast')
-          || (feedType === 'podcast' && (feed as any).itunes?.image ? (feed as any).itunes.image : null),
-        type: feedType,
-        ...(feedType === 'podcast' && item.enclosure?.url ? { audioUrl: item.enclosure.url } : {}),
-        ...(feedType === 'podcast' && (item as any).itunes?.duration ? { duration: (item as any).itunes.duration } : {}),
-      });
+        articles.push({
+          id,
+          title: video.title,
+          description: truncateDescription(video.description || `Vidéo YouTube publiée par ${feedConfig.name} — ${video.title}`),
+          link,
+          pubDate: parsedDate.toISOString(),
+          source: feedConfig.name,
+          sourceUrl: `https://www.youtube.com/channel/${feedConfig.url}`,
+          categories: feedConfig.categories,
+          image: video.thumbnail,
+          type: 'youtube',
+          videoId: video.videoId,
+        });
+      }
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      console.error(`  ✗ Erreur YouTube API pour ${feedConfig.name}: ${message}`);
     }
     return articles;
   }
 
-  // Process feeds in parallel batches
-  for (let i = 0; i < config.feeds.length; i += CONCURRENCY) {
-    const batch = config.feeds.slice(i, i + CONCURRENCY);
-    const results = await Promise.all(batch.map((f) => processFeed(f)));
+  // RSS/Atom feeds
+  const feed = await fetchWithRetry(feedConfig.url);
+  if (!feed) return articles;
+
+  const items = feed.items || [];
+  console.log(`  → ${items.length} articles trouvés (${feedConfig.name})`);
+
+  for (const item of items) {
+    const rawLink = item.link;
+    if (!rawLink) continue;
+    const baseUrl = (feed.link && isAbsoluteUrl(feed.link)) ? feed.link : feedConfig.url;
+    const link = resolveUrl(rawLink, baseUrl);
+
+    const id = generateId(link);
+    if (existingIds.has(id)) continue;
+
+    const pubDate = item.pubDate || item.isoDate || new Date().toISOString();
+    const parsedDate = new Date(pubDate);
+    if (parsedDate.getTime() < MIN_DATE.getTime()) continue;
+    if (parsedDate.getTime() > Date.now()) continue;
+
+    articles.push({
+      id,
+      title: item.title || 'Sans titre',
+      description: truncateDescription(item.contentSnippet || item.content || item.summary),
+      link,
+      pubDate: new Date(pubDate).toISOString(),
+      source: feedConfig.name,
+      sourceUrl: feedConfig.url,
+      categories: feedConfig.categories,
+      image: extractImage(item, item.link || feed.link || feedConfig.url, feedType === 'podcast')
+        || (feedType === 'podcast' && (feed as any).itunes?.image ? (feed as any).itunes.image : null),
+      type: feedType,
+      ...(feedType === 'podcast' && item.enclosure?.url ? { audioUrl: item.enclosure.url } : {}),
+      ...(feedType === 'podcast' && (item as any).itunes?.duration ? { duration: (item as any).itunes.duration } : {}),
+    });
+  }
+  return articles;
+}
+
+async function processCollection(label: string, feeds: FeedsConfig['feeds'], dataDir: string): Promise<{ newCount: number; totalIds: number; totalFiles: number }> {
+  if (feeds.length === 0) return { newCount: 0, totalIds: 0, totalFiles: 0 };
+
+  console.log(`\n── ${label} (${feeds.length} flux) ──\n`);
+
+  const existingIds = loadExistingArticleIds(dataDir);
+  const existingData = loadExistingData(dataDir);
+  console.log(`📦 ${existingIds.size} articles existants\n`);
+
+  if (!existsSync(dataDir)) {
+    mkdirSync(dataDir, { recursive: true });
+  }
+
+  let newCount = 0;
+
+  for (let i = 0; i < feeds.length; i += CONCURRENCY) {
+    const batch = feeds.slice(i, i + CONCURRENCY);
+    const results = await Promise.all(batch.map((f) => processFeed(f, existingIds)));
 
     for (const articles of results) {
       for (const article of articles) {
@@ -307,19 +303,33 @@ async function main() {
         }
         existingData.get(monthKey)!.articles.push(article);
         existingIds.add(article.id);
-        newArticleCount++;
+        newCount++;
       }
     }
   }
 
-  // Sort articles within each month by date (newest first) and write files
   for (const [monthKey, monthData] of existingData) {
     monthData.articles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-    writeFileSync(`${DATA_DIR}/${monthKey}.json`, JSON.stringify(monthData, null, 2));
+    writeFileSync(`${dataDir}/${monthKey}.json`, JSON.stringify(monthData, null, 2));
   }
 
-  console.log(`\n✅ Terminé ! ${newArticleCount} nouveaux articles ajoutés.`);
-  console.log(`📊 Total: ${existingIds.size} articles dans ${existingData.size} fichier(s) mensuel(s).`);
+  return { newCount, totalIds: existingIds.size, totalFiles: existingData.size };
+}
+
+async function main() {
+  console.log('🚀 Démarrage de la récupération des flux RSS...\n');
+
+  const config: FeedsConfig = parse(readFileSync(FEEDS_FILE, 'utf-8'));
+
+  const fr = await processCollection('Flux francophones', config.feeds, DATA_DIR);
+  const world = await processCollection('Flux internationaux', config.feeds_world || [], DATA_WORLD_DIR);
+
+  const totalNew = fr.newCount + world.newCount;
+  const totalArticles = fr.totalIds + world.totalIds;
+  const totalFiles = fr.totalFiles + world.totalFiles;
+
+  console.log(`\n✅ Terminé ! ${totalNew} nouveaux articles ajoutés.`);
+  console.log(`📊 Total: ${totalArticles} articles dans ${totalFiles} fichier(s) mensuel(s).`);
   process.exit(0);
 }
 

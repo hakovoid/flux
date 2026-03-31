@@ -837,6 +837,22 @@
       "type": "blog"
     },
     {
+      "id": "95e0201fb88c",
+      "title": "🎤 Talks donnés à Cloud Native Aix Marseille 🎤",
+      "description": "Liste de talks donnés lors de la conférence Cloud Native Aix Marseille",
+      "link": "https://philippart-s.github.io/blog/talks/cnd-aix-2026/",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7392410eb2d3",
       "title": "Mettre un datacenter dans l'espace n'a pas de sens",
       "description": "“Pour faire de l’IA, on pourrait mettre des datacenters dans l’espace, et comme ça on résoudrait les problèmes d’énergie et ceux de refroidissement”, entend-on ces derniers temps de la part des patrons de la Tech. J’avoue que quand j’ai entendu ça, j’étais sceptique, alors j’ai fait quelques recherches sur le sujet. J’ai trouvé par exemple un article d’un certain Alistair Alexander à qui donne quelques ordres de grandeur. Spoiler alert : ➡️ c’est totalement stupide. ⬅️ On va partir d’un truc…",
@@ -930,6 +946,22 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "ccab08557982",
+      "title": "🎤 Talks donnés à MarsJUG 🎤",
+      "description": "Liste de talks donnés lors de la conférence MarsJUG",
+      "link": "https://philippart-s.github.io/blog/talks/marjusg-2026/",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "7ecc192f73df",
