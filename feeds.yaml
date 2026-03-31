@@ -331,3 +331,7 @@ feeds_world:
   - url: https://marcelmoll.dev/feed
     name: Marcel Moll
     categories: [Programmation, Web]
+
+  - url: https://freek.dev/feed
+    name: Freek Van der Herten
+    categories: [Programmation, Web]

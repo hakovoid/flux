@@ -17,6 +17,21 @@
       "type": "blog"
     },
     {
+      "id": "52b2fa93d316",
+      "title": "Zen of AI Coding",
+      "description": "A thoughtful collection of principles for working with coding agents, inspired by the Zen of Python. Covers how cheap code changes prioritization, why refactoring and repaying tech debt got easier, and why your role shifts from typing code to framing problems. Read more",
+      "link": "https://freek.dev/3050-zen-of-ai-coding",
+      "pubDate": "2026-03-31T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8dbb9597b713",
       "title": "Movie Review: The AI Doc",
       "description": "The AI Doc: Or How I Became an Apocaloptimist is a brilliant piece of work.",
@@ -187,6 +202,36 @@
         "IA"
       ],
       "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/03/image-18.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7b35fb88d107",
+      "title": "Introduction to Delegated Types",
+      "description": "This post explores what Delegated Types are, highlights their benefits, compares them to alternatives like Single-Table Inheritance (STI), and examines practical use cases they enable. Read more",
+      "link": "https://freek.dev/3013-introduction-to-delegated-types",
+      "pubDate": "2026-03-30T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3f0f48e9278",
+      "title": "★ Scotty: a beautiful SSH task runner",
+      "description": "We just released Scotty, a beautiful SSH task runner. It lets you define deploy scripts and other remote tasks, run them from your terminal, and watch every step as it happens. It supports both Laravel Envoy's Blade format and a new plain bash format. Why we built Scotty Even though services like Laravel Cloud make it possible to never think about servers again, I still prefer deploying to my own servers for some projects. I know my way around them, I can pick whichever server provider I want,…",
+      "link": "https://freek.dev/3064-scotty-a-beautiful-ssh-task-runner",
+      "pubDate": "2026-03-30T07:44:16.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -381,6 +426,21 @@
       "type": "blog"
     },
     {
+      "id": "ce5b2330e8ff",
+      "title": "Generating OG images at the edge on Cloudflare",
+      "description": "Matt Rothenberg walks through how to generate dynamic Open Graph images on Cloudflare Workers. A practical guide covering the full setup from rendering to caching. Read more",
+      "link": "https://freek.dev/3047-generating-og-images-at-the-edge-on-cloudflare",
+      "pubDate": "2026-03-27T12:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ceaea784a036",
       "title": "Anthropic vs. DoW #6: The Court Rules",
       "description": "Last night, Anthropic was given its preliminary injunction, with a stay of seven days.",
@@ -528,6 +588,21 @@
       "type": "blog"
     },
     {
+      "id": "af3941b85820",
+      "title": "Speed up your Livewire tests",
+      "description": "Michael Dyrynda found that switching from fill() to set() in Livewire tests reduced his test suite from 22 seconds to 4 seconds. The difference: fill triggers a Livewire round-trip per field, while set batches them into one. Read more",
+      "link": "https://freek.dev/3038-speed-up-your-livewire-tests",
+      "pubDate": "2026-03-26T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e608055eb075",
       "title": "datasette-files-s3 0.1a1",
       "description": "Release: datasette-files-s3 0.1a1 A backend for datasette-files that adds the ability to store and retrieve files using an S3 bucket. This release added a mechanism for fetching S3 configuration periodically from a URL, which means we can use time limited IAM credentials that are restricted to a prefix within a bucket. Tags: s3, datasette",
@@ -660,6 +735,21 @@
       "type": "blog"
     },
     {
+      "id": "226b632aeb44",
+      "title": "Liminal - A full Laravel playground in your browser",
+      "description": "A static, free, and open-source Laravel playground that runs entirely in the browser! Comes with a sqlite db, artisan commands, two-way file syncing, github imports, and more. Read more",
+      "link": "https://freek.dev/3021-liminal-a-full-laravel-playground-in-your-browser",
+      "pubDate": "2026-03-25T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4ccc94a6b0ee",
       "title": "Spotting and Avoiding ROT in Your Agentic AI",
       "description": "The following article originally appeared on Q McCallum’s blog and is being republished here with the author’s permission. Generative AI agents and rogue traders pose similar insider threats to their employers. Specifically, we can expect companies to deploy agentic AI with broad reach and insufficient oversight. That creates the conditions for a particular flavor of […]",
@@ -669,6 +759,21 @@
       "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6b15febd508",
+      "title": "★ What's new in laravel-activitylog v5",
+      "description": "We just released v5 of laravel-activitylog, our package for logging user activity and model events in Laravel. In Flare, Mailcoach, and Oh Dear we use it to build audit logs, so we can track what users are doing: who changed a setting, who deleted a project, who invited a team member. If you need something similar in your app, this package makes it easy. This major release requires PHP 8.4+ and Laravel 12+, and brings a cleaner API, a better database schema, and customizable internals. Let me…",
+      "link": "https://freek.dev/3058-whats-new-in-laravel-activitylog-v5",
+      "pubDate": "2026-03-25T10:39:31.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -807,6 +912,21 @@
       "type": "blog"
     },
     {
+      "id": "3fc775d55b22",
+      "title": "Rethinking our frontend future at Spatie",
+      "description": "Nick wrote about how native browser features like the dialog element, the Popover API, and anchor positioning could eventually replace much of what we use shadcn and Radix for at Spatie today. A thoughtful look at where the web platform is heading and what it means for our frontend stack. Read more",
+      "link": "https://freek.dev/3025-rethinking-our-frontend-future-at-spatie",
+      "pubDate": "2026-03-24T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "52cae85ae4c5",
       "title": "How to Build a General-Purpose AI Agent in 131 Lines of Python",
       "description": "The following article originally appeared on Hugo Bowne-Anderson’s newsletter, Vanishing Gradients, and is being republished here with the author’s permission. In this post, we’ll build two AI agents from scratch in Python. One will be a coding agent, the other a search agent. Why have I called this post “How to Build a General-Purpose AI […]",
@@ -935,6 +1055,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "b02595713d25",
+      "title": "Moving from PHPStorm to Zed for Laravel development",
+      "description": "Chris Mellor wrote a practical guide on setting up Zed as a Laravel IDE, covering PHP extensions, Pint formatting, Blade support, and how it compares to PHPStorm. Read more",
+      "link": "https://freek.dev/3020-moving-from-phpstorm-to-zed-for-laravel-development",
+      "pubDate": "2026-03-23T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1112,6 +1247,21 @@
       "type": "blog"
     },
     {
+      "id": "4176490690b9",
+      "title": "Chat with your documents: a practical guide to RAG using the Laravel AI SDK",
+      "description": "A thorough walkthrough of building a RAG system in Laravel using the new AI SDK, Postgres for vector storage, and Livewire 4 for a streaming chat UI. Covers everything from what RAG is and how semantic search works to embedding documents and querying them. Read more",
+      "link": "https://freek.dev/3019-chat-with-your-documents-a-practical-guide-to-rag-using-the-laravel-ai-sdk",
+      "pubDate": "2026-03-20T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ced8a0dc7ad5",
       "title": "Beyond Code Review",
       "description": "Not that long ago, we were resigned to the idea that humans would need to inspect every line of AI-generated code. We’d do it personally, code reviews would always be part of a serious software practice, and the ability to read and review code would become an even more important part of a developer’s skillset. […]",
@@ -1213,6 +1363,21 @@
       "type": "blog"
     },
     {
+      "id": "5b7383889470",
+      "title": "Build an MCP server with Laravel",
+      "description": "Daniel Coulbourne walks through building an MCP server with the official laravel/mcp package. He built one for his blog in about 20 minutes, then used it to write and publish the post you're reading. Read more",
+      "link": "https://freek.dev/3018-build-an-mcp-server-with-laravel",
+      "pubDate": "2026-03-19T12:30:29.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e902d4e8cb56",
       "title": "Keep Deterministic Work Deterministic",
       "description": "This is the second article in a series on agentic engineering and AI-driven development. Read part one here, and look for the next article on April 2 on O’Reilly Radar. The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts […]",
@@ -1269,6 +1434,21 @@
       "type": "blog"
     },
     {
+      "id": "439f78670e2e",
+      "title": "Run seeders from migrations",
+      "description": "A practical look at why you should populate essential data from migrations instead of seeders. Once your app is live, manually running seeders becomes a deployment risk. Migrations are deterministic, automatic, and roll back cleanly. Read more",
+      "link": "https://freek.dev/3046-run-seeders-from-migrations",
+      "pubDate": "2026-03-18T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cc8af9e7d834",
       "title": "Twig 3.24.0 released",
       "description": "Twig 3.24.0 has just been released with a major new feature for working with HTML attributes, improved null-safe operator behavior, and variable renaming in object destructuring. The html_attr function Building HTML attributes in templates has always been…",
@@ -1309,6 +1489,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!lvgQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e925829-4c43-4470-9872-c21da56a55fa_1033x992.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3f9c78f23560",
+      "title": "The Agentic Artisan",
+      "description": "Christoph Rumpel reflects on how AI tools are changing the way developers work. The core message: take the shortcuts that cut out mechanical work, but don't outsource the parts that make your work yours. Read more",
+      "link": "https://freek.dev/3045-the-agentic-artisan",
+      "pubDate": "2026-03-17T12:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1369,6 +1564,21 @@
       "type": "blog"
     },
     {
+      "id": "11fe9c196fae",
+      "title": "★ Laravel Query Builder v7: a must-have package for building APIs in Laravel",
+      "description": "We just released v7 of spatie/laravel-query-builder, our package that makes it easy to build flexible API endpoints. If you're building an API with Laravel, you'll almost certainly need to let consumers filter results, sort them, include relationships and select specific fields. Writing that logic by hand for every endpoint gets repetitive fast, and it's easy to accidentally expose columns or relationships you didn't intend to. Our query builder takes care of all of that. It reads query…",
+      "link": "https://freek.dev/3052-laravel-query-builder-v7-a-must-have-package-for-building-apis-in-laravel",
+      "pubDate": "2026-03-16T13:57:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c165d5334ed0",
       "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
       "description": "Will AI cause a political interregnum",
@@ -1380,6 +1590,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
+      "id": "f1f6d2d04dfa",
+      "title": "A GitHub Issue Title Compromised 4,000 Developer Machines",
+      "description": "A deep dive into &quot;Clinejection&quot;, where an attacker injected a prompt into a GitHub issue title, which an AI triage bot interpreted as an instruction. The resulting chain led to cache poisoning, credential theft, and a compromised npm package that silently installed a second AI agent on 4,000 developer machines. Read more",
+      "link": "https://freek.dev/3044-a-github-issue-title-compromised-4000-developer-machines",
+      "pubDate": "2026-03-16T12:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1465,6 +1690,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!rw_t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59f6c2af-f5de-411a-b679-58da4c4d99b3_1905x1382.png",
+      "type": "blog"
+    },
+    {
+      "id": "149fe90b17d6",
+      "title": "New and improved settings screens in Flare",
+      "description": "We gave all the settings screens in Flare a fresh coat of paint. Consistent layouts, better forms, improved navigation and plenty of small details that make the experience calmer and more focused. Read more",
+      "link": "https://freek.dev/3049-new-and-improved-settings-screens-in-flare",
+      "pubDate": "2026-03-14T13:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1596,6 +1836,36 @@
       "type": "blog"
     },
     {
+      "id": "d9e4f5b61034",
+      "title": "★ Laravel Site Search v3 is here: crawl and search your entire site using just your database",
+      "description": "We're proud to release v3 of laravel-site-search, a package that crawls and indexes your entire site. Think of it as your own private Google. Point it at a URL, let it crawl every page, and get full-text search results back. Previous versions required Meilisearch as the search engine. That works well, but it means running a separate service. With v3, your application's own database is all you need. It supports SQLite, MySQL, PostgreSQL, and MariaDB out of the box, and it's the new default. Let…",
+      "link": "https://freek.dev/3040-laravel-site-search-v3-is-here-crawl-and-search-your-entire-site-using-just-your-database",
+      "pubDate": "2026-03-12T12:52:50.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "658037a4d9e2",
+      "title": "★ How to easily access private properties and methods in PHP",
+      "description": "Sometimes you need to access a private property or method on an object that isn't yours. Maybe you're writing a test and need to assert some internal state. Maybe you're building a package that needs to reach into another object's internals. Whatever the reason, PHP's visibility rules are standing in your way. Our spatie/invade package provides a tiny invade function that lets you read, write, and call private members on any object. You probably shouldn't reach for this package often. It's most…",
+      "link": "https://freek.dev/3048-how-to-easily-access-private-properties-and-methods-in-php",
+      "pubDate": "2026-03-12T10:39:39.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8b036769baff",
       "title": "Steve Yegge Wants You to Stop Looking at Your Code",
       "description": "My “Live with Tim” conversation with Steve Yegge this week was one of those sessions where you could imagine the audience leaning forward in their chairs. And on more than one occasion, when Steve got particularly colorful, I imagined them recoiling. Steve has always been one of the most provocative thinkers in our industry, going […]",
@@ -1649,6 +1919,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!_erO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97919414-de12-408f-828e-d745d02de7e2_1536x1024.png",
+      "type": "blog"
+    },
+    {
+      "id": "2f51773b231a",
+      "title": "Quick tips: Sending Laravel output to Ray automatically",
+      "description": "A handy overview of the Ray configuration options in Laravel. You can automatically send duplicate queries, slow queries, exceptions, and dump output straight to Ray without adding any ray() calls to your code. Read more",
+      "link": "https://freek.dev/3011-quick-tips-sending-laravel-output-to-ray-automatically",
+      "pubDate": "2026-03-11T13:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1706,6 +1991,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!nWvm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b7edc9f-eb35-479e-8578-ae67ee9a78b5_1095x654.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "bee511d797d0",
+      "title": "Creating The Perfect Claude Code Status Line",
+      "description": "A walkthrough of building a useful Claude Code status line that shows your current repo, git branch, staged/unstaged changes, and context window usage percentage. The context percentage is the most valuable part: it helps you know when to compact or start a fresh session before quality degrades. Read more",
+      "link": "https://freek.dev/3009-creating-the-perfect-claude-code-status-line",
+      "pubDate": "2026-03-10T13:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
