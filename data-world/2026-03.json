@@ -2,6 +2,155 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "abb25c64baf7",
+      "title": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm",
+      "description": "Supply Chain Attack on Axios Pulls Malicious Dependency from npm Useful writeup of today's supply chain attack against Axios, the HTTP client NPM package with 101 million weekly downloads. Versions 1.14.1 and 0.30.4 both included a new dependency called plain-crypto-js which was freshly published malware, stealing credentials and installing a remote access trojan (RAT). It looks like the attack came from a leaked long-lived npm token. Axios have an open issue to adopt trusted publishing, which…",
+      "link": "https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything",
+      "pubDate": "2026-03-31T23:28:40.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2eddfc716a4b",
+      "title": "Symfony 8.0.8 released",
+      "description": "Symfony 8.0.8 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-8-0-8-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-03-31T21:31:58.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b73344a0a0a",
+      "title": "datasette-llm 0.1a4",
+      "description": "Release: datasette-llm 0.1a4 Ability to configure different API keys for models based on their purpose - for example, set it up so enrichments always use gpt-5.4-mini with an API key dedicated to that purpose. #4 I released llm-echo 0.3 to provide an API key testing utility I needed for the tests for this new feature. Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
+      "pubDate": "2026-03-31T21:17:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67d3af836484",
+      "title": "MiniMax M2.7: The self-refactoring Agent architecture ",
+      "description": "AI that improves without retraining!",
+      "link": "https://blog.dailydoseofds.com/p/minimax-m27-the-self-refactoring",
+      "pubDate": "2026-03-31T21:12:43.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!rhsv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e9f7d09-cee9-4993-8ff0-2a4633735bfa_1999x1310.png",
+      "type": "blog"
+    },
+    {
+      "id": "f768c6ed7658",
+      "title": "Symfony 7.4.8 released",
+      "description": "Symfony 7.4.8 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-7-4-8-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-03-31T21:11:38.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6accb86db42e",
+      "title": "llm-all-models-async 0.1",
+      "description": "Release: llm-all-models-async 0.1 LLM plugins can define new models in both sync and async varieties. The async variants are most common for API-backed models - sync variants tend to be things that run the model directly within the plugin. My llm-mrchatterbox plugin is sync only. I wanted to try it out with various Datasette LLM features (specifically datasette-enrichments-llm) but Datasette can only use async models. So... I had Claude spin up this plugin that turns sync models into async…",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything",
+      "pubDate": "2026-03-31T20:52:02.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "960472605f5a",
+      "title": "Symfony 6.4.36 released",
+      "description": "Symfony 6.4.36 has just been released. Read the Symfony upgrade guide to learn more about upgrading Symfony and use the SymfonyInsight upgrade reports to detect the code you will need to change in your project. Tip…",
+      "link": "https://symfony.com/blog/symfony-6-4-36-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-03-31T20:43:04.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "205a9978a3f8",
+      "title": "llm 0.30",
+      "description": "Release: llm 0.30 The register_models() plugin hook now takes an optional model_aliases parameter listing all of the models, async models and aliases that have been registered so far by other plugins. A plugin with @hookimpl(trylast=True) can use this to take previously registered models into account. #1389 Added docstrings to public classes and methods and included those directly in the documentation. Tags: llm",
+      "link": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
+      "pubDate": "2026-03-31T20:35:51.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e958810bbae0",
+      "title": "llm-echo 0.4",
+      "description": "Release: llm-echo 0.4 Prompts now have the input_tokens and output_tokens fields populated on the response. Tags: llm",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything",
+      "pubDate": "2026-03-31T16:48:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "16e85bdfdaad",
+      "title": "llm-echo 0.3",
+      "description": "Release: llm-echo 0.3 Mechanisms for testing tool calls. #3 Mechanism for testing raw responses. #4 New echo-needs-key model for testing model key logic. #7 Tags: llm",
+      "link": "https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything",
+      "pubDate": "2026-03-31T15:43:26.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2bca839110fa",
       "title": "Coding at the Speed of Thought: The New Era of Symfony Docker",
       "description": "If we want to discuss Developer Experience (DX) in 2026, we have to talk about instantaneous feedback and coding agents. At SymfonyLive Paris 2026, I presented “Coding at the Speed of Thought: Symfony DX in 2026“, where I detailed the bleeding-edge features we have brought to the PHP and Symfony ecosystems. To make this vision... Coding at the Speed of Thought: The New Era of Symfony Docker first appeared on Kévin Dunglas.",
@@ -129,6 +278,20 @@
       "categories": [
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6016ab175367",
+      "title": "“Conviction Collapse” and the End of Software as We Know It",
+      "description": "In “An Ordinary Evening in New Haven,” the poet Wallace Stevens wrote, “It is not in the premise that reality is a solid.” That line came to mind during a fascinating conversation with Harper Reed, which amounted to something like “It is no longer in the premise that software is a product.” Harper is one […]",
+      "link": "https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/",
+      "pubDate": "2026-03-30T19:00:55.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
       ],
       "image": null,
       "type": "blog"
@@ -564,6 +727,21 @@
       "description": "Quantization from the ground up Sam Rose continues his streak of publishing spectacularly informative interactive essays, this time explaining how quantization of Large Language Models works (which he says might be \"the best post I've ever made\".) Also included is the best visual explanation I've ever seen of how floating point numbers are represented using binary digits. I hadn't heard about outlier values in quantization - rare float values that exist outside of the normal tiny-value…",
       "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
       "pubDate": "2026-03-26T16:21:09.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47250c973f73",
+      "title": "datasette-llm 0.1a2",
+      "description": "Release: datasette-llm 0.1a2 actor is now available to the llm_prompt_context plugin hook. #2 Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Mar/26/datasette-llm/#atom-everything",
+      "pubDate": "2026-03-26T15:52:32.000Z",
       "source": "Simon Willison's Weblog",
       "sourceUrl": "https://simonwillison.net/atom/everything/",
       "categories": [

@@ -2,6 +2,23 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "4abc4a9f61c6",
+      "title": "Duck Conf 2026 – CR – L’Architecte à l’ère de l’Agentic AI",
+      "description": "CR Duck Conf: L'IA générative ne supprime pas les goulots d'étranglement du développement logiciel : elle les déplace. Spécification, feedback, adoption deviennent les nouveaux facteurs limitants. 5 apprentissages concrets pour adapter les pratiques d'architecture à l'ère agentic.",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-l'architecte-a-l'ere-de-l'agentic-ai",
+      "pubDate": "2026-03-31T20:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1fbb454d4c2a",
       "title": "Créer une boucle dans vos templates Helm",
       "description": "Y’a des jours comme ça, on se retrouve à devoir trouver des solutions un peu sales pour gérer une application mal foutue dont on a [...]",
@@ -240,6 +257,21 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "037274b3e4ae",
+      "title": "Du comment au pourquoi",
+      "description": "CTO, CTPO. Quatre lettres au lieu de trois. Le titre a changé en une phrase. Le câblage dans ma tête, ça prend un peu plus longtemps.",
+      "link": "https://michaelbensoussan.com/posts/cto-ctpo-shift/",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/cto-ctpo.jpg",
       "type": "blog"
     },
     {

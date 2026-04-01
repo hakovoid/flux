@@ -1,0 +1,80 @@
+{
+  "month": "2026-04",
+  "articles": [
+    {
+      "id": "30d43569919a",
+      "title": "datasette-extract 0.3a0",
+      "description": "Release: datasette-extract 0.3a0 This plugin now uses datasette-llm to configure and manage models. This means it's possible to specify which models should be made available for enrichments, using the new enrichments purpose. Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything",
+      "pubDate": "2026-04-01T03:32:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e653b958d61f",
+      "title": "datasette-enrichments-llm 0.2a0",
+      "description": "Release: datasette-enrichments-llm 0.2a0 This plugin now uses datasette-llm to configure and manage models. This means it's possible to specify which models should be made available for enrichments, using the new enrichments purpose. Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+      "pubDate": "2026-04-01T03:28:44.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8aa632cc1bf2",
+      "title": "datasette-llm-usage 0.2a0",
+      "description": "Release: datasette-llm-usage 0.2a0 Removed features relating to allowances and estimated pricing. These are now the domain of datasette-llm-accountant. Now depends on datasette-llm for model configuration. #3 Full prompts and responses and tool calls can now be logged to thellm_usage_prompt_log table in the internal database if you set the new datasette-llm-usage.log_prompts plugin configuration setting. Redesigned the /-/llm-usage-simple-prompt page, which now requires the…",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+      "pubDate": "2026-04-01T03:24:03.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32e399b6d8ac",
+      "title": "datasette-llm 0.1a5",
+      "description": "Release: datasette-llm 0.1a5 The llm_prompt_context() plugin hook wrapper mechanism now tracks prompts executed within a chain as well as one-off prompts, which means it can be used to track tool call loops. #5 Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+      "pubDate": "2026-04-01T03:11:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "013d3e79d961",
+      "title": "Quoting Soohoon Choi",
+      "description": "I want to argue that AI models will write good code because of economic incentives. Good code is cheaper to generate and maintain. Competition is high between the AI models right now, and the ones that win will help developers ship reliable features fastest, which requires simple, maintainable code. Good code will prevail, not only because we want it to (though we do!), but because economic forces demand it. Markets will not reward slop in coding, in the long-term. &mdash; Soohoon Choi, Slop Is…",
+      "link": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
+      "pubDate": "2026-04-01T02:07:16.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
