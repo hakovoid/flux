@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "e76dc0f34cdb",
+      "title": "Le biais de nos choix techniques",
+      "description": "À mon sens, la compétence essentielle d’un développeur, ce n’est pas d’écrire du code (surtout à l’ère de l’IA), mais c’est de savoir choisir la bonne solution au bon problème et de savoir défendre ce choix. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. J’en parle régulièrement, je suis un défenseur des technologies “ennuyantes” (les « boring technologies ») et…",
+      "link": "https://www.jdecool.fr/blog/2026/04/01/le-biais-de-nos-choix-techniques.html",
+      "pubDate": "2026-03-31T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4abc4a9f61c6",
       "title": "Duck Conf 2026 – CR – L’Architecte à l’ère de l’Agentic AI",
       "description": "CR Duck Conf: L'IA générative ne supprime pas les goulots d'étranglement du développement logiciel : elle les déplace. Spécification, feedback, adoption deviennent les nouveaux facteurs limitants. 5 apprentissages concrets pour adapter les pratiques d'architecture à l'ère agentic.",

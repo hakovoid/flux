@@ -2,6 +2,110 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0fb3c320e130",
+      "title": "datasette-llm 0.1a6",
+      "description": "Release: datasette-llm 0.1a6 The same model ID no longer needs to be repeated in both the default model and allowed models lists - setting it as a default model automatically adds it to the allowed models list. #6 Improved documentation for Python API usage. Tags: llm, datasette",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+      "pubDate": "2026-04-01T23:01:37.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a91f943588c2",
+      "title": "datasette-enrichments-llm 0.2a1",
+      "description": "Release: datasette-enrichments-llm 0.2a1 The actor who triggers an enrichment is now passed to the llm.mode(... actor=actor) method. #3 Tags: enrichments, llm, datasette",
+      "link": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+      "pubDate": "2026-04-01T22:00:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49654b9063e9",
+      "title": "How to Vibe Code: A Developer's Playbook",
+      "description": "The principles and workflows that separate developers who use AI from developers who ship with it.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-vibe-code-a-developers-playbook",
+      "pubDate": "2026-04-01T21:47:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Ji_5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a30c5f8-33b1-4732-ae45-3473c79bcd9e_680x345.png",
+      "type": "blog"
+    },
+    {
+      "id": "17af6c411dc4",
+      "title": "The Hidden Blast Radius of the Axios Compromise",
+      "description": "Yesterday, we reported on a supply chain attack targeting Axios that introduced a malicious dependency (plain-crypto-js) into specific npm releases. At first glance, the scope seemed contained: Two compromised Axios versions A short exposure window A malicious dependency that was quickly removed Over the past 24 hours, we’re seeing many teams focus on checking their lockfiles and node_modules directories, but that only captures part of the picture, especially when tools are executed dynamically…",
+      "link": "https://socket.dev/blog/hidden-blast-radius-of-the-axios-compromise?utm_medium=feed",
+      "pubDate": "2026-04-01T20:35:18.594Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a55522c71798",
+      "title": "Building Multi-Agent Workflows with the Laravel AI SDK",
+      "description": "The Laravel blog walks through how to implement the five multi-agent patterns from Anthropic's &quot;Building Effective Agents&quot; research using the Laravel AI SDK. Prompt chaining, parallelization, routing, orchestrator-workers, and evaluator-optimizer loops, all built with just the agent() helper. Read more",
+      "link": "https://freek.dev/3051-building-multi-agent-workflows-with-the-laravel-ai-sdk",
+      "pubDate": "2026-04-01T12:30:05.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d977639bca03",
+      "title": "Agent responsibly",
+      "description": "Vercel shares their internal framework for shipping agent-generated code safely. The core argument: green CI is no longer proof of safety, because agents produce code that looks flawless while remaining blind to production realities. The post outlines how to build systems where agents can act with high autonomy because deployment is safe by default. Read more",
+      "link": "https://freek.dev/3069-agent-responsibly",
+      "pubDate": "2026-04-01T10:30:27.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "944c3956f56e",
+      "title": "SymfonyLive Berlin 2026: Call for Student Volunteers!",
+      "description": "Are you a student looking to gain hands-on experience, grow your network, and take part in an international tech event? 🎤 SymfonyLive Berlin 2026 is looking for motivated student volunteers to join the adventure! 📍Where: Berlin, Germany, at The…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-call-for-student-volunteers?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-01T09:33:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/BLOG-1200x440px.png",
+      "type": "blog"
+    },
+    {
       "id": "30d43569919a",
       "title": "datasette-extract 0.3a0",
       "description": "Release: datasette-extract 0.3a0 This plugin now uses datasette-llm to configure and manage models. This means it's possible to specify which models should be made available for enrichments, using the new enrichments purpose. Tags: llm, datasette",

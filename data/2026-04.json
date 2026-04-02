@@ -1,0 +1,86 @@
+{
+  "month": "2026-04",
+  "articles": [
+    {
+      "id": "47e628d04e0b",
+      "title": "Retours sur le Data Days Lille 2026",
+      "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
+      "link": "https://blog.ippon.fr/2026/04/01/retours-sur-le-data-days-lille-2026/",
+      "pubDate": "2026-04-01T14:48:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/IMG_2366_2.png",
+      "type": "blog"
+    },
+    {
+      "id": "04dd948dc160",
+      "title": "Brève d’une software developer - l’IA, ce tigre dans le moteur qui propulse et bouscule le développement agile",
+      "description": "Dans le développement agile, l'IA générative donne un coup d'accélérateur aux équipes de dév. Ce gain de vitesse n'est pas sans conséquence pour le reste des acteurs du cycle agile. Comme dans un moteur auquel on injecte un surplus de puissance, il faut s'assurer que le reste du système en tire bénéfice, sinon gare à la surchauffe, voire la casse.",
+      "link": "https://blog.octo.com/breve-d'une-software-developer-l'ia-ce-tigre-dans-le-moteur-qui-propulse-et-bouscule-le-developpement-agile",
+      "pubDate": "2026-04-01T13:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d07c5acc9d2e",
+      "title": "Comment décrire une couleur en CSS ?",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-colors-2322 Dans ce chapitre je vous propose de nous attarder sur les couleurs et nous allons voir les différentes manières de définir des couleurs en CSS. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=Ep-ybLlHf38",
+      "pubDate": "2026-04-01T13:30:17.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Ep-ybLlHf38/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Ep-ybLlHf38"
+    },
+    {
+      "id": "d605d6bcb0fd",
+      "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
+      "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que nous avons apportées aux écosystèmes PHP […] L’article Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/symfony-docker-dx",
+      "pubDate": "2026-04-01T13:27:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/Capture-decran-2026-04-01-a-15.06.40-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "49db894bedd3",
+      "title": "GEO : à l’heure des agents IA, soignez votre page identité",
+      "description": "Découvrez l'importance cruciale de la page d'accueil de votre entité pour le SEO et la perception de votre marque. Apprenez à optimiser cette page essentielle pour les moteurs de recherche, l'IA et les utilisateurs, en mettant l'accent sur la confiance et la corroboration. Comprenez l'évolution des priorités entre la recherche, l'assistance et l'activation pour un succès durable. L’article GEO : à l’heure des agents IA, soignez votre page identité est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/01/geo-a-lheure-des-agents-ia-soignez-votre-page-identite/",
+      "pubDate": "2026-04-01T06:41:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
