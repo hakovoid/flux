@@ -2,6 +2,35 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f890130ab194",
+      "title": "AI #162: Visions of Mythos",
+      "description": "Anthropic had some problem with leaks this week.",
+      "link": "https://thezvi.substack.com/p/ai-162-visions-of-mythos",
+      "pubDate": "2026-04-02T12:11:22.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7UMt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa6fe273-b4e7-458d-a543-44cd1d8240d5_1200x800.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e942d24570e3",
+      "title": "Context Anchoring",
+      "description": "Martin Fowler explores why AI coding sessions degrade over time and how externalizing decisions into structured documents keeps context reliable across sessions. Read more",
+      "link": "https://freek.dev/3053-context-anchoring",
+      "pubDate": "2026-04-02T10:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "905785e53685",
       "title": "March 2026 sponsors-only newsletter",
       "description": "I just sent the March edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: More agentic engineering patterns Streaming experts with MoE models on a Mac Model releases in March Vibe porting Supply chain attacks against PyPI and NPM Stuff I shipped What I'm using, March 2026 edition And a couple of museums Here's a copy of the February newsletter as a preview of what you'll get. Pay $10/month…",
@@ -116,6 +145,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c650e5339022",
+      "title": "The Model You Love Is Probably Just the One You Use",
+      "description": "The following article originally appeared on Medium and is being republished here with the author’s permission. Ask 10 developers which LLM they’d recommend and you’ll get 10 different answers—and almost none of them are based on objective comparison. What you’ll get instead is a reflection of the models they happen to have access to, the […]",
+      "link": "https://www.oreilly.com/radar/the-model-you-love-is-probably-just-the-one-you-use/",
+      "pubDate": "2026-04-01T11:12:11.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image.png",
       "type": "blog"
     },
     {

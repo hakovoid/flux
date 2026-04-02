@@ -2,6 +2,101 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "5a5e22bc2939",
+      "title": "Pourquoi faut bien comprendre la théorie aujourd’hui ? #interview #cafetechavecimen #podcast",
+      "description": "Vidéo YouTube publiée par Café Tech avec Imen (YouTube) — Pourquoi faut bien comprendre la théorie aujourd’hui ? #interview #cafetechavecimen #podcast",
+      "link": "https://www.youtube.com/watch?v=4sffQm6s31Q",
+      "pubDate": "2026-04-02T13:43:27.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/4sffQm6s31Q/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "4sffQm6s31Q"
+    },
+    {
+      "id": "8f071e120411",
+      "title": "Le modèle de boîte en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-box-model-2323 Dans ce chapitre nous allons voir une notion essentielle en CSS : le **modèle de boîte**. C'est ce modèle qui permet de comprendre comment les éléments HTML occupent l'espace dans une page, comment ils se dimensionnent. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=dDXnoMbMjuk",
+      "pubDate": "2026-04-02T13:30:42.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/dDXnoMbMjuk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "dDXnoMbMjuk"
+    },
+    {
+      "id": "f8a26d94793d",
+      "title": "Design : votre site est-il vraiment clair pour vos prospects ?",
+      "description": "L'harmonisation du marketing et du design est essentielle pour maintenir la clarté d'un site web. Avec le temps, la complexité peut obscurcir le message de l'entreprise, rendant difficile sa compréhension par les visiteurs. Il est crucial d'évaluer régulièrement la mission du site et de procéder à des ajustements plutôt qu'à une refonte complète. L’article Design : votre site est-il vraiment clair pour vos prospects ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/02/design-votre-site-est-il-vraiment-clair-pour-vos-prospects/",
+      "pubDate": "2026-04-02T13:01:08.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1f9c31c2efa1",
+      "title": "C’est quoi un bon développeur selon Salah Meharga CTO de Sensiolabs",
+      "description": "Vidéo YouTube publiée par Café Tech avec Imen (YouTube) — C’est quoi un bon développeur selon Salah Meharga CTO de Sensiolabs",
+      "link": "https://www.youtube.com/watch?v=23f1M-BXpmw",
+      "pubDate": "2026-04-02T12:59:07.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/23f1M-BXpmw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "23f1M-BXpmw"
+    },
+    {
+      "id": "a5acfc93b7d0",
+      "title": "Je n’ai pas de sujet pour faire un talk? avec Pascal Martin",
+      "description": "Un avant-goût de l’épisode à venir 🎙️ On entend souvent : “je n’ai pas de sujet pour faire un talk”… Mais est-ce vraiment vrai ? 👉 Pascal Martin partage une idée simple : On passe des dizaines d’heures chaque semaine à travailler sur des sujets passionnants. Si vous aimez ce que vous faites… vous avez déjà quelque chose à raconter. 💡 Et si la vraie question n’était pas “quoi dire” mais plutôt “comment le raconter” ?",
+      "link": "https://www.youtube.com/watch?v=H3ykCzHEd4o",
+      "pubDate": "2026-04-02T11:45:02.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/H3ykCzHEd4o/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "H3ykCzHEd4o"
+    },
+    {
+      "id": "cb26fa3b6b78",
+      "title": "Reprendre la maîtrise de son delivery avec le Lean grâce à la qualité à la source",
+      "description": "Une équipe experte, un produit critique… et pourtant, un delivery hors de contrôle. Trop de retours, trop d'attente, pas assez de valeur. Ce retour d'expérience montre comment le Lean a permis à une équipe de reprendre la maîtrise de son flux… en transformant sa manière de voir et de traiter ses problèmes.",
+      "link": "https://blog.octo.com/reprendre-la-maitrise-de-son-delivery-avec-le-lean-grace-a-la-qualite-a-la-source",
+      "pubDate": "2026-04-02T10:14:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "47e628d04e0b",
       "title": "Retours sur le Data Days Lille 2026",
       "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
