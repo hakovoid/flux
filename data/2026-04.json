@@ -2,6 +2,57 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e5d4047d9843",
+      "title": "#309.exe - IA inclusives: Une intelligence artificielle et une équité réelle par Julien Landuré",
+      "description": "Pour l'épisode #309 je recevais Cristina Lunghi. On en débrief avec Julien. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-309-3ff3375d9107",
+      "pubDate": "2026-04-03T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/23800d1f-a5e6-4bab-8280-3ff3375d9107.mp3?_=1775132691",
+      "duration": "10:59"
+    },
+    {
+      "id": "755ce9173775",
+      "title": "Gemma 4 peut-il remplacer Claude Code ? Benchmark sur un vrai projet Symfony",
+      "description": "Un modèle local de 9.6 GB peut-il générer du code Symfony fonctionnel ? Benchmark de Gemma 4 E4B : 5 scénarios, 15 runs, validation automatisée.",
+      "link": "https://yoandev.co/gemma4-opencode-benchmark",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ceff1c91e2da",
+      "title": "J’ai trouvé le setup PHP ULTIME en 2026 (Docker, sécurisé, 0 config)",
+      "description": "Utilise mon code PENTIMINAX pour avoir -10% sur toutes les offres d'hébergement d'Hostinger : https://www.hostg.xyz/SHF2v Marre de passer des heures à configurer ton environnement PHP ? Dans cette vidéo, je te montre un setup PHP moderne, rapide et prêt pour la production grâce aux images Docker open source de ServerSideUp. Ces images Docker sont conçues pour fonctionner du dev jusqu’à la production, sans te battre avec la config à chaque étape. Liens utiles : ▶️ PHP Docker Images :…",
+      "link": "https://www.youtube.com/watch?v=XF95QJw6FeU",
+      "pubDate": "2026-04-02T14:00:46.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/XF95QJw6FeU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "XF95QJw6FeU"
+    },
+    {
       "id": "5a5e22bc2939",
       "title": "Pourquoi faut bien comprendre la théorie aujourd’hui ? #interview #cafetechavecimen #podcast",
       "description": "Vidéo YouTube publiée par Café Tech avec Imen (YouTube) — Pourquoi faut bien comprendre la théorie aujourd’hui ? #interview #cafetechavecimen #podcast",

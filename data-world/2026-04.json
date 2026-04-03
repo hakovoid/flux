@@ -2,6 +2,110 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2b738193ab0f",
+      "title": "The PHP Podcast 2026.04.02",
+      "description": "🎙️ The PHP Podcast – Special Episode April 2, 2026 | Guest Hosts: Joe Ferguson & Sara Golemon In this special episode, Joe Ferguson and Sara Golemon step in as guest hosts while Eric recovers from illness and John is busy in Discord. They cover AI tool challenges, PHP Foundation updates, Unicode adventures, infrastructure work, […] The post The PHP Podcast 2026.04.02 appeared first on PHP Architect.",
+      "link": "https://www.phparch.com/podcast/the-php-podcast-2026-04-02/",
+      "pubDate": "2026-04-03T02:14:54.000Z",
+      "source": "PHP Architect",
+      "sourceUrl": "https://www.phparch.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.phparch.com/wp-content/uploads/2026/04/The-PHP-Podcast-2026.04.02.png",
+      "type": "blog"
+    },
+    {
+      "id": "13c2f0a0039f",
+      "title": "What are Agent Skills and How Agents Use Them?",
+      "description": "A 7-step process, explained visually!",
+      "link": "https://blog.dailydoseofds.com/p/what-are-agent-skills-and-how-agents",
+      "pubDate": "2026-04-02T21:49:19.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M_bn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70f66a8a-c016-4ef4-af9c-cb9defd76ba0_1340x1340.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1ead71acd94a",
+      "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
+      "description": "I was a guest on Lenny Rachitsky's podcast, in a new episode titled An AI state of the union: We've passed the inflection point, dark factories are coming, and automation timelines. It's available on YouTube, Spotify, and Apple Podcasts. Here are my highlights from our conversation, with relevant links. The November inflection point Software engineers as bellwethers for other information workers Writing code on my phone Responsible vibe coding Dark Factories and StrongDM The bottleneck has…",
+      "link": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+      "pubDate": "2026-04-02T20:40:47.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6b983b8027a",
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "description": "Gemma 4: Byte for byte, the most capable open models Four new vision-capable Apache 2.0 licensed reasoning LLMs from Google DeepMind, sized at 2B, 4B, 31B, plus a 26B-A4B Mixture-of-Experts. Google emphasize \"unprecedented level of intelligence-per-parameter\", providing yet more evidence that creating small useful models is one of the hottest areas of research right now. They actually label the two smaller models as E2B and E4B for \"Effective\" parameter size. The system card explains: The…",
+      "link": "https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything",
+      "pubDate": "2026-04-02T18:28:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f9f80bbdfaa1",
+      "title": "llm-gemini 0.30",
+      "description": "Release: llm-gemini 0.30 New models gemini-3.1-flash-lite-preview, gemma-4-26b-a4b-it and gemma-4-31b-it. See my notes on Gemma 4. Tags: gemini, llm, gemma",
+      "link": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
+      "pubDate": "2026-04-02T18:25:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0da49c8c93de",
+      "title": "Axios Maintainer Confirms Social Engineering Attack Behind npm Compromise",
+      "description": "On March 31, two malicious versions of Axios were briefly published to npm, introducing a dependency that installed a remote access trojan across macOS, Windows, and Linux. We covered the initial attack and its scope earlier, as well as a deeper technical analysis of its hidden blast radius and how dependency resolution expanded its impact exponentially. Now, the project’s lead maintainer has shared additional details about how the compromise occurred. A Targeted Social Engineering Attack # In…",
+      "link": "https://socket.dev/blog/axios-maintainer-confirms-social-engineering-behind-npm-compromise?utm_medium=feed",
+      "pubDate": "2026-04-02T16:47:43.137Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/9e864e06bc20e0bc5e33dfea64fd51607681610b-947x448.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "1e3c60f6bcbf",
+      "title": "Node.js Drops Bug Bounty Rewards After Funding Dries Up",
+      "description": "The Node.js project has paused its long-running bug bounty program after the funding behind it was discontinued, removing a key security incentive from one of the most widely used JavaScript runtimes. For nearly a decade, Node.js participated in the Internet Bug Bounty (IBB) program through HackerOne, offering monetary rewards to researchers who responsibly disclosed security issues. That program is now on hold, leaving Node.js without a funded bounty structure for the first time since 2016.…",
+      "link": "https://socket.dev/blog/node-js-drops-bug-bounty-rewards-funding-dries-up?utm_medium=feed",
+      "pubDate": "2026-04-02T14:55:58.149Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f890130ab194",
       "title": "AI #162: Visions of Mythos",
       "description": "Anthropic had some problem with leaks this week.",
