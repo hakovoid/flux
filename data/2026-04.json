@@ -2,6 +2,54 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "8f432fafbf60",
+      "title": "Claude Code : Quelle conséquence après la fuite ?",
+      "description": "Découvrez l'analyse complète de la fuite du code source de Claude Code survenue le 31 mars 2026 en raison d'une erreur de configuration NPM. Cette vidéo explore les conséquences de cet événement, notamment la naissance du projet CLAW (Claude Code Parity) mené par Sigrid Jin. Apprenez comment la communauté a réécrit cet outil en Rust et Python pour créer une alternative open-source performante et légale, tout en analysant l'émergence de nouveaux frameworks comme Open Multi-Agent. 📌 Retrouvez…",
+      "link": "https://www.youtube.com/watch?v=DS_JBQtWsYw",
+      "pubDate": "2026-04-03T14:00:21.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/DS_JBQtWsYw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DS_JBQtWsYw"
+    },
+    {
+      "id": "112d77b4975f",
+      "title": "Ce quiz est important aujourd’hui avec Benjamin Zaslavsky #cafetechavecimen #developpeur",
+      "description": "Vidéo YouTube publiée par Café Tech avec Imen (YouTube) — Ce quiz est important aujourd’hui avec Benjamin Zaslavsky #cafetechavecimen #developpeur",
+      "link": "https://www.youtube.com/watch?v=LAN13GRdUKY",
+      "pubDate": "2026-04-03T13:52:18.000Z",
+      "source": "Café Tech avec Imen (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCUe7lPmBpIVGBC4HIPHfCrA",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/LAN13GRdUKY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "LAN13GRdUKY"
+    },
+    {
+      "id": "bc9c64f5d009",
+      "title": "Les unités de mesures en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-units-2324 Dans ce chapitre, on va faire une petite parenthèse sur les unités de mesure en CSS. C'est un sujet important, car on les rencontre partout : pour la taille du texte, les espacements, les dimensions des blocs ou encore les mises en page responsives. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=ceAqxop872w",
+      "pubDate": "2026-04-03T13:30:47.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ceAqxop872w/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ceAqxop872w"
+    },
+    {
       "id": "45db784985b8",
       "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
       "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
@@ -51,6 +99,22 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a996365b88c6",
+      "title": "Setup",
+      "description": "Dans cette page, je liste simplement l’ensemble de mon setup, avec des liens vers les fabricants (non affiliés). Mes machines J’utilise deux machines pour travailler : un NUC de chez Asus en PC fixe, et un X1 Carbon de chez Lenovo en PC portable. Je conserve mes machines assez longtemps (4 ans en moyenne). Le NUC Un NUC Asus ROG NUC 14 (acheté en 2024). J’utilise le format NUC depuis longtemps (c’est mon 3ème après les modèles Intel Phantom Canyon et Hades Canyon). J’aime bien ce type de…",
+      "link": "https://codeka.io/setup/",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

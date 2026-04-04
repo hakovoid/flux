@@ -2,6 +2,184 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0a7085483044",
+      "title": "Quoting Kyle Daigle",
+      "description": "[GitHub] platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year if growth remains linear (spoiler: it won't.) GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and now 2.1B minutes so far this week. &mdash; Kyle Daigle, COO, GitHub Tags: github, github-actions",
+      "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+      "pubDate": "2026-04-04T02:20:17.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bda93459658",
+      "title": "Vulnerability Research Is Cooked",
+      "description": "Vulnerability Research Is Cooked Thomas Ptacek's take on the sudden and enormous impact the latest frontier models are having on the field of vulnerability research. Within the next few months, coding agents will drastically alter both the practice and the economics of exploit development. Frontier model improvement won’t be a slow burn, but rather a step function. Substantial amounts of high-impact vulnerability research (maybe even most of it) will happen simply by pointing an agent at a…",
+      "link": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+      "pubDate": "2026-04-03T23:59:08.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e73a62b981d0",
+      "title": "The cognitive impact of coding agents",
+      "description": "A fun thing about recording a podcast with a professional like Lenny Rachitsky is that his team know how to slice the resulting video up into TikTok-sized short form vertical videos. Here's one he shared on Twitter today which ended up attracting over 1.1m views! That was 48 seconds. Our full conversation lasted 1 hour 40 minutes. Tags: ai-ethics, coding-agents, agentic-engineering, generative-ai, podcast-appearances, ai, llms, cognitive-debt",
+      "link": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+      "pubDate": "2026-04-03T23:57:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e68bf8b3fb1b",
+      "title": "Quoting Willy Tarreau",
+      "description": "On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week maybe two years ago, then reached probably 10 a week over the last year with the only difference being only AI slop, and now since the beginning of the year we're around 5-10 per day depending on the days (fridays and tuesdays seem the worst). Now most of these reports are correct, to the point that we had to bring in more maintainers to help us. And we're now seeing on a daily basis something that…",
+      "link": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
+      "pubDate": "2026-04-03T21:48:22.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e678c5d1f221",
+      "title": "Quoting Daniel Stenberg",
+      "description": "The challenge with AI in open source security has transitioned from an AI slop tsunami into more of a ... plain security report tsunami. Less slop but lots of reports. Many of them really good. I'm spending hours per day on this now. It's intense. &mdash; Daniel Stenberg, lead developer of cURL Tags: daniel-stenberg, security, curl, generative-ai, ai, llms, ai-security-research",
+      "link": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
+      "pubDate": "2026-04-03T21:46:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0113ad514b19",
+      "title": "Quoting Greg Kroah-Hartman",
+      "description": "Months ago, we were getting what we called 'AI slop,' AI-generated security reports that were obviously wrong or low quality. It was kind of funny. It didn't really worry us. Something happened a month ago, and the world switched. Now we have real reports. All open source projects have real reports that are made with AI, but they're good, and they're real. &mdash; Greg Kroah-Hartman, Linux kernel maintainer (bio), in conversation with Steven J. Vaughan-Nichols Tags: security, linux,…",
+      "link": "https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything",
+      "pubDate": "2026-04-03T21:44:41.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba0b3978f136",
+      "title": "A Memory-efficient Technique to Train Large Models",
+      "description": "...that even LLMs like GPTs and LLaMAs use.",
+      "link": "https://blog.dailydoseofds.com/p/a-memory-efficient-technique-to-train-242",
+      "pubDate": "2026-04-03T20:51:13.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!FwoU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8ce3c1c-160e-4f10-b4a9-ea5275c4535f_1346x686.png",
+      "type": "blog"
+    },
+    {
+      "id": "8640ce65b004",
+      "title": "Attackers Are Hunting High-Impact Node.js Maintainers in a Coordinated Social Engineering Campaign",
+      "description": "Since we published our initial analysis of the axios compromise, a deep dive into its hidden blast radius, and a report on the maintainer confirming it was social engineering, maintainers across the Node.js ecosystem have come out of the woodwork to report that they were targeted by the same social engineering campaign. The accounts now span some of the most widely depended-upon packages in the npm registry and Node.js core itself, and together they confirm that axios was not a one-off target.…",
+      "link": "https://socket.dev/blog/attackers-hunting-high-impact-nodejs-maintainers?utm_medium=feed",
+      "pubDate": "2026-04-03T18:45:27.060Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/76fea4bb244809c96227594534e671fa2456591d-1600x1704.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "3127272337da",
+      "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
+      "description": "Research: Can JavaScript Escape a CSP Meta Tag Inside an Iframe? In trying to build my own version of Claude Artifacts I got curious about options for applying CSP headers to content in sandboxed iframes without using a separate domain to host the files. Turns out you can inject &lt;meta http-equiv=\"Content-Security-Policy\"...&gt; tags at the top of the iframe content and they'll be obeyed even if subsequent untrusted JavaScript tries to manipulate them. Tags: iframes, security, javascript,…",
+      "link": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
+      "pubDate": "2026-04-03T16:05:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "42942153d9ce",
+      "title": "The Axios supply chain attack used individually targeted social engineering",
+      "description": "The Axios team have published a full postmortem on the supply chain attack which resulted in a malware dependency going out in a release the other day, and it involved a sophisticated social engineering campaign targeting one of their maintainers directly. Here's Jason Saayman'a description of how that worked: so the attack vector mimics what google has documented here: https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering they tailored…",
+      "link": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
+      "pubDate": "2026-04-03T13:54:53.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe8190fa09e9",
+      "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "description": "The following article originally appeared on Drew Breunig’s blog and is being republished here with the author’s permission. In 1998, Eric S. Raymond published the founding text of open source software development, The Cathedral and the Bazaar. In it, he detailed two methods of building software: The bazaar model was enabled by the internet, which […]",
+      "link": "https://www.oreilly.com/radar/the-cathedral-the-bazaar-and-the-winchester-mystery-house/",
+      "pubDate": "2026-04-03T11:14:53.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "83cd3017f5ef",
+      "title": "Under the Hood: How Blaze Speeds Up Blade Templates",
+      "description": "A deep dive into how Blaze works internally. Matt Stauffer builds two toy versions from scratch to show how Blaze shifts Blade component rendering from runtime to compile time. Read more",
+      "link": "https://freek.dev/3055-under-the-hood-how-blaze-speeds-up-blade-templates",
+      "pubDate": "2026-04-03T10:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2b738193ab0f",
       "title": "The PHP Podcast 2026.04.02",
       "description": "🎙️ The PHP Podcast – Special Episode April 2, 2026 | Guest Hosts: Joe Ferguson & Sara Golemon In this special episode, Joe Ferguson and Sara Golemon step in as guest hosts while Eric recovers from illness and John is busy in Discord. They cover AI tool challenges, PHP Foundation updates, Unicode adventures, infrastructure work, […] The post The PHP Podcast 2026.04.02 appeared first on PHP Architect.",
@@ -28,6 +206,21 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!JJG5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae43feeb-0757-4f49-aa96-e3c0e020fb48_1142x517.png",
+      "type": "blog"
+    },
+    {
+      "id": "7bca2b9a054e",
+      "title": " Dependency Hygiene ",
+      "description": "Read the full post on https://stitcher.io/blog/dependency-hygiene",
+      "link": "https://stitcher.io/blog/dependency-hygiene",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
