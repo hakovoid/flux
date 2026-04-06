@@ -2,6 +2,140 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "be6937f11e40",
+      "title": "datasette-ports 0.2",
+      "description": "Release: datasette-ports 0.2 No longer requires Datasette - running uvx datasette-ports now works as well. Installing it as a Datasette plugin continues to provide the datasette ports command. Tags: datasette",
+      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+      "pubDate": "2026-04-06T03:25:43.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7bd3f49af3c",
+      "title": "scan-for-secrets 0.3",
+      "description": "Release: scan-for-secrets 0.3 New -r/--redact option which shows the list of matches, asks for confirmation and then replaces every match with REDACTED, taking escaping rules into account. New Python function redact_file(file_path: str | Path, secrets: list[str], replacement: str = \"REDACTED\") -&gt; int. Tags: projects",
+      "link": "https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything",
+      "pubDate": "2026-04-06T02:59:28.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "04c4f4fbc307",
+      "title": "Cleanup Claude Code Paste",
+      "description": "Tool: Cleanup Claude Code Paste Super-niche tool this. I sometimes copy prompts out of the Claude Code terminal app and they come out with a bunch of weird additional whitespace. This tool cleans that up. Tags: tools, claude-code",
+      "link": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+      "pubDate": "2026-04-06T02:55:23.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc529b367f17",
+      "title": "datasette-ports 0.1",
+      "description": "Release: datasette-ports 0.1 Another example of README-driven development, this time solving a problem that might be unique to me. I often find myself running a bunch of different Datasette instances with different databases and different in-development plugins, spreads across dozens of different terminal windows - enough that I frequently lose them! Now I can run this: datasette install datasette-ports datasette ports And get a list of every running instance that looks something like this:…",
+      "link": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+      "pubDate": "2026-04-06T00:23:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e0b38d6b592f",
+      "title": "Eight years of wanting, three months of building with AI",
+      "description": "Eight years of wanting, three months of building with AI Lalit Maganti provides one of my favorite pieces of long-form writing on agentic engineering I've seen in ages. They spent eight years thinking about and then three months building syntaqlite, which they describe as \"high-fidelity devtools that SQLite deserves\". The goal was to provide fast, robust and comprehensive linting and verifying tools for SQLite, suitable for use in language servers and other development tools - a parser,…",
+      "link": "https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything",
+      "pubDate": "2026-04-05T23:54:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "25cf4a99fda8",
+      "title": "Quoting Chengpeng Mou",
+      "description": "From anonymized U.S. ChatGPT data, we are seeing: ~2M weekly messages on health insurance ~600K weekly messages [classified as healthcare] from people living in “hospital deserts” (30 min drive to nearest hospital) 7 out of 10 msgs happen outside clinic hours &mdash; Chengpeng Mou, Head of Business Finance, OpenAI Tags: ai-ethics, generative-ai, openai, chatgpt, ai, llms",
+      "link": "https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything",
+      "pubDate": "2026-04-05T21:47:06.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cb62eacb4ec",
+      "title": "MLOps and LLMOps Case Studies",
+      "description": "How Booking.com, Uber, Stripe, and more actually think about ML and AI systems in production.",
+      "link": "https://blog.dailydoseofds.com/p/mlops-and-llmops-case-studies",
+      "pubDate": "2026-04-05T20:23:23.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uswY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc5d2968-b822-4ea6-a547-05878e0cf4be_1357x634.png",
+      "type": "blog"
+    },
+    {
+      "id": "c921197a00c8",
+      "title": "Syntaqlite Playground",
+      "description": "Tool: Syntaqlite Playground Lalit Maganti's syntaqlite is currently being discussed on Hacker News thanks to Eight years of wanting, three months of building with AI, a deep dive into how it was built. This inspired me to revisit a research project I ran when Lalit first released it a couple of weeks ago, where I tried it out and then compiled it to a WebAssembly wheel so it could run in Pyodide in a browser (the library itself uses C and Rust). This new playground loads up the Python library…",
+      "link": "https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything",
+      "pubDate": "2026-04-05T19:32:59.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c7b863e3a7be",
+      "title": "A Week of Symfony #1005 (March 30 – April 5, 2026)",
+      "description": "This week, Symfony maintenance versions 6.4.36, 7.4.8, and 8.0.8 were released. Meanwhile, development activity focused on fixing misc. bugs in maintained versions. Lastly, we called for volunteers for the SymfonyLive Berlin 2026 conference. Symfony development…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1005-march-30-april-5-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-05T07:19:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2f8f4c620a4c",
       "title": "scan-for-secrets 0.2",
       "description": "Release: scan-for-secrets 0.2 CLI tool now streams results as they are found rather than waiting until the end, which is better for large directories. -d/--directory option can now be used multiple times to scan multiple directories. New -f/--file option for specifying one or more individual files to scan. New scan_directory_iter(), scan_file() and scan_file_iter() Python API functions. New -v/--verbose option which shows each directory that is being scanned.",

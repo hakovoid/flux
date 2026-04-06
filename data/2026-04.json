@@ -2,6 +2,54 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "03a7a605ed4a",
+      "title": "Pratiquer le CSS : Créer une carte produit",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-tp-card-2326 Dans ce premier TP, on va pratiquer sur un exemple simple avant d'attaquer une maquette plus complète. L'objectif est d'intégrer une **carte produit** en HTML et CSS, avec une image, une catégorie, un titre, un prix, une description et un lien. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord :…",
+      "link": "https://www.youtube.com/watch?v=DY-jJZodq5Y",
+      "pubDate": "2026-04-05T13:30:20.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/DY-jJZodq5Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "DY-jJZodq5Y"
+    },
+    {
+      "id": "37664d067437",
+      "title": "Petite note sur les LocalForward SSH (comment taper votre K8S Talos à distance)",
+      "description": "Avec cette astuce on est vraiment sur de la note qui pourrait se trouver dans un wiki. Il se trouve que depuis mon changement de [...]",
+      "link": "https://blog.seboss666.info/2026/04/petite-note-sur-les-localforward-ssh-comment-taper-votre-k8s-talos-a-distance/",
+      "pubDate": "2026-04-05T12:18:25.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2014/01/Openssh.gif",
+      "type": "blog"
+    },
+    {
+      "id": "ca575a857319",
+      "title": "talosctl-oidc : ajouter le SSO à Talos Linux",
+      "description": "Talos Linux ne supporte pas nativement l'authentification OIDC. Voici comment j'ai construit talosctl-oidc, un serveur d'échange de certificats éphémères qui ponte SSO et mTLS.",
+      "link": "https://une-tasse-de.cafe/blog/talosctl-oidc/",
+      "pubDate": "2026-04-04T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "077573bc409e",
       "title": "Les flexbox en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-flexbox-2325 Dans ce chapitre, on va découvrir le principe des **flexbox**. C'est un mode de mise en page extrêmement pratique pour aligner des éléments, les espacer, les centrer ou répartir automatiquement l'espace disponible. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
