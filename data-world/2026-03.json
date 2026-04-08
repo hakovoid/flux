@@ -181,6 +181,21 @@
       "type": "blog"
     },
     {
+      "id": "e98aeb9f80c3",
+      "title": "🎊 SymfonyLive Paris 2026 : le wrap-up ! 🚀",
+      "description": "SymfonyLive Paris 2026 a refermé ses portes, et quelle édition ! Symfony_Live Paris 2026 est maintenant terminé, et quelle édition incroyable ! Deux jours riches en conférences, workshops et lightning talks, mais surtout en rencontres avec toute…",
+      "link": "https://symfony.com/blog/symfonylive-paris-2026-le-wrap-up?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-03-31T12:11:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/BLOG-1200x440px-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8dbb9597b713",
       "title": "Movie Review: The AI Doc",
       "description": "The AI Doc: Or How I Became an Apocaloptimist is a brilliant piece of work.",

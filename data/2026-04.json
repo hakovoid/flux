@@ -2,6 +2,168 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "258eade92350",
+      "title": "#351.ad - AWS Summit: Rester aux commandes des agents de code avec Julien Lepine",
+      "description": "\"On doit avoir des développeurs qui vont plus près du métier\" Le D.E.V. de la semaine est Julien Lépine, Directeur de la Technologie chez Amazon Web Services France. Dans cet épisode, il revient sur les coulisses de l'AWS Summit, la transformation fulgurante du métier de développeur et l'impact des IA génératives sur la production de code à grande échelle. Julien partage son retour d'expérience sur Bedrock, la standardisation des outils (avec Kiro) et l'évolution des pratiques d'équipe dans un…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-351-e24d141734cd",
+      "pubDate": "2026-04-08T03:00:26.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/da7f0660-bd3a-47f3-a1b7-79e964ed4587.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/18034e7c-cf4a-42ce-9e1a-e24d141734cd.mp3?_=1775563346",
+      "duration": "01:03:22"
+    },
+    {
+      "id": "e40fb0f74328",
+      "title": "Shift, le Hackathon Gen AI 2026 - Aftermovie",
+      "description": "Aftermovie de Shift, le Hackathon Gen AI, édition 2026 ! Plus d'informations ici : https://shift-hackathon.com/ Et retrouvez tous les projets en open source ici : https://github.com/genai-nantes-meetup/shift-hackathon-nantes-2026 Réalisation : WEREAL PRODUCTION",
+      "link": "https://www.youtube.com/watch?v=OrxnalgEYlw",
+      "pubDate": "2026-04-07T15:07:15.000Z",
+      "source": "Generative AI France (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCcTmGa_ZjVWzgJLBKq-XieQ",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/OrxnalgEYlw/hqdefault.jpg",
+      "type": "youtube",
+      "videoId": "OrxnalgEYlw"
+    },
+    {
+      "id": "ea8514efeccf",
+      "title": "Entre pixels et réalité : notions clés des formats d'images",
+      "description": "Cet article présente les notions essentielles pour comprendre les formats d’image : différence entre images matricielles et vectorielles, profondeur de couleur, canal alpha et transparence. Il explique aussi la compression (avec ou sans perte), l’encodage, le chargement des images, ainsi que les enjeux de compatibilité et de fallback sur le web.",
+      "link": "https://blog.octo.com/entre-pixels-et-realite--notions-cles-des-formats-d'images",
+      "pubDate": "2026-04-07T13:30:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6403d029c739",
+      "title": "Entre pixels et réalité : pourquoi et comment alléger simplement nos images du quotidien",
+      "description": "À l’ère des images omniprésentes, alléger ses fichiers est un geste écologique, économique et protecteur. L’article propose des outils simples (Squoosh, ImageOptim) pour optimiser ses images selon ses usages, tout en alertant sur les risques liés aux métadonnées et à la haute définition.",
+      "link": "https://blog.octo.com/entre-pixels-et-realite--pourquoi-et-comment-alleger-simplement-nos-images-du-quotidien",
+      "pubDate": "2026-04-07T13:27:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7109ee722a9a",
+      "title": "Le positionnement en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-position-2328 Dans ce chapitre, on va s'intéresser au **positionnement** en CSS. C'est un mécanisme très pratique dès qu'on veut afficher un élément au-dessus d'un autre, créer une modale, placer un badge de notification ou faire en sorte qu'un bloc reste visible pendant le défilement. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬…",
+      "link": "https://www.youtube.com/watch?v=xGcCJZEWTyI",
+      "pubDate": "2026-04-07T13:03:02.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/xGcCJZEWTyI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "xGcCJZEWTyI"
+    },
+    {
+      "id": "c23171bbf623",
+      "title": "Claude Code, MCP et Rails : j'ai vibe codé un agent IA qui cherche un appart à ma place",
+      "description": "Avec ma copine, on cherche un appart à Montpellier. Et si vous avez déjà fait une recherche immobilière dans une ville où le marché est tendu, vous voyez le tableau : rafraîchir Leboncoin, SeLoger et Bien'ici plusieurs fois par jour,",
+      "link": "https://www.camilleroux.com/claude-code-mcp-et-rails-jai-vibe-code-un-agent-ia-qui-cherche-un-appart-a-ma-place/",
+      "pubDate": "2026-04-07T10:24:21.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/04/1772713036612.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dc1d3fd9e23a",
+      "title": "🤖 État des Lieux de l'IA en 2026 : Des puces au software !",
+      "description": "Où en est vraiment l'IA en 2026 ? État des lieux On ne va pas se mentir : l'IA avance tellement vite qu'il est presque impossible de tout suivre. Chaque semaine apporte son lot de nouveaux modèles, d'annonces fracassantes, de levées de fonds colossales et de revirements stratégiques. Alors on a décidé de faire une pause et de vraiment prendre le temps de faire le point — sans hype, sans langue de bois. Dans cet épisode, Mehdi, Steeve et JB remontent toute la chaîne de valeur de l'IA : du…",
+      "link": "https://www.linkedin.com/company/a-la-french-podcast/",
+      "pubDate": "2026-04-07T09:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1775551992423-9aa1f81d-f008-4699-8169-987ab663bde8.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69d4c5e01d7024f1a7f34741/media.mp3",
+      "duration": "1:05:05"
+    },
+    {
+      "id": "9ca5c91fe23f",
+      "title": "Nouveautés Brand Graph Generator",
+      "description": "Le Brand Graph Generator a été mis à jour avec un accès gratuit pour 10 générations d'images. Un nouveau wizard simplifie l'ajout de l'identité visuelle, tandis qu'une fonction \"Je suis flemmard\" facilite la création d'infographies. Bientôt disponible en version SaaS, cet outil promet d'améliorer considérablement la création de visuels pour les marques. L’article Nouveautés Brand Graph Generator est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/07/nouveautes-brand-graph-generator/",
+      "pubDate": "2026-04-07T09:37:21.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ce48338f9e6c",
+      "title": "Devient surpuissant avec le combo Claude Code + NotebookLM",
+      "description": "Découvrez comment passer au niveau supérieur avec NotebookLM en automatisant la création de vos carnets de recherche et la génération d'artefacts (podcasts, quiz, mind maps) ! Dans ce tutoriel complet, je vous présente notebooklm-py, une API Python non-officielle qui permet de pallier l'absence d'interface de programmation officielle pour l'outil de Google. Apprenez à intégrer NotebookLM dans vos workflows d'IA et à connecter des agents comme Claude Code ou Codex pour une recherche…",
+      "link": "https://www.youtube.com/watch?v=XoduFJc8x3Y",
+      "pubDate": "2026-04-07T08:00:27.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/XoduFJc8x3Y/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "XoduFJc8x3Y"
+    },
+    {
+      "id": "e44bc702ca2e",
+      "title": "La Duck Conf 2026 CR - Développeur solo à l’ère de l’IA : produire à la vitesse d’une équipe",
+      "description": "De l'échec total au succès en série. Adrien révèle comment l'IA a transformé sa façon de créer des applications — du marché au code, du design à la distribution. Quand l'exécution technique n'est plus un avantage, qu'est-ce qui fait la différence ?",
+      "link": "https://blog.octo.com/octo-la-duck-conf-2026-cr-developpeur-solo-a-l'ere-de-l'ia--produire-a-la-vitesse-d'une-equipe",
+      "pubDate": "2026-04-07T07:34:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "15db9a15a119",
       "title": "Stitch : conseils pour utiliser le dernier outil de design de Google",
       "description": "Découvrez Stitch de Google Labs, un outil de design IA qui transforme la création d'interfaces. Apprenez à l'utiliser efficacement en définissant une direction créative claire, en personnalisant les systèmes de design, et en intégrant du contenu percutant. Optimisez votre workflow et créez des interfaces exceptionnelles avec Stitch. L’article Stitch : conseils pour utiliser le dernier outil de design de Google est apparu en premier sur OlivierSauvage.com.",

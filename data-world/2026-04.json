@@ -2,6 +2,154 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "322a1d5519f7",
+      "title": "North Korea’s Contagious Interview Campaign Spreads Across 5 Ecosystems, Delivering Staged RAT Payloads",
+      "description": "We have been tracking North Korea’s Contagious Interview operation since 2024 and maintain a dedicated campaign page that now tracks more than 1,700 malicious packages linked to the activity. In this newly identified cluster, the threat actors operated under GitHub aliases including golangorg and published malicious packages across five open source ecosystems: npm: dev-log-core, logger-base, logkitx PyPI: logutilkit, apachelicense, fluxhttp, and license-utils-kit Go Modules:…",
+      "link": "https://socket.dev/blog/contagious-interview-campaign-spreads-across-5-ecosystems?utm_medium=feed",
+      "pubDate": "2026-04-07T21:36:45.870Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/003bd2a8b98fbf12a3944a8e13db16760f5c8efd-1739x631.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a76d763a82ff",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "description": "GLM-5.1: Towards Long-Horizon Tasks Chinese AI lab Z.ai's latest model is a giant 754B parameter 1.51TB (on Hugging Face) MIT-licensed monster - the same size as their previous GLM-5 release, and sharing the same paper. It's available via OpenRouter so I asked it to draw me a pelican: llm install llm-openrouter llm -m openrouter/z-ai/glm-5.1 'Generate an SVG of a pelican on a bicycle' And something new happened... unprompted, the model decided to give me an HTML page that included both the SVG…",
+      "link": "https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything",
+      "pubDate": "2026-04-07T21:25:14.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "455223126134",
+      "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+      "description": "Anthropic didn't release their latest model, Claude Mythos (system card PDF), today. They have instead made it available to a very restricted set of preview partners under their newly announced Project Glasswing. The model is a general purpose model, similar to Claude Opus 4.6, but Anthropic claim that its cyber-security research abilities are strong enough that they need to give the software industry as a whole time to prepare. Mythos Preview has already found thousands of high-severity…",
+      "link": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+      "pubDate": "2026-04-07T20:52:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "368b25348ab0",
+      "title": "Six Key Metrics for AI Agent Evaluation",
+      "description": "...explained with code!",
+      "link": "https://blog.dailydoseofds.com/p/six-key-metrics-for-ai-agent-evaluation",
+      "pubDate": "2026-04-07T20:01:47.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!pBdt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7d21ad-f026-44d1-8d99-5c6ef69c0842_1357x696.png",
+      "type": "blog"
+    },
+    {
+      "id": "bc1b976a0d15",
+      "title": "Microsoft Releases Open Source Toolkit for AI Agent Runtime Security",
+      "description": "Microsoft has published its Agent Governance Toolkit, an open source project that brings runtime policy enforcement to autonomous AI agents. The release lands as the industry grapples with a widening gap between how fast AI agents are being deployed and how little infrastructure exists to govern what they do once they're running. The toolkit is available under the MIT license at the Microsoft GitHub organization and supports Python, TypeScript, Rust, Go, and .NET. Agent Governance Is Getting…",
+      "link": "https://socket.dev/blog/microsoft-open-source-toolkit-for-ai-agent-runtime-security?utm_medium=feed",
+      "pubDate": "2026-04-07T18:05:37.314Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0d31cc684ee851b0eb5e885073e6dd77858bb753-919x720.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "246f8097f2e0",
+      "title": "SymfonyLive Berlin 2026: Discover the Workshops!",
+      "description": "Before the main conference kicks off, SymfonyLive Berlin 2026 offers two full days of hands-on workshops to help you sharpen your skills and dive deeper into the Symfony ecosystem. 📅 April 21–22, 2026 📍 Berlin, Germany All workshops will be conducted…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-discover-the-workshops?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-07T16:00:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/BLOG-1200x440px.png",
+      "type": "blog"
+    },
+    {
+      "id": "651a72929543",
+      "title": "SQLite WAL Mode Across Docker Containers Sharing a Volume",
+      "description": "Research: SQLite WAL Mode Across Docker Containers Sharing a Volume Inspired by this conversation on Hacker News about whether two SQLite processes in separate Docker containers that share the same volume might run into problems due to WAL shared memory. The answer is that everything works fine - Docker containers on the same host and filesystem share the same shared memory in a way that allows WAL to collaborate as it should. Tags: docker, sqlite",
+      "link": "https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything",
+      "pubDate": "2026-04-07T15:41:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "111c1fdc908b",
+      "title": "The World Needs More Software Engineers",
+      "description": "I sat down with Aaron Levie at the O’Reilly AI Codecon two weeks ago. Aaron cofounded Box in 2005, and 20 years later, his company manages content for about two-thirds of the Fortune 500. Aaron is one of the few CEOs of an incumbent enterprise software company thinking deeply in public about what AI means […]",
+      "link": "https://www.oreilly.com/radar/the-world-needs-more-software-engineers/",
+      "pubDate": "2026-04-07T13:10:32.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-8.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce6ff9d8bc2f",
+      "title": "Designing with Claude Code",
+      "description": "Steve Schoger shows how he uses Claude Code to design and build UIs, turning natural language prompts into polished interfaces.",
+      "link": "https://freek.dev/3060-designing-with-claude-code",
+      "pubDate": "2026-04-07T10:17:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "544cedfa7b50",
+      "title": " More dependency considerations ",
+      "description": "Read the full post on https://stitcher.io/blog/more-depedency-considerations",
+      "link": "https://stitcher.io/blog/more-depedency-considerations",
+      "pubDate": "2026-04-07T00:00:00.000Z",
+      "source": "Brent Roose — Stitcher.io",
+      "sourceUrl": "https://stitcher.io/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cc512866cd8a",
       "title": "The Anatomy of an Agent Harness",
       "description": "A deep dive into what Anthropic, OpenAI, Perplexity and LangChain are actually building.",
