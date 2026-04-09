@@ -2,6 +2,85 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b43f90071a4d",
+      "title": "Duck Conf 2026 – CR – Estimation des projets à l'échelle : Bienvenue à Mytholand ! ",
+      "description": "Lors de la Duck Conf 2026, Thomas Luquet démontre par l'absurde l'inefficacité des estimations trop précises des projets à l'échelle, et nous donne des guidelines pour se rapprocher de la réalité.",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-estimation-des-projets-a-l'echelle--bienvenue-a-mytholand-!",
+      "pubDate": "2026-04-08T14:48:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b27a18255706",
+      "title": "Docker Agent : La puissance de l’IA Agentique sans écrire une seule ligne de code",
+      "description": "L’intégration d’agents IA dans nos flux de travail n’est plus une option, c’est une nécessité. Pourtant, une barrière de taille",
+      "link": "https://blog.zenika.com/2026/04/08/docker-agent-la-puissance-de-lia-agentique-sans-ecrire-une-seule-ligne-de-code/",
+      "pubDate": "2026-04-08T14:35:25.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6e0.png",
+      "type": "blog"
+    },
+    {
+      "id": "e88d82513515",
+      "title": "Notre retour sur le SymfonyLive Paris 2026",
+      "description": "Les années passent, mais certaines traditions restent immuables. Il y a quelques jours, la communauté s'est de nouveau réunie à la Cité Universitaire pour l'édition 2026 du Symfony Live Paris. Si le monde de la tech avance à toute vitesse, le cru 2026 conserve la recette qui a fait son succès. Nous étions, comme à notre habitude, présents au rendez-vous. Voici notre retour sur une édition qui prouve que Symfony reste à la pointe des évolutions. Keynote de Fabien Potencier Fabien Potencier nous…",
+      "link": "https://jolicode.com/blog/notre-retour-sur-le-symfonylive-paris-2026",
+      "pubDate": "2026-04-08T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/symfony-live-paris-2026/Fabien_TUI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0c4405308011",
+      "title": "Les grilles en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-grid-2329 Dans ce chapitre, on va découvrir le principe des **grilles** en CSS. On a déjà vu qu'avec `display: flex`, on pouvait aligner des éléments selon un axe principal. Avec `display: grid`, on change d'approche : au lieu de raisonner en ligne ou en colonne, on définit directement une **grille** prédéfinie dans laquelle les éléments enfant vont venir se placer. ______________________ Soutenir la chaîne : ⭐ Devenez premium :…",
+      "link": "https://www.youtube.com/watch?v=RuhP2caU8iQ",
+      "pubDate": "2026-04-08T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/RuhP2caU8iQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "RuhP2caU8iQ"
+    },
+    {
+      "id": "ab12c4d3fedf",
+      "title": "IA générative : comment réussir son premier POC ?",
+      "description": "95% des projets d’IA générative échouent en raison de problèmes méthodologiques. Chez Creatis, une approche par communautés de pratiques a été mise en place, impliquant 7 groupes de travail et 187 tests. Cela a conduit au développement d'un agent conversationnel, améliorant significativement la productivité et les résultats. L’article IA générative : comment réussir son premier POC ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/08/ia-generative-comment-reussir-son-premier-poc/",
+      "pubDate": "2026-04-08T08:18:39.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "258eade92350",
       "title": "#351.ad - AWS Summit: Rester aux commandes des agents de code avec Julien Lepine",
       "description": "\"On doit avoir des développeurs qui vont plus près du métier\" Le D.E.V. de la semaine est Julien Lépine, Directeur de la Technologie chez Amazon Web Services France. Dans cet épisode, il revient sur les coulisses de l'AWS Summit, la transformation fulgurante du métier de développeur et l'impact des IA génératives sur la production de code à grande échelle. Julien partage son retour d'expérience sur Bedrock, la standardisation des outils (avec Kiro) et l'évolution des pratiques d'équipe dans un…",
@@ -18,6 +97,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/18034e7c-cf4a-42ce-9e1a-e24d141734cd.mp3?_=1775563346",
       "duration": "01:03:22"
+    },
+    {
+      "id": "a1c945478f3b",
+      "title": "Déployer et livrer: et si c'était deux choses différentes ?",
+      "description": "Dans de nombreuses équipes de développement, déployer c’est livrer des fonctionnalités aux utilisateurs. Pourtant, il est tout à fait possible de dissocier déploiement et livraison. Cela peut même avoir de nombreux avantages. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Déployer du code est un acte technique: on dépose du code sur un serveur. Livrer une fonctionnalité…",
+      "link": "https://www.jdecool.fr/blog/2026/04/08/deployer-et-livrer-et-si-c-etait-deux-choses-differentes.html",
+      "pubDate": "2026-04-07T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "e40fb0f74328",
