@@ -2,6 +2,87 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "40a75aee99d9",
+      "title": "La Duck Conf 2026 - CR - Comment utiliser la GenAI pour moderniser une application en deux fois moins de temps",
+      "description": "Ce talk traite de la modernisation d’une application métier utilisée pour gérer les plannings de supervision d’un réseau électrique fonctionnant 24/7.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-cr-comment-utiliser-la-genai-pour-moderniser-une-application-en-deux-fois-moins-de-temps",
+      "pubDate": "2026-04-11T20:49:11.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f521b8c3c0e",
+      "title": "🚨 Ne fais PLUS jamais un .all() sur 100 000 lignes — Laravel a mieux",
+      "description": "Tu lances un User::all() en prod et tu fais tomber le serveur ? C'est le signe que tu as besoin de cette vidéo. Laravel 13 propose 6 méthodes pour gérer intelligemment de gros volumes de données, et la plupart des devs ne connaissent même pas la moitié d'entre elles. Dans cette vidéo, on passe en revue sur 100 000 entrées réelles : → chunk() — le classique, mais avec un piège en cas de modification des données → chunkById() — la version solide pour les mises à jour massives → lazyById() —…",
+      "link": "https://www.youtube.com/watch?v=Bw5Ts0yd108",
+      "pubDate": "2026-04-11T18:00:43.000Z",
+      "source": "Laravel Jutsu (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UC36hi0WMeiR8HpUy-A2s4vQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Bw5Ts0yd108/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Bw5Ts0yd108"
+    },
+    {
+      "id": "0179db72e4ce",
+      "title": "Claude Managed Agents : Crée ton premier agent IA sans coder",
+      "description": "Découvrez comment automatiser vos tâches les plus complexes avec la nouvelle fonctionnalité Managed Agents d'Anthropic sur la plateforme Claude. Plus besoin de savoir coder pour créer des agents IA puissants et personnalisés ! Dans cette vidéo, je vous montre pas à pas comment configurer un agent capable de générer une stratégie YouTube complète (titres optimisés, hooks, scripts et SEO) et de l'exporter directement. Liens utiles : ▶️ Console Anthropic : https://platform.anthropic.com/ 📌…",
+      "link": "https://www.youtube.com/watch?v=M7_P6ds8Hjw",
+      "pubDate": "2026-04-11T14:00:36.000Z",
+      "source": "Pentiminax (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCO6P25qG9O4f6Bk9UKMLAjw",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/M7_P6ds8Hjw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "M7_P6ds8Hjw"
+    },
+    {
+      "id": "ab8920288a1e",
+      "title": "Le reset CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-reset-2332 Dans ce chapitre, on va faire une petite parenthèse sur une technique très utilisée en CSS : le **reset CSS**. L'idée consiste à neutraliser les styles par défaut du navigateur pour repartir sur une base plus propre et plus prévisible. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=JtQhHHAppmI",
+      "pubDate": "2026-04-11T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/JtQhHHAppmI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JtQhHHAppmI"
+    },
+    {
+      "id": "9a4c02c73332",
+      "title": "Podman avec des Quadlets + GitOps avec Materia",
+      "description": "Comment migrer ses docker-compose vers des quadlets Podman gérés par systemd, en passant par podlet pour la conversion et Materia pour le GitOps.",
+      "link": "https://une-tasse-de.cafe/blog/podlet/",
+      "pubDate": "2026-04-11T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "855a044a457c",
       "title": "Artemis II : objectif nul",
       "description": "Merci au journal La Croix de m’avoir invité à rédiger cette tribune « opinion » sur le retour vers la Lune, dans le cadre de la mission Artémis II. Quatre milliards de dollars et des poussières : voilà ce qu’aura Artemis II : objectif nul first appeared on Mais où va le Web.",
