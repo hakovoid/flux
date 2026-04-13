@@ -2,6 +2,20 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1a62df29348a",
+      "title": "Comprehension Debt: The Hidden Cost of AI-Generated Code",
+      "description": "The following article originally appeared on Addy Osmani’s blog site and is being reposted here with the author’s permission. Comprehension debt is the hidden cost to human intelligence and memory resulting from excessive reliance on AI and automation. For engineers, it applies most to agentic engineering. There’s a cost that doesn’t show up in your […]",
+      "link": "https://www.oreilly.com/radar/comprehension-debt-the-hidden-cost-of-ai-generated-code/",
+      "pubDate": "2026-04-13T11:11:45.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/04/image-9-1600x900.png",
+      "type": "blog"
+    },
+    {
       "id": "67046667936b",
       "title": "★ Instant view switches with Inertia v3 prefetching",
       "description": "Over the past few months we've been building There There at Spatie, a support tool shaped by the two decades we've spent running our own customer support. The goal is simple: the helpdesk we always wished we had. We care about using AI in a particular way. It should help support agents write better replies, not substitute for them. The human stays in charge of the conversation, and the model does the unglamorous work of drafting, rephrasing, and suggesting links. There There is in private beta…",

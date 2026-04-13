@@ -208,6 +208,22 @@
       "duration": "51:47"
     },
     {
+      "id": "8a24179a0b65",
+      "title": "Mon expérience pour devenir Kubestronaut",
+      "description": "Après plus d'un an à travailler sur mes certifications et l'obtention du titre de kubestronaut, je suis ravi de partager mon expérience avec vous.",
+      "link": "https://une-tasse-de.cafe/blog/kubestronaut/",
+      "pubDate": "2026-04-13T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "28a2e3a687f6",
       "title": "Les temps ritualisés chez Elao : quand le dialogue devient une culture",
       "description": "Entretiens de cycles, 1 to 1 RH, rétrospectives, baromètre interne… Découvrez les temps ritualisés qui rythment la vie chez Elao et font du dialogue une véritable culture d'entreprise.",
