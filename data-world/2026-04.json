@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "67046667936b",
+      "title": "★ Instant view switches with Inertia v3 prefetching",
+      "description": "Over the past few months we've been building There There at Spatie, a support tool shaped by the two decades we've spent running our own customer support. The goal is simple: the helpdesk we always wished we had. We care about using AI in a particular way. It should help support agents write better replies, not substitute for them. The human stays in charge of the conversation, and the model does the unglamorous work of drafting, rephrasing, and suggesting links. There There is in private beta…",
+      "link": "https://freek.dev/3087-instant-view-switches-with-inertia-v3-prefetching",
+      "pubDate": "2026-04-13T09:57:13.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0af257a5622",
+      "title": "SymfonyLive Berlin 2026: “Make your AI useful with MCP”",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
+      "link": "https://symfony.com/blog/symfonylive-berlin-2026-make-your-ai-useful-with-mcp?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-13T09:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "11d0f569f981",
+      "title": "★ How we use Inertia v3 optimistic updates in There There",
+      "description": "A few months ago we started building There There, a helpdesk we're making at Spatie. The premise is simple. After two decades of running customer support for our open source work and our SaaS apps, we wanted the tool we always wished existed. One thing we care about in particular is using AI to help humans craft better responses, not to replace them. The agent stays in charge of the conversation. The model just helps them reply faster and a little sharper. There There is in private beta right…",
+      "link": "https://freek.dev/3085-how-we-use-inertia-v3-optimistic-updates-in-there-there",
+      "pubDate": "2026-04-13T09:24:11.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c9afe85f29f0",
       "title": "Quoting Bryan Cantrill",
       "description": "The problem is that LLMs inherently lack the virtue of laziness. Work costs nothing to an LLM. LLMs do not feel a need to optimize for their own (or anyone's) future time, and will happily dump more and more onto a layercake of garbage. Left unchecked, LLMs will make systems larger, not better &mdash; appealing to perverse vanity metrics, perhaps, but at the cost of everything that matters. As such, LLMs highlight how essential our human laziness is: our finite time forces us to develop crisp…",
@@ -214,6 +259,21 @@
       "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. Before the conference,…",
       "link": "https://symfony.com/blog/symfonylive-berlin-2026-symfony-ai-mate?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
       "pubDate": "2026-04-10T09:25:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "9a299a1d7e1f",
+      "title": "Symfony_Live Berlin 2026:  “Symfony AI in Action” !",
+      "description": "We’re excited to announce that SymfonyLive Berlin 2026 will take place April 23–24, 2026 at CineStar CUBIX Alexanderplatz, right in the heart of Berlin, directly on Alexanderplatz and easily accessible by public transport. 🎤 New talk at SymfonyLive…",
+      "link": "https://symfony.com/blog/xxxx?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-10T09:20:00.000Z",
       "source": "Symfony Blog",
       "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
       "categories": [

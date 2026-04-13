@@ -34,6 +34,21 @@
       "type": "blog"
     },
     {
+      "id": "1ff164ba57b9",
+      "title": "Millions of JS devs just got penetrated by a RAT…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=o7NYXvYohYk",
+      "pubDate": "2026-03-31T18:58:40.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1fbb454d4c2a",
       "title": "Créer une boucle dans vos templates Helm",
       "description": "Y’a des jours comme ça, on se retrouve à devoir trouver des solutions un peu sales pour gérer une application mal foutue dont on a [...]",
@@ -703,6 +718,21 @@
       "type": "blog"
     },
     {
+      "id": "c86b3acba595",
+      "title": "Anthropic just released the real Claude Bot...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=wfeiCZK0mNs",
+      "pubDate": "2026-03-26T18:11:51.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5fcbb38c82cc",
       "title": "LLM à l’état de l’art pour équipes de développement : analyse statistique et perspectives",
       "description": "Introduction Bien que l’invention des neurones formels date de 1943 [1], ce sont les réseaux sémantiques qui ont mené l’intelligence",
@@ -1039,6 +1069,21 @@
       "type": "blog"
     },
     {
+      "id": "c99373da5c63",
+      "title": "Tech bros optimized war… and it’s working",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=nxwkn9Dt9-I",
+      "pubDate": "2026-03-24T18:22:27.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "58ccc6385a77",
       "title": "1,65 million de vues en 30 jours : comment j'ai automatisé la diffusion de ma veille techno",
       "description": "Vous le savez si vous me suivez ici, la veille technologique c'est un sujet qui me passionne depuis longtemps. Je vous ai déjà parlé de comment je m'organise, de mon usage de Inoreader, de comment trouver de bonnes sources, de comment ne",
@@ -1354,6 +1399,21 @@
       "type": "blog"
     },
     {
+      "id": "818fdd08c8bc",
+      "title": "This new Linux distro is breaking the law, by design…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=nkY_s9HpL9M",
+      "pubDate": "2026-03-20T19:32:24.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2766dfdbd674",
       "title": "Les 5 nouveautés tech de la semaine #12 à ne pas manquer",
       "description": "Vite 8 passe à Rolldown, Astro 6 embarque un compilateur Rust, Mistral entre dans la cour des grands avec Forge et les autres découvertes de la semaine !",
@@ -1448,6 +1508,21 @@
       "categories": [
         "Web",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab1184e2d123",
+      "title": "Google just changed the future of UI/UX design...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=qaB5HF4ax9M",
+      "pubDate": "2026-03-19T19:35:06.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -1558,6 +1633,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/03/souverainete_numerique.webp",
+      "type": "blog"
+    },
+    {
+      "id": "322bacff9adf",
+      "title": "How to burn $30m on a JavaScript framework...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=ReAnFFqvCeA",
+      "pubDate": "2026-03-18T17:56:58.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -2258,6 +2348,21 @@
       "videoId": "eEcNfaeW8dk"
     },
     {
+      "id": "7c6e9ef8224e",
+      "title": "7 new open source AI tools you need right now…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=Xn-gtHDsaPY",
+      "pubDate": "2026-03-12T17:49:19.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6642aea9985e",
       "title": "🎙️ Café Tech avec Imen – Épisode avec Eric Dykstein",
       "description": "Dans cet épisode de Café Tech avec Imen, je reçois Eric Dykstein, un profil intéressant qui connaît les deux côtés du monde de la tech : il a commencé comme développeur, avant d’évoluer vers le recrutement tech. Une double expérience qui lui donne une vision très claire des attentes des entreprises… mais aussi des défis que rencontrent les développeurs. Au cours de notre discussion, nous parlons notamment : ☕ de son parcours du développement vers le recrutement ☕ de ce que les recruteurs…",
@@ -2704,6 +2809,21 @@
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/116655384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F9b42758a-48de-a973-07e3-734adaefe515.mp3",
       "duration": "00:10:35"
+    },
+    {
+      "id": "08bf50485750",
+      "title": "The greatest unsolved problem in computer science...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=x36UmiSiEzc",
+      "pubDate": "2026-03-09T18:31:50.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "9541cc796fe7",
@@ -3356,6 +3476,21 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/15f04a2b-d5a0-49e2-92b8-f64b5b8e3020_1344x896.jpeg"
+    },
+    {
+      "id": "7d6d232dabb3",
+      "title": "Cloudflare just slop forked Next.js…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=abbeIUOCzmw",
+      "pubDate": "2026-03-02T20:36:25.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "01b4d873f8a2",
