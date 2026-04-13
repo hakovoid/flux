@@ -267,6 +267,25 @@ feeds:
     type: youtube
     categories: [IA]
 
+  # Blogs tech
+  - url: "https://korben.info/feed"
+    name: "Korben"
+    categories: [Programmation, Web]
+
+  - url: "https://www.nextinpact.com/rss/news.xml"
+    name: "Next"
+    categories: [Cloud, Cybersécurité]
+
+  # Chaînes YouTube (format RSS)
+  - url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA"
+    name: "Fireship"
+    categories: [Programmation, Web]
+
+  # Podcasts
+  - url: "https://feeds.feedburner.com/blogdumoderateur"
+    name: "BDM"
+    categories: [Web, IA]
+
 feeds_world:
   - url: https://dunglas.dev/feed/
     name: Kévin Dunglas
