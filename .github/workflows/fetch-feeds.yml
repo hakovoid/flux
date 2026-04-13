@@ -43,6 +43,7 @@ jobs:
             echo "No new articles found."
           else
             git commit -m "📡 Mise à jour des flux RSS — $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git pull --rebase
+            git fetch origin main
+            git rebase origin/main
             git push
           fi
