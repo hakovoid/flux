@@ -180,6 +180,21 @@
       "image": null
     },
     {
+      "id": "4a01d6732130",
+      "title": "When open-sourcing your code goes wrong...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=wzzh7Not8XE",
+      "pubDate": "2026-02-26T18:26:18.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1a7e9681c642",
       "title": "Un cas où l'IA pourrait aider à réduire l'empreinte du numérique ?",
       "description": "Quand on m’a dit “Et si on utilisait l’IA pour optimiser une application et réduire son empreinte environnementale ?”, j’avoue que j’ai grincé des dents : a priori, utiliser l’IA (très gourmande) pour optimiser un truc moins gourmand, ça ne me paraissait pas très intelligent. Sauf que l’IA générative a fait beaucoup de progrès, et qu’on sait de mieux en mieux s’en servir pour faire des choses étonnantes. Il se trouve aussi que deux de mes brillants collègues (chez OCTO) se sont vu confier une…",
