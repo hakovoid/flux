@@ -2,6 +2,22 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4d9c68d06f2e",
+      "title": "Comparez deux arborescences avec diff, confortablement avec riff",
+      "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
+      "link": "https://blog.seboss666.info/2026/04/comparez-deux-arborescences-avec-diff-confortablement-avec-riff/",
+      "pubDate": "2026-04-13T17:22:37.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/03/diff_spiderman.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f669c89d720f",
       "title": "Rockstar Games piraté via Anodot, ShinyHunters demande une rançon",
       "description": "Le groupe de hackers ShinyHunters affirme avoir piraté Rockstar Games. Ils menacent de publier tous les documents confidentiels volés sur le dark web si le studio ne leur verse pas de rançon. Le message des hackers est clair : \"Pay or leak.\" Les pirates ne sont pas entrés chez Rockstar par la grande porte. Ils sont passés par Anodot, un outil que le studio utilise pour analyser ses factures cloud. Une brèche chez Anodot début avril leur a donné des identifiants qui ouvraient aussi les bases…",
