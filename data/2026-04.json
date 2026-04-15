@@ -2,6 +2,240 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "43e402719b33",
+      "title": "Liens Tech - Avril 2026",
+      "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
+      "link": "https://domopi.eu/liens-tech-avril-2026/",
+      "pubDate": "2026-04-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "35f31b11ab66",
+      "title": "#352.src - Recrutement et IA: Pourquoi l'IA change-t-elle vraiment le recrutement (ou pas) ? avec Caroline Chavier",
+      "description": "\"Les algos sont nuls pour lire les signaux faibles et il est là le sujet.\" Le D.E.V. de la semaine est Caroline Chavier, CEO de The Allyance, cofondatrice du meet-up Paris Women in Machine Learning and Data Science et investisseuse spécialisée IA éthique. Elle décrypte l'impact inédit de l'IA sur le recrutement : parcours rationalisés, filtrages automatisés et montée de la pression pour candidats comme recruteurs. Pourtant, loin de la promesse d'équité, l'IA renforce souvent les biais et isole…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-352-43a135876465",
+      "pubDate": "2026-04-15T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/70bba4d1-6682-43f9-8df1-855b245916d6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
+      "duration": "53:54"
+    },
+    {
+      "id": "1109269da018",
+      "title": "Test de la batterie externe Anker 25 000 mAh avec DEUX câbles USB intégrés",
+      "description": "– Contient des liens affiliés Amazon – Deux câbles intégrés ? C'est ce qui fait toute la différence sur cette batterie externe Anker de 25 000 mAh, vendue sur Amazon . Un câble rétractable de 70 centimètres, un second de 30 centimètres qui sert aussi de lanière de portage, et 165 watts de puissance totale pour alimenter tout votre bureau mobile.",
+      "link": "https://korben.info/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres.html",
+      "pubDate": "2026-04-14T15:35:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres/test-de-la-batterie-externe-anker-25-000-mah-avec-deux-cables-usb-integres-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd0c3014b460",
+      "title": "Stop Killing Games pousse une loi californienne contre les jeux tués par leurs éditeurs",
+      "description": "Le mouvement Stop Killing Games a officialisé son soutien à la Protect Our Games Act, un projet de loi californien qu'il a contribué à rédiger avec le député américain Chris Ward. Le texte a été déposé sous la référence AB-1921 (\"Digital games: ordinary use\"), et il cible directement un des points douloureux du jeu vidéo moderne, les titres serveur-dépendants qui deviennent inutilisables quand l'éditeur décide de débrancher les serveurs. La logique du texte est simple. Pour un jeu connecté…",
+      "link": "https://korben.info/stop-killing-games-pousse-une-loi-californienne-contre-les-jeux-tues-par-leurs-editeurs.html",
+      "pubDate": "2026-04-14T14:17:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "473b0a700258",
+      "title": "OBS Studio 32.1 est de sortie avec un nouveau mixeur audio et débloque le simulcast WebRTC",
+      "description": "OBS Studio 32.1 est donc disponible, environ cinq mois après la 32.0, avec deux changements structurants pour les streamers et créateurs de contenu. Tout d'abord, un mixeur audio entièrement repensé. Ensuite le support du simulcast WebRTC, qui change la donne pour quiconque diffuse en WHIP. Le nouveau mixeur audio propose désormais des dispositions horizontale et verticale, un bouton dans la barre d'outils pour basculer de l'une à l'autre, et la mise en page verticale est devenue le défaut. Un…",
+      "link": "https://korben.info/obs-studio-32-1-est-de-sortie-avec-un-nouveau-mixeur-audio-et-debloque-le-simulcast-webrtc.html",
+      "pubDate": "2026-04-14T13:59:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1d52128f57b",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/application-web-mobile/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "830e1419bda0",
+      "title": "Linux 7.0 débarque avec un XFS qui se répare tout seul",
+      "description": "Linus Torvalds a officialisé Linux 7.0 le 12 avril, et le passage à la version 7 a d’ailleurs été expliquée. Torvalds a dit dans son mail de release qu'il préférait simplement incrémenter le numéro majeur quand les mineures dépassaient la dizaine, histoire de ne pas se retrouver avec un Linux 6.23. Pas de révolution philosophique, juste du bon sens de mainteneur donc. Derrière cette numérotation, le noyau embarque quand même un paquet de nouveautés qui vont directement impacter les utilisateurs…",
+      "link": "https://korben.info/linux-7-0-debarque-avec-un-xfs-qui-se-repare-tout-seul.html",
+      "pubDate": "2026-04-14T11:51:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e339fb1162b0",
+      "title": "Cloudflare refond son CLI Wrangler parce que ses clients principaux sont désormais des agents IA",
+      "description": "Figurez-vous que les agents IA sont désormais les premiers consommateurs des APIs Cloudflare, bien devant les développeurs humains. C'est en tous cas ce que l'éditeur déclare publiquement pour justifier une refonte importante de son outil en ligne de commande, Wrangler, et la sortie d'un nouveau CLI unifié baptisé sobrement \"cf\". Le raisonnement est froid mais a du sens. Si les agents IA pilotent la plateforme, autant qu'ils aient un CLI qui ne les plante pas.",
+      "link": "https://korben.info/cloudflare-refond-son-cli-wrangler-parce-que-ses-clients-principaux-sont-desormais-des-agents-ia.html",
+      "pubDate": "2026-04-14T11:26:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72dcec2bc4b2",
+      "title": "Un faux leader Linux Foundation sur Slack, mais une vraie arnaque derrière",
+      "description": "Des attaquants se sont fait passer pour un responsable connu de la Linux Foundation sur le Slack du TODO Group, un groupe de travail dédié aux bureaux de programmes open source. L'objectif, piéger les développeurs en les amenant à cliquer sur un lien d'apparence officielle, puis à installer un faux certificat racine sur leur machine. Le lien était hébergé sur Google Sites, ce qui aide à passer les filtres de sécurité et donne un vernis légitime. Les victimes arrivent sur une fausse page…",
+      "link": "https://korben.info/un-faux-leader-linux-foundation-sur-slack-mais-une-vraie-arnaque-derriere.html",
+      "pubDate": "2026-04-14T09:52:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "368c3b90c1f7",
+      "title": "🤖 Open Claw : pourquoi tout le monde en pince pour l’IA agentique",
+      "description": "C’est le projet le plus étoilé de l’histoire de GitHub, devant Linux, React et Docker. Mais derrière la hype monumentale d'Open Claw, que se cache-t-il réellement sous le capot ? Dans ce nouvel épisode de À la French, Jean-Baptiste Kempf, Steeve Morin et Mehdi Medjaoui décortiquent le passage de l'IA \"outil\" à l'IA \"agent\" 🦾. Ce n’est pas une révolution de code, c’est une révolution d’usage. Comme VLC en son temps, Open Claw simplifie la complexité pour l'utilisateur final. --- ### 🔍 Ce que…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69de090994cbb214c3472a6d",
+      "pubDate": "2026-04-14T09:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1776158406672-1e4355fd-82cb-441d-885e-e8d2430cec88.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69de090994cbb214c3472a6d/media.mp3",
+      "duration": "1:04:05"
+    },
+    {
+      "id": "ccba800d1617",
+      "title": "Quatre bugs Microsoft ressortent du placard, dont un de 14 ans",
+      "description": "Une vulnérabilité Microsoft patchée en 2012, deux fois, refait surface en 2026 dans des attaques actives. Elle fait partie des quatre failles que la CISA a collées lundi dans son catalogue des bugs activement exploités, avec obligation pour les agences fédérales américaines de patcher sous deux semaines. 14 ans plus tard, un vrai bug zombie. La plus vieille, c'est CVE-2012-1854, un chargement de bibliothèque non sécurisé dans Visual Basic for Applications. Microsoft l'a corrigée une première…",
+      "link": "https://korben.info/quatre-bugs-microsoft-ressortent-du-placard-dont-un-de-14-ans.html",
+      "pubDate": "2026-04-14T08:46:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ed8ac76fbebf",
+      "title": "EROOM, Decathlon et la Duck Conf",
+      "description": "Il y a quelques jours, dans le cadre de la conférence Duck Conf’, organisée par mon employeur, OCTO, où Decathlon, par la voix de son global CTO, a annoncé déployé EROOM auprès de leur 2000 développeurs. Cela a donné plusieurs articles : CIO-Online : Développement : Decathlon dans la course au numérique responsable ; LeMagIT.fr : Green IT : Decathlon fait de l’optimisation logicielle un sport collectif Le Monde Informatique : Decathlon trace l’impact environnemental de ses développements Le…",
+      "link": "https://standblog.org/blog/post/2026/04/14/EROOM-Decathlon-et-la-Duck-Conf",
+      "pubDate": "2026-04-14T08:21:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/Romain_et_Tristan.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a98c83fcc2b1",
+      "title": "La Duck Conf 2026 - Comment mener 2000 développeurs vers du numérique plus responsable ?",
+      "description": "Lors de la Duck Conf 2026, Romain Taillade et Tristan Nitot partagent leurs expériences sur la mise en action d'optimisations dans un but de numérique responsable.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-comment-mener-2000-developpeurs-vers-du-numerique-plus-responsable",
+      "pubDate": "2026-04-14T07:17:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2571b2fa126f",
+      "title": "llmfit - L'outil qui sait quel LLM votre PC peut encaisser",
+      "description": "Vous avez un super GPU de la mort qui tue et vous voulez faire tourner un modèle d'IA en local, mais entre la VRAM dispo, la quantification qui change tout et les 500 modèles existant... c'est tout simplement le bordel pour savoir lequel va passer crèèème sans faire ramer votre machine. On galère tous à tester des modèles au pif en voyant la RAM exploser, mais aujourd'hui on a une solution.",
+      "link": "https://korben.info/llmfit-trouver-llm-compatible-hardware.html",
+      "pubDate": "2026-04-14T07:05:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/llmfit-trouver-llm-compatible-hardware/llmfit-trouver-llm-compatible-hardware-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4cf761859b0",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux d’annoncer Ember 1.1, une version riche en nouveautés […] L’article Ember 1.1: Le dashboard FrankenPHP devient encore meilleur est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "4d9c68d06f2e",
       "title": "Comparez deux arborescences avec diff, confortablement avec riff",
       "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
