@@ -2,6 +2,163 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2676b1e4cf8c",
+      "title": "#305.exe - Apprendre en codant: Être ou ne pas être D.E.V. par Antonio Goncalves",
+      "description": "Pour l'épisode #305 je recevais Alex Delivet. On en débrief avec Antonio. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-305-0a9b77dec356",
+      "pubDate": "2026-04-17T03:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1200296f-42ba-409b-a145-0a9b77dec356.mp3?_=1776348325",
+      "duration": "18:09"
+    },
+    {
+      "id": "f75446b405fd",
+      "title": "Linux commence à retirer le support des processeurs russes Baikal",
+      "description": "Le noyau Linux est en train de retirer le support matériel des processeurs Baikal, fabriqués par Baikal Electronics en Russie. Pas juste les mainteneurs cette fois, le code lui-même. Les drivers et le support de la plateforme MIPS Baikal-T1 sont en cours de suppression dans les sources du noyau, après des années de tensions autour des sanctions internationales. Pour remettre en contexte, le support du Baikal-T1 (un CPU MIPS double coeur P5600 cadencé à 1,2 GHz) et du SoC BE-T1000 avait été…",
+      "link": "https://korben.info/linux-commence-a-retirer-le-support-des-processeurs-russes-baikal.html",
+      "pubDate": "2026-04-16T16:20:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0b6651f06dbf",
+      "title": "YouTube permet enfin de virer les Shorts de votre page d'accueil",
+      "description": "Zéro. C'est la durée que vous pouvez désormais choisir comme limite Shorts dans les réglages YouTube, sur iOS comme sur Android. Mettez le curseur à zéro, les Shorts disparaissent de votre page d'accueil. Fini le défilement vertical entre deux vidéos longues. Le déploiement mondial est en cours depuis le 15 avril, d'abord pour les comptes parentaux, puis pour tout le monde. La manipulation prend dix secondes. Vous ouvrez les réglages, vous allez dans \"Gestion du temps\", vous trouvez \"Limite du…",
+      "link": "https://korben.info/youtube-permet-enfin-de-virer-les-shorts-de-votre-page-daccueil.html",
+      "pubDate": "2026-04-16T15:59:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e702ebf591b7",
+      "title": "WordPress : un pirate achète 30 plugins et y plante une backdoor",
+      "description": "Une attaque par la chaîne d'approvisionnement a frappé WordPress début avril. Un individu a racheté une trentaine de plugins via la marketplace Flippa, y a injecté du code malveillant et a attendu huit mois avant de l'activer. WordPress a fermé les 31 plugins concernés le 7 avril, mais la mise à jour officielle ne suffit pas à nettoyer les sites touchés. L'attaque est redoutable par sa simplicité. Un individu, identifié sous le prénom \"Kris\", a racheté pour plusieurs centaines de milliers…",
+      "link": "https://korben.info/wordpress-un-pirate-achete-30-plugins-et-y-plante-une-backdoor.html",
+      "pubDate": "2026-04-16T13:45:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59b620ade64f",
+      "title": "X lance les Cashtags, avec cours en temps réel et achat direct au Canada",
+      "description": "Tapez $TSLA ou $BTC dans un post sur X, et maintenant ça vous affiche un cours en temps réel, un graphique interactif et un fil de discussion lié à l'actif. C'est disponible depuis le 14 avril sur iPhone. Pour Android et le site web, ça sera pour plus tard. Le principe est assez simple. Un $ticker dans un post déclenche la suggestion automatique de l'actif correspondant. Le graphique couvre de 1 jour à 1 an, le prix est actualisé en continu, et le fil agrège les posts qui mentionnent cet actif.…",
+      "link": "https://korben.info/x-lance-les-cashtags-avec-cours-en-temps-reel-et-achat-direct-au-canada.html",
+      "pubDate": "2026-04-16T13:17:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4dc012de5e34",
+      "title": "OpenAI met à jour son Agents SDK avec du sandboxing natif",
+      "description": "La mise à jour d'avril du SDK Agents d'OpenAI introduit deux nouvelles briques qui manquaient pour passer de l'agent-jouet au déploiement réel. Le sandboxing natif permet de confiner un agent dans un espace de travail isolé, avec accès limité aux fichiers et outils d'un périmètre défini. Et le nouveau harness d'exécution sépare proprement le plan de contrôle (boucle agent, appels modèle, routing d'outils, approbations, tracing, récupération d'erreurs) du plan de calcul (sandbox où l'agent lit,…",
+      "link": "https://korben.info/openai-met-a-jour-son-agents-sdk-avec-du-sandboxing-natif.html",
+      "pubDate": "2026-04-16T12:37:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5bf5db2b1ec",
+      "title": "Anthropic demande désormais pièce d'identité et selfie pour certains usages de Claude",
+      "description": "Pour accéder à certaines fonctionnalités de Claude, Anthropic peut maintenant vous demander une pièce d'identité officielle (passeport, permis de conduire, carte nationale d'identité) et un selfie en temps réel. La vérification est gérée par Persona, un prestataire externe, et les données ne sont ni stockées par Anthropic, ni utilisées pour l'entraînement des modèles. Les photocopies, les cartes étudiantes et les pièces numériques ne sont pas acceptées. Le mécanisme se déclenche a priori dans…",
+      "link": "https://korben.info/anthropic-demande-desormais-piece-didentite-et-selfie-pour-certains-usages-de-claude.html",
+      "pubDate": "2026-04-16T12:30:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3c25176af280",
+      "title": "Android Makers 2026 - Conférences marquantes",
+      "description": "La Practice Mobile a de nouveau répondu à l'appel des conférences d’Android Makers édition 2026. Et comme toujours, on ne repart pas les mains vides, pour vous on a fait chauffer nos stylos (ou nos claviers) pour vous proposer une compilation des talks qui nous ont marqués.",
+      "link": "https://blog.ippon.fr/2026/04/16/android-makers-2026/",
+      "pubDate": "2026-04-16T12:30:34.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/image1-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "597a8b889247",
+      "title": "React Paris 2026 – CR – Killing Micro Frontends",
+      "description": "PayFit a supprimé ses micro-frontends. Leur CI est passé de 45 à 7 minutes. Leurs déploiements de 2-5 jours à 20 minutes. Leur vélocité a été multipliée par 17. Voici un retour d'expérience concret sur une migration qui a pris 2 ans, avec 2,5 ingénieurs, sur une base de code utilisée par ~100 développeurs et 22 équipes.",
+      "link": "https://blog.octo.com/react-paris-2026-cr-killing-micro-frontends",
+      "pubDate": "2026-04-16T08:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90af62b11065",
+      "title": "sandbox-exec - L'outil de sandboxing caché de votre Mac",
+      "description": "Sandbox-exec, c'est un utilitaire en ligne de commande dont pas grand monde ne parle mais qui est intégré à macOS et qui permet de lancer n'importe quel programme dans un bac à sable sécurisé, avec des restrictions sur mesure. Apple l'a déprécié, mais ça marche toujours... et c'est franchement pratique. Avec ce truc, il suffit de créer un petit fichier de profil (extension .sb) et vous lancez votre commande avec sandbox-exec -f profil.sb votre_commande. En faisant ça, le programme de votre…",
+      "link": "https://korben.info/sandbox-exec-sandboxing-macos.html",
+      "pubDate": "2026-04-16T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1ed4a7efdc70",
       "title": "❇️ La billetterie pour La School of Product du 17 novembre 2026 est ouverte ! ",
       "description": "Rendez-vous le 17 novembre 2026 pour cette 9e édition de la conférence School of Product ! Profitez d'un tarif préférentiel en vous inscrivant en avril !",
