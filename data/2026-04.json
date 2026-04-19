@@ -2,6 +2,128 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1f8419c781c9",
+      "title": "Intel Core Series 3 : les puces d'entrée de gamme sont fabriquées aux Etats-Unis, sans TSMC",
+      "description": "Les processeurs Core Series 3 d'Intel sont en vente, et ce qui est intéressant ici, c'est moins les specs que l'endroit où ils sont fabriqués. Ces puces sortent des usines Intel de Hillsboro (Oregon) et Chandler (Arizona), sur le procédé 18A, l'équivalent du 2 nm chez Intel. Pas de TSMC dans la boucle. En 2024, une bonne partie des processeurs Intel pour PC portables était encore gravée chez le fondeur taiwanais. Ce n'est plus le cas.",
+      "link": "https://korben.info/intel-core-series-3-les-puces-dentree-de-gamme-sont-fabriquees-aux-etats-unis-sans-tsmc.html",
+      "pubDate": "2026-04-18T07:57:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ecd473cda27",
+      "title": "PegaProx - Un dashboard pour les gouverner tous",
+      "description": "L'interface web de Proxmox (l'outil de virtualisation que tout bon homelabber connaît), c'est bien... pour UN serveur. Dès que vous commencez à empiler les nodes et les clusters, ça devient vite le bazar avec 15 onglets ouverts. PegaProx , c'est tout simplement un dashboard open source qui unifie tout ça dans un seul écran. Et vous allez voir, le truc cool, c'est que ça gère aussi les clusters XCP-ng ! L'interface de PegaProx - une vue unifiée de tous vos clusters Proxmox et XCP-ng",
+      "link": "https://korben.info/pegaprox-dashboard-proxmox.html",
+      "pubDate": "2026-04-18T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pegaprox-dashboard-proxmox/pegaprox-dashboard-proxmox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cc7157fe93d",
+      "title": "Symfony en prod sur un mono-VPS : FrankenPHP + K3s, staging + TLS en une demi-journée",
+      "description": "Guide pas-à-pas pour mettre une application Symfony en production sur un mono-VPS : deux environnements (staging + prod) containerisés avec FrankenPHP, orchestrés par K3s, déployés automatiquement via GitHub Actions vers GHCR, avec TLS Let's Encrypt. Tous les snippets sont fournis et prêts à copier.",
+      "link": "https://yoandev.co/symfony-frankenphp-k3s-production",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-frankenphp-k3s-production.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4e4522bd349c",
+      "title": "Postfix minimal sur un serveur local Debian 13",
+      "description": "Postfix minimal sur un serveur local Debian 13 {align=right} Dans un [précédent article][1], j'ai décrit la configuration de Postfix sur une machine publique pour la rendre capable d'envoyer par e-mail les notifications du système ainsi que les mails générés par les applications locales. Aujourd'hui, nous allons essayer d'obtenir un résultat semblable avec un serveur installé dans un réseau local, autrement dit une machine qui n'a pas d'ouverture frontale sur Internet. Pour ce faire, nous…",
+      "link": "https://www.microlinux.fr/blog/debian-13-postfix-local/",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/postfix.png",
+      "type": "blog"
+    },
+    {
+      "id": "9ff918787807",
+      "title": "Mozilla lance Thunderbolt, un client IA open source pensé pour l'entreprise",
+      "description": "MZLA, la filiale de la Mozilla Foundation qui gère Thunderbird, sort un client IA open source auto-hébergeable baptisé Thunderbolt. Multi-plateforme, compatible MCP et Agent Client Protocol, avec intégration du framework Haystack de deepset pour le RAG et les agents. Le tout doit pouvoir tourner sur votre infra, pas chez OpenAI. Le positionnement est clair. Ryan Sipes, le patron de MZLA, résume : \"Est-ce que vous voulez vraiment construire vos workflows IA sur un service propriétaire d'OpenAI…",
+      "link": "https://korben.info/mozilla-lance-thunderbolt-un-client-ia-open-source-pense-pour-lentreprise.html",
+      "pubDate": "2026-04-17T09:20:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4cba595f392d",
+      "title": "Faille MCP : 200 000 serveurs exposés à l'exécution de code, Anthropic dit que c'est normal",
+      "description": "200 000 serveurs. C'est le nombre de machines potentiellement exposées à l'exécution de commandes système arbitraires via une faille de conception dans le SDK MCP d'Anthropic, d'après les chercheurs d'OX Security. L'interface STDIO du protocole permet de créer des sous-processus sans contrôle, ce qui ouvre la porte à n'importe quelle commande OS sur la machine hôte. Le problème touche tous les langages supportés par le SDK : Python, TypeScript, Java, Rust. Et les packages concernés totalisent…",
+      "link": "https://korben.info/faille-mcp-200-000-serveurs-exposes-a-lexecution-de-code-anthropic-dit-que-cest-normal.html",
+      "pubDate": "2026-04-17T09:11:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "645cc2cd142b",
+      "title": "Ce matériau composite se répare plus de 1 000 fois et dure des siècles",
+      "description": "1 000 fractures. C'est le nombre de cycles de cassure et de réparation qu'un nouveau composite à fibres a encaissé en labo, sans perdre sa capacité à tenir la route. Les ingénieurs de NC State University ont créé un matériau qui se \"re-soude\" tout seul, et qui pourrait durer entre 125 et 500 ans au lieu des 15 à 40 ans habituels pour un composite classique. Le fonctionnement est assez simple. Le matériau est un composite polymère renforcé de fibres (verre ou carbone), avec deux ajouts. D'abord…",
+      "link": "https://korben.info/ce-materiau-composite-se-repare-plus-de-1-000-fois-et-dure-des-siecles.html",
+      "pubDate": "2026-04-17T08:22:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61f0f82cd262",
+      "title": "Bug Cisco : vos bornes Wi-Fi remplissent leur disque avec 5 Mo de logs inutiles par jour",
+      "description": "Plus de 230 modèles de points d'accès Wi-Fi Cisco ont un problème. Les versions 17.12.4 à 17.12.6a de IOS XE embarquent une bibliothèque qui génère un fichier log, cnssdaemon.log, à raison de 5 Mo par jour. Le fichier ne sert à rien. Et impossible de le supprimer depuis la ligne de commande. 5 Mo par jour. Ça paraît rien. Sauf qu'un point d'accès Wi-Fi n'a pas un disque de 500 Go. La mémoire flash de ces appareils est limitée, et au bout de quelques semaines ou mois, elle sature.",
+      "link": "https://korben.info/bug-cisco-vos-bornes-wi-fi-remplissent-leur-disque-avec-5-mo-de-logs-inutiles-par-jour.html",
+      "pubDate": "2026-04-17T07:47:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b33493d73f13",
       "title": "Moins d'articles, plus de briques : mes nouveaux projets d'impression 3D",
       "description": "Mais il est passé où, zwindler ? 🏴‍☠️ Vous avez peut-être remarqué que j’ai été (relativement aux mois derniers) un peu plus silencieux ces derniers temps sur le blog. Pas de panique, je ne suis pas (encore) parti ouvrir un foodtruck. Non, la raison est plus prosaïque : je suis retombé à fond dans la conception de modèles 3D. Si vous avez suivi mes aventures avec MicroStack, mon rack modulaire pour mini-PC, vous savez déjà que j’ai un faible pour la modélisation et l’impression 3D. Mais cette…",
@@ -15,6 +137,21 @@
         "Programmation"
       ],
       "image": "https://blog.zwindler.fr/2026/04/piratecove.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1cdfd7ab06fa",
+      "title": "selfh.st - L'annuaire vivant du self-hosting",
+      "description": "Quand on fait du self-hosting, y'a toujours ce moment où on se dit \"tiens, y'aurait pas un truc open source pour ça\". Tenez par exemple, là je suis en train de chercher un machin open source pour un mariage qui permet aux invités de balancer leurs photos sur un serveur en scannant un QR Code. Et donc je me retrouve à scroller awesome-selfhosted sur GitHub, qui est une liste fleuve de +1500 projets, en essayant de deviner lesquels sont encore vivants.",
+      "link": "https://korben.info/selfh-st-apps-annuaire-self-hosting.html",
+      "pubDate": "2026-04-17T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/selfh-st-apps-annuaire-self-hosting/selfh-st-apps-annuaire-self-hosting-1.png",
       "type": "blog"
     },
     {
