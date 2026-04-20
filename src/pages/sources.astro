@@ -15,9 +15,42 @@ const sources = getAllSources(allArticles);
       </p>
     </div>
 
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+    <!-- Search and sort controls -->
+    <div class="mb-6 flex flex-col sm:flex-row gap-3">
+      <div class="flex-1">
+        <input 
+          type="search" 
+          id="sources-search" 
+          placeholder="Chercher une source..." 
+          class="w-full px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+        />
+      </div>
+      <div class="flex gap-2">
+        <button 
+          id="sort-name" 
+          data-sort="name" 
+          class="px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm font-medium text-zinc-300 hover:bg-[var(--color-accent)]/15 transition-all"
+        >
+          A-Z
+        </button>
+        <button 
+          id="sort-count" 
+          data-sort="count" 
+          class="px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm font-medium text-zinc-300 hover:bg-[var(--color-accent)]/15 transition-all"
+        >
+          Plus d'articles
+        </button>
+      </div>
+    </div>
+
+    <div id="sources-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {sources.map((source) => (
-        <a href={`/source/${source.slug}`} class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5 flex flex-col gap-3 hover:border-zinc-600 transition-all">
+        <a 
+          href={`/source/${source.slug}`} 
+          class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5 flex flex-col gap-3 hover:border-zinc-600 transition-all"
+          data-name={source.name.toLowerCase()}
+          data-count={source.count}
+        >
           <div class="flex items-start justify-between">
             <h3 class="font-semibold text-sm">{source.name}</h3>
             <span class="text-xs text-zinc-500 bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
@@ -40,6 +73,12 @@ const sources = getAllSources(allArticles);
       ))}
     </div>
 
+    <!-- No results message -->
+    <div id="no-results" class="hidden text-center py-20 text-zinc-500">
+      <p class="text-lg font-medium">Aucune source trouvée</p>
+      <p class="text-sm mt-1">Aucune source ne correspond à votre recherche.</p>
+    </div>
+
     {sources.length === 0 && (
       <div class="text-center py-20 text-zinc-500">
         <p class="text-lg font-medium">Aucune source configurée</p>
@@ -47,4 +86,114 @@ const sources = getAllSources(allArticles);
       </div>
     )}
   </div>
+
+  <script is:inline>
+    document.addEventListener('astro:page-load', () => {
+      const searchInput = document.getElementById('sources-search');
+      const sortNameBtn = document.getElementById('sort-name');
+      const sortCountBtn = document.getElementById('sort-count');
+      const sourcesGrid = document.getElementById('sources-grid');
+      const noResults = document.getElementById('no-results');
+      
+      let currentSort = 'name'; // default sort
+
+      // Set active sort button
+      function setActiveSort(sortType) {
+        currentSort = sortType;
+        
+        // Reset all buttons
+        sortNameBtn.classList.remove('bg-[var(--color-accent)]/15');
+        sortCountBtn.classList.remove('bg-[var(--color-accent)]/15');
+        
+        // Set active button
+        if (sortType === 'name') {
+          sortNameBtn.classList.add('bg-[var(--color-accent)]/15');
+        } else if (sortType === 'count') {
+          sortCountBtn.classList.add('bg-[var(--color-accent)]/15');
+        }
+      }
+
+      // Initial active sort
+      setActiveSort('name');
+
+      // Filter sources based on search query
+      function filterSources() {
+        const query = searchInput.value.toLowerCase().trim();
+        let hasVisibleCards = false;
+
+        // Get all source cards
+        const cards = sourcesGrid.querySelectorAll('a');
+
+        cards.forEach(card => {
+          const sourceName = card.dataset.name;
+          const matches = sourceName.includes(query);
+          
+          if (matches) {
+            card.classList.remove('hidden');
+            hasVisibleCards = true;
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+
+        // Show/hide no results message
+        if (query && !hasVisibleCards) {
+          noResults.classList.remove('hidden');
+          sourcesGrid.classList.add('hidden');
+        } else {
+          noResults.classList.add('hidden');
+          sourcesGrid.classList.remove('hidden');
+        }
+
+        // Apply current sort
+        sortSources();
+      }
+
+      // Sort sources
+      function sortSources() {
+        if (!sourcesGrid) return;
+
+        const cards = Array.from(sourcesGrid.querySelectorAll('a'));
+        const grid = sourcesGrid;
+
+        cards.sort((a, b) => {
+          if (currentSort === 'name') {
+            // Alphabetic sort A-Z
+            return a.dataset.name.localeCompare(b.dataset.name, 'fr');
+          } else if (currentSort === 'count') {
+            // Sort by count descending
+            return parseInt(b.dataset.count) - parseInt(a.dataset.count);
+          }
+          return 0;
+        });
+
+        // Remove all cards and re-append in sorted order
+        while (grid.firstChild) {
+          grid.removeChild(grid.firstChild);
+        }
+        cards.forEach(card => grid.appendChild(card));
+      }
+
+      // Event listeners
+      searchInput?.addEventListener('input', filterSources);
+
+      sortNameBtn?.addEventListener('click', () => {
+        setActiveSort('name');
+        sortSources();
+      });
+
+      sortCountBtn?.addEventListener('click', () => {
+        setActiveSort('count');
+        sortSources();
+      });
+
+      // Keyboard shortcut for search
+      document.addEventListener('keydown', (e) => {
+        if (e.key === '/' && document.activeElement !== searchInput) {
+          e.preventDefault();
+          searchInput?.focus();
+        }
+      });
+    });
+  </script>
 </Layout>
