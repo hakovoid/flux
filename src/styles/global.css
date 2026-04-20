@@ -17,6 +17,12 @@ html {
   color-scheme: dark;
 }
 
+/* View mode styling - hide/show elements based on data-view-mode attribute */
+html[data-view-mode="cards"] [data-view-mode="list"],
+html[data-view-mode="list"] [data-view-mode="cards"] {
+  display: none;
+}
+
 body {
   background-color: var(--color-surface-0);
   color: #fafafa;
