@@ -1,0 +1,91 @@
+---
+import type { Article } from '../types/index';
+import { getFreshnessBadge, formatDate, getCategoryGradient, getCategoryColor, getTypeLabel, getTypeColor, slugify } from '../utils/articles';
+
+interface Props {
+  article: Article;
+  eager?: boolean;
+}
+
+const { article, eager = false } = Astro.props;
+const badge = getFreshnessBadge(article.pubDate);
+---
+
+<article
+  class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
+  data-article-id={article.id}
+  data-source={article.source}
+  data-categories={article.categories.join(',')}
+  data-title={article.title}
+  data-description={article.description}
+>
+  <!-- Image -->
+  <a href={`/article/${article.id}`} class="block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
+    {article.image ? (
+      <img
+        src={article.image}
+        alt={article.title}
+        loading={eager ? "eager" : "lazy"}
+        decoding={eager ? "sync" : "async"}
+        fetchpriority={eager ? "high" : undefined}
+        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+        onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+      />
+      <div class={`w-full h-full bg-gradient-to-br ${getCategoryGradient(article.categories)} items-center justify-center p-1 hidden`}>
+        <span class="text-xs font-medium text-white/50 line-clamp-2 text-center leading-tight">{article.title}</span>
+      </div>
+    ) : (
+      <div class={`w-full h-full bg-gradient-to-br ${getCategoryGradient(article.categories)} flex items-center justify-center p-1`}>
+        <span class="text-xs font-medium text-white/50 line-clamp-2 text-center leading-tight">{article.title}</span>
+      </div>
+    )}
+    {badge && (
+      <span class={`absolute top-1 left-1 px-1 py-0.5 text-[0.6rem] font-medium rounded-full ${badge.class}`}>
+        {badge.label}
+      </span>
+    )}
+    {(article.type === 'podcast' || article.type === 'youtube') && (
+      <span class={`absolute top-1 right-1 px-1 py-0.5 text-[0.6rem] font-medium rounded-full border ${getTypeColor(article.type)}`}>
+        {getTypeLabel(article.type)}
+      </span>
+    )}
+  </a>
+
+  <!-- Content -->
+  <div class="flex-1 min-w-0">
+    <!-- Title -->
+    <h3 class="font-semibold text-sm leading-snug line-clamp-1">
+      <a href={`/article/${article.id}`} class="hover:text-indigo-400 transition-colors">
+        {article.title}
+      </a>
+    </h3>
+
+    <!-- Meta -->
+    <div class="flex items-center gap-2 text-xs text-zinc-400 mt-1 flex-wrap">
+      <span>{article.source}</span>
+      <span>•</span>
+      <time datetime={article.pubDate}>{formatDate(article.pubDate)}</time>
+      {badge && (
+        <>
+          <span>•</span>
+          <span class={`px-1 py-0.5 rounded-full ${badge.class}`}>{badge.label}</span>
+        </>
+      )}
+      {(article.type === 'podcast' || article.type === 'youtube') && (
+        <>
+          <span>•</span>
+          <span class={`px-1 py-0.5 rounded-full border ${getTypeColor(article.type)}`}>{getTypeLabel(article.type)}</span>
+        </>
+      )}
+    </div>
+
+    <!-- Categories -->
+    <div class="flex flex-wrap gap-1 mt-1.5">
+      {article.categories.map((cat) => (
+        <a href={`/categorie/${slugify(cat)}`} class={`px-1.5 py-0.5 text-[0.65rem] font-medium rounded-full border ${getCategoryColor(cat)} hover:opacity-80 transition-opacity`}>
+          {cat}
+        </a>
+      ))}
+    </div>
+  </div>
+</article>
