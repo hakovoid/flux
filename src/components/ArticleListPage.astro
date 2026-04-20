@@ -403,11 +403,13 @@ for (let i = 1; i <= totalPages; i++) {
     let activeCategory = 'all';
     let activeSource = 'all';
     let activeType = 'all';
+    let activeFromDate: Date | null = null;
+    let activeToDate: Date | null = null;
     let searchQuery = '';
     let currentSearchPage = 1;
 
     function isFilterActive(): boolean {
-      return searchQuery.length >= 2 || activeCategory !== 'all' || activeSource !== 'all' || activeType !== 'all';
+      return searchQuery.length >= 2 || activeCategory !== 'all' || activeSource !== 'all' || activeType !== 'all' || activeFromDate !== null || activeToDate !== null;
     }
 
     async function updateView() {
@@ -440,6 +442,12 @@ for (let i = 1; i <= totalPages; i++) {
       }
       if (activeType !== 'all') {
         results = results.filter((a) => (a.type || 'blog') === activeType);
+      }
+      if (activeFromDate) {
+        results = results.filter((a) => new Date(a.pubDate) >= activeFromDate!);
+      }
+      if (activeToDate) {
+        results = results.filter((a) => new Date(a.pubDate) <= activeToDate!);
       }
 
       browseMode?.classList.add('hidden');
