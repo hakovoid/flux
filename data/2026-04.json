@@ -2,6 +2,67 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ff04bc2943ab",
+      "title": "[OCTO] Quand l’IA accélère, ralentir devient essentiel",
+      "description": "Préserver cet équilibre s’impose désormais comme une exigence cardinale. Dans un monde où tout semble conspirer à l’accélération, savoir composer avec le temps long et le temps court ne relève plus d’une simple qualité : c’est une condition indispensable pour penser avec justesse et agir avec discernement.",
+      "link": "https://blog.octo.com/octo-quand-l'ia-accelere-ralentir-devient-essentiel",
+      "pubDate": "2026-04-20T05:23:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "822fa6dfca72",
+      "title": "Les joies du vibecoding : quand l’IA libère !",
+      "description": "L'IA est souvent perçue négativement, mais elle peut aussi apporter du plaisir au travail. L'auteur partage son expérience positive avec le \"vibe coding\", une méthode qui ravive sa créativité et l'enthousiasme pour le travail. Malgré les défis du marché, l'IA offre des possibilités excitantes pour les créateurs d'aujourd'hui. L’article Les joies du vibecoding : quand l’IA libère ! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/19/les-joies-du-vibecoding-quand-lia-libere/",
+      "pubDate": "2026-04-19T14:53:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "94ebb9a5ae17",
+      "title": "Steam tourne sur Nintendo Switch grace à Proton 11 et au support ARM64",
+      "description": "Quelqu'un a fait tourner l'interface Steam sur une Nintendo Switch. Pas via un hack douteux ni un émulateur bricolé, mais en utilisant la beta officielle de Proton 11 que Valve a publiée avec, pour la première fois, le support des appareils ARM sous Linux. Le résultat a été posté sur BlueSky ( par ici ) par AAGaming, qui a aussi partagé les fichiers pour reproduire la manip chez vous. [Embed: https://bsky.app/profile/did:plc:owu62bybwircbrojnru5axov/post/3mjnka7iur22l]",
+      "link": "https://korben.info/steam-tourne-sur-nintendo-switch-grace-a-proton-11-et-au-support-arm64.html",
+      "pubDate": "2026-04-19T07:52:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bd137c071057",
+      "title": "Faux mails copyright YouTube - L'arnaque qui cible les créateurs",
+      "description": "Attention les amis, si vous avez une chaîne YouTube, vous allez probablement recevoir ce mail d'un certain \"Edward Evans\" ou autre qui vous explique très poliment que vous avez utilisé sa musique dans une vidéo, qu'il a déposé une plainte, et qu'il serait ravi de résoudre ça \"peacefully\". Surtout ne répondez pas ! J'en ai reçu un hier sur ma boite mail... Un message courtois où le type explique qu'il y a eu une petite incompréhension et qu'on va arranger ça entre gens biens. Sauf que ce mail,…",
+      "link": "https://korben.info/scam-phishing-youtube-copyright-createurs-3.html",
+      "pubDate": "2026-04-19T07:08:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/scam-phishing-youtube-copyright-createurs-3/scam-phishing-youtube-copyright-createurs-3-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1f8419c781c9",
       "title": "Intel Core Series 3 : les puces d'entrée de gamme sont fabriquées aux Etats-Unis, sans TSMC",
       "description": "Les processeurs Core Series 3 d'Intel sont en vente, et ce qui est intéressant ici, c'est moins les specs que l'endroit où ils sont fabriqués. Ces puces sortent des usines Intel de Hillsboro (Oregon) et Chandler (Arizona), sur le procédé 18A, l'équivalent du 2 nm chez Intel. Pas de TSMC dans la boucle. En 2024, une bonne partie des processeurs Intel pour PC portables était encore gravée chez le fondeur taiwanais. Ce n'est plus le cas.",
