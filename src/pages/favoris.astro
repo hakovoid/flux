@@ -1,0 +1,243 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ArticleListItem from '../components/ArticleListItem.astro';
+import { loadAllArticles, loadWorldArticles } from '../utils/articles';
+
+// Load all articles at build time
+const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
+
+// Sort by date, newest first
+allArticles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+---
+
+<Layout title="Favoris" description="Vos articles favoris." noindex>
+  <div class="fade-in-up">
+    <div class="mb-8">
+      <h1 class="text-2xl sm:text-3xl font-bold mb-2">Favoris</h1>
+      <p class="text-zinc-400 text-sm">
+        Articles marqués avec ⭐. Ces favoris sont stockés localement dans votre navigateur.
+      </p>
+    </div>
+
+    <!-- Favorites list container -->
+    <div id="favorites-container" class="flex flex-col gap-3">
+      <!-- Will be populated by client-side JavaScript -->
+      <div id="favorites-placeholder" class="text-center py-20 text-zinc-500">
+        <p class="text-lg font-medium">Chargement des favoris...</p>
+      </div>
+    </div>
+
+    <!-- Empty state -->
+    <div id="favorites-empty" class="hidden text-center py-20 text-zinc-500">
+      <svg class="w-12 h-12 mx-auto mb-4 text-zinc-700" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z" />
+      </svg>
+      <p class="text-lg font-medium">Aucun favori</p>
+      <p class="text-sm mt-1">Cliquez ⭐ sur un article pour l'ajouter ici.</p>
+    </div>
+  </div>
+
+  <!-- Preloaded articles index for client-side filtering -->
+  <script type="application/json" id="articles-index">
+    {JSON.stringify(allArticles)}
+  </script>
+
+  <script>
+    document.addEventListener('astro:page-load', () => {
+      try {
+        // Get favorites from localStorage
+        const favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
+        
+        // Get articles index
+        const articlesIndexScript = document.getElementById('articles-index');
+        const allArticles = JSON.parse(articlesIndexScript.textContent || '[]');
+        
+        // Filter articles to only favorites
+        const favoriteArticles = allArticles.filter(article => favorites.includes(article.id));
+        
+        // Get DOM elements
+        const container = document.getElementById('favorites-container');
+        const placeholder = document.getElementById('favorites-placeholder');
+        const emptyState = document.getElementById('favorites-empty');
+        
+        // Hide placeholder
+        placeholder.style.display = 'none';
+        
+        // Show empty state or favorites
+        if (favoriteArticles.length === 0) {
+          emptyState.classList.remove('hidden');
+          return;
+        }
+        
+        // Clear container and add favorites
+        container.innerHTML = '';
+        favoriteArticles.forEach((article, index) => {
+          // Create article element using ArticleListItem component logic
+          const articleEl = document.createElement('div');
+          articleEl.innerHTML = renderArticleListItem(article, index === 0);
+          container.appendChild(articleEl.firstElementChild);
+        });
+        
+        // Add event listener for favorite toggles
+        setupFavoriteToggleListener();
+      } catch (e) {
+        console.error('Error loading favorites:', e);
+        document.getElementById('favorites-placeholder').innerHTML = '<p class="text-lg font-medium">Erreur lors du chargement des favoris</p>';
+      }
+    });
+    
+    function renderArticleListItem(article, eager = false) {
+      // This is a simplified version of ArticleListItem rendering logic
+      // In a real implementation, we'd want to reuse the component properly
+      const pubDate = new Date(article.pubDate);
+      const formattedDate = pubDate.toLocaleDateString('fr-FR', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      });
+      
+      // Check if article is favorited
+      const favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
+      const isFavorite = favorites.includes(article.id);
+      
+      return `
+        <article
+          class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
+          data-article-id="${article.id}"
+        >
+          <a href="/article/${article.id}" class="block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
+            ${
+              article.image
+                ? `<img
+                    src="${article.image}"
+                    alt="${article.title}"
+                    loading="${eager ? 'eager' : 'lazy'}"
+                    decoding="${eager ? 'sync' : 'async'}"
+                    fetchpriority="${eager ? 'high' : ''}"
+                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    onerror="this.style.display='none';this.nextElementSibling.style.display='flex';"
+                  />
+                  <div class="w-full h-full bg-gradient-to-br from-zinc-600 to-zinc-800 items-center justify-center p-1 hidden">
+                    <span class="text-xs font-medium text-white/50 line-clamp-2 text-center leading-tight">${article.title}</span>
+                  </div>`
+                : `<div class="w-full h-full bg-gradient-to-br from-zinc-600 to-zinc-800 flex items-center justify-center p-1">
+                    <span class="text-xs font-medium text-white/50 line-clamp-2 text-center leading-tight">${article.title}</span>
+                  </div>`
+            }
+          </a>
+          
+          <div class="flex-1 min-w-0">
+            <h3 class="font-semibold text-sm leading-snug line-clamp-1">
+              <a href="/article/${article.id}" class="hover:text-indigo-400 transition-colors">
+                ${article.title}
+              </a>
+            </h3>
+            
+            <div class="flex items-center gap-2 text-xs text-zinc-400 mt-1 flex-wrap">
+              <span>${article.source}</span>
+              <span>•</span>
+              <time datetime="${article.pubDate}">${formattedDate}</time>
+            </div>
+            
+            <div class="flex flex-wrap gap-1 mt-1.5">
+              ${article.categories
+                .map(
+                  (cat) => 
+                    `<span class="px-1.5 py-0.5 text-[0.65rem] font-medium rounded-full border bg-zinc-500/20 text-zinc-400 border-zinc-500/30 hover:opacity-80 transition-opacity">${cat}</span>`
+                )
+                .join('')}
+            </div>
+          </div>
+          
+          <!-- Favorite button -->
+          <button 
+            data-favorite-toggle 
+            data-article-id="${article.id}"
+            aria-label="Retirer des favoris"
+            class="absolute top-1 right-8 w-6 h-6 flex items-center justify-center rounded-lg bg-zinc-900/50 hover:bg-zinc-800 transition-colors"
+          >
+            <svg class="w-3 h-3 favorite-icon" fill="${isFavorite ? '#fbbf24' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="${isFavorite ? 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z' : 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z'}" />
+            </svg>
+          </button>
+        </article>
+      `;
+    }
+    
+    function setupFavoriteToggleListener() {
+      // Global event delegation for favorite toggles
+      document.addEventListener('click', (e) => {
+        if (e.target.closest('[data-favorite-toggle]')) {
+          const button = e.target.closest('[data-favorite-toggle]');
+          const articleId = button.getAttribute('data-article-id');
+          
+          if (articleId) {
+            try {
+              // Toggle in localStorage
+              let favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
+              const index = favorites.indexOf(articleId);
+              
+              if (index === -1) {
+                favorites.push(articleId);
+              } else {
+                favorites.splice(index, 1);
+              }
+              
+              localStorage.setItem('flux-favorites', JSON.stringify(favorites));
+              
+              // Update button appearance
+              const icon = button.querySelector('.favorite-icon');
+              if (icon) {
+                if (index === -1) {
+                  icon.setAttribute('fill', '#fbbf24');
+                  icon.querySelector('path').setAttribute('d', 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z');
+                } else {
+                  icon.setAttribute('fill', 'none');
+                  icon.querySelector('path').setAttribute('d', 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z');
+                }
+              }
+              
+              // Update header counter
+              updateFavoritesCounter();
+              
+              // If we're on the favorites page, remove the article from the list if unfavorited
+              if (window.location.pathname === '/favoris') {
+                if (index !== -1) {
+                  // Remove the article element from the DOM
+                  const articleElement = button.closest('article');
+                  if (articleElement) {
+                    articleElement.remove();
+                    
+                    // Check if no favorites left
+                    const container = document.getElementById('favorites-container');
+                    if (container && container.children.length === 0) {
+                      document.getElementById('favorites-empty').classList.remove('hidden');
+                    }
+                  }
+                }
+              }
+            } catch (err) {
+              console.error('Error toggling favorite:', err);
+            }
+          }
+        }
+      });
+    }
+    
+    function updateFavoritesCounter() {
+      try {
+        const favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
+        const counterElements = document.querySelectorAll('[data-favorites-count]');
+        counterElements.forEach(el => {
+          el.textContent = favorites.length.toString();
+          el.style.display = favorites.length > 0 ? 'inline-flex' : 'none';
+        });
+      } catch (e) {
+        // Ignore localStorage errors
+      }
+    }
+    
+    // Initialize favorite toggle listener
+    setupFavoriteToggleListener();
+  </script>
+</Layout>
