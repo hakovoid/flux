@@ -66,7 +66,7 @@ const siteUrl = 'https://flux.yoandev.co';
                 type="password"
                 id="api-key"
                 placeholder="Cle API Gemini..."
-                class="flex-1 px-2.5 py-1.5 rounded-lg bg-zinc-900 border border-zinc-800 text-white placeholder-zinc-700 focus:outline-none focus:border-indigo-500/50 text-xs font-mono transition-colors"
+                class="flex-1 px-2.5 py-1.5 rounded-lg bg-zinc-900 border border-zinc-800 text-white placeholder-zinc-700 focus:outline-none focus:border-[var(--color-accent-500)]/50 text-xs font-mono transition-colors"
               />
               <button id="save-key" class="rs-btn-primary text-xs px-3 py-1.5">OK</button>
             </div>
@@ -82,7 +82,7 @@ const siteUrl = 'https://flux.yoandev.co';
           <!-- Loading -->
           <div id="loading-bar" class="hidden mt-2">
             <div class="flex items-center gap-2">
-              <svg class="w-3.5 h-3.5 animate-spin text-indigo-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182"/></svg>
+              <svg class="w-3.5 h-3.5 animate-spin text-[var(--color-accent-400)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182"/></svg>
               <span class="text-[11px] text-zinc-500" id="loading-text">Generation du thread...</span>
             </div>
           </div>
@@ -292,12 +292,12 @@ const siteUrl = 'https://flux.yoandev.co';
 
       function sync() {
         if (input.checked) {
-          box.classList.add('bg-indigo-500', 'border-indigo-500');
+          box.classList.add('accent-selected');
           box.classList.remove('border-zinc-700', 'bg-zinc-900');
           check.classList.replace('opacity-0', 'opacity-100');
           row.classList.add('rs-article-selected');
         } else {
-          box.classList.remove('bg-indigo-500', 'border-indigo-500');
+          box.classList.remove('accent-selected');
           box.classList.add('border-zinc-700', 'bg-zinc-900');
           check.classList.replace('opacity-100', 'opacity-0');
           row.classList.remove('rs-article-selected');

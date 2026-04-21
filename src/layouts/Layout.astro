@@ -3,6 +3,7 @@ import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import BackToTop from '../components/BackToTop.astro';
+import { palettes, type AccentName } from '@/config/theme';
 
 interface Props {
   title: string;
@@ -15,10 +16,14 @@ interface Props {
 const { title, description = 'Agrégateur de veille technologique — Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité.', image, canonicalOverride, noindex = false } = Astro.props;
 const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = image || 'https://flux.yoandev.co/og.webp';
+
+const accentName = ((process.env.FLUX_ACCENT as string) || 'indigo') as AccentName;
+const p = palettes[accentName] ?? palettes.indigo;
+const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`;
 ---
 
 <!doctype html>
-<html lang="fr">
+<html lang="fr" style={`--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}`}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -90,37 +95,37 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
           <div>
             <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Catégories</h4>
             <nav class="flex flex-col gap-1.5">
-              <a href="/categorie/programmation" class="text-zinc-500 hover:text-indigo-400 transition-colors">Programmation</a>
-              <a href="/categorie/ia" class="text-zinc-500 hover:text-indigo-400 transition-colors">IA</a>
-              <a href="/categorie/devops" class="text-zinc-500 hover:text-indigo-400 transition-colors">DevOps</a>
-              <a href="/categorie/cloud" class="text-zinc-500 hover:text-indigo-400 transition-colors">Cloud</a>
-              <a href="/categorie/web" class="text-zinc-500 hover:text-indigo-400 transition-colors">Web</a>
-              <a href="/categorie/cybersecurite" class="text-zinc-500 hover:text-indigo-400 transition-colors">Cybersécurité</a>
+              <a href="/categorie/programmation" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Programmation</a>
+              <a href="/categorie/ia" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">IA</a>
+              <a href="/categorie/devops" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">DevOps</a>
+              <a href="/categorie/cloud" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Cloud</a>
+              <a href="/categorie/web" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Web</a>
+              <a href="/categorie/cybersecurite" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Cybersécurité</a>
             </nav>
           </div>
           <div>
             <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Navigation</h4>
             <nav class="flex flex-col gap-1.5">
-              <a href="/" class="text-zinc-500 hover:text-indigo-400 transition-colors">Articles</a>
-              <a href="/sources" class="text-zinc-500 hover:text-indigo-400 transition-colors">Sources</a>
-              <a href="/categories" class="text-zinc-500 hover:text-indigo-400 transition-colors">Catégories</a>
-              <a href="/stats" class="text-zinc-500 hover:text-indigo-400 transition-colors">Statistiques</a>
-              <a href="/newsletter" class="text-zinc-500 hover:text-indigo-400 transition-colors">Newsletter</a>
-              <a href="/a-propos" class="text-zinc-500 hover:text-indigo-400 transition-colors">À propos</a>
+              <a href="/" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Articles</a>
+              <a href="/sources" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Sources</a>
+              <a href="/categories" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Catégories</a>
+              <a href="/stats" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Statistiques</a>
+              <a href="/newsletter" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Newsletter</a>
+              <a href="/a-propos" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">À propos</a>
             </nav>
           </div>
           <div>
             <h4 class="text-xs uppercase tracking-widest text-zinc-600 font-medium mb-3">Flux</h4>
             <nav class="flex flex-col gap-1.5">
-              <a href="/rss.xml" class="text-zinc-500 hover:text-indigo-400 transition-colors inline-flex items-center gap-1.5">
+              <a href="/rss.xml" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors inline-flex items-center gap-1.5">
                 <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
                 Flux RSS
               </a>
-              <a href="/world/rss.xml" class="text-zinc-500 hover:text-indigo-400 transition-colors inline-flex items-center gap-1.5">
+              <a href="/world/rss.xml" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors inline-flex items-center gap-1.5">
                 <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
                 Flux RSS World
               </a>
-              <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-indigo-400 transition-colors">Code source</a>
+              <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors">Code source</a>
               <a href="https://www.patreon.com/YoanDev" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-amber-400 transition-colors inline-flex items-center gap-1.5">
                 <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="currentColor"><path d="M14.82 2.41c3.96 0 7.18 3.24 7.18 7.21 0 3.96-3.22 7.18-7.18 7.18-3.97 0-7.21-3.22-7.21-7.18 0-3.97 3.24-7.21 7.21-7.21M2 21.6h3.5V2.41H2V21.6z"/></svg>
                 Patreon
@@ -129,8 +134,8 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
           </div>
         </div>
         <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-6 border-t border-zinc-800/40">
-          <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-indigo-400 hover:text-indigo-300 underline transition-colors">YoanDev</a></p>
-          <span class="text-zinc-600">Analytique sans cookies via <a href="https://umami.is" class="underline hover:text-indigo-400 transition-colors">Umami</a></span>
+          <p>Flux — Veille technologique agrégée par <a href="https://yoandev.co" class="text-[var(--color-accent-400)] hover:text-[var(--color-accent-300)] underline transition-colors">YoanDev</a></p>
+          <span class="text-zinc-600">Analytique sans cookies via <a href="https://umami.is" class="underline hover:text-[var(--color-accent-400)] transition-colors">Umami</a></span>
         </div>
       </div>
     </footer>

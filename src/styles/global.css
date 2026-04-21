@@ -7,9 +7,6 @@
   --color-surface-1: #18181b;
   --color-surface-2: #27272a;
   --color-surface-3: #3f3f46;
-  --color-accent: #6366f1;
-  --color-accent-light: #818cf8;
-  --color-accent-glow: #6366f140;
 }
 
 html {
@@ -93,4 +90,27 @@ body {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* Accent utility classes — used by JS-driven dynamic class toggling */
+.accent-filter-active {
+  background-color: color-mix(in srgb, var(--color-accent-500) 15%, transparent);
+  color: var(--color-accent-300);
+  border-color: color-mix(in srgb, var(--color-accent-500) 40%, transparent);
+  box-shadow: 0 0 12px -3px var(--color-accent-glow);
+}
+
+.accent-pagination-active {
+  background-color: color-mix(in srgb, var(--color-accent-500) 20%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent-500) 50%, transparent);
+  color: var(--color-accent-400);
+}
+
+.accent-dot {
+  background-color: var(--color-accent-500);
+}
+
+.accent-selected {
+  background-color: var(--color-accent-500);
+  border-color: var(--color-accent-500);
 }

@@ -36,7 +36,7 @@ const navItems = [
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
       <a href="/" class="flex items-center gap-3 group">
-        <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center shadow-lg shadow-indigo-500/20 group-hover:shadow-indigo-500/40 transition-shadow">
+        <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-[var(--color-accent-from)] to-[var(--color-accent-to)] flex items-center justify-center shadow-lg shadow-[var(--color-accent-glow)] group-hover:shadow-[var(--color-accent-glow)] transition-shadow">
           <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
         </div>
         <span class="text-lg font-bold tracking-tight">Flux</span>
@@ -53,7 +53,7 @@ const navItems = [
             {item.href === '/favoris' && (
               <span 
                 data-favorites-count
-                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-indigo-500/20 text-indigo-300"
+                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
               >
                 0
               </span>
@@ -114,7 +114,7 @@ const navItems = [
           {item.href === '/favoris' && (
             <span 
               data-favorites-count
-              class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-indigo-500/20 text-indigo-300"
+              class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
             >
               0
             </span>
