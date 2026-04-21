@@ -136,9 +136,10 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
     </footer>
     <BackToTop />
     
-    <!-- Global event delegation for favorite toggles -->
+    <!-- Global event delegation for favorite and read later toggles -->
     <script>
       document.addEventListener('click', (e) => {
+        // Handle favorite toggle
         if (e.target.closest('[data-favorite-toggle]')) {
           const button = e.target.closest('[data-favorite-toggle]');
           const articleId = button.getAttribute('data-article-id');
@@ -160,9 +161,9 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
               }
               
               // Set list to localStorage
-              function setList(key, ids) {
+              function setList(key, items) {
                 try {
-                  localStorage.setItem(STORAGE_PREFIX + key, JSON.stringify(ids));
+                  localStorage.setItem(STORAGE_PREFIX + key, JSON.stringify(items));
                 } catch (e) {
                   // Silently fail if localStorage is unavailable
                 }
@@ -170,16 +171,34 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
               
               // Toggle item in list
               function toggle(key, id) {
-                const list = getList(key);
-                const index = list.indexOf(id);
-                if (index === -1) {
-                  list.push(id);
-                  setList(key, list);
-                  return true;
+                if (key === 'read-later') {
+                  // Handle read-later with timestamps
+                  const list = getList(key);
+                  const index = list.findIndex(item => item.id === id);
+                  if (index === -1) {
+                    // Add new item with timestamp
+                    list.push({ id, addedAt: Date.now() });
+                    setList(key, list);
+                    return true;
+                  } else {
+                    // Remove existing item
+                    list.splice(index, 1);
+                    setList(key, list);
+                    return false;
+                  }
                 } else {
-                  list.splice(index, 1);
-                  setList(key, list);
-                  return false;
+                  // Handle favorites (simple string array)
+                  const list = getList(key);
+                  const index = list.indexOf(id);
+                  if (index === -1) {
+                    list.push(id);
+                    setList(key, list);
+                    return true;
+                  } else {
+                    list.splice(index, 1);
+                    setList(key, list);
+                    return false;
+                  }
                 }
               }
               
@@ -193,7 +212,7 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
                   icon.setAttribute('fill', '#fbbf24'); // Yellow fill for favorited state
                   const outlinePath = icon.querySelector('path');
                   if (outlinePath) {
-                    outlinePath.setAttribute('d', 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z');
+                    outlinePath.setAttribute('d', 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.185 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z');
                   }
                 } else {
                   icon.setAttribute('fill', 'none'); // No fill for unfavorited state
@@ -204,13 +223,22 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
                 }
               }
               
-              // Update header counter
+              // Update header counters
               try {
+                // Update favorites counter
                 const favorites = getList('favorites');
-                const counterElements = document.querySelectorAll('[data-favorites-count]');
-                counterElements.forEach(el => {
+                const favoritesCounterElements = document.querySelectorAll('[data-favorites-count]');
+                favoritesCounterElements.forEach(el => {
                   el.textContent = favorites.length.toString();
                   el.style.display = favorites.length > 0 ? 'inline-flex' : 'none';
+                });
+                
+                // Update read later counter
+                const readLaterItems = getList('read-later');
+                const readLaterCounterElements = document.querySelectorAll('[data-read-later-count]');
+                readLaterCounterElements.forEach(el => {
+                  el.textContent = Array.isArray(readLaterItems) ? readLaterItems.length.toString() : '0';
+                  el.style.display = Array.isArray(readLaterItems) && readLaterItems.length > 0 ? 'inline-flex' : 'none';
                 });
               } catch (e) {
                 // Ignore localStorage errors
@@ -223,6 +251,157 @@ const ogImage = image || 'https://flux.yoandev.co/og.webp';
               }
             } catch (err) {
               console.error('Error toggling favorite:', err);
+            }
+          }
+        }
+        
+        // Handle read later toggle
+        if (e.target.closest('[data-read-later-toggle]')) {
+          const button = e.target.closest('[data-read-later-toggle]');
+          const articleId = button.getAttribute('data-article-id');
+          
+          if (articleId) {
+            try {
+              // Import the userLists module dynamically
+              // Since we can't import ES modules in inline scripts, we'll reimplement the logic
+              const STORAGE_PREFIX = 'flux-';
+              
+              // Get list from localStorage
+              function getList(key) {
+                try {
+                  const stored = localStorage.getItem(STORAGE_PREFIX + key);
+                  return stored ? JSON.parse(stored) : [];
+                } catch (e) {
+                  return [];
+                }
+              }
+              
+              // Set list to localStorage
+              function setList(key, items) {
+                try {
+                  localStorage.setItem(STORAGE_PREFIX + key, JSON.stringify(items));
+                } catch (e) {
+                  // Silently fail if localStorage is unavailable
+                }
+              }
+              
+              // Toggle item in list (read-later with timestamps)
+              function toggleReadLater(id) {
+                const list = getList('read-later');
+                const index = list.findIndex(item => item.id === id);
+                if (index === -1) {
+                  // Add new item with timestamp
+                  list.push({ id, addedAt: Date.now() });
+                  setList('read-later', list);
+                  return true;
+                } else {
+                  // Remove existing item
+                  list.splice(index, 1);
+                  setList('read-later', list);
+                  return false;
+                }
+              }
+              
+              // Toggle read later
+              const isNowReadLater = toggleReadLater(articleId);
+              
+              // Update button appearance
+              const icon = button.querySelector('.read-later-icon');
+              if (icon) {
+                if (isNowReadLater) {
+                  icon.setAttribute('fill', '#60a5fa'); // Blue fill for read later state
+                } else {
+                  icon.setAttribute('fill', 'none'); // No fill for removed state
+                }
+              }
+              
+              // Update header counters
+              try {
+                // Update read later counter
+                const readLaterItems = getList('read-later');
+                const readLaterCounterElements = document.querySelectorAll('[data-read-later-count]');
+                readLaterCounterElements.forEach(el => {
+                  el.textContent = Array.isArray(readLaterItems) ? readLaterItems.length.toString() : '0';
+                  el.style.display = Array.isArray(readLaterItems) && readLaterItems.length > 0 ? 'inline-flex' : 'none';
+                });
+                
+                // Update favorites counter (in case both are toggled)
+                const favorites = getList('favorites');
+                const favoritesCounterElements = document.querySelectorAll('[data-favorites-count]');
+                favoritesCounterElements.forEach(el => {
+                  el.textContent = favorites.length.toString();
+                  el.style.display = favorites.length > 0 ? 'inline-flex' : 'none';
+                });
+              } catch (e) {
+                // Ignore localStorage errors
+              }
+              
+              // If we're on the read later page, update the list
+              if (window.location.pathname === '/a-lire-plus-tard') {
+                // This would require more complex logic to update the read later page
+                // For now, we'll let the page refresh handle it
+              }
+            } catch (err) {
+              console.error('Error toggling read later:', err);
+            }
+          }
+        }
+        
+        // Handle mark as read on read later page
+        if (e.target.closest('[data-mark-as-read]')) {
+          const button = e.target.closest('[data-mark-as-read]');
+          const articleId = button.getAttribute('data-article-id');
+          
+          if (articleId) {
+            try {
+              // Import the userLists module dynamically
+              // Since we can't import ES modules in inline scripts, we'll reimplement the logic
+              const STORAGE_PREFIX = 'flux-';
+              
+              // Remove from read-later list
+              function removeFromReadLater(id) {
+                try {
+                  const stored = localStorage.getItem(STORAGE_PREFIX + 'read-later');
+                  const list = stored ? JSON.parse(stored) : [];
+                  if (Array.isArray(list)) {
+                    const filtered = list.filter(item => item.id !== id);
+                    localStorage.setItem(STORAGE_PREFIX + 'read-later', JSON.stringify(filtered));
+                  }
+                } catch (e) {
+                  // Ignore errors
+                }
+              }
+              
+              // Remove from read-later list
+              removeFromReadLater(articleId);
+              
+              // Remove the article element from the DOM
+              const articleElement = button.closest('article');
+              if (articleElement) {
+                articleElement.remove();
+                
+                // Check if no items left
+                const container = document.getElementById('read-later-container');
+                if (container && container.children.length === 0) {
+                  document.getElementById('read-later-empty').classList.remove('hidden');
+                }
+                
+                // Update header counter
+                try {
+                  const stored = localStorage.getItem(STORAGE_PREFIX + 'read-later');
+                  const list = stored ? JSON.parse(stored) : [];
+                  const counterElements = document.querySelectorAll('[data-read-later-count]');
+                  const count = Array.isArray(list) ? list.length : 0;
+                  counterElements.forEach(el => {
+                    el.textContent = count.toString();
+                    el.style.display = count > 0 ? 'inline-flex' : 'none';
+                  });
+                } catch (e) {
+                  // Ignore localStorage errors
+                }
+              }
+            } catch (err) {
+              console.error('Error marking as read:', err);
             }
           }
         }
