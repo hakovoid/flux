@@ -25,6 +25,7 @@ const navItems = [
   { label: 'World', href: '/world' },
   { label: 'Sources', href: '/sources' },
   { label: 'Favoris', href: '/favoris' },
+  { label: 'À lire plus tard', href: '/a-lire-plus-tard' },
   { label: 'Newsletter', href: '/newsletter' },
   { label: 'À propos', href: '/a-propos' },
 ];
@@ -53,6 +54,14 @@ const navItems = [
               <span 
                 data-favorites-count
                 class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-indigo-500/20 text-indigo-300"
+              >
+                0
+              </span>
+            )}
+            {item.href === '/a-lire-plus-tard' && (
+              <span 
+                data-read-later-count
+                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-blue-500/20 text-blue-300"
               >
                 0
               </span>
@@ -110,6 +119,14 @@ const navItems = [
               0
             </span>
           )}
+          {item.href === '/a-lire-plus-tard' && (
+            <span 
+              data-read-later-count
+              class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-blue-500/20 text-blue-300"
+            >
+              0
+            </span>
+          )}
         </a>
       ))}
       <div class="mt-2 pt-3 border-t border-zinc-800/50 px-3 flex items-center gap-3 text-xs text-zinc-500">
@@ -156,6 +173,18 @@ const navItems = [
       counterElements.forEach(el => {
         el.textContent = favorites.length.toString();
         el.style.display = favorites.length > 0 ? 'inline-flex' : 'none';
+      });
+    } catch (e) {
+      // Ignore localStorage errors
+    }
+    
+    // Update read later counter
+    try {
+      const readLaterItems = JSON.parse(localStorage.getItem('flux-read-later') || '[]');
+      const counterElements = document.querySelectorAll('[data-read-later-count]');
+      counterElements.forEach(el => {
+        el.textContent = Array.isArray(readLaterItems) ? readLaterItems.length.toString() : '0';
+        el.style.display = Array.isArray(readLaterItems) && readLaterItems.length > 0 ? 'inline-flex' : 'none';
       });
     } catch (e) {
       // Ignore localStorage errors
