@@ -2,6 +2,280 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2b526eecc726",
+      "title": "« C'est le comportement attendu » : faille critique et com' désastreuse, la triple faute de Lovable",
+      "description": "Lovable, l'étoile montante du vibe coding (vous savez, ces plateformes où vous décrivez une app en langage naturel et une IA vous génère le code), traverse un sale moment. Un chercheur en sécurité, répondant au doux pseudo de @weezerOSINT, a découvert une faille BOLA (Broken Object Level Authorization) qui permettait à n'importe qui de lire les identifiants, les historiques de chat et le code source de tous les projets créés avant novembre 2025 sur la plateforme.",
+      "link": "https://korben.info/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable.html",
+      "pubDate": "2026-04-22T05:23:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable/cest-le-comportement-attendu-faille-critique-et-com-desastreuse-la-triple-faute-de-lovable-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "261995fdee7c",
+      "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
+      "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien explore la renaissance de Java dans l'ère de l'IA, où Spring AI, LangChain4J et l'écosystème open source bouleversent l'intégration des LLM. Il partage comment GitHub Copilot et les nouveaux…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-353-f195d6c36f38",
+      "pubDate": "2026-04-22T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4c8d8684-b712-44d9-86ee-fcd67bdd1b1f.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
+      "duration": "57:32"
+    },
+    {
+      "id": "07422a1fdbbd",
+      "title": "Codex a rooté une TV Samsung tout seul - Faut s'y préparer",
+      "description": "Une IA a rooté une télé Samsung tournant sous KantS2, la plateforme logicielle d'un ancien modèle de la marque. C'est Codex, le modèle de code d'OpenAI, qui a trouvé un driver laissé avec des droits d'écriture sur le firmware, mappé la mémoire physique, et est passé root en quelques étapes. Les chercheurs de califio lui ont juste fourni un accès shell et le code source du firmware. À partir de là, c'est Codex qui a enchaîné la chaîne d'exploitation tout seul.",
+      "link": "https://korben.info/codex-ia-faille-samsung-tv.html",
+      "pubDate": "2026-04-21T13:32:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/codex-ia-faille-samsung-tv/codex-ia-faille-samsung-tv-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3a530bac11a9",
+      "title": "L'Internet Archive met 758 CD-ROM de démos PC Gamer à disposition du public",
+      "description": "Si vous étiez abonné à un magazine de jeux PC dans les années 90 et 2000, vous vous souvenez forcément des CD fournis avec chaque numéro de votre petit journal. Démos jouables de jeux en cours de dev, mods, patchs, bonus, cartes supplémentaires pour les Doom et autres Quake de l'époque : les cover discs étaient un peu la seule façon de tester un jeu avant achat quand le téléchargement à 56k ne permettait pas grand-chose.",
+      "link": "https://korben.info/linternet-archive-met-758-cd-rom-de-demos-pc-gamer-a-disposition-du-public.html",
+      "pubDate": "2026-04-21T13:32:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4b32591c457b",
+      "title": "Test de cet accessoire qui va étendre l’autonomie de vos AirTags jusqu’à 10 ans !",
+      "description": "– Contient des liens affiliés Amazon – Prolonger la durée de vie d'un AirTag de quelques mois à plusieurs années, c’est la promesse du boîtier DuHeSin vendu autour de 20 euros sur Amazon. L'accessoire remplace la CR2032 d'origine par deux piles AA classiques, ce qui multiplie l'autonomie par 14 selon le fabricant. De quoi passer d'environ un an d'usage à plus d'une décennie.",
+      "link": "https://korben.info/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans.html",
+      "pubDate": "2026-04-21T13:23:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans/test-de-cet-accessoire-qui-va-etendre-lautonomie-de-vos-airtags-jusqua-10-ans-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f01bbe2c6a84",
+      "title": "DroneAware Node - Détecter les drones avec un Raspberry Pi",
+      "description": "Il a zoné au-dessus de votre jardin durant 3 minutes la semaine dernière. Vous l'avez entendu, vous avez levé la tête, mais trop tard ! Encore un putain de drone. Mais lequel ? Et surtout, qui le pilotait ? Alors voilà un projet qui tente de répondre à ces questions pour le prix d'un week-end entre potes ! DroneAware Node , c'est une station de détection de drones à bricoler soi-même à base de Raspberry Pi. Il vous faut un Pi, 2 dongles USB, une microSD, et vous avez un truc qui écoute les…",
+      "link": "https://korben.info/detecter-drones-raspberry-pi.html",
+      "pubDate": "2026-04-21T13:17:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/detecter-drones-raspberry-pi/detecter-drones-raspberry-pi-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2534b87dbcee",
+      "title": "ONCE - La plateforme auto-hébergée open-source de 37signals",
+      "description": "Payer 15 euros par mois pour un chat d'équipe du genre de Slack, 20 pour un wiki pro, 10 pour un kanban... Et au bout d'un an, vous avez filé l'équivalent d'un MacBook d'occasion à des SaaS qui vivent sur votre dos. C'est ce constat qui a poussé 37signals à ouvrir ONCE. Pour ceux qui rompichent fort depuis des années, 37signals c'est la boîte derrière Basecamp et HEY, avec Jason Fried comme CEO et David Heinemeier Hansson (DHH, le créateur de Ruby on Rails) comme CTO.",
+      "link": "https://korben.info/basecamp-once-plateforme-self-hosting.html",
+      "pubDate": "2026-04-21T13:06:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/basecamp-once-plateforme-self-hosting/basecamp-once-plateforme-self-hosting-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "5ed7994b4314",
+      "title": "UGV Beast - Robot chenillé tout-terrain pour Raspberry Pi 4 et 5",
+      "description": "Et si vous pouviez lâcher un petit char d'assaut bardé d'IA dans votre jardin pour aller cartographier les monticules des taupes ? Hé bien bonne nouvelle puisque ça va être possible grâce à Waveshare qui vient de sortir le UGV Beast , un robot mobile à chenilles propulsé par Raspberry Pi 4 ou 5 qui promet de tenir la route là où les robots à roues s'enlisent connement. L'engin pèse 2 kilos et des poussières (2,35 kg avec la caméra pan-tilt), soit à peu près le poids d'un gros chat. Il mesure…",
+      "link": "https://korben.info/ugv-beast-robot-chenille-raspberry-pi.html",
+      "pubDate": "2026-04-21T12:48:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ugv-beast-robot-chenille-raspberry-pi/ugv-beast-robot-chenille-raspberry-pi-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c5fe8fdb910e",
+      "title": "Flow Music - L'IA musicale de Google débarque avec Lyria 3",
+      "description": "Ça y est les amis, comme à Fraggle Rock, Google entre enfin dans la danse de la musique IA avec Flow Music . Son service vient de sortir en freemium, et c'est la réponse officielle de Mountain View à Suno et Udio . Et derrière le volant, on retrouve Lyria 3, le modèle de DeepMind spécialisé dans la génération musicale. Une fois sur le site, c'est du classique. Vous tapez un prompt du genre \"lofi beat pour vibe coder la nuit\", ensuite vous cliquez sur le bouton, et pouf quelques secondes après,…",
+      "link": "https://korben.info/flowmusic-creation-musicale-ia.html",
+      "pubDate": "2026-04-21T12:09:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flowmusic-creation-musicale-ia/flowmusic-creation-musicale-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8a02d4f58cfc",
+      "title": "Cataclysm: Dark Days Ahead - 13 ans de survie post-apo",
+      "description": "Imaginez un jeu où vous pouvez crever de faim, de soif, d'hypothermie ou d'une simple coupure infectée... tout ça pendant la même partie. Bienvenue dans Cataclysm: Dark Days Ahead (CDDA pour les intimes. Oui, comme le logiciel pour ripper des CDs de quand on était jeune. ^^), un roguelike de survie post-apocalyptique open source qui assure depuis 13 ans et continue de s'étoffer à toute vitesse. Pour vous resituer le truc, le Cataclysm original a été lancé initialement par un dev surnommé…",
+      "link": "https://korben.info/cataclysm-dark-days-ahead.html",
+      "pubDate": "2026-04-21T12:05:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10b9b9205d64",
+      "title": "Soulseek - Le P2P musical qui refuse de mourir",
+      "description": "Vous vous souvenez de Soulseek ? Mais siii, ce réseau P2P dédié à la musique rare que vos potes audiophiles utilisaient en 2005 pour choper des bootlegs introuvables ? Hé bah figurez-vous qu'il tourne toujours en 2026, et qu'autour de lui s'est bâtie une communauté d'outils modernes que peu de monde connaît. Mais avant d'attaquer dans le dur, un petit rappel pour les jeunes qui n'ont connu que Spotify. Nir Arbel a lancé Soulseek le 8 avril 2001, en plein boom Napster, sauf que contrairement à…",
+      "link": "https://korben.info/soulseek-p2p-musique-nicotine-slskd.html",
+      "pubDate": "2026-04-21T11:52:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/soulseek-p2p-musique-nicotine-slskd/soulseek-p2p-musique-nicotine-slskd-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e6e1a877b1d1",
+      "title": "Grub2Win - Multiboot Linux depuis Windows en mode clic-clic",
+      "description": "Y'a des projets open source qu'on oublie parce qu'ils font leur boulot sans faire de bruit. Grub2Win, est l'un d'entre eux. Un dev seul, 16 années de maintenance, plus de deux millions de téléchargements et aucune campagne marketing ! Ce logiciel gratuit c'est un installateur graphique de GNU GRUB 2 qui tourne directement sous Windows. Vous lancez l'exe, vous cliquez, et votre machine est prête à booter plusieurs OS au démarrage. Pas besoin de toucher au MBR à la mano, pas besoin de lignes de…",
+      "link": "https://korben.info/grub2win-multiboot-windows-linux.html",
+      "pubDate": "2026-04-21T11:34:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/grub2win-multiboot-windows-linux/grub2win-multiboot-windows-linux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c46fe9743ae2",
+      "title": "Les LLM sont t'ils intelligents ? Retour sur 8 ans de progrès",
+      "description": "On parle tout le temps de la puissance des puces, de la taille des fenêtres de contexte ou des milliards levés par les géants de la tech. Mais est-ce qu'on prend encore le temps de se demander ce qu'est vraiment l'intelligence ? Alors on a décidé de faire une pause dans la frénésie des annonces pour se poser les vraies questions de fond avec un regard philosophique en gardant notre exigence technique. Dans cet épisode, on reçoit un invité de marque : Thibaut Giraud alias @MonsieurPhi Docteur en…",
+      "link": "https://www.linkedin.com/company/a-la-french-podcast",
+      "pubDate": "2026-04-21T09:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1776752727645-33fa8380-057e-4d72-93cf-7f3b5275d61b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69e719ebabe143da5b4fa38e/media.mp3",
+      "duration": "1:32:59"
+    },
+    {
+      "id": "da8acf9946fb",
+      "title": "Claude Desktop modifie les permissions de navigateurs que vous n'avez même pas installés",
+      "description": "Des utilisateurs de Claude Desktop sont en train de découvrir que l'application d'Anthropic se permet d'aller bidouiller les réglages de plusieurs navigateurs, y compris ceux qui ne sont pas installés sur la machine. L'idée est simple, c'est pré-configurer l'accès pour que, le jour où vous installeriez Chrome, Firefox ou Edge, Claude puisse directement automatiser votre navigation sans avoir à redemander la permission. Sur le papier, ça part d'une intention louable. Éviter de vous ennuyer avec…",
+      "link": "https://korben.info/claude-desktop-modifie-les-permissions-de-navigateurs-que-vous-navez-meme-pas-installes.html",
+      "pubDate": "2026-04-21T08:20:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "350f80511566",
+      "title": "L’autre moyen d’attirer du trafic en B2B : les contenus interactifs",
+      "description": "L'article propose des dispositifs interactifs, tels que les quiz et infographies, comme moyens efficaces pour attirer et engager des prospects, tout en mémorisant la marque. Il insiste sur l'importance de l'originalité, de l'expérience utilisateur, et de l'utilité des contenus, qui doivent dépasser la simple collecte d'emails pour créer une relation durable. L’article L’autre moyen d’attirer du trafic en B2B : les contenus interactifs est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/21/lautre-moyen-dattirer-du-trafic-en-b2b-les-contenus-interactifs/",
+      "pubDate": "2026-04-21T08:20:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "064f3dd670ee",
+      "title": "AMD GAIA 0.17.3 sait maintenant empaqueter vos agents IA dans un installeur custom",
+      "description": "La 0.17.3 de GAIA, le framework open-source d'AMD pour faire tourner des agents IA en local sur puces Ryzen AI, débarque avec une fonction assez attendue. Vous pouvez désormais exporter vos agents personnalisés et les réimporter sur une autre machine en quelques clics. Très concrètement, vous packagez vos agents dans un installeur GAIA custom, et au premier lancement sur la nouvelle machine, tout est déjà là, pré-configuré, directement prêt à tourner. Sous Windows, AMD a particulièrement bossé…",
+      "link": "https://korben.info/amd-gaia-0-17-3-sait-maintenant-empaqueter-vos-agents-ia-dans-un-installeur-custom.html",
+      "pubDate": "2026-04-21T07:48:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "699f1a3e0484",
+      "title": "TRELLIS-Mac - L'image-to-3D de Microsoft passe sur Apple Silicon",
+      "description": "TRELLIS est un modèle IA capable, à partir d'un texte ou d'une image tout ce qu'il y a de plus normal, de générer un modèle en 3D. C'est développé par Microsoft Research et c'est assez génial. D'ailleurs j'en avait parlé en février dernier quand la bête ne tournait encore que sur des cartes NVIDIA. Sauf que voilà, ça ne fonctionnait pas sur Apple Silicon, mais uniquement sur les machines compatibles CUDA. Enfin, jusqu'à aujourd'hui, puisque grâce au développeur Shivam Kumar, on dispose…",
+      "link": "https://korben.info/trellis-mac-limage-to-3d-de-microsoft-passe-sur-apple-silicon.html",
+      "pubDate": "2026-04-21T07:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f0196c60bfae",
+      "title": "Open Slopware - La chasse aux sorcières des projets open source",
+      "description": "Ce matin en buvant mon café, je suis tombé sur un dépôt qui m'a fait tiquer et j'aimerai prendre quelques minutes pour vous en parler. Ça s'appelle Open Slopware , c'est hébergé sur Codeberg, et ça recense tous les projets open source qui ont eu le \"malheur\" de laisser l'IA s'approcher de leur code. En fait, c'est une grande liste organisée par types de reproches, allant du projet qui autorise les contributions faites avec des LLM, à celui qui intègre une fonctionnalité IA, en passant par ceux…",
+      "link": "https://korben.info/open-slopware-chasse-aux-sorcieres-ia-open-source.html",
+      "pubDate": "2026-04-21T06:29:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/open-slopware-chasse-aux-sorcieres-ia-open-source/open-slopware-chasse-aux-sorcieres-ia-open-source-2.png",
+      "type": "blog"
+    },
+    {
       "id": "c34fc2acf5c2",
       "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
       "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
@@ -14,6 +288,36 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/02/Designer--4-.png",
+      "type": "blog"
+    },
+    {
+      "id": "968277d5d6ae",
+      "title": "Toki Pona - 120 mots pour parler de tout",
+      "description": "Y'a 20 ans passés, une linguiste canadienne nommée Sonja Lang a eu une idée un peu folle : créer la langue la plus simple du monde. Le résultat, c'est le Toki Pona, un truc minimaliste qui tient officiellement en 120 mots et que vous pouvez apprendre en quelques heures si votre mémoire n'est pas trop merdique. Et en 2026, la communauté a tellement grossi autour que ça vaut le coup d'y (re)jeter un œil.",
+      "link": "https://korben.info/langue-rapide-apprendre-geek.html",
+      "pubDate": "2026-04-21T05:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/langue-rapide-apprendre-geek/langue-rapide-apprendre-geek-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0a19f882f00a",
+      "title": "Pétille — pour les enfants, ce que je n'ai pas trouvé ailleurs",
+      "description": "Celui-ci n’est pas un outil pour DSI. C’est pour mes filles — et les vôtres, si ça vous parle. Le déclic J’ai deux filles, 6 et 8 ans. Comme beaucoup de parents, j’ai fini par remarquer deux choses. La première, c’est qu’elles connaissent environ cinq métiers : vétérinaire, maîtresse, docteur, policier, pompier. C’est normal — à cet âge, l’univers des métiers possibles se construit sur ce qu’on voit autour de soi. Ce n’est pas un problème à régler.",
+      "link": "https://kolapsis.com/blog/petille-carnet-appetences/",
+      "pubDate": "2026-04-21T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
