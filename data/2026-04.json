@@ -2,6 +2,203 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3006c9ee0c41",
+      "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
+      "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page. Le typographe amateur en moi aspire à suivre la sagesse de Bringhurst : Les titres, intertitres, citations, notes de bas de page, illustrations, légendes et autres intrusions dans le texte créent des…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-rythme-vertical",
+      "pubDate": "2026-04-22T19:48:10.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/vertical-rhythm/text@1x.17b2e8512acd85.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5b0631755b5",
+      "title": "DevoxxFR 2026 - Récap du mercredi (jour 1)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) TODO DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Premier jour de DevoxxFR 2026 C’est reparti pour DevoxxFR, avec un mercredi bien dense, orienté IA le matin, puis des formats plus diversifiés l’après-midi. Je pose ici mon récap “à chaud” du jour 1. L’IA au service du bien commun : agir avec raison dans l’incertain Laurence Devillers (Sorbonne Université / CNRS) a ouvert la matinée…",
+      "link": "https://blog.zwindler.fr/2026/04/22/devoxxfr-2026-recap-jour-1/",
+      "pubDate": "2026-04-22T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/devoxxfr-ouverture.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bd4cfc41f84e",
+      "title": "Loi séparatisme - Le blocage sans juge gagne du terrain",
+      "description": "Mis à part son auteur, y'a un truc qui sent pas bon dans l'avant-projet de loi de Laurent Nuñez sur le séparatisme et l'entrisme. Au milieu des mesures sur la dissolution d'assos et l'interdiction d'ouvrages, le texte prévoit en effet d'étendre fortement les pouvoirs de blocage administratif des sites web en France. Et quand je dis \"administratif\", ça veut dire sans juge. Bah ouais, ça servirait à quoi alors qu'il suffit d'un bon vieux coup de tampon de l'administration, et votre site peut…",
+      "link": "https://korben.info/loi-separatisme-blocage-administratif-sans-juge.html",
+      "pubDate": "2026-04-22T15:59:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5c6e218eb647",
+      "title": "Razor 1911 - Le groupe qui a survécu à tout",
+      "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Il y a quelques jours, lors de la demo party Revision 2026 , dans une salle plongée dans le noir à Sarrebruck, un public de sceners regarde défiler les crédits d'une demo victorieuse. Au milieu des pseudos des graphistes, un nom : Sector9.",
+      "link": "https://korben.info/razor-1911-histoire-scene-cracker.html",
+      "pubDate": "2026-04-22T15:01:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/razor-1911-histoire-scene-cracker/razor-1911-histoire-scene-cracker-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "9f3157cec64a",
+      "title": "VidStudio - L'éditeur vidéo dans votre navigateur, sans upload",
+      "description": "Un éditeur vidéo qui redimensionne, compresse et coupe vos clips... sans rien uploader nulle part, ça vous dit ??? Ça tombe bien puisque VidStudio fait tourner FFmpeg directement dans votre navigateur ! Vous allez sur vidstudio.app, vous déposez votre vidéo, et tout le traitement se fait ensuite côté client. Les fichiers ne quittent jamais votre machine, ce qui fait que niveau vie privée, ça nous change clairement des éditeurs cloud type Clipchamp ou Canva où une partie du traitement passe par…",
+      "link": "https://korben.info/vidstudio-app-editeur-video-navigateur.html",
+      "pubDate": "2026-04-22T12:15:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vidstudio-app-editeur-video-navigateur/vidstudio-app-editeur-video-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0731977e0a14",
+      "title": "Comment fabriquer son propre soda ?",
+      "description": "Les beaux jours reviennent, et avec eux l'envie d'un soda bien frais ! Sauf qu'au lieu d'alimenter un énième groupe industriel (coucou Coca Cola), vous pouvez maintenant fabriquer le vôtre à la maison. Et blinry , un développeur allemand, l'a bien compris puisqu'il vient de publier sur GitHub ses 6 années de recherches sur le sujet... en CC0, donc dans le domaine public ! A vous votre copie cheap du Bougnat / Breizh Cola ^^",
+      "link": "https://korben.info/diy-soft-drinks-recettes-sodas-maison.html",
+      "pubDate": "2026-04-22T10:27:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/diy-soft-drinks-recettes-sodas-maison/diy-soft-drinks-recettes-sodas-maison-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7b4ff3c5e7ca",
+      "title": "Il charge TOUTES les extensions Firefox dans son navigateur",
+      "description": "Vous vous souvenez du mème \" Oh, tu aimes les extension Firefox ? Alors nomme les toutes ! \" ? Bah Jack s'est dit que plutôt que les nommer, autant toutes les installer. Oui, les 84 194 extensions d'un seul coup ! Sur le papier c'est pas si compliqué. Tu télécharges les .xpi depuis l'API publique Mozilla (aucune authentification requise), tu les colles dans le dossier extensions/ d'un profil Firefox, tu édites extensions.json pour tout activer. Sauf que l'API de recherche plafonne à 600 pages…",
+      "link": "https://korben.info/jack-firefox-toutes-extensions.html",
+      "pubDate": "2026-04-22T10:12:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1e27b296e63e",
+      "title": "WSL9x - Un Linux qui tourne dans un Windows 95",
+      "description": "Un Linux qui tourne dans un Windows 95, vous ne rêvez pas puisqu'un développeur solo du nom de Hailey Somerville, a sorti WSL9x, un \"Windows 9x Subsystem for Linux\" qui pousse encore plus loin la logique de Microsoft avec WSL. Le truc marche avec une simple commande wsl tapée dans le terminal MS-DOS, ce qui ouvre un pseudo-terminal Linux au beau milieu de votre Windows 9x. Pour les couleurs ANSI, il faudra charger un driver comme nnansi.com (c'est pas un nom de domain hein...) avant mais une…",
+      "link": "https://korben.info/wsl9x-linux-dans-windows-95.html",
+      "pubDate": "2026-04-22T09:53:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wsl9x-linux-dans-windows-95/wsl9x-linux-dans-windows-95-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2c695cc518cc",
+      "title": "Chez Meta, les salariés ne veulent pas installer de logger sur leur PC pour entraîner l'IA",
+      "description": "Les salariés de Meta devront bientôt installer un logiciel qui enregistre leurs frappes clavier, les mouvements de souris et des captures d'écran régulières sur leur poste de travail. Le programme s'appelle Model Capability Initiative, et il doit alimenter les futurs modèles d'IA maison capables de faire du travail de bureau en autonomie. L'info a été révélée par The Register cette semaine. Concrètement, l'outil surveille l'activité sur une liste d'applications professionnelles, dont Gmail,…",
+      "link": "https://korben.info/chez-meta-les-salaries-ne-veulent-pas-installer-de-logger-sur-leur-pc-pour-entrainer-lia.html",
+      "pubDate": "2026-04-22T09:16:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7f1437385d5c",
+      "title": "claude-copy - Le copier-coller propre que Claude Code a oublié",
+      "description": "Ah, le presse-papiers et Claude Code... Quelle misère !!! Si vous utilisez l'assistant d'Anthropic dans le terminal, vous connaissez la douleur. Vous copiez 3 lignes pour les coller ailleurs et vous vous retrouvez avec des │ partout, des marges de deux espaces, et des sauts de ligne au milieu des phrases. Un vrai bordel ! Un développeur norvégien, Anders Myrmel, en avait déjà ras-le-bol lui aussi. Du coup il a pondu claude-copy , un script Hammerspoon qui intercepte votre Cmd+C quand vous êtes…",
+      "link": "https://korben.info/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie.html",
+      "pubDate": "2026-04-22T08:08:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie/claude-copy-le-copier-coller-propre-que-claude-code-a-oublie-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8e15ba4d21c5",
+      "title": "Anthropic teste le retrait de Claude Code pour les nouveaux abonnés Pro à 20 dollars",
+      "description": "Environ 2% des nouveaux abonnés Pro d'Anthropic ne peuvent plus utiliser Claude Code, le CLI de codage maison. L'info vient de The Register ce mardi, et l'entreprise parle d'un test A/B temporaire. Sauf que la page tarifaire publique, elle, a bien été modifiée, avec des croix qui remplacent les coches en face de Claude Code sur la ligne Pro à 20 dollars par mois. Le responsable de la croissance chez Anthropic, Amol Avasare, a tenté de calmer le jeu. Dans une réponse publique, il a confirmé…",
+      "link": "https://korben.info/anthropic-teste-le-retrait-de-claude-code-pour-les-nouveaux-abonnes-pro-a-20-dollars.html",
+      "pubDate": "2026-04-22T07:38:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d2217977d43",
+      "title": "Un YouTubeur a peut-être conçu la serrure la plus dure à crocheter qui existe",
+      "description": "La chaîne YouTube Works By Design vient de sortir un projet qui fait pas mal jaser chez les passionnés de crochetage : une serrure dont le cylindre se met littéralement en position fermée après que la clé ait été tournée, rendant l'accès aux goupilles quasi impossible pour n'importe quel individu qui tente de la manipuler sans la bonne clé. Le principe est assez simple. Quand vous glissez la clé dans la serrure, elle se fixe grâce à un système de magnétisme commutable. C'est le genre de…",
+      "link": "https://korben.info/un-youtubeur-a-peut-etre-concu-la-serrure-la-plus-dure-a-crocheter-qui-existe.html",
+      "pubDate": "2026-04-22T06:38:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "523986f04277",
+      "title": "LinuxServer - Les images Docker que votre homelab mérite",
+      "description": "Monter un Jellyfin dans Docker, ça prend 3 minutes. Mais retrouver dans 18 mois une image encore maintenue, c'est plus le même kung fu ! En effet, beaucoup d'images populaires sur Docker Hub ont déjà pris 2 ou 3 ans de retard sur leur app upstream, et quand c'est un mainteneur solo qui a lâché l'affaire à cause d'un burn out, vous vous retrouvez rapidement avec un putain de Dockerfile cassé à débugger un dimanche à 23h. Chouette programme de vie hein ?",
+      "link": "https://korben.info/linuxserver-io-images-docker.html",
+      "pubDate": "2026-04-22T06:37:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/linuxserver-io-images-docker/linuxserver-io-images-docker-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "2b526eecc726",
       "title": "« C'est le comportement attendu » : faille critique et com' désastreuse, la triple faute de Lovable",
       "description": "Lovable, l'étoile montante du vibe coding (vous savez, ces plateformes où vous décrivez une app en langage naturel et une IA vous génère le code), traverse un sale moment. Un chercheur en sécurité, répondant au doux pseudo de @weezerOSINT, a découvert une faille BOLA (Broken Object Level Authorization) qui permettait à n'importe qui de lire les identifiants, les historiques de chat et le code source de tous les projets créés avant novembre 2025 sur la plateforme.",
@@ -33,6 +230,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
       "duration": "57:32"
+    },
+    {
+      "id": "12321c78f00a",
+      "title": "L'IA accélère la valeur et les erreurs",
+      "description": "L’IA permet de livrer plus vite, même parfois beaucoup plus vite. Mais livrer vite, ce n’est pas sans conséquences. Car si l’IA permet d’aller plus vite, elle accentue aussi les erreurs et les problèmes qui vont avec. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Un mauvais choix d’architecture, une logique métier mal comprise, une dette technique ignorée: tout cela va…",
+      "link": "https://www.jdecool.fr/blog/2026/04/22/l-ia-accelere-la-valeur-et-les-erreurs.html",
+      "pubDate": "2026-04-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "122c796fc75a",
+      "title": "Claude just got another superpower...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=jeA-KBv0b68",
+      "pubDate": "2026-04-21T17:35:43.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "07422a1fdbbd",
@@ -808,6 +1035,21 @@
       "pubDate": "2026-04-16T15:59:00.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7424d4818bcc",
+      "title": "Millions of WordPress sites just got hacked... again",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=piah4fV_o2Q",
+      "pubDate": "2026-04-16T15:29:01.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
       "categories": [
         "Programmation",
         "Web"
