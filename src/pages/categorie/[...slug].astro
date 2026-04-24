@@ -74,15 +74,15 @@ for (let i = 1; i <= totalPages; i++) {
     <div class="mb-8">
       <!-- Breadcrumb -->
       <nav aria-label="Fil d'Ariane" class="mb-3">
-        <ol class="flex items-center gap-1.5 text-xs text-zinc-500">
+        <ol class="flex items-center gap-1.5 text-xs text-[var(--color-text-muted)]">
           <li><a href="/" class="hover:text-[var(--color-accent-400)] transition-colors">Accueil</a></li>
-          <li class="text-zinc-700">/</li>
+          <li class="text-[var(--color-text-subtle)]">/</li>
           <li><a href="/categories" class="hover:text-[var(--color-accent-400)] transition-colors">Catégories</a></li>
-          <li class="text-zinc-700">/</li>
-          <li class="text-zinc-400">{category}</li>
+          <li class="text-[var(--color-text-subtle)]">/</li>
+          <li class="text-[var(--color-text-secondary)]">{category}</li>
         </ol>
       </nav>
-      <a href="/categories" class="text-xs text-zinc-500 hover:text-[var(--color-accent-400)] transition-colors mb-3 inline-flex items-center gap-1">
+      <a href="/categories" class="text-xs text-[var(--color-text-muted)] hover:text-[var(--color-accent-400)] transition-colors mb-3 inline-flex items-center gap-1">
         <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
         </svg>
@@ -91,7 +91,7 @@ for (let i = 1; i <= totalPages; i++) {
       <h1 class="text-2xl sm:text-3xl font-bold mb-2 flex items-center gap-3">
         <span class={`px-3 py-1 text-sm font-medium rounded-full border ${getCategoryColor(category)}`}>{category}</span>
       </h1>
-      <p class="text-zinc-400 text-sm">
+      <p class="text-[var(--color-text-secondary)] text-sm">
         {totalArticles} article{totalArticles > 1 ? 's' : ''}
       </p>
     </div>
@@ -103,7 +103,7 @@ for (let i = 1; i <= totalPages; i++) {
     </div>
 
     {articles.length === 0 && (
-      <div class="text-center py-20 text-zinc-500">
+      <div class="text-center py-20 text-[var(--color-text-muted)]">
         <p class="text-lg font-medium">Aucun article pour cette catégorie</p>
       </div>
     )}
@@ -111,19 +111,19 @@ for (let i = 1; i <= totalPages; i++) {
     {totalPages > 1 && (
       <nav aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8">
         {currentPage > 1 && (
-          <a href={pageUrl(currentPage - 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page précédente">←</a>
+          <a href={pageUrl(currentPage - 1)} class="px-3 py-2 text-sm rounded-lg border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-all" aria-label="Page précédente">←</a>
         )}
         {pages.map((p) => (
           p === '...' ? (
-            <span class="px-2 py-2 text-sm text-zinc-600">…</span>
+            <span class="px-2 py-2 text-sm text-[var(--color-text-subtle)]">…</span>
           ) : p === currentPage ? (
             <span class="px-3 py-2 text-sm rounded-lg border font-medium accent-pagination-active" aria-current="page">{p}</span>
           ) : (
-            <a href={pageUrl(p as number)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all">{p}</a>
+            <a href={pageUrl(p as number)} class="px-3 py-2 text-sm rounded-lg border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-all">{p}</a>
           )
         ))}
         {currentPage < totalPages && (
-          <a href={pageUrl(currentPage + 1)} class="px-3 py-2 text-sm rounded-lg border border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600 transition-all" aria-label="Page suivante">→</a>
+          <a href={pageUrl(currentPage + 1)} class="px-3 py-2 text-sm rounded-lg border border-[var(--color-border)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-all" aria-label="Page suivante">→</a>
         )}
       </nav>
     )}

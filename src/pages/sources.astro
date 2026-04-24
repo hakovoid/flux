@@ -10,7 +10,7 @@ const sources = getAllSources(allArticles);
   <div class="fade-in-up">
     <div class="mb-8">
       <h1 class="text-2xl sm:text-3xl font-bold mb-2">Sources</h1>
-      <p class="text-zinc-400 text-sm">
+      <p class="text-[var(--color-text-secondary)] text-sm">
         {sources.length} sources RSS agrégées — {allArticles.length} articles au total
       </p>
     </div>
@@ -18,25 +18,25 @@ const sources = getAllSources(allArticles);
     <!-- Search and sort controls -->
     <div class="mb-6 flex flex-col sm:flex-row gap-3">
       <div class="flex-1">
-        <input 
-          type="search" 
-          id="sources-search" 
-          placeholder="Chercher une source..." 
-          class="w-full px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-accent-500)] focus:border-transparent"
+        <input
+          type="search"
+          id="sources-search"
+          placeholder="Chercher une source..."
+          class="w-full px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] text-[var(--color-text-primary)] text-sm focus:outline-none focus:ring-2 focus:ring-[var(--color-accent-500)] focus:border-transparent"
         />
       </div>
       <div class="flex gap-2">
-        <button 
-          id="sort-name" 
-          data-sort="name" 
-          class="px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm font-medium text-zinc-300 hover:bg-[var(--color-accent)]/15 transition-all"
+        <button
+          id="sort-name"
+          data-sort="name"
+          class="px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] text-sm font-medium text-[var(--color-text-secondary)] hover:bg-[var(--color-accent)]/15 transition-all"
         >
           A-Z
         </button>
-        <button 
-          id="sort-count" 
-          data-sort="count" 
-          class="px-4 py-2.5 rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] text-sm font-medium text-zinc-300 hover:bg-[var(--color-accent)]/15 transition-all"
+        <button
+          id="sort-count"
+          data-sort="count"
+          class="px-4 py-2.5 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] text-sm font-medium text-[var(--color-text-secondary)] hover:bg-[var(--color-accent)]/15 transition-all"
         >
           Plus d'articles
         </button>
@@ -45,15 +45,15 @@ const sources = getAllSources(allArticles);
 
     <div id="sources-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {sources.map((source) => (
-        <a 
-          href={`/source/${source.slug}`} 
-          class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5 flex flex-col gap-3 hover:border-zinc-600 transition-all"
+        <a
+          href={`/source/${source.slug}`}
+          class="card-hover rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-5 flex flex-col gap-3 hover:border-[var(--color-border-strong)] transition-all"
           data-name={source.name.toLowerCase()}
           data-count={source.count}
         >
           <div class="flex items-start justify-between">
             <h3 class="font-semibold text-sm">{source.name}</h3>
-            <span class="text-xs text-zinc-500 bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
+            <span class="text-xs text-[var(--color-text-muted)] bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
               {source.count} articles
             </span>
           </div>
@@ -66,7 +66,7 @@ const sources = getAllSources(allArticles);
             ))}
           </div>
 
-          <span class="text-xs text-zinc-500 truncate mt-auto">
+          <span class="text-xs text-[var(--color-text-muted)] truncate mt-auto">
             Voir tous les articles →
           </span>
         </a>
@@ -74,13 +74,13 @@ const sources = getAllSources(allArticles);
     </div>
 
     <!-- No results message -->
-    <div id="no-results" class="hidden text-center py-20 text-zinc-500">
+    <div id="no-results" class="hidden text-center py-20 text-[var(--color-text-muted)]">
       <p class="text-lg font-medium">Aucune source trouvée</p>
       <p class="text-sm mt-1">Aucune source ne correspond à votre recherche.</p>
     </div>
 
     {sources.length === 0 && (
-      <div class="text-center py-20 text-zinc-500">
+      <div class="text-center py-20 text-[var(--color-text-muted)]">
         <p class="text-lg font-medium">Aucune source configurée</p>
         <p class="text-sm mt-1">Ajoutez des flux RSS dans le fichier feeds.yaml.</p>
       </div>

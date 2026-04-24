@@ -22,14 +22,14 @@ const categoryStats = categories.map((cat) => {
   <div class="fade-in-up">
     <div class="mb-8">
       <h1 class="text-2xl sm:text-3xl font-bold mb-2">Catégories</h1>
-      <p class="text-zinc-400 text-sm">
+      <p class="text-[var(--color-text-secondary)] text-sm">
         {categories.length} catégories — {allArticles.length} articles au total
       </p>
     </div>
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {categoryStats.map((cat) => (
-        <a href={`/categorie/${cat.slug}`} class="card-hover rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden hover:border-zinc-600 transition-all flex flex-col">
+        <a href={`/categorie/${cat.slug}`} class="card-hover rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden hover:border-[var(--color-border-strong)] transition-all flex flex-col">
           <div class={`h-2 bg-gradient-to-r ${cat.gradient}`}></div>
           <div class="p-5 flex flex-col gap-3 flex-1">
             <div class="flex items-start justify-between">
@@ -38,14 +38,14 @@ const categoryStats = categories.map((cat) => {
                   {cat.name}
                 </span>
               </h3>
-              <span class="text-xs text-zinc-500 bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
+              <span class="text-xs text-[var(--color-text-muted)] bg-[var(--color-surface-2)] px-2 py-0.5 rounded-full">
                 {cat.count} articles
               </span>
             </div>
-            <p class="text-xs text-zinc-500">
+            <p class="text-xs text-[var(--color-text-muted)]">
               {cat.sourceCount} source{cat.sourceCount > 1 ? 's' : ''}
             </p>
-            <span class="text-xs text-zinc-500 mt-auto">
+            <span class="text-xs text-[var(--color-text-muted)] mt-auto">
               Voir tous les articles →
             </span>
           </div>

@@ -15,7 +15,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
   <div class="fade-in-up">
     <div class="mb-8">
       <h1 class="text-2xl sm:text-3xl font-bold mb-2">À lire plus tard</h1>
-      <p class="text-zinc-400 text-sm">
+      <p class="text-[var(--color-text-muted)] text-sm">
         Articles mis de côté pour plus tard. Ces articles sont stockés localement dans votre navigateur.
       </p>
     </div>
@@ -23,14 +23,14 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
     <!-- Read later list container -->
     <div id="read-later-container" class="flex flex-col gap-3">
       <!-- Will be populated by client-side JavaScript -->
-      <div id="read-later-placeholder" class="text-center py-20 text-zinc-500">
+      <div id="read-later-placeholder" class="text-center py-20 text-[var(--color-text-subtle)]">
         <p class="text-lg font-medium">Chargement des articles...</p>
       </div>
     </div>
 
     <!-- Empty state -->
-    <div id="read-later-empty" class="hidden text-center py-20 text-zinc-500">
-      <svg class="w-12 h-12 mx-auto mb-4 text-zinc-700" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+    <div id="read-later-empty" class="hidden text-center py-20 text-[var(--color-text-subtle)]">
+      <svg class="w-12 h-12 mx-auto mb-4 text-[var(--color-border-strong)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
       </svg>
       <p class="text-lg font-medium">Aucun article à lire plus tard</p>
@@ -125,7 +125,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
       
       return `
         <article
-          class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3 relative"
+          class="card-hover group rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3 relative"
           data-article-id="${article.id}"
         >
           <a href="/article/${article.id}" class="block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
@@ -156,7 +156,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
               </a>
             </h3>
             
-            <div class="flex items-center gap-2 text-xs text-zinc-400 mt-1 flex-wrap">
+            <div class="flex items-center gap-2 text-xs text-[var(--color-text-muted)] mt-1 flex-wrap">
               <span>${article.source}</span>
               <span>•</span>
               <time datetime="${article.pubDate}">${new Date(article.pubDate).toLocaleDateString('fr-FR', {
@@ -172,7 +172,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
               ${article.categories
                 .map(
                   (cat) => 
-                    `<span class="px-1.5 py-0.5 text-[0.65rem] font-medium rounded-full border bg-zinc-500/20 text-zinc-400 border-zinc-500/30 hover:opacity-80 transition-opacity">${cat}</span>`
+                    `<span class="px-1.5 py-0.5 text-[0.65rem] font-medium rounded-full border bg-[var(--color-surface-2)] text-[var(--color-text-muted)] border-[var(--color-border)] hover:opacity-80 transition-opacity">${cat}</span>`
                 )
                 .join('')}
             </div>
@@ -183,7 +183,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
             data-mark-as-read
             data-article-id="${article.id}"
             aria-label="Marquer comme lu"
-            class="absolute bottom-3 right-3 px-3 py-1.5 text-xs rounded-lg bg-zinc-800 hover:bg-zinc-700 text-zinc-300 transition-colors"
+            class="absolute bottom-3 right-3 px-3 py-1.5 text-xs rounded-lg bg-[var(--color-surface-2)] hover:bg-[var(--color-surface-3)] text-[var(--color-text-secondary)] transition-colors"
           >
             Marquer lu
           </button>

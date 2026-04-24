@@ -3,15 +3,83 @@
 @theme {
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  /* Surfaces */
   --color-surface-0: #09090b;
   --color-surface-1: #18181b;
   --color-surface-2: #27272a;
   --color-surface-3: #3f3f46;
+  /* Texte */
+  --color-text-primary: #fafafa;
+  --color-text-secondary: #a1a1aa;
+  --color-text-muted: #71717a;
+  --color-text-subtle: #52525b;
+  /* Bordures */
+  --color-border: #27272a;
+  --color-border-strong: #3f3f46;
+  /* Surfaces spéciales */
+  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-overlay: rgba(0, 0, 0, 0.5);
+  /* Badges (couleurs réutilisables, adaptables par thème) */
+  --color-success-bg: rgba(16, 185, 129, 0.2);
+  --color-success-text: #34d399;
+  --color-success-border: rgba(16, 185, 129, 0.3);
+  --color-info-bg: rgba(59, 130, 246, 0.2);
+  --color-info-text: #60a5fa;
+  --color-info-border: rgba(59, 130, 246, 0.3);
+}
+
+:root[data-theme="dark"] {
+  --color-surface-0: #09090b;
+  --color-surface-1: #18181b;
+  --color-surface-2: #27272a;
+  --color-surface-3: #3f3f46;
+  --color-text-primary: #fafafa;
+  --color-text-secondary: #a1a1aa;
+  --color-text-muted: #71717a;
+  --color-text-subtle: #52525b;
+  --color-border: #27272a;
+  --color-border-strong: #3f3f46;
+  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-overlay: rgba(0, 0, 0, 0.5);
+  --color-success-bg: rgba(16, 185, 129, 0.2);
+  --color-success-text: #34d399;
+  --color-success-border: rgba(16, 185, 129, 0.3);
+  --color-info-bg: rgba(59, 130, 246, 0.2);
+  --color-info-text: #60a5fa;
+  --color-info-border: rgba(59, 130, 246, 0.3);
+}
+
+:root[data-theme="light"] {
+  --color-surface-0: #ffffff;
+  --color-surface-1: #f4f4f5;
+  --color-surface-2: #e4e4e7;
+  --color-surface-3: #d4d4d8;
+  --color-text-primary: #18181b;
+  --color-text-secondary: #52525b;
+  --color-text-muted: #71717a;
+  --color-text-subtle: #a1a1aa;
+  --color-border: #e4e4e7;
+  --color-border-strong: #d4d4d8;
+  --color-surface-glass: rgba(255, 255, 255, 0.85);
+  --color-surface-overlay: rgba(255, 255, 255, 0.6);
+  --color-success-bg: rgba(5, 150, 105, 0.12);
+  --color-success-text: #047857;
+  --color-success-border: rgba(5, 150, 105, 0.3);
+  --color-info-bg: rgba(37, 99, 235, 0.12);
+  --color-info-text: #1d4ed8;
+  --color-info-border: rgba(37, 99, 235, 0.3);
 }
 
 html {
   scroll-behavior: smooth;
+}
+
+:root[data-theme="dark"] {
   color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
 }
 
 /* View mode styling - hide/show elements based on data-view-mode attribute */
@@ -20,9 +88,23 @@ html[data-view-mode="list"] [data-view-mode="cards"] {
   display: none;
 }
 
+/* Theme toggle icon swap */
+:root[data-theme="dark"] .theme-icon-sun {
+  display: inline-block;
+}
+:root[data-theme="dark"] .theme-icon-moon {
+  display: none;
+}
+:root[data-theme="light"] .theme-icon-sun {
+  display: none;
+}
+:root[data-theme="light"] .theme-icon-moon {
+  display: inline-block;
+}
+
 body {
   background-color: var(--color-surface-0);
-  color: #fafafa;
+  color: var(--color-text-primary);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -113,4 +195,27 @@ body {
 .accent-selected {
   background-color: var(--color-accent-500);
   border-color: var(--color-accent-500);
+}
+
+/* Mode clair : teintes accent plus foncées pour WCAG AA sur fond clair */
+:root[data-theme="light"] .accent-filter-active {
+  color: var(--color-accent-600);
+  background-color: color-mix(in srgb, var(--color-accent-500) 12%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent-500) 45%, transparent);
+}
+
+:root[data-theme="light"] .accent-pagination-active {
+  color: var(--color-accent-600);
+}
+
+/* Filtres & boutons inactifs (pill / select) */
+.filter-btn-inactive {
+  background-color: color-mix(in srgb, var(--color-surface-2) 60%, transparent);
+  color: var(--color-text-secondary);
+  border-color: color-mix(in srgb, var(--color-border-strong) 50%, transparent);
+}
+.filter-btn-inactive:hover {
+  background-color: var(--color-surface-2);
+  color: var(--color-text-primary);
+  border-color: var(--color-border-strong);
 }
