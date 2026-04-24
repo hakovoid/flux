@@ -10,6 +10,9 @@ const FEEDS_FILE = 'feeds.yaml';
 const MAX_RETRIES = 2;
 const RETRY_DELAY = 1000;
 const CONCURRENCY = 5;
+const OG_IMAGE_TIMEOUT = 5000;
+const OG_IMAGE_CONCURRENCY = 8;
+const OG_IMAGE_MAX_BYTES = 64 * 1024;
 const MIN_DATE = new Date('2026-01-01T00:00:00Z');
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || '';
 const USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
@@ -52,6 +55,76 @@ function resolveUrl(url: string, baseUrl: string): string {
   } catch {
     return url;
   }
+}
+
+async function fetchOgImage(articleUrl: string): Promise<string | null> {
+  try {
+    const response = await fetch(articleUrl, {
+      signal: AbortSignal.timeout(OG_IMAGE_TIMEOUT),
+      headers: BROWSER_HEADERS,
+      redirect: 'follow',
+    });
+    if (!response.ok || !response.body) return null;
+
+    const reader = response.body.getReader();
+    const chunks: Uint8Array[] = [];
+    let bytesRead = 0;
+    while (bytesRead < OG_IMAGE_MAX_BYTES) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      if (value) {
+        chunks.push(value);
+        bytesRead += value.byteLength;
+      }
+    }
+    try { await reader.cancel(); } catch {}
+
+    const buffer = new Uint8Array(bytesRead);
+    let offset = 0;
+    for (const chunk of chunks) {
+      buffer.set(chunk, offset);
+      offset += chunk.byteLength;
+    }
+    const html = new TextDecoder('utf-8', { fatal: false }).decode(buffer);
+
+    const ogMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+      || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+    if (ogMatch) return resolveUrl(ogMatch[1], articleUrl);
+
+    const twitterMatch = html.match(/<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i)
+      || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["']/i);
+    if (twitterMatch) return resolveUrl(twitterMatch[1], articleUrl);
+
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+async function enrichWithOgImages(articles: Article[]): Promise<{ resolved: number; failed: number }> {
+  const targets = articles.filter((a) => a.image === null && a.type !== 'youtube');
+  if (targets.length === 0) return { resolved: 0, failed: 0 };
+
+  console.log(`🖼  Résolution og:image pour ${targets.length} article(s) sans image...`);
+  let resolved = 0;
+  let failed = 0;
+
+  for (let i = 0; i < targets.length; i += OG_IMAGE_CONCURRENCY) {
+    const batch = targets.slice(i, i + OG_IMAGE_CONCURRENCY);
+    const results = await Promise.all(batch.map((a) => fetchOgImage(a.link)));
+    batch.forEach((article, idx) => {
+      const url = results[idx];
+      if (url) {
+        article.image = url;
+        resolved++;
+      } else {
+        failed++;
+      }
+    });
+  }
+
+  console.log(`  → ${resolved} résolu(s), ${failed} échec(s)`);
+  return { resolved, failed };
 }
 
 function extractImage(item: RSSParser.Item, feedLink: string, isPodcast = false): string | null {
@@ -289,6 +362,7 @@ async function processCollection(label: string, feeds: FeedsConfig['feeds'], dat
   }
 
   let newCount = 0;
+  const newArticles: Article[] = [];
 
   for (let i = 0; i < feeds.length; i += CONCURRENCY) {
     const batch = feeds.slice(i, i + CONCURRENCY);
@@ -303,10 +377,13 @@ async function processCollection(label: string, feeds: FeedsConfig['feeds'], dat
         }
         existingData.get(monthKey)!.articles.push(article);
         existingIds.add(article.id);
+        newArticles.push(article);
         newCount++;
       }
     }
   }
+
+  await enrichWithOgImages(newArticles);
 
   for (const [monthKey, monthData] of existingData) {
     monthData.articles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
