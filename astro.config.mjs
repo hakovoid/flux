@@ -9,7 +9,7 @@ if (env.FLUX_ACCENT) process.env.FLUX_ACCENT = env.FLUX_ACCENT;
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://flux.yoandev.co',
+  site: 'https://hakovoid-flux.netlify.app',
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport',

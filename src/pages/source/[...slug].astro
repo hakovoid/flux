@@ -55,17 +55,17 @@ for (let i = 1; i <= totalPages; i++) {
     "@type": "CollectionPage",
     "name": `${source.name} — Flux`,
     "description": `${totalArticles} articles de ${source.name} agrégés par Flux — Veille technologique francophone.`,
-    "url": `https://flux.yoandev.co/source/${source.slug}/`,
+    "url": `https://hakovoid-flux.netlify.app/source/${source.slug}/`,
     "numberOfItems": totalArticles,
     "inLanguage": "fr",
-    "isPartOf": { "@type": "WebSite", "name": "Flux — Veille technologique", "url": "https://flux.yoandev.co" },
+    "isPartOf": { "@type": "WebSite", "name": "Flux — Veille technologique", "url": "https://hakovoid-flux.netlify.app" },
   })} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://flux.yoandev.co/" },
-      { "@type": "ListItem", "position": 2, "name": "Sources", "item": "https://flux.yoandev.co/sources/" },
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://hakovoid-flux.netlify.app/" },
+      { "@type": "ListItem", "position": 2, "name": "Sources", "item": "https://hakovoid-flux.netlify.app/sources/" },
       { "@type": "ListItem", "position": 3, "name": source.name },
     ]
   })} />

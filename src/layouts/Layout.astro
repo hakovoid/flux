@@ -16,7 +16,7 @@ interface Props {
 
 const { title, description = 'Agrégateur de veille technologique — Les derniers articles tech, IA, DevOps, Cloud et Cybersécurité.', image, canonicalOverride, noindex = false } = Astro.props;
 const canonicalURL = canonicalOverride || new URL(Astro.url.pathname, Astro.site).toString();
-const ogImage = image || 'https://flux.yoandev.co/og.webp';
+const ogImage = image || 'https://hakovoid-flux.netlify.app/og.webp';
 
 const accentName = ((process.env.FLUX_ACCENT as string) || 'indigo') as AccentName;
 const p = palettes[accentName] ?? palettes.indigo;
@@ -96,7 +96,7 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
       "@context": "https://schema.org",
       "@type": "WebSite",
       "name": "Flux — Veille technologique",
-      "url": "https://flux.yoandev.co",
+      "url": "https://hakovoid-flux.netlify.app",
       "description": "Agrégateur de veille technologique francophone — Articles, podcasts et vidéos sur la programmation, l'IA, le DevOps, le Cloud et la cybersécurité.",
       "inLanguage": "fr",
       "publisher": {
