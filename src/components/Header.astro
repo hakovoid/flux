@@ -338,14 +338,8 @@ const moreActive = moreNav.some((i) => isActive(i.href));
       });
     }
 
-    // Command palette buttons
-    const openPalette = () => {
-      const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
-      if (dialog && typeof dialog.showModal === 'function' && !dialog.open) {
-        dialog.showModal();
-        dialog.dispatchEvent(new CustomEvent('cp:open'));
-      }
-    };
+    // Command palette buttons → delegate to the palette's own opener
+    const openPalette = () => (window as any).__openCommandPalette?.();
     document.getElementById('open-command-palette')?.addEventListener('click', openPalette);
     document.getElementById('open-command-palette-mobile')?.addEventListener('click', openPalette);
 

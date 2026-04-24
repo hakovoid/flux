@@ -184,14 +184,13 @@
       }
     });
 
-    // Click on backdrop closes
+    // Click on backdrop closes (e.target === dialog when click is on the ::backdrop pseudo-element).
+    // Using e.target identity instead of getBoundingClientRect avoids closing the dialog when
+    // the click that opened it bubbles up to document.
     document.addEventListener('click', (e) => {
       const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
       if (!dialog?.open) return;
-      const rect = dialog.getBoundingClientRect();
-      const inside = e.clientX >= rect.left && e.clientX <= rect.right
-        && e.clientY >= rect.top && e.clientY <= rect.bottom;
-      if (!inside) closePalette();
+      if (e.target === dialog) closePalette();
     });
   }
 
