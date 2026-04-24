@@ -20,7 +20,7 @@ const badge = getFreshnessBadge(article.pubDate);
   data-description={article.description}
 >
   <!-- Image -->
-  <a href={`/article/${article.id}`} class="block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
+  <a href={`/article/${article.id}`} class="relative block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
     {article.image ? (
       <img
         src={article.image}
