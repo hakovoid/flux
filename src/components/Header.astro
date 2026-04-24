@@ -20,22 +20,44 @@ const buildDate = new Date().toLocaleDateString('fr-FR', {
   minute: '2-digit',
 });
 
-const navItems = [
+const pathname = Astro.url.pathname;
+
+function isActive(href: string): boolean {
+  if (href === '/') {
+    return pathname === '/' || pathname.startsWith('/page/');
+  }
+  if (href === '/world') {
+    return pathname === '/world' || pathname.startsWith('/world/');
+  }
+  return pathname === href || pathname.startsWith(href + '/');
+}
+
+const primaryNav = [
   { label: 'Articles', href: '/' },
   { label: 'World', href: '/world' },
+];
+
+const moreNav = [
   { label: 'Sources', href: '/sources' },
-  { label: 'Favoris', href: '/favoris' },
-  { label: 'À lire plus tard', href: '/a-lire-plus-tard' },
   { label: 'Newsletter', href: '/newsletter' },
   { label: 'À propos', href: '/a-propos' },
 ];
+
+const mobileNav = [
+  ...primaryNav,
+  { label: 'Favoris', href: '/favoris' },
+  { label: 'À lire plus tard', href: '/a-lire-plus-tard' },
+  ...moreNav,
+];
+
+const moreActive = moreNav.some((i) => isActive(i.href));
 ---
 
 <header class="sticky top-0 z-50 bg-[var(--color-surface-glass)] backdrop-blur-xl border-b border-[var(--color-border)]">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
-      <a href="/" class="flex items-center gap-3 group">
+      <a href="/" class="flex items-center gap-3 group shrink-0">
         <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-[var(--color-accent-from)] to-[var(--color-accent-to)] flex items-center justify-center shadow-lg shadow-[var(--color-accent-glow)] group-hover:shadow-[var(--color-accent-glow)] transition-shadow">
           <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
         </div>
@@ -43,43 +65,110 @@ const navItems = [
       </a>
 
       <!-- Desktop nav -->
-      <nav class="hidden md:flex items-center gap-6">
-        {navItems.map((item) => (
+      <nav class="hidden md:flex items-center gap-5">
+        {primaryNav.map((item) => (
           <a
             href={item.href}
-            class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors flex items-center gap-1"
+            class:list={[
+              'text-sm transition-colors',
+              isActive(item.href)
+                ? 'text-[var(--color-accent-400)] font-medium'
+                : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)]',
+            ]}
           >
             {item.label}
-            {item.href === '/favoris' && (
-              <span
-                data-favorites-count
-                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
-              >
-                0
-              </span>
-            )}
-            {item.href === '/a-lire-plus-tard' && (
-              <span
-                data-read-later-count
-                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full"
-                style="background-color: var(--color-info-bg); color: var(--color-info-text);"
-              >
-                0
-              </span>
-            )}
           </a>
         ))}
-        <!-- Stats -->
-        <div class="hidden lg:flex items-center gap-3 text-xs text-[var(--color-text-muted)] border-l border-[var(--color-border)] pl-6">
+
+        <!-- Favoris (icon) -->
+        <a
+          href="/favoris"
+          aria-label="Favoris"
+          title="Favoris"
+          class:list={[
+            'relative transition-colors',
+            isActive('/favoris')
+              ? 'text-[var(--color-accent-400)]'
+              : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)]',
+          ]}
+        >
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12z" />
+          </svg>
+          <span
+            data-favorites-count
+            class="hidden absolute -top-1.5 -right-2 min-w-[18px] h-[18px] px-1 text-[10px] font-medium rounded-full bg-[var(--color-accent-500)] text-white items-center justify-center leading-none"
+          >0</span>
+        </a>
+
+        <!-- À lire plus tard (icon) -->
+        <a
+          href="/a-lire-plus-tard"
+          aria-label="À lire plus tard"
+          title="À lire plus tard"
+          class:list={[
+            'relative transition-colors',
+            isActive('/a-lire-plus-tard')
+              ? 'text-[var(--color-accent-400)]'
+              : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)]',
+          ]}
+        >
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+          </svg>
+          <span
+            data-read-later-count
+            class="hidden absolute -top-1.5 -right-2 min-w-[18px] h-[18px] px-1 text-[10px] font-medium rounded-full items-center justify-center leading-none text-white"
+            style="background-color: var(--color-info-text);"
+          >0</span>
+        </a>
+
+        <!-- Plus menu -->
+        <details class="relative" id="more-menu">
+          <summary
+            class:list={[
+              'transition-colors flex items-center',
+              moreActive
+                ? 'text-[var(--color-accent-400)]'
+                : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)]',
+            ]}
+            aria-label="Plus"
+            title="Plus"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 12a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM12.75 12a.75.75 0 11-1.5 0 .75.75 0 011.5 0zM18.75 12a.75.75 0 11-1.5 0 .75.75 0 011.5 0z" />
+            </svg>
+          </summary>
+          <div class="absolute right-0 top-full mt-2 w-48 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] shadow-lg p-1 z-50">
+            {moreNav.map((item) => (
+              <a
+                href={item.href}
+                class:list={[
+                  'block px-3 py-2 rounded-lg text-sm transition-colors',
+                  isActive(item.href)
+                    ? 'text-[var(--color-accent-400)] font-medium bg-[var(--color-surface-2)]'
+                    : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-surface-2)]',
+                ]}
+              >
+                {item.label}
+              </a>
+            ))}
+          </div>
+        </details>
+
+        <!-- Stats compactes -->
+        <div class="flex items-center gap-2 text-xs text-[var(--color-text-muted)] border-l border-[var(--color-border)] pl-4 ml-1" title={`MàJ ${buildDate}`}>
           <span class="flex items-center gap-1.5">
             <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-            {articleCount} articles
+            {articleCount}
           </span>
-          <span>·</span>
-          <span>{sourceCount} sources</span>
-          <span>·</span>
-          <span title="Dernière actualisation">MàJ {buildDate}</span>
+          <span>articles</span>
+          <span class="hidden lg:inline">·</span>
+          <span class="hidden lg:inline">{sourceCount} sources</span>
+          <span class="hidden xl:inline">·</span>
+          <span class="hidden xl:inline">MàJ {buildDate}</span>
         </div>
+
         <!-- Theme toggle -->
         <button
           id="theme-toggle"
@@ -95,6 +184,7 @@ const navItems = [
             <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"/>
           </svg>
         </button>
+
         <!-- GitHub -->
         <a href="https://github.com/hakovoid/flux" target="_blank" rel="noopener noreferrer" class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors" aria-label="GitHub" title="Voir le code source">
           <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
@@ -134,28 +224,29 @@ const navItems = [
   <!-- Mobile menu -->
   <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)] bg-[var(--color-surface-glass)] backdrop-blur-xl">
     <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1">
-      {navItems.map((item) => (
+      {mobileNav.map((item) => (
         <a
           href={item.href}
-          class="px-3 py-2.5 rounded-lg text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-surface-2)] transition-colors flex items-center gap-1"
+          class:list={[
+            'px-3 py-2.5 rounded-lg text-sm transition-colors flex items-center justify-between',
+            isActive(item.href)
+              ? 'text-[var(--color-accent-400)] font-medium bg-[var(--color-surface-2)]'
+              : 'text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-surface-2)]',
+          ]}
         >
-          {item.label}
+          <span>{item.label}</span>
           {item.href === '/favoris' && (
             <span
               data-favorites-count
               class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
-            >
-              0
-            </span>
+            >0</span>
           )}
           {item.href === '/a-lire-plus-tard' && (
             <span
               data-read-later-count
               class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full"
               style="background-color: var(--color-info-bg); color: var(--color-info-text);"
-            >
-              0
-            </span>
+            >0</span>
           )}
         </a>
       ))}
@@ -179,7 +270,7 @@ const navItems = [
     const closeIcon = document.getElementById('close-icon');
 
     // Theme toggle (desktop + mobile)
-    const themeButtons = [document.getElementById('theme-toggle'), document.getElementById('theme-toggle-mobile')].filter(Boolean);
+    const themeButtons = [document.getElementById('theme-toggle'), document.getElementById('theme-toggle-mobile')].filter(Boolean) as HTMLButtonElement[];
     themeButtons.forEach((themeBtn) => {
       themeBtn.addEventListener('click', () => {
         try {
@@ -196,47 +287,65 @@ const navItems = [
       themeBtn.setAttribute('aria-pressed', String(document.documentElement.dataset.theme === 'light'));
     });
 
-    if (!btn || !menu || !burgerIcon || !closeIcon) return;
-
-    btn.addEventListener('click', () => {
-      const open = menu.classList.toggle('hidden');
-      burgerIcon.classList.toggle('hidden', !open);
-      closeIcon.classList.toggle('hidden', open);
-      btn.setAttribute('aria-expanded', String(!open));
-    });
-
-    // Close on nav click
-    menu.querySelectorAll('a').forEach((link) => {
-      link.addEventListener('click', () => {
-        menu.classList.add('hidden');
-        burgerIcon.classList.remove('hidden');
-        closeIcon.classList.add('hidden');
-        btn.setAttribute('aria-expanded', 'false');
+    // Burger menu
+    if (btn && menu && burgerIcon && closeIcon) {
+      btn.addEventListener('click', () => {
+        const open = menu.classList.toggle('hidden');
+        burgerIcon.classList.toggle('hidden', !open);
+        closeIcon.classList.toggle('hidden', open);
+        btn.setAttribute('aria-expanded', String(!open));
       });
-    });
-    
+
+      menu.querySelectorAll('a').forEach((link) => {
+        link.addEventListener('click', () => {
+          menu.classList.add('hidden');
+          burgerIcon.classList.remove('hidden');
+          closeIcon.classList.add('hidden');
+          btn.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+
+    // "Plus" menu: close on outside click and on link click
+    const moreMenu = document.getElementById('more-menu') as HTMLDetailsElement | null;
+    if (moreMenu) {
+      moreMenu.querySelectorAll('a').forEach((link) => {
+        link.addEventListener('click', () => { moreMenu.open = false; });
+      });
+    }
+
     // Update favorites counter
     try {
       const favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
-      const counterElements = document.querySelectorAll('[data-favorites-count]');
-      counterElements.forEach(el => {
-        el.textContent = favorites.length.toString();
-        el.style.display = favorites.length > 0 ? 'inline-flex' : 'none';
+      document.querySelectorAll('[data-favorites-count]').forEach((el) => {
+        (el as HTMLElement).textContent = favorites.length.toString();
+        (el as HTMLElement).style.display = favorites.length > 0 ? 'inline-flex' : 'none';
       });
     } catch (e) {
       // Ignore localStorage errors
     }
-    
+
     // Update read later counter
     try {
       const readLaterItems = JSON.parse(localStorage.getItem('flux-read-later') || '[]');
-      const counterElements = document.querySelectorAll('[data-read-later-count]');
-      counterElements.forEach(el => {
-        el.textContent = Array.isArray(readLaterItems) ? readLaterItems.length.toString() : '0';
-        el.style.display = Array.isArray(readLaterItems) && readLaterItems.length > 0 ? 'inline-flex' : 'none';
+      document.querySelectorAll('[data-read-later-count]').forEach((el) => {
+        const n = Array.isArray(readLaterItems) ? readLaterItems.length : 0;
+        (el as HTMLElement).textContent = n.toString();
+        (el as HTMLElement).style.display = n > 0 ? 'inline-flex' : 'none';
       });
     } catch (e) {
       // Ignore localStorage errors
     }
   });
+
+  // Bind once at module load: close <details id="more-menu"> on outside click
+  if (!(window as any).__moreMenuBound) {
+    (window as any).__moreMenuBound = true;
+    document.addEventListener('click', (e) => {
+      const moreMenu = document.getElementById('more-menu') as HTMLDetailsElement | null;
+      if (moreMenu && moreMenu.open && !moreMenu.contains(e.target as Node)) {
+        moreMenu.open = false;
+      }
+    });
+  }
 </script>
