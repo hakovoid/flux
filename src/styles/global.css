@@ -84,7 +84,11 @@ html {
 
 /* View mode styling - hide/show elements based on data-view-mode attribute */
 html[data-view-mode="cards"] [data-view-mode="list"],
-html[data-view-mode="list"] [data-view-mode="cards"] {
+html[data-view-mode="cards"] [data-view-mode="compact"],
+html[data-view-mode="list"] [data-view-mode="cards"],
+html[data-view-mode="list"] [data-view-mode="compact"],
+html[data-view-mode="compact"] [data-view-mode="cards"],
+html[data-view-mode="compact"] [data-view-mode="list"] {
   display: none;
 }
 
