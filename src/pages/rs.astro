@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { loadAllArticles, loadWorldArticles } from '../utils/articles';
 
 const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
-const siteUrl = 'https://flux.yoandev.co';
+const siteUrl = 'https://hakovoid-flux.netlify.app';
 ---
 
 <Layout title="Thread Twitter / LinkedIn" description="Generez des threads pour partager votre veille tech." noindex>
@@ -126,7 +126,7 @@ const siteUrl = 'https://flux.yoandev.co';
   </div>
 </Layout>
 
-<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://flux.yoandev.co' }}>
+<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://hakovoid-flux.netlify.app' }}>
   const allArticles = JSON.parse(articlesJson);
   let visibleArticles = [];
   let currentDays = 1;

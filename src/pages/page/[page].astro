@@ -27,7 +27,7 @@ export function getStaticPaths() {
 const { articles, currentPage, totalPages, categories, sources, types } = Astro.props;
 ---
 
-<Layout title={`Veille technologique - Page ${currentPage}`} image="https://flux.yoandev.co/og.webp">
+<Layout title={`Veille technologique - Page ${currentPage}`} image="https://hakovoid-flux.netlify.app/og.webp">
   <ArticleListPage
     articles={articles}
     categories={categories}
