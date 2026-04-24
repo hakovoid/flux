@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import ArticleListItem from '../components/ArticleListItem.astro';
 import { loadAllArticles, loadWorldArticles } from '../utils/articles';
 
 // Load all articles at build time
@@ -8,6 +7,8 @@ const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
 
 // Sort by date, newest first
 allArticles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+
+const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
 ---
 
 <Layout title="Favoris" description="Vos articles favoris." noindex>
@@ -38,9 +39,7 @@ allArticles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).g
   </div>
 
   <!-- Preloaded articles index for client-side filtering -->
-  <script type="application/json" id="articles-index">
-    {JSON.stringify(allArticles)}
-  </script>
+  <script type="application/json" id="articles-index" is:inline set:html={articlesJson} />
 
   <script>
     document.addEventListener('astro:page-load', () => {
