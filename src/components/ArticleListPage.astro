@@ -139,14 +139,14 @@ for (let i = 1; i <= totalPages; i++) {
   <!-- Browse mode: static articles -->
   <div id="browse-mode">
     <!-- Cards view -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 data-[view-mode=list]:hidden" data-view-mode>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4" data-view-mode="cards">
       {articles.map((article, i) => (
         <ArticleCard article={article} eager={i === 0} />
       ))}
     </div>
-    
+
     <!-- List view -->
-    <div class="flex flex-col gap-3 data-[view-mode=cards]:hidden" data-view-mode>
+    <div class="flex flex-col gap-3" data-view-mode="list">
       {articles.map((article, i) => (
         <ArticleListItem article={article} eager={i === 0} />
       ))}
@@ -186,9 +186,9 @@ for (let i = 1; i <= totalPages; i++) {
   <!-- Search/filter mode (hidden by default) -->
   <div id="search-mode" class="hidden">
     <!-- Cards view -->
-    <div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 data-[view-mode=list]:hidden" data-view-mode></div>
+    <div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4" data-view-mode="cards"></div>
     <!-- List view -->
-    <div id="search-results-list" class="flex flex-col gap-3 data-[view-mode=cards]:hidden" data-view-mode></div>
+    <div id="search-results-list" class="flex flex-col gap-3" data-view-mode="list"></div>
     <nav id="search-pagination" aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8"></nav>
   </div>
 
