@@ -101,7 +101,7 @@ const articlesJson = JSON.stringify(allArticles).replace(/</g, '\\u003c');
       
       return `
         <article
-          class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
+          class="card-hover group relative rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
           data-article-id="${article.id}"
         >
           <a href="/article/${article.id}" class="block w-16 h-16 flex-shrink-0 overflow-hidden rounded-lg">
