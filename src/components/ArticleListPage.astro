@@ -62,7 +62,8 @@ for (let i = 1; i <= totalPages; i++) {
         id="toggle-filters"
         aria-label="Afficher les filtres"
         aria-expanded="false"
-        class="sm:hidden flex items-center justify-center w-11 h-11 rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-1)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-all cursor-pointer shrink-0"
+        aria-controls="filters-panel"
+        class="flex items-center justify-center w-11 h-11 rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-1)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-all cursor-pointer shrink-0"
       >
         <svg id="filter-icon-closed" class="w-[18px] h-[18px]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 6h9.75M10.5 6a1.5 1.5 0 11-3 0m3 0a1.5 1.5 0 10-3 0M3.75 6H7.5m3 12h9.75m-9.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-3.75 0H7.5m9-6h3.75m-3.75 0a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m-9.75 0h9.75" />
@@ -113,21 +114,35 @@ for (let i = 1; i <= totalPages; i++) {
       };
     }
     
-    // Filter toggle click handler
+    // Filter panel: persisted open/closed state, default open on desktop / closed on mobile
+    var FILTERS_OPEN_KEY = 'flux-filters-open';
+    function setFiltersOpen(open) {
+      if (!filterPanel) return;
+      if (open) {
+        filterPanel.classList.remove('hidden');
+        filterPanel.classList.add('sm:block');
+        if (filterIconClosed) filterIconClosed.classList.add('hidden');
+        if (filterIconOpen) filterIconOpen.classList.remove('hidden');
+        if (filterToggle) filterToggle.setAttribute('aria-expanded', 'true');
+      } else {
+        filterPanel.classList.add('hidden');
+        filterPanel.classList.remove('sm:block');
+        if (filterIconClosed) filterIconClosed.classList.remove('hidden');
+        if (filterIconOpen) filterIconOpen.classList.add('hidden');
+        if (filterToggle) filterToggle.setAttribute('aria-expanded', 'false');
+      }
+    }
+
+    var savedFiltersState = localStorage.getItem(FILTERS_OPEN_KEY);
+    var filtersInitiallyOpen = savedFiltersState === 'true'
+      || (savedFiltersState === null && window.matchMedia('(min-width: 640px)').matches);
+    setFiltersOpen(filtersInitiallyOpen);
+
     if (filterToggle && filterPanel) {
       filterToggle.onclick = function() {
-        var isOpen = !filterPanel.classList.contains('hidden');
-        if (isOpen) {
-          filterPanel.classList.add('hidden');
-          if (filterIconClosed) filterIconClosed.classList.remove('hidden');
-          if (filterIconOpen) filterIconOpen.classList.add('hidden');
-          filterToggle.setAttribute('aria-expanded', 'false');
-        } else {
-          filterPanel.classList.remove('hidden');
-          if (filterIconClosed) filterIconClosed.classList.add('hidden');
-          if (filterIconOpen) filterIconOpen.classList.remove('hidden');
-          filterToggle.setAttribute('aria-expanded', 'true');
-        }
+        var nextOpen = filterPanel.classList.contains('hidden');
+        setFiltersOpen(nextOpen);
+        localStorage.setItem(FILTERS_OPEN_KEY, nextOpen ? 'true' : 'false');
       };
     }
   });
