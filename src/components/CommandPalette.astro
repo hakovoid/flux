@@ -1,0 +1,216 @@
+---
+---
+
+<dialog
+  id="command-palette"
+  aria-label="Palette de commandes"
+  class="rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-0 w-[calc(100vw-2rem)] max-w-xl text-[var(--color-text-primary)] shadow-2xl backdrop:bg-black/60 backdrop:backdrop-blur-sm"
+>
+  <div class="flex flex-col">
+    <div class="flex items-center gap-3 px-4 py-3 border-b border-[var(--color-border)]">
+      <svg class="w-4 h-4 text-[var(--color-text-muted)]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+      <input
+        id="cp-input"
+        type="search"
+        placeholder="Rechercher un article ou une page…"
+        aria-label="Rechercher"
+        class="flex-1 bg-transparent focus:outline-none text-sm placeholder-[var(--color-text-muted)]"
+      />
+      <kbd class="font-mono text-[10px] px-1.5 py-0.5 text-[var(--color-text-muted)] bg-[var(--color-surface-2)] rounded border border-[var(--color-border-strong)]/50">Esc</kbd>
+    </div>
+    <div id="cp-results" class="max-h-[60vh] overflow-y-auto p-2"></div>
+  </div>
+</dialog>
+
+<script>
+  type CpItem = {
+    label: string;
+    meta?: string;
+    href?: string;
+    onSelect?: () => void;
+  };
+
+  type SearchArticle = {
+    id: string;
+    title: string;
+    description: string;
+    source: string;
+    categories: string[];
+    type: string;
+  };
+
+  let fuse: any = null;
+  let searchIndex: SearchArticle[] | null = null;
+  let activeIndex = 0;
+  let currentItems: CpItem[] = [];
+
+  const QUICK_ACTIONS: CpItem[] = [
+    { label: 'Articles', href: '/' },
+    { label: 'World', href: '/world' },
+    { label: 'Sources', href: '/sources' },
+    { label: 'Favoris', href: '/favoris' },
+    { label: 'À lire plus tard', href: '/a-lire-plus-tard' },
+    { label: 'Newsletter', href: '/newsletter' },
+    { label: 'À propos', href: '/a-propos' },
+    { label: 'Basculer le thème', onSelect: () => document.getElementById('theme-toggle')?.click() },
+  ];
+
+  function escapeHtml(s: string): string {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function renderItems(heading: string) {
+    const container = document.getElementById('cp-results');
+    if (!container) return;
+    if (currentItems.length === 0) {
+      container.innerHTML = '<div class="px-3 py-6 text-center text-sm text-[var(--color-text-muted)]">Aucun résultat</div>';
+      return;
+    }
+    activeIndex = 0;
+    const html = `<div class="px-3 py-1 text-[10px] uppercase tracking-widest text-[var(--color-text-subtle)] font-medium">${escapeHtml(heading)}</div>` +
+      currentItems.map((item, i) => `
+        <button data-cp-index="${i}" type="button" class="cp-item w-full text-left px-3 py-2 rounded-lg flex items-center gap-3 hover:bg-[var(--color-surface-2)] transition-colors ${i === 0 ? 'bg-[var(--color-surface-2)]' : ''}">
+          <span class="flex-1 min-w-0 truncate text-sm">${escapeHtml(item.label)}</span>
+          ${item.meta ? `<span class="text-xs text-[var(--color-text-muted)] truncate max-w-[140px]">${escapeHtml(item.meta)}</span>` : ''}
+        </button>
+      `).join('');
+    container.innerHTML = html;
+    container.querySelectorAll<HTMLButtonElement>('.cp-item').forEach((el, i) => {
+      el.addEventListener('click', () => selectItem(i));
+      el.addEventListener('mouseenter', () => setActive(i));
+    });
+  }
+
+  function renderQuickActions() {
+    currentItems = QUICK_ACTIONS;
+    renderItems('Actions');
+  }
+
+  function renderResults(query: string) {
+    if (!fuse) return;
+    const hits = fuse.search(query).slice(0, 10).map((r: any) => ({
+      label: r.item.title,
+      meta: r.item.source,
+      href: '/article/' + r.item.id,
+    } as CpItem));
+    currentItems = hits;
+    renderItems('Articles');
+  }
+
+  function setActive(idx: number) {
+    const items = document.querySelectorAll<HTMLButtonElement>('.cp-item');
+    if (items.length === 0) return;
+    const clamped = Math.max(0, Math.min(idx, items.length - 1));
+    items.forEach((el) => el.classList.remove('bg-[var(--color-surface-2)]'));
+    items[clamped]?.classList.add('bg-[var(--color-surface-2)]');
+    items[clamped]?.scrollIntoView({ block: 'nearest' });
+    activeIndex = clamped;
+  }
+
+  function selectItem(i: number) {
+    const item = currentItems[i];
+    if (!item) return;
+    closePalette();
+    if (item.onSelect) {
+      item.onSelect();
+    } else if (item.href) {
+      window.location.href = item.href;
+    }
+  }
+
+  function closePalette() {
+    const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
+    if (dialog?.open) dialog.close();
+  }
+
+  async function ensureLoaded() {
+    if (fuse) return;
+    const FuseModule = await import('fuse.js');
+    const Fuse = (FuseModule as any).default || FuseModule;
+    if (!searchIndex) {
+      try {
+        const res = await fetch('/search-index.json');
+        searchIndex = (await res.json()) as SearchArticle[];
+      } catch {
+        searchIndex = [];
+      }
+    }
+    fuse = new Fuse(searchIndex, {
+      keys: ['title', 'description', 'source', 'categories'],
+      threshold: 0.3,
+      ignoreLocation: true,
+    });
+  }
+
+  function openPalette() {
+    const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
+    if (!dialog || typeof dialog.showModal !== 'function' || dialog.open) return;
+    dialog.showModal();
+    const input = document.getElementById('cp-input') as HTMLInputElement | null;
+    if (input) {
+      input.value = '';
+      setTimeout(() => input.focus(), 0);
+    }
+    renderQuickActions();
+    ensureLoaded();
+  }
+
+  // Expose globally so the Layout's keydown handler can call it
+  (window as any).__openCommandPalette = openPalette;
+
+  // Bind once
+  if (!(window as any).__cpBound) {
+    (window as any).__cpBound = true;
+
+    document.addEventListener('keydown', (e) => {
+      if ((e.key === 'k' || e.key === 'K') && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        openPalette();
+        return;
+      }
+      const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
+      if (!dialog?.open) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        setActive(activeIndex + 1);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        setActive(activeIndex - 1);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        selectItem(activeIndex);
+      }
+    });
+
+    // Click on backdrop closes
+    document.addEventListener('click', (e) => {
+      const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
+      if (!dialog?.open) return;
+      const rect = dialog.getBoundingClientRect();
+      const inside = e.clientX >= rect.left && e.clientX <= rect.right
+        && e.clientY >= rect.top && e.clientY <= rect.bottom;
+      if (!inside) closePalette();
+    });
+  }
+
+  // Bind input each page load (View Transitions reset listeners on dialog children)
+  document.addEventListener('astro:page-load', () => {
+    const input = document.getElementById('cp-input') as HTMLInputElement | null;
+    if (!input) return;
+    let timer: ReturnType<typeof setTimeout> | null = null;
+    input.addEventListener('input', () => {
+      if (timer) clearTimeout(timer);
+      const v = input.value.trim();
+      timer = setTimeout(async () => {
+        if (v.length < 2) {
+          renderQuickActions();
+        } else {
+          await ensureLoaded();
+          renderResults(v);
+        }
+      }, 200);
+    });
+  });
+</script>
