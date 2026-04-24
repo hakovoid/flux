@@ -4,17 +4,37 @@ Agrégateur de veille technologique RSS et YouTube. Un site statique construit a
 
 ## Fonctionnalités
 
-- Agrégation automatique de flux RSS et chaînes YouTube (cron quotidien à 4h UTC)
+### Agrégation
+- Agrégation automatique de flux RSS, podcasts et chaînes YouTube (cron quotidien à 4h UTC)
+- Deux collections : articles francophones (`/`) et internationaux (`/world`)
+- Déduplication par hash SHA256 de l'URL
+- Extraction d'image en cascade : balises RSS (`media:content`, `enclosure`, `itunes:image`…) → fallback `og:image` / `twitter:image` → image de repli par source (`fallbackImage` dans `feeds.yaml`)
+
+### Navigation & découverte
 - Recherche full-text côté client (Fuse.js)
-- Filtrage par catégorie, source et type (articles, podcasts, vidéos YouTube)
+- **Trois vues d'affichage** : cartes, liste, liste compacte (toggle persisté en localStorage)
+- Filtres combinables : catégorie, source, type (article / podcast / YouTube), plage de dates avec presets (7j / 30j / mois en cours)
+- Panneau de filtres pliable (état mémorisé)
 - Pagination (15 articles/page)
-- Pages articles dédiées avec articles similaires
+- Pages dédiées par **catégorie** (`/categorie/[slug]`) et par **source** (`/source/[slug]`)
+- Page liste de toutes les sources
+- Articles similaires en bas de chaque page article
+
+### Interactions utilisateur (localStorage, sans compte)
+- **Favoris** : page dédiée `/favoris`
+- **À lire plus tard** : page dédiée `/a-lire-plus-tard`
+- Marquage automatique des articles non lus depuis la dernière visite
 - Indicateurs de fraîcheur (Nouveau / Récent)
-- Marquage des articles non lus
-- Pages Sources et À propos
-- Flux RSS sortant pour s'abonner
-- Dark mode, mobile first, View Transitions
-- SEO (meta, Open Graph, sitemap, robots.txt)
+
+### Lecture
+- Pages article dédiées avec lecteur audio intégré pour les podcasts et lecteur embarqué pour les vidéos YouTube
+- Flux RSS sortant (`/rss.xml`, `/world/rss.xml`) pour s'abonner
+
+### Theming & UX
+- Dark mode par défaut + thème clair
+- Couleur d'accent configurable au build via `FLUX_ACCENT` (`indigo`, `violet`, `emerald`, `rose`, `amber`)
+- Mobile first, View Transitions (Astro)
+- SEO : meta, Open Graph, sitemap, robots.txt, canonical vers la source originale
 
 ## Stack
 
@@ -43,7 +63,9 @@ Le site sera disponible sur `http://localhost:4321`.
 
 ## Ajouter un flux RSS
 
-Modifier le fichier `feeds.yaml` à la racine du projet :
+Modifier le fichier `feeds.yaml` à la racine du projet. Deux collections sont disponibles :
+- `feeds:` pour les sources francophones (rendues sur `/`)
+- `feeds_world:` pour les sources internationales (rendues sur `/world`)
 
 ```yaml
 feeds:
@@ -63,11 +85,26 @@ feeds:
     name: Ma Chaîne (YouTube)
     type: youtube
     categories: [Programmation, IA]
+
+  # Source avec image de repli (utilisée si le RSS et og:image ne donnent rien)
+  - url: https://example.com/feed.xml
+    name: Source Sans Image
+    categories: [Web]
+    fallbackImage: https://example.com/logo.png
+
+feeds_world:
+  - url: https://example.org/feed.xml
+    name: International Example
+    categories: [IA]
 ```
 
 Catégories disponibles : `Programmation`, `IA`, `DevOps`, `Cybersécurité`, `Cloud`, `Web`.
 
 Vous pouvez en ajouter de nouvelles, elles seront automatiquement prises en compte.
+
+### Image de repli par source
+
+Certaines sources n'exposent pas d'image dans leur flux RSS et bloquent le scraping `og:image` (Cloudflare, blogs minimalistes…). Le champ optionnel `fallbackImage` définit une URL utilisée quand aucune autre source d'image n'a fonctionné. Le fallback est ré-appliqué rétroactivement aux articles déjà en base à chaque `npm run fetch-feeds`.
 
 ## Configuration YouTube
 
@@ -84,23 +121,38 @@ YOUTUBE_API_KEY=votre_clé_ici
 
 **En CI :** ajouter le secret `YOUTUBE_API_KEY` dans Settings > Secrets and variables > Actions du repo GitHub.
 
+## Personnaliser la couleur d'accent
+
+La couleur d'accent du site est contrôlée au build via la variable d'environnement `FLUX_ACCENT`.
+
+Valeurs disponibles : `indigo` (défaut), `violet`, `emerald`, `rose`, `amber`.
+
+```bash
+FLUX_ACCENT=emerald npm run build
+```
+
+Les teintes sont définies dans `src/config/theme.ts` et injectées sous forme de variables CSS (`--color-accent-*`). Toute l'UI utilise ces tokens, donc changer la valeur suffit à re-thémer l'ensemble du site.
+
 ## Structure du projet
 
 ```
-├── feeds.yaml              # Configuration des flux RSS
-├── data/                   # Articles (JSON mensuel, auto-généré)
+├── feeds.yaml              # Configuration des flux RSS (feeds / feeds_world)
+├── data/                   # Articles francophones (JSON mensuel, auto-généré)
+├── data-world/             # Articles internationaux (JSON mensuel, auto-généré)
 ├── scripts/
-│   └── fetch-feeds.ts      # Script de récupération RSS
+│   └── fetch-feeds.ts      # Script de récupération RSS + enrichissement og:image + fallback
 ├── src/
-│   ├── components/         # Composants Astro (ArticleCard, SearchBar, CategoryFilter…)
+│   ├── components/         # ArticleCard, ArticleListItem, ArticleListItemCompact, CategoryFilter…
+│   ├── config/theme.ts     # Palettes d'accent (FLUX_ACCENT)
 │   ├── layouts/            # Layout principal
-│   ├── pages/              # Pages du site (index, pagination, article, sources, à propos)
+│   ├── pages/              # Pages : index, pagination, article, sources, source/[slug],
+│   │                       # categorie/[slug], favoris, a-lire-plus-tard, a-propos, world/…
 │   ├── styles/             # CSS global
-│   ├── types/              # Types TypeScript
-│   └── utils/              # Utilitaires
+│   ├── types/              # Types TypeScript (FeedConfig, Article…)
+│   └── utils/              # Utilitaires (articles, userLists pour favoris/à lire plus tard)
 ├── .github/workflows/      # GitHub Actions
 ├── netlify.toml            # Config Netlify
-└── astro.config.mjs        # Config Astro
+└── astro.config.mjs        # Config Astro (+ plugin d'injection de l'accent)
 ```
 
 ## Commandes
