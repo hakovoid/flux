@@ -237,7 +237,20 @@ for (let i = 1; i <= totalPages; i++) {
 <script>
   import Fuse from 'fuse.js';
 
-  const PAGE_SIZE = 15;
+  const DEFAULT_PAGE_SIZE = 15;
+  const PAGE_SIZE_OPTIONS = [15, 30, 50, 100];
+  const PAGE_SIZE_KEY = 'flux-page-size';
+
+  function readPageSize(): number {
+    try {
+      const raw = localStorage.getItem(PAGE_SIZE_KEY);
+      if (!raw) return DEFAULT_PAGE_SIZE;
+      const n = parseInt(raw, 10);
+      return PAGE_SIZE_OPTIONS.includes(n) ? n : DEFAULT_PAGE_SIZE;
+    } catch {
+      return DEFAULT_PAGE_SIZE;
+    }
+  }
 
   interface SearchArticle {
     id: string;
@@ -546,9 +559,10 @@ for (let i = 1; i <= totalPages; i++) {
     let activeToDate: Date | null = null;
     let searchQuery = '';
     let currentSearchPage = 1;
+    let currentPageSize = readPageSize();
 
     function isFilterActive(): boolean {
-      return searchQuery.length >= 2 || activeCategory !== 'all' || activeSource !== 'all' || activeType !== 'all' || activeFromDate !== null || activeToDate !== null;
+      return searchQuery.length >= 2 || activeCategory !== 'all' || activeSource !== 'all' || activeType !== 'all' || activeFromDate !== null || activeToDate !== null || currentPageSize !== DEFAULT_PAGE_SIZE;
     }
 
     async function updateView() {
@@ -602,10 +616,10 @@ for (let i = 1; i <= totalPages; i++) {
       searchModeEl?.classList.remove('hidden');
       resultsCount?.classList.remove('hidden');
 
-      const totalPages = Math.ceil(results.length / PAGE_SIZE);
+      const totalPages = Math.ceil(results.length / currentPageSize);
       if (currentSearchPage > totalPages) currentSearchPage = totalPages;
-      const start = (currentSearchPage - 1) * PAGE_SIZE;
-      const pageResults = results.slice(start, start + PAGE_SIZE);
+      const start = (currentSearchPage - 1) * currentPageSize;
+      const pageResults = results.slice(start, start + currentPageSize);
 
       if (resultsCount) {
         resultsCount.textContent = `${results.length} article${results.length > 1 ? 's' : ''} trouvé${results.length > 1 ? 's' : ''}`;
@@ -720,6 +734,24 @@ for (let i = 1; i <= totalPages; i++) {
       currentSearchPage = 1;
       updateView();
     });
+
+    // Page size selector
+    const pageSizeSelect = document.getElementById('page-size-select') as HTMLSelectElement | null;
+    if (pageSizeSelect) {
+      pageSizeSelect.value = String(currentPageSize);
+      pageSizeSelect.addEventListener('change', () => {
+        const n = parseInt(pageSizeSelect.value, 10);
+        currentPageSize = PAGE_SIZE_OPTIONS.includes(n) ? n : DEFAULT_PAGE_SIZE;
+        try { localStorage.setItem(PAGE_SIZE_KEY, String(currentPageSize)); } catch {}
+        currentSearchPage = 1;
+        updateView();
+      });
+    }
+
+    // If a non-default page size was restored from localStorage, switch to client-side rendering on load
+    if (currentPageSize !== DEFAULT_PAGE_SIZE) {
+      updateView();
+    }
 
     // Date filters
     const dateFromInput = document.getElementById('date-from') as HTMLInputElement | null;
