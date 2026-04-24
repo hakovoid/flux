@@ -106,10 +106,13 @@ for (let i = 1; i <= totalPages; i++) {
         var isListView = document.documentElement.dataset.viewMode === 'list';
         document.documentElement.dataset.viewMode = isListView ? 'cards' : 'list';
         localStorage.setItem('flux-view-mode', isListView ? 'cards' : 'list');
-        
+
         // Toggle icons
         viewGridIcon.classList.toggle('hidden', !isListView);
         viewListIcon.classList.toggle('hidden', isListView);
+
+        // Notify the search script so it refreshes the active view container
+        document.dispatchEvent(new CustomEvent('flux:view-mode-changed'));
       };
     }
     
@@ -577,6 +580,60 @@ for (let i = 1; i <= totalPages; i++) {
       activeType = typeSelect.value;
       currentSearchPage = 1;
       updateView();
+    });
+
+    // Date filters
+    const dateFromInput = document.getElementById('date-from') as HTMLInputElement | null;
+    const dateToInput = document.getElementById('date-to') as HTMLInputElement | null;
+    const preset7dBtn = document.getElementById('preset-7d');
+    const preset30dBtn = document.getElementById('preset-30d');
+    const presetMonthBtn = document.getElementById('preset-month');
+    const resetDatesBtn = document.getElementById('reset-dates');
+
+    function parseDateInput(value: string, endOfDay: boolean): Date | null {
+      if (!value) return null;
+      const d = new Date(value + (endOfDay ? 'T23:59:59.999' : 'T00:00:00'));
+      return isNaN(d.getTime()) ? null : d;
+    }
+
+    function applyDateChange() {
+      activeFromDate = parseDateInput(dateFromInput?.value || '', false);
+      activeToDate = parseDateInput(dateToInput?.value || '', true);
+      currentSearchPage = 1;
+      updateView();
+    }
+
+    dateFromInput?.addEventListener('change', applyDateChange);
+    dateToInput?.addEventListener('change', applyDateChange);
+
+    function setDateRange(fromDaysAgo: number, to: Date = new Date()) {
+      const from = new Date(to);
+      from.setDate(from.getDate() - fromDaysAgo);
+      const toIso = to.toISOString().slice(0, 10);
+      const fromIso = from.toISOString().slice(0, 10);
+      if (dateFromInput) dateFromInput.value = fromIso;
+      if (dateToInput) dateToInput.value = toIso;
+      applyDateChange();
+    }
+
+    preset7dBtn?.addEventListener('click', () => setDateRange(7));
+    preset30dBtn?.addEventListener('click', () => setDateRange(30));
+    presetMonthBtn?.addEventListener('click', () => {
+      const now = new Date();
+      const firstOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
+      if (dateFromInput) dateFromInput.value = firstOfMonth.toISOString().slice(0, 10);
+      if (dateToInput) dateToInput.value = now.toISOString().slice(0, 10);
+      applyDateChange();
+    });
+    resetDatesBtn?.addEventListener('click', () => {
+      if (dateFromInput) dateFromInput.value = '';
+      if (dateToInput) dateToInput.value = '';
+      applyDateChange();
+    });
+
+    // Re-render search results when the view mode changes (cards ↔ list)
+    document.addEventListener('flux:view-mode-changed', () => {
+      if (isFilterActive()) updateView();
     });
 
     // Mark new articles (localStorage) - static cards only
