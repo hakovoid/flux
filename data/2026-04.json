@@ -2,6 +2,250 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1439f8a1249d",
+      "title": "SpaceX va fabriquer ses propres GPU",
+      "description": "Dans son document S-1 déposé à la SEC en vue de son entrée en Bourse, SpaceX liste la fabrication de ses propres GPU parmi ses dépenses en capital en cours. Reuters a repéré l'extrait, qui fait partie des postes identifiés comme substantiels par l'entreprise, même si aucun chiffre précis n'est donné dans le document public. Le projet passe par Terafab, le complexe de fabrication de puces IA que xAI, Tesla et SpaceX développent ensemble à Austin, au Texas. Jusqu'ici, Musk avait surtout évoqué…",
+      "link": "https://korben.info/spacex-va-fabriquer-ses-propres-gpu.html",
+      "pubDate": "2026-04-24T05:45:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c35bafd53f67",
+      "title": "#333.exe - Bodyguard: Coder contre la haine  par Kevin Davin",
+      "description": "Pour l'épisode #333 je recevais Charles Cohen. On en débrief avec Kevin. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast. Va tester sur mcp.ifttd.io et pour les 50 premiers, le code IFTTD3M offre 3 mois gratuits ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-333-6305217ec0d1",
+      "pubDate": "2026-04-24T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/45444cdb-b822-4068-9872-6305217ec0d1.mp3?_=1776945695",
+      "duration": "10:49"
+    },
+    {
+      "id": "01b8ba2d85f2",
+      "title": "On a laissé 180 tonnes de bazar sur la Lune",
+      "description": "Environ 180 tonnes d'objets fabriqués par l'homme sont déjà posés sur la Lune, dont une grosse partie datant des missions Apollo. e site Hackaday vient de publier un recensement assez complet, qui rappelle que l'exploration lunaire n'a pas laissé que des traces de pas dans le régolithe. Côté matériel technique, il y a les étages de descente des modules lunaires, quelques rovers, des instruments scientifiques et surtout sept réflecteurs optiques encore utilisés aujourd'hui par les astronomes…",
+      "link": "https://korben.info/on-a-laisse-180-tonnes-de-bazar-sur-la-lune.html",
+      "pubDate": "2026-04-23T16:02:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d25d1709eb5",
+      "title": "DevoxxFR 2026 - Récap du jeudi (jour 2)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Deuxième jour de DevoxxFR 2026 Pour ce jeudi, j’ai raté les keynotes du matin (arrivé un peu tard), j’ai donc commencé par un tour des stands avant d’enchaîner avec les talks de la matinée. J’en ai profité pour récupérer des goodies pour les enfants au passage (:P). Gérer vos tickets support avec de l’IA mais sans cramer la planète Matthieu…",
+      "link": "https://blog.zwindler.fr/2026/04/23/devoxxfr-2026-recap-jour-2/",
+      "pubDate": "2026-04-23T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/docto-salle-bondee.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0383e2ed4f95",
+      "title": "Lotus, le nouveau wiper qui efface les systèmes des entreprises d'énergie vénézuéliennes",
+      "description": "Un logiciel malveillant destiné à effacer définitivement les données de postes informatiques vient de faire surface dans le secteur énergétique vénézuélien. La bête a été baptisée \"Lotus\" par les chercheurs de Kaspersky qui l'ont analysé en premier, il a été mise en route en décembre 2025 depuis un ordinateur vénézuélien, et sa cible principale semble être PDVSA, la compagnie pétrolière d'État. Côté technique, Lotus ne fait pas dans la dentelle. Deux scripts batch préparatoires, OhSyncNow.bat…",
+      "link": "https://korben.info/lotus-le-nouveau-wiper-qui-efface-les-systemes-des-entreprises-denergie-venezueliennes.html",
+      "pubDate": "2026-04-23T13:55:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6fe8a2786eef",
+      "title": "CANviz - Analyser le bus CAN de sa voiture dans le navigateur",
+      "description": "Vous voulez comprendre ce qui se passe dans le cerveau de votre bagnole ? Hé bien pour cela avant, il fallait du matos pro et des suites logicielles à licence annuelle. Mais maintenant, y'a CANviz . Un pip install canviz, un module USB à quelques balles branché sur le bus CAN de la voiture, et hop, vous accédez à tous les secrets de votre voiture simplement en ouvrant votre navigateur sur localhost:8080. Toutes les trames qui circulent sur le réseau interne du véhicule s'affichent en direct…",
+      "link": "https://korben.info/can-bus-analyzer-navigateur.html",
+      "pubDate": "2026-04-23T13:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/can-bus-analyzer-navigateur/can-bus-analyzer-navigateur-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "f2b90abca149",
+      "title": "Apple corrige une faille iOS qui permettait à la police d'extraire des messages supprimés",
+      "description": "Apple a publié hier une mise à jour iOS qui ferme une faille utilisée par les forces de l'ordre américaines pour récupérer des messages supprimés dans des applications comme Signal. La faille concernait la base de données des notifications : quand vous supprimiez un message dans l'appli, la version cachée dans le cache des notifications pouvait rester accessible jusqu'à un mois. Concrètement, un message Signal effacé côté appli restait lisible par quiconque avait la main sur le téléphone et…",
+      "link": "https://korben.info/apple-corrige-une-faille-ios-qui-permettait-a-la-police-dextraire-des-messages-supprimes.html",
+      "pubDate": "2026-04-23T13:18:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9f1fa838a95c",
+      "title": "Lastversion - Trouver la dernière version de n'importe quoi",
+      "description": "Vous bossez sur un Dockerfile et vous avez besoin de la dernière version de nginx. Vous ouvrez GitHub, vous cliquez sur Releases, vous copiez-collez. Et 3 minutes plus tard, rebelote pour curl. Puis pour PHP. Sans parler du fait que dans votre script d'auto-update, vous avez hardcodé une \"v3.2.1\" qui dort là depuis 2023 parce que personne n'a pris le temps de mettre à jour le fichier. Lastversion , c'est le petit CLI Python signé Danila Vershinin qui remplace cette corvée par une seule ligne.…",
+      "link": "https://korben.info/lastversion-cli-derniere-version-github.html",
+      "pubDate": "2026-04-23T12:37:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da560cc309e7",
+      "title": "GitHub active par défaut la télémétrie sur son outil en ligne de commande",
+      "description": "Depuis la version 2.91.0 du CLI GitHub publiée mardi, chaque commande que vous tapez dans gh envoie des données de télémétrie vers GitHub par défaut. L'activation est silencieuse, sans message au premier lancement, sans consentement explicite, et il faut fouiller dans la doc pour tomber sur la page dédiée au sujet. GitHub décrit la collecte comme pseudonyme côté client. Concrètement, le payload embarque le nom de la commande lancée, un identifiant d'invocation, un identifiant d'appareil, l'OS,…",
+      "link": "https://korben.info/github-active-par-defaut-la-telemetrie-sur-son-outil-en-ligne-de-commande.html",
+      "pubDate": "2026-04-23T11:38:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1ae938df6b8",
+      "title": "Un agent IA chinois a trouvé près de 1 000 failles inédites, dont certaines dans Microsoft Office",
+      "description": "360 Digital Security, la filiale cybersécurité du géant chinois Qihoo 360, revendique environ mille vulnérabilités inédites déterrées par un agent IA maison baptisé Vulnerability Discovery Agent. L'annonce, faite le 22 avril, cite nommément Microsoft Office et le framework open source OpenClaw parmi les logiciels touchés. Le chiffre est donné sur un seul cycle de campagne. Mille failles non documentées en un seul cycle de recherche, ça fait un peu tourner la tête. Ce type d'agent fonctionne en…",
+      "link": "https://korben.info/un-agent-ia-chinois-a-trouve-pres-de-1-000-failles-inedites-dont-certaines-dans-microsoft-office.html",
+      "pubDate": "2026-04-23T11:27:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c11b168f14d6",
+      "title": "GNU TeXmacs - Écrivez vos équations comme dans Word",
+      "description": "Ah, LaTeX... Si vous avez un jour essayé de poser 3 équations dans un document sérieux, vous voyez le genre de galère que c'est. Le rendu est magnifique, les maths sont propres, mais faut d'abord digérer son langage de markup avant de réussir à imprimer la moindre intégrale. Heureusement, c'est là qu'arrive GNU TeXmacs , un éditeur scientifique libre qui fait pareil mais en WYSIWYG. Ça tourne sur Linux, macOS et même des OS du passé comme Windows ^^ et ça devrait ravir étudiants en sciences,…",
+      "link": "https://korben.info/texmacs-alternative-libre-latex.html",
+      "pubDate": "2026-04-23T09:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/texmacs-alternative-libre-latex/texmacs-alternative-libre-latex-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3237aa087946",
+      "title": "Nullroom - Un chat P2P qui s'efface en 15 minutes",
+      "description": "Utiliser une conversation WhatsApp pour partager un mot de passe à un pote, c'est un peu comme écrire son code de carte bleue au marker dans des chiottes publics. Sauf que les messages, eux, restent des années dans l'historique car y'a personne qui viendra nettoyer ça. Heureusement, Nullroom vient régler ce genre de bricole en mode radical, avec un chat P2P chiffré qui s'autodétruit au bout d'un quart d'heure, sans avoir à vous créer de compte et sans laisser de trace côté serveur.",
+      "link": "https://korben.info/nullroom-un-chat-p2p-qui-sefface-en-15-minutes.html",
+      "pubDate": "2026-04-23T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/nullroom-un-chat-p2p-qui-sefface-en-15-minutes/nullroom-un-chat-p2p-qui-sefface-en-15-minutes-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "715ec5285626",
+      "title": "Surfshark et le chiffrement post-quantique : se préparer aujourd'hui pour les menaces de demain",
+      "description": "-- Article en partenariat avec Surfshark -- L'informatique quantique n'est plus un sujet de science-fiction (mais ça, vous le savez, je vous bassine avec ça depuis des années maintenant). Mais les progrès récents laissent penser que des machines capables de casser certains chiffrements actuels pourraient émerger dans les 10 à 15 prochaines années (voir 5 selon les plus optimistes). Ce n'est pas pour demain matin, mais en sécurité, attendre que la menace soit là pour agir, c'est déjà avoir perdu.",
+      "link": "https://korben.info/surfshark-chiffrement-post-quantique.html",
+      "pubDate": "2026-04-23T07:44:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-chiffrement-post-quantique/surfshark-chiffrement-post-quantique-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bdc8ae19f226",
+      "title": "Flipbook - Le web où chaque page est une image IA",
+      "description": "Flipbook est un navigateur web génératif où aucune page n'existe avant que vous ne la demandiez. Pas de HTML, pas de boutons, pas de liens... A la place, vous tapez simplement un mot ou un sujet dans la barre de recherche (ou vous uploadez une image), et hop, ça vous pond une image en direct façon \"infographie\" qui explique ce sujet. Ensuite, vous cliquez n'importe où sur cette image, et une nouvelle image apparaît qui creuse ce que vous venez de cliquer. En gros, faut imaginer Wikipedia mais…",
+      "link": "https://korben.info/flipbook-page-wiki-visuel-ia-infinite.html",
+      "pubDate": "2026-04-23T07:03:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flipbook-page-wiki-visuel-ia-infinite/flipbook-page-wiki-visuel-ia-infinite-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "99e16437ca2b",
+      "title": "bbDump - L'alternative moderne à pgAdmin, sauce MCP",
+      "description": "pgAdmin, l'outil \"officiel\" pour administrer vos bases PostgreSQL, c'est le type d'interface qu'on n'a pas vraiment envie d'ouvrir un lundi matin ! C'est lent, c'est cheum de ouf en mode figé dans les années 2000 et ça rame sérieusement dès qu'on tente un export un peu costaud. Alors oui je sais, DBeaver, c'est plus joli, mais faut se coltiner Java et un workspace qui traîne au démarrage. Du coup quand bbDump est passé sur mon radar, j'ai eu envie de creuser un peu. C'est un gestionnaire…",
+      "link": "https://korben.info/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp.html",
+      "pubDate": "2026-04-23T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp/bbdump-lalternative-moderne-a-pgadmin-sauce-mcp-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f956a5ba13f",
+      "title": "Une faille IndexedDB permettait de relier toutes vos identités Tor",
+      "description": "Bon, les amis, si vous utilisez Tor Browser pour faire du sérieux, faut que vous sachiez un truc. Le bouton \"New Identity\", censé vous donner une nouvelle identité vierge à chaque clic... bah il laissait filer, jusqu'à il y a peu de temps, un identifiant stable tant que Firefox tournait. Deux chercheurs de Fingerprint ont en effet trouvé comment une fonction toute bête du navigateur se transformait en empreinte unique de votre browser, partagée entre tous les sites que vous visitiez.",
+      "link": "https://korben.info/firefox-tor-indexeddb-identifiant-stable.html",
+      "pubDate": "2026-04-23T06:12:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/firefox-tor-indexeddb-identifiant-stable/firefox-tor-indexeddb-identifiant-stable-2.png",
+      "type": "blog"
+    },
+    {
       "id": "3006c9ee0c41",
       "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
       "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page. Le typographe amateur en moi aspire à suivre la sagesse de Bringhurst : Les titres, intertitres, citations, notes de bas de page, illustrations, légendes et autres intrusions dans le texte créent des…",
