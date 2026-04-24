@@ -169,6 +169,20 @@ const moreActive = moreNav.some((i) => isActive(i.href));
           <span class="hidden xl:inline">MàJ {buildDate}</span>
         </div>
 
+        <!-- Command palette button -->
+        <button
+          id="open-command-palette"
+          type="button"
+          aria-label="Ouvrir la palette de commandes"
+          title="Recherche rapide (Ctrl+K)"
+          class="flex items-center gap-2 px-2.5 py-1.5 rounded-lg border border-[var(--color-border)] text-xs text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] hover:border-[var(--color-border-strong)] transition-colors cursor-pointer"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <kbd class="font-mono text-[10px]">⌘K</kbd>
+        </button>
+
         <!-- Theme toggle -->
         <button
           id="theme-toggle"
@@ -191,8 +205,18 @@ const moreActive = moreNav.some((i) => isActive(i.href));
         </a>
       </nav>
 
-      <!-- Mobile: Theme + GitHub + Burger -->
+      <!-- Mobile: Palette + Theme + GitHub + Burger -->
       <div class="flex md:hidden items-center gap-3">
+        <button
+          id="open-command-palette-mobile"
+          type="button"
+          aria-label="Recherche rapide"
+          class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors cursor-pointer"
+        >
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+        </button>
         <button
           id="theme-toggle-mobile"
           type="button"
@@ -313,6 +337,17 @@ const moreActive = moreNav.some((i) => isActive(i.href));
         link.addEventListener('click', () => { moreMenu.open = false; });
       });
     }
+
+    // Command palette buttons
+    const openPalette = () => {
+      const dialog = document.getElementById('command-palette') as HTMLDialogElement | null;
+      if (dialog && typeof dialog.showModal === 'function' && !dialog.open) {
+        dialog.showModal();
+        dialog.dispatchEvent(new CustomEvent('cp:open'));
+      }
+    };
+    document.getElementById('open-command-palette')?.addEventListener('click', openPalette);
+    document.getElementById('open-command-palette-mobile')?.addEventListener('click', openPalette);
 
     // Update favorites counter
     try {

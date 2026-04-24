@@ -695,13 +695,7 @@ for (let i = 1; i <= totalPages; i++) {
       debounceTimer = setTimeout(() => updateView(), 200);
     });
 
-    // Keyboard shortcut
-    document.addEventListener('keydown', (e) => {
-      if (e.key === '/' && document.activeElement !== searchInput) {
-        e.preventDefault();
-        searchInput?.focus();
-      }
-    });
+    // Keyboard shortcut "/" is handled globally in src/layouts/Layout.astro
 
     // Category filter
     const activeClasses = ['accent-filter-active'];
