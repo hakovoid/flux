@@ -101,6 +101,25 @@ async function fetchOgImage(articleUrl: string): Promise<string | null> {
   }
 }
 
+function applyFallbackImages(articles: Article[], feeds: FeedsConfig['feeds']): number {
+  const fallbackByName = new Map<string, string>();
+  for (const f of feeds) {
+    if (f.fallbackImage) fallbackByName.set(f.name, f.fallbackImage);
+  }
+  if (fallbackByName.size === 0) return 0;
+  let applied = 0;
+  for (const a of articles) {
+    if (!a.image) {
+      const fb = fallbackByName.get(a.source);
+      if (fb) {
+        a.image = fb;
+        applied++;
+      }
+    }
+  }
+  return applied;
+}
+
 async function enrichWithOgImages(articles: Article[]): Promise<{ resolved: number; failed: number }> {
   const targets = articles.filter((a) => a.image === null && a.type !== 'youtube');
   if (targets.length === 0) return { resolved: 0, failed: 0 };
@@ -384,6 +403,14 @@ async function processCollection(label: string, feeds: FeedsConfig['feeds'], dat
   }
 
   await enrichWithOgImages(newArticles);
+
+  let fallbackApplied = 0;
+  for (const monthData of existingData.values()) {
+    fallbackApplied += applyFallbackImages(monthData.articles, feeds);
+  }
+  if (fallbackApplied > 0) {
+    console.log(`🖼  ${fallbackApplied} article(s) avec image fallback par source`);
+  }
 
   for (const [monthKey, monthData] of existingData) {
     monthData.articles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());

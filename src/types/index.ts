@@ -5,6 +5,7 @@ export interface FeedConfig {
   name: string;
   categories: string[];
   type?: FeedType;
+  fallbackImage?: string;
 }
 
 export interface FeedsConfig {
