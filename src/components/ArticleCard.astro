@@ -45,7 +45,7 @@ const badge = getFreshnessBadge(article.pubDate);
       </span>
     )}
     {(article.type === 'podcast' || article.type === 'youtube') && (
-      <span class={`absolute top-3 right-3 px-2 py-0.5 text-xs font-medium rounded-full border ${getTypeColor(article.type)}`}>
+      <span class={`absolute bottom-3 right-3 px-2 py-0.5 text-xs font-medium rounded-full border ${getTypeColor(article.type)}`}>
         {getTypeLabel(article.type)}
       </span>
     )}
