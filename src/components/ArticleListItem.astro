@@ -12,7 +12,7 @@ const badge = getFreshnessBadge(article.pubDate);
 ---
 
 <article
-  class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
+  class="card-hover group relative rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex items-center gap-3 p-3"
   data-article-id={article.id}
   data-source={article.source}
   data-categories={article.categories.join(',')}
