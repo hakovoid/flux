@@ -82,6 +82,11 @@ html {
   color-scheme: light;
 }
 
+/* Native <details>/<summary> marker hidden (used for Header "Plus" menu and others) */
+summary { list-style: none; cursor: pointer; }
+summary::-webkit-details-marker { display: none; }
+summary::marker { content: ''; }
+
 /* View mode styling - hide/show elements based on data-view-mode attribute */
 html[data-view-mode="cards"] [data-view-mode="list"],
 html[data-view-mode="cards"] [data-view-mode="compact"],
