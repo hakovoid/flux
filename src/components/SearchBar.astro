@@ -3,8 +3,8 @@
 
 <div class="search-wrapper group relative">
   <div class="absolute inset-0 rounded-2xl bg-gradient-to-r from-[var(--color-accent-500)]/20 via-[var(--color-accent-to)]/20 to-[var(--color-accent-500)]/20 opacity-0 group-focus-within:opacity-100 blur-xl transition-opacity duration-500"></div>
-  <div class="relative flex items-center bg-[var(--color-surface-1)] border border-zinc-800 rounded-2xl group-focus-within:border-[var(--color-accent-500)]/60 transition-all duration-300 overflow-hidden">
-    <div class="pl-4 flex items-center pointer-events-none text-zinc-500 group-focus-within:text-[var(--color-accent-400)] transition-colors duration-300">
+  <div class="relative flex items-center bg-[var(--color-surface-1)] border border-[var(--color-border)] rounded-2xl group-focus-within:border-[var(--color-accent-500)]/60 transition-all duration-300 overflow-hidden">
+    <div class="pl-4 flex items-center pointer-events-none text-[var(--color-text-muted)] group-focus-within:text-[var(--color-accent-400)] transition-colors duration-300">
       <svg class="w-[18px] h-[18px]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
       </svg>
@@ -14,10 +14,10 @@
       type="search"
       placeholder="Rechercher un article, une source, un sujet..."
       aria-label="Rechercher un article"
-      class="w-full px-3 py-3.5 bg-transparent text-sm text-white placeholder-zinc-500 focus:outline-none focus:placeholder-zinc-400 transition-colors"
+      class="w-full px-3 py-3.5 bg-transparent text-sm text-[var(--color-text-primary)] placeholder-[var(--color-text-muted)] focus:outline-none focus:placeholder-[var(--color-text-secondary)] transition-colors"
     />
     <div class="hidden sm:flex items-center gap-1.5 pr-3">
-      <kbd class="px-2 py-1 text-[10px] text-zinc-500 bg-zinc-800/80 rounded-md border border-zinc-700/50 font-mono tracking-wider leading-none">
+      <kbd class="px-2 py-1 text-[10px] text-[var(--color-text-muted)] bg-[var(--color-surface-2)] rounded-md border border-[var(--color-border-strong)]/50 font-mono tracking-wider leading-none">
         /
       </kbd>
     </div>

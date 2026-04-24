@@ -31,7 +31,7 @@ const navItems = [
 ];
 ---
 
-<header class="sticky top-0 z-50 bg-[var(--color-surface-0)]/80 backdrop-blur-xl border-b border-zinc-800/50">
+<header class="sticky top-0 z-50 bg-[var(--color-surface-glass)] backdrop-blur-xl border-b border-[var(--color-border)]">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
@@ -39,7 +39,7 @@ const navItems = [
         <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-[var(--color-accent-from)] to-[var(--color-accent-to)] flex items-center justify-center shadow-lg shadow-[var(--color-accent-glow)] group-hover:shadow-[var(--color-accent-glow)] transition-shadow">
           <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
         </div>
-        <span class="text-lg font-bold tracking-tight">Flux</span>
+        <span class="text-lg font-bold tracking-tight text-[var(--color-text-primary)]">Flux</span>
       </a>
 
       <!-- Desktop nav -->
@@ -47,11 +47,11 @@ const navItems = [
         {navItems.map((item) => (
           <a
             href={item.href}
-            class="text-sm text-zinc-400 hover:text-white transition-colors flex items-center gap-1"
+            class="text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors flex items-center gap-1"
           >
             {item.label}
             {item.href === '/favoris' && (
-              <span 
+              <span
                 data-favorites-count
                 class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
               >
@@ -59,9 +59,10 @@ const navItems = [
               </span>
             )}
             {item.href === '/a-lire-plus-tard' && (
-              <span 
+              <span
                 data-read-later-count
-                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-blue-500/20 text-blue-300"
+                class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full"
+                style="background-color: var(--color-info-bg); color: var(--color-info-text);"
               >
                 0
               </span>
@@ -69,7 +70,7 @@ const navItems = [
           </a>
         ))}
         <!-- Stats -->
-        <div class="hidden lg:flex items-center gap-3 text-xs text-zinc-500 border-l border-zinc-800 pl-6">
+        <div class="hidden lg:flex items-center gap-3 text-xs text-[var(--color-text-muted)] border-l border-[var(--color-border)] pl-6">
           <span class="flex items-center gap-1.5">
             <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
             {articleCount} articles
@@ -79,18 +80,46 @@ const navItems = [
           <span>·</span>
           <span title="Dernière actualisation">MàJ {buildDate}</span>
         </div>
+        <!-- Theme toggle -->
+        <button
+          id="theme-toggle"
+          type="button"
+          class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors"
+          aria-label="Changer de thème"
+          title="Changer de thème"
+        >
+          <svg class="theme-icon-sun w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"/>
+          </svg>
+          <svg class="theme-icon-moon w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"/>
+          </svg>
+        </button>
         <!-- GitHub -->
-        <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-white transition-colors" aria-label="GitHub" title="Voir le code source">
+        <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors" aria-label="GitHub" title="Voir le code source">
           <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
         </a>
       </nav>
 
-      <!-- Mobile: GitHub + Burger -->
+      <!-- Mobile: Theme + GitHub + Burger -->
       <div class="flex md:hidden items-center gap-3">
-        <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-zinc-500 hover:text-white transition-colors" aria-label="GitHub">
+        <button
+          id="theme-toggle-mobile"
+          type="button"
+          class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors"
+          aria-label="Changer de thème"
+        >
+          <svg class="theme-icon-sun w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"/>
+          </svg>
+          <svg class="theme-icon-moon w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.718 9.718 0 0118 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 009.002-5.998z"/>
+          </svg>
+        </button>
+        <a href="https://github.com/yoanbernabeu/flux" target="_blank" rel="noopener noreferrer" class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors" aria-label="GitHub">
           <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
         </a>
-        <button id="burger-btn" class="text-zinc-400 hover:text-white transition-colors" aria-label="Menu" aria-expanded="false">
+        <button id="burger-btn" class="text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors" aria-label="Menu" aria-expanded="false">
           <svg id="burger-icon" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
             <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"/>
           </svg>
@@ -103,16 +132,16 @@ const navItems = [
   </div>
 
   <!-- Mobile menu -->
-  <div id="mobile-menu" class="hidden md:hidden border-t border-zinc-800/50 bg-[var(--color-surface-0)]/95 backdrop-blur-xl">
+  <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)] bg-[var(--color-surface-glass)] backdrop-blur-xl">
     <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1">
       {navItems.map((item) => (
         <a
           href={item.href}
-          class="px-3 py-2.5 rounded-lg text-sm text-zinc-400 hover:text-white hover:bg-zinc-800/50 transition-colors flex items-center gap-1"
+          class="px-3 py-2.5 rounded-lg text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] hover:bg-[var(--color-surface-2)] transition-colors flex items-center gap-1"
         >
           {item.label}
           {item.href === '/favoris' && (
-            <span 
+            <span
               data-favorites-count
               class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-[var(--color-accent-500)]/20 text-[var(--color-accent-300)]"
             >
@@ -120,16 +149,17 @@ const navItems = [
             </span>
           )}
           {item.href === '/a-lire-plus-tard' && (
-            <span 
+            <span
               data-read-later-count
-              class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full bg-blue-500/20 text-blue-300"
+              class="hidden ml-1 px-1.5 py-0.5 text-[10px] rounded-full"
+              style="background-color: var(--color-info-bg); color: var(--color-info-text);"
             >
               0
             </span>
           )}
         </a>
       ))}
-      <div class="mt-2 pt-3 border-t border-zinc-800/50 px-3 flex items-center gap-3 text-xs text-zinc-500">
+      <div class="mt-2 pt-3 border-t border-[var(--color-border)] px-3 flex items-center gap-3 text-xs text-[var(--color-text-muted)]">
         <span class="flex items-center gap-1.5">
           <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
           {articleCount} articles
@@ -147,6 +177,25 @@ const navItems = [
     const menu = document.getElementById('mobile-menu');
     const burgerIcon = document.getElementById('burger-icon');
     const closeIcon = document.getElementById('close-icon');
+
+    // Theme toggle (desktop + mobile)
+    const themeButtons = [document.getElementById('theme-toggle'), document.getElementById('theme-toggle-mobile')].filter(Boolean);
+    themeButtons.forEach((themeBtn) => {
+      themeBtn.addEventListener('click', () => {
+        try {
+          const current = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+          const next = current === 'dark' ? 'light' : 'dark';
+          document.documentElement.dataset.theme = next;
+          document.documentElement.style.colorScheme = next;
+          localStorage.setItem('flux-theme', next);
+          themeButtons.forEach((b) => b.setAttribute('aria-pressed', String(next === 'light')));
+        } catch (e) {
+          // Ignore localStorage errors
+        }
+      });
+      themeBtn.setAttribute('aria-pressed', String(document.documentElement.dataset.theme === 'light'));
+    });
+
     if (!btn || !menu || !burgerIcon || !closeIcon) return;
 
     btn.addEventListener('click', () => {

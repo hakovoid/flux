@@ -6,20 +6,20 @@ import Layout from '../layouts/Layout.astro';
   <div class="fade-in-up">
 
     <!-- Hero -->
-    <div class="relative rounded-2xl border border-zinc-800 bg-gradient-to-br from-[var(--color-accent-500)]/10 via-[var(--color-surface-1)] to-[var(--color-accent-to)]/10 p-8 sm:p-12 mb-10 overflow-hidden">
+    <div class="relative rounded-2xl border border-[var(--color-border)] bg-gradient-to-br from-[var(--color-accent-500)]/10 via-[var(--color-surface-1)] to-[var(--color-accent-to)]/10 p-8 sm:p-12 mb-10 overflow-hidden">
       <div class="absolute top-0 right-0 w-64 h-64 bg-[var(--color-accent-500)]/5 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"></div>
       <div class="relative max-w-xl">
         <p class="text-xs font-semibold uppercase tracking-widest text-[var(--color-accent-400)] mb-3">Open-source & self-hosted</p>
         <h1 class="text-2xl sm:text-4xl font-bold mb-4 leading-tight">Votre newsletter tech,<br/>chez vous</h1>
-        <p class="text-zinc-400 text-sm sm:text-base leading-relaxed mb-6">
-          Pas de mailing list ni de formulaire d'inscription. Ici, on vous propose de créer <strong class="text-white">votre propre newsletter automatisée</strong> avec DayBrief — un outil open-source qui tourne gratuitement sur GitHub Actions.
+        <p class="text-[var(--color-text-secondary)] text-sm sm:text-base leading-relaxed mb-6">
+          Pas de mailing list ni de formulaire d'inscription. Ici, on vous propose de créer <strong class="text-[var(--color-text-primary)]">votre propre newsletter automatisée</strong> avec DayBrief — un outil open-source qui tourne gratuitement sur GitHub Actions.
         </p>
         <div class="flex flex-wrap gap-3">
           <a href="https://yoanbernabeu.github.io/daybrief/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-[var(--color-accent-500)] hover:bg-[var(--color-accent-400)] text-white text-sm font-semibold transition-colors">
             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"/></svg>
             Découvrir DayBrief
           </a>
-          <a href="https://github.com/yoanbernabeu/daybrief" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg border border-zinc-700 hover:border-zinc-500 text-zinc-300 hover:text-white text-sm font-semibold transition-colors">
+          <a href="https://github.com/yoanbernabeu/daybrief" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg border border-[var(--color-border-strong)] hover:border-[var(--color-text-muted)] text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] text-sm font-semibold transition-colors">
             <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/></svg>
             Voir sur GitHub
           </a>
@@ -31,26 +31,26 @@ import Layout from '../layouts/Layout.astro';
     <div class="mb-10">
       <h2 class="text-lg font-bold mb-5">Comment ça marche</h2>
       <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5">
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-5">
           <div class="w-8 h-8 rounded-lg bg-[var(--color-accent-500)]/15 flex items-center justify-center mb-3">
             <svg class="w-4 h-4 text-[var(--color-accent-400)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
           </div>
-          <h3 class="text-sm font-semibold text-white mb-1.5">1. Configurez vos sources</h3>
-          <p class="text-xs text-zinc-400 leading-relaxed">Ajoutez vos flux RSS, chaînes YouTube ou podcasts dans un fichier YAML. Incluez le flux de Flux pour la veille tech francophone.</p>
+          <h3 class="text-sm font-semibold text-[var(--color-text-primary)] mb-1.5">1. Configurez vos sources</h3>
+          <p class="text-xs text-[var(--color-text-muted)] leading-relaxed">Ajoutez vos flux RSS, chaînes YouTube ou podcasts dans un fichier YAML. Incluez le flux de Flux pour la veille tech francophone.</p>
         </div>
-        <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5">
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-5">
           <div class="w-8 h-8 rounded-lg bg-purple-500/15 flex items-center justify-center mb-3">
             <svg class="w-4 h-4 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z"/></svg>
           </div>
-          <h3 class="text-sm font-semibold text-white mb-1.5">2. Gemini résume</h3>
-          <p class="text-xs text-zinc-400 leading-relaxed">Chaque jour, DayBrief récupère les nouveaux contenus et les envoie à Gemini pour une synthèse éditoriale complète.</p>
+          <h3 class="text-sm font-semibold text-[var(--color-text-primary)] mb-1.5">2. Gemini résume</h3>
+          <p class="text-xs text-[var(--color-text-muted)] leading-relaxed">Chaque jour, DayBrief récupère les nouveaux contenus et les envoie à Gemini pour une synthèse éditoriale complète.</p>
         </div>
-        <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-5">
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-5">
           <div class="w-8 h-8 rounded-lg bg-emerald-500/15 flex items-center justify-center mb-3">
             <svg class="w-4 h-4 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75"/></svg>
           </div>
-          <h3 class="text-sm font-semibold text-white mb-1.5">3. Recevez par email</h3>
-          <p class="text-xs text-zinc-400 leading-relaxed">La newsletter HTML arrive dans votre boîte mail. Chaque édition est aussi archivée en JSON dans votre repo.</p>
+          <h3 class="text-sm font-semibold text-[var(--color-text-primary)] mb-1.5">3. Recevez par email</h3>
+          <p class="text-xs text-[var(--color-text-muted)] leading-relaxed">La newsletter HTML arrive dans votre boîte mail. Chaque édition est aussi archivée en JSON dans votre repo.</p>
         </div>
       </div>
     </div>
@@ -61,23 +61,23 @@ import Layout from '../layouts/Layout.astro';
         <svg class="w-5 h-5 text-[var(--color-accent-400)]" fill="currentColor" viewBox="0 0 24 24"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z"/></svg>
       </div>
       <div class="flex-1 min-w-0">
-        <p class="text-sm text-white font-medium mb-1">Flux RSS de Flux — prêt à l'emploi</p>
-        <p class="text-xs text-zinc-400">Ajoutez cette URL dans votre config DayBrief pour recevoir un digest quotidien de la veille tech francophone.</p>
+        <p class="text-sm text-[var(--color-text-primary)] font-medium mb-1">Flux RSS de Flux — prêt à l'emploi</p>
+        <p class="text-xs text-[var(--color-text-muted)]">Ajoutez cette URL dans votre config DayBrief pour recevoir un digest quotidien de la veille tech francophone.</p>
       </div>
-      <code class="text-xs font-mono text-[var(--color-accent-300)] bg-zinc-900 border border-zinc-800 px-3 py-2 rounded-lg select-all shrink-0">https://flux.yoandev.co/rss.xml</code>
+      <code class="text-xs font-mono text-[var(--color-accent-300)] bg-[var(--color-surface-2)] border border-[var(--color-border)] px-3 py-2 rounded-lg select-all shrink-0">https://flux.yoandev.co/rss.xml</code>
     </div>
 
     <!-- Setup section -->
     <div class="mb-10">
       <h2 class="text-lg font-bold mb-2">Mise en place en 5 minutes</h2>
-      <p class="text-sm text-zinc-400 mb-5">Pas besoin de forker. Créez un nouveau repo GitHub et ajoutez-y deux fichiers :</p>
+      <p class="text-sm text-[var(--color-text-muted)] mb-5">Pas besoin de forker. Créez un nouveau repo GitHub et ajoutez-y deux fichiers :</p>
 
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
         <!-- config.yaml -->
-        <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden">
-          <div class="flex items-center gap-2 px-4 py-3 border-b border-zinc-800 bg-zinc-900/50">
-            <svg class="w-3.5 h-3.5 text-zinc-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"/></svg>
-            <span class="text-xs font-medium text-zinc-400">config.yaml</span>
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden">
+          <div class="flex items-center gap-2 px-4 py-3 border-b border-[var(--color-border)] bg-[var(--color-surface-2)]">
+            <svg class="w-3.5 h-3.5 text-[var(--color-text-subtle)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z"/></svg>
+            <span class="text-xs font-medium text-[var(--color-text-muted)]">config.yaml</span>
           </div>
           <pre class="p-4 font-mono text-xs text-[var(--color-accent-300)] leading-relaxed overflow-x-auto">gemini:
   model: "gemini-3-flash-preview"
@@ -98,10 +98,10 @@ sources:
         </div>
 
         <!-- workflow -->
-        <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden">
-          <div class="flex items-center gap-2 px-4 py-3 border-b border-zinc-800 bg-zinc-900/50">
-            <svg class="w-3.5 h-3.5 text-zinc-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.348a1.125 1.125 0 010 1.971l-11.54 6.347a1.125 1.125 0 01-1.667-.985V5.653z"/></svg>
-            <span class="text-xs font-medium text-zinc-400">.github/workflows/daybrief.yml</span>
+        <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden">
+          <div class="flex items-center gap-2 px-4 py-3 border-b border-[var(--color-border)] bg-[var(--color-surface-2)]">
+            <svg class="w-3.5 h-3.5 text-[var(--color-text-subtle)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.348a1.125 1.125 0 010 1.971l-11.54 6.347a1.125 1.125 0 01-1.667-.985V5.653z"/></svg>
+            <span class="text-xs font-medium text-[var(--color-text-muted)]">.github/workflows/daybrief.yml</span>
           </div>
           <pre class="p-4 font-mono text-xs text-[var(--color-accent-300)] leading-relaxed overflow-x-auto">name: DayBrief Newsletter
 on:
@@ -129,18 +129,18 @@ jobs:
         </div>
       </div>
 
-      <p class="text-sm text-zinc-400 mt-4">
-        Ajoutez vos secrets dans <strong class="text-white">Settings → Secrets → Actions</strong> (clé Gemini, SMTP, destinataires), lancez manuellement depuis l'onglet Actions pour tester, et c'est parti. Le <a href="https://yoanbernabeu.github.io/daybrief/guide/" target="_blank" rel="noopener noreferrer" class="text-[var(--color-accent-400)] hover:text-[var(--color-accent-300)] transition-colors underline underline-offset-2">guide complet</a> détaille chaque étape.
+      <p class="text-sm text-[var(--color-text-muted)] mt-4">
+        Ajoutez vos secrets dans <strong class="text-[var(--color-text-primary)]">Settings → Secrets → Actions</strong> (clé Gemini, SMTP, destinataires), lancez manuellement depuis l'onglet Actions pour tester, et c'est parti. Le <a href="https://yoanbernabeu.github.io/daybrief/guide/" target="_blank" rel="noopener noreferrer" class="text-[var(--color-accent-400)] hover:text-[var(--color-accent-300)] transition-colors underline underline-offset-2">guide complet</a> détaille chaque étape.
       </p>
     </div>
 
     <!-- Philosophy -->
-    <div class="rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] p-6 sm:p-8 text-sm text-zinc-300 leading-relaxed">
-      <h2 class="text-lg font-bold text-white mb-3">Pourquoi cette approche ?</h2>
+    <div class="rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] p-6 sm:p-8 text-sm text-[var(--color-text-secondary)] leading-relaxed">
+      <h2 class="text-lg font-bold text-[var(--color-text-primary)] mb-3">Pourquoi cette approche ?</h2>
       <p class="mb-3">
         Parce que vous êtes des devs. Vous n'avez pas besoin d'un formulaire Mailchimp. Vous pouvez héberger votre propre outil, choisir vos sources, personnaliser le ton, la fréquence, les destinataires. Et tout ça gratuitement, sur GitHub Actions.
       </p>
-      <p class="text-zinc-500">
+      <p class="text-[var(--color-text-subtle)]">
         C'est l'esprit de Flux : pas d'intermédiaire, pas de dépendance à un service tiers, juste des outils open-source et du RSS.
       </p>
     </div>

@@ -24,7 +24,7 @@ const categoryIcons: Record<string, string> = {
 <div class="filter-toolbar flex flex-col gap-4">
   <!-- Categories row -->
   <div class="flex items-center gap-3">
-    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-zinc-600 font-medium shrink-0">Filtrer</span>
+    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-[var(--color-text-subtle)] font-medium shrink-0">Filtrer</span>
     <div class="flex flex-wrap gap-2" id="category-filters">
       <button
         data-category="all"
@@ -38,8 +38,7 @@ const categoryIcons: Record<string, string> = {
       {categories.map((cat) => (
         <button
           data-category={cat}
-          class="filter-btn group/btn relative flex items-center gap-1.5 px-4 py-2 text-xs font-medium rounded-xl transition-all duration-200 cursor-pointer
-            bg-zinc-800/50 text-zinc-400 border border-zinc-700/50 hover:bg-zinc-800 hover:text-zinc-300 hover:border-zinc-600"
+          class="filter-btn filter-btn-inactive group/btn relative flex items-center gap-1.5 px-4 py-2 text-xs font-medium rounded-xl transition-all duration-200 cursor-pointer border"
         >
           <svg class="w-3.5 h-3.5 opacity-60 group-hover/btn:opacity-100 transition-opacity" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
             <Fragment set:html={categoryIcons[cat] || '<path stroke-linecap="round" stroke-linejoin="round" d="M9.568 3H5.25A2.25 2.25 0 003 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 005.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 009.568 3z" /><path stroke-linecap="round" stroke-linejoin="round" d="M6 6h.008v.008H6V6z" />'} />
@@ -52,9 +51,9 @@ const categoryIcons: Record<string, string> = {
 
   <!-- Source & Type row -->
   <div class="flex items-center gap-3 flex-wrap">
-    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-zinc-600 font-medium shrink-0">Source</span>
+    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-[var(--color-text-subtle)] font-medium shrink-0">Source</span>
     <div class="relative" id="source-filters">
-      <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-zinc-500">
+      <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-[var(--color-text-muted)]">
         <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
         </svg>
@@ -62,14 +61,14 @@ const categoryIcons: Record<string, string> = {
       <select
         id="source-select"
         aria-label="Filtrer par source"
-        class="appearance-none pl-9 pr-10 py-2 text-xs font-medium rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-800 hover:text-zinc-300 hover:border-zinc-600 focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-300)] cursor-pointer transition-all duration-200"
+        class="filter-btn-inactive appearance-none pl-9 pr-10 py-2 text-xs font-medium rounded-xl border focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-400)] cursor-pointer transition-all duration-200"
       >
         <option value="all">Toutes les sources</option>
         {sources.map((source) => (
           <option value={source.name}>{source.name}</option>
         ))}
       </select>
-      <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none text-zinc-500">
+      <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none text-[var(--color-text-muted)]">
         <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
         </svg>
@@ -78,9 +77,9 @@ const categoryIcons: Record<string, string> = {
 
     {showTypeFilter && (
       <Fragment>
-        <span class="hidden sm:block text-[11px] uppercase tracking-widest text-zinc-600 font-medium shrink-0 ml-2">Type</span>
+        <span class="hidden sm:block text-[11px] uppercase tracking-widest text-[var(--color-text-subtle)] font-medium shrink-0 ml-2">Type</span>
         <div class="relative">
-          <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-zinc-500">
+          <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-[var(--color-text-muted)]">
             <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 00-1.883 2.542l.857 6a2.25 2.25 0 002.227 1.932H19.05a2.25 2.25 0 002.227-1.932l.857-6a2.25 2.25 0 00-1.883-2.542m-16.5 0V6A2.25 2.25 0 016 3.75h3.879a1.5 1.5 0 011.06.44l2.122 2.12a1.5 1.5 0 001.06.44H18A2.25 2.25 0 0120.25 9v.776" />
             </svg>
@@ -88,14 +87,14 @@ const categoryIcons: Record<string, string> = {
           <select
             id="type-select"
             aria-label="Filtrer par type"
-            class="appearance-none pl-9 pr-10 py-2 text-xs font-medium rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-800 hover:text-zinc-300 hover:border-zinc-600 focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-300)] cursor-pointer transition-all duration-200"
+            class="filter-btn-inactive appearance-none pl-9 pr-10 py-2 text-xs font-medium rounded-xl border focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-400)] cursor-pointer transition-all duration-200"
           >
             <option value="all">Tous les types</option>
             <option value="blog">Articles</option>
             <option value="podcast">Podcasts</option>
             <option value="youtube">YouTube</option>
           </select>
-          <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none text-zinc-500">
+          <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none text-[var(--color-text-muted)]">
             <svg class="w-3 h-3" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
             </svg>
@@ -107,46 +106,46 @@ const categoryIcons: Record<string, string> = {
 
   <!-- Date filters row -->
   <div class="flex items-center gap-3 flex-wrap pt-2">
-    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-zinc-600 font-medium shrink-0">Dates</span>
+    <span class="hidden sm:block text-[11px] uppercase tracking-widest text-[var(--color-text-subtle)] font-medium shrink-0">Dates</span>
     <div class="flex flex-wrap items-center gap-2">
       <div class="flex items-center gap-1">
-        <label for="date-from" class="text-xs text-zinc-500">Du</label>
-        <input 
-          type="date" 
-          id="date-from" 
-          class="px-3 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-300 focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-300)]"
+        <label for="date-from" class="text-xs text-[var(--color-text-muted)]">Du</label>
+        <input
+          type="date"
+          id="date-from"
+          class="filter-btn-inactive px-3 py-2 text-xs rounded-xl border focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-400)]"
         />
       </div>
       <div class="flex items-center gap-1">
-        <label for="date-to" class="text-xs text-zinc-500">Au</label>
-        <input 
-          type="date" 
-          id="date-to" 
-          class="px-3 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-300 focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-300)]"
+        <label for="date-to" class="text-xs text-[var(--color-text-muted)]">Au</label>
+        <input
+          type="date"
+          id="date-to"
+          class="filter-btn-inactive px-3 py-2 text-xs rounded-xl border focus:outline-none focus:border-[var(--color-accent-500)]/60 focus:text-[var(--color-accent-400)]"
         />
       </div>
       <div class="flex items-center gap-1 flex-wrap">
-        <button 
-          id="preset-7d" 
-          class="px-2.5 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-300 transition-all"
+        <button
+          id="preset-7d"
+          class="filter-btn-inactive px-2.5 py-2 text-xs rounded-xl border transition-all"
         >
           7j
         </button>
-        <button 
-          id="preset-30d" 
-          class="px-2.5 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-300 transition-all"
+        <button
+          id="preset-30d"
+          class="filter-btn-inactive px-2.5 py-2 text-xs rounded-xl border transition-all"
         >
           30j
         </button>
-        <button 
-          id="preset-month" 
-          class="px-2.5 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-300 transition-all"
+        <button
+          id="preset-month"
+          class="filter-btn-inactive px-2.5 py-2 text-xs rounded-xl border transition-all"
         >
           Mois
         </button>
-        <button 
-          id="reset-dates" 
-          class="px-2.5 py-2 text-xs rounded-xl border border-zinc-700/50 bg-zinc-800/50 text-zinc-400 hover:bg-zinc-700 hover:text-zinc-300 transition-all"
+        <button
+          id="reset-dates"
+          class="filter-btn-inactive px-2.5 py-2 text-xs rounded-xl border transition-all"
         >
           ×
         </button>

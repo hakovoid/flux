@@ -15,8 +15,8 @@ const siteUrl = 'https://flux.yoandev.co';
         <div class="rs-col-header">
           <div class="flex items-center justify-between mb-3">
             <div>
-              <h1 class="text-base font-semibold text-white">Selection</h1>
-              <p class="text-[11px] text-zinc-500 mt-0.5" id="articles-subtitle"></p>
+              <h1 class="text-base font-semibold text-[var(--color-text-primary)]">Selection</h1>
+              <p class="text-[11px] text-[var(--color-text-muted)] mt-0.5" id="articles-subtitle"></p>
             </div>
             <div class="flex items-center gap-1.5">
               <button id="select-all" class="rs-btn-ghost">Tout</button>
@@ -36,9 +36,9 @@ const siteUrl = 'https://flux.yoandev.co';
 
         <!-- Article list (scrollable) -->
         <div class="rs-col-scroll">
-          <div id="articles-list" class="divide-y divide-zinc-800/50"></div>
+          <div id="articles-list" class="divide-y divide-[var(--color-border)]/50"></div>
           <div id="empty-state" class="hidden py-16 text-center">
-            <p class="text-zinc-600 text-sm">Aucun article sur cette periode.</p>
+            <p class="text-[var(--color-text-subtle)] text-sm">Aucun article sur cette periode.</p>
           </div>
         </div>
       </div>
@@ -47,8 +47,8 @@ const siteUrl = 'https://flux.yoandev.co';
       <div class="rs-col">
         <div class="rs-col-header">
           <div class="flex items-center justify-between mb-3">
-            <h2 class="text-base font-semibold text-white">Thread</h2>
-            <span id="selection-count" class="text-[11px] text-zinc-600">0 selectionne</span>
+            <h2 class="text-base font-semibold text-[var(--color-text-primary)]">Thread</h2>
+            <span id="selection-count" class="text-[11px] text-[var(--color-text-subtle)]">0 selectionne</span>
           </div>
 
           <!-- API Key (inline) -->
@@ -56,21 +56,21 @@ const siteUrl = 'https://flux.yoandev.co';
             <div id="key-saved" class="hidden rs-key-bar">
               <div class="flex items-center gap-2">
                 <svg class="w-3 h-3 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 5.25a3 3 0 013 3m3 0a6 6 0 01-7.029 5.912c-.563-.097-1.159.026-1.563.43L10.5 17.25H8.25v2.25H6v2.25H2.25v-2.818c0-.597.237-1.17.659-1.591l6.499-6.499c.404-.404.527-1 .43-1.563A6 6 0 1121.75 8.25z"/></svg>
-                <span class="text-[11px] text-zinc-400">API</span>
-                <span class="text-[11px] text-zinc-600 font-mono" id="key-preview"></span>
+                <span class="text-[11px] text-[var(--color-text-secondary)]">API</span>
+                <span class="text-[11px] text-[var(--color-text-subtle)] font-mono" id="key-preview"></span>
               </div>
-              <button id="change-key" class="text-[11px] text-zinc-700 hover:text-zinc-400 transition-colors cursor-pointer">modifier</button>
+              <button id="change-key" class="text-[11px] text-[var(--color-text-subtle)] hover:text-[var(--color-text-secondary)] transition-colors cursor-pointer">modifier</button>
             </div>
             <div id="key-form" class="flex gap-1.5">
               <input
                 type="password"
                 id="api-key"
                 placeholder="Cle API Gemini..."
-                class="flex-1 px-2.5 py-1.5 rounded-lg bg-zinc-900 border border-zinc-800 text-white placeholder-zinc-700 focus:outline-none focus:border-[var(--color-accent-500)]/50 text-xs font-mono transition-colors"
+                class="flex-1 px-2.5 py-1.5 rounded-lg bg-[var(--color-surface-0)] border border-[var(--color-border)] text-[var(--color-text-primary)] placeholder-[var(--color-text-subtle)] focus:outline-none focus:border-[var(--color-accent-500)]/50 text-xs font-mono transition-colors"
               />
               <button id="save-key" class="rs-btn-primary text-xs px-3 py-1.5">OK</button>
             </div>
-            <p id="key-status" class="mt-1 text-[11px] text-zinc-600"></p>
+            <p id="key-status" class="mt-1 text-[11px] text-[var(--color-text-subtle)]"></p>
           </div>
 
           <!-- Generate button -->
@@ -83,7 +83,7 @@ const siteUrl = 'https://flux.yoandev.co';
           <div id="loading-bar" class="hidden mt-2">
             <div class="flex items-center gap-2">
               <svg class="w-3.5 h-3.5 animate-spin text-[var(--color-accent-400)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182"/></svg>
-              <span class="text-[11px] text-zinc-500" id="loading-text">Generation du thread...</span>
+              <span class="text-[11px] text-[var(--color-text-muted)]" id="loading-text">Generation du thread...</span>
             </div>
           </div>
 
@@ -97,7 +97,7 @@ const siteUrl = 'https://flux.yoandev.co';
         <div class="rs-col-scroll">
           <div id="thread-content" class="hidden">
             <!-- Action buttons -->
-            <div class="flex items-center gap-2 px-4 py-3 border-b border-zinc-800/50">
+            <div class="flex items-center gap-2 px-4 py-3 border-b border-[var(--color-border)]/50">
               <button id="copy-twitter" class="rs-btn-ghost flex items-center gap-1">
                 <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
                 Copier Twitter
@@ -116,8 +116,8 @@ const siteUrl = 'https://flux.yoandev.co';
             <div id="thread-tweets"></div>
           </div>
           <div id="thread-empty" class="py-20 text-center">
-            <svg class="w-8 h-8 text-zinc-800 mx-auto mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z"/></svg>
-            <p class="text-zinc-700 text-xs" id="thread-empty-text">Selectionnez des articles et generez le thread</p>
+            <svg class="w-8 h-8 text-[var(--color-border-strong)] mx-auto mb-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z"/></svg>
+            <p class="text-[var(--color-text-subtle)] text-xs" id="thread-empty-text">Selectionnez des articles et generez le thread</p>
           </div>
         </div>
       </div>
@@ -268,13 +268,13 @@ const siteUrl = 'https://flux.yoandev.co';
           </div>
         </div>
         <div class="min-w-0 flex-1">
-          <p class="text-[13px] text-zinc-300 font-medium leading-snug group-hover:text-white transition-colors line-clamp-2">${escapeHtml(article.title)}</p>
+          <p class="text-[13px] text-[var(--color-text-secondary)] font-medium leading-snug group-hover:text-[var(--color-text-primary)] transition-colors line-clamp-2">${escapeHtml(article.title)}</p>
           <div class="flex items-center gap-1.5 mt-1">
             ${article.type === 'podcast' ? '<span class="rs-tag-type rs-tag-podcast">Podcast</span>' : ''}
             ${article.type === 'youtube' ? '<span class="rs-tag-type rs-tag-youtube">YouTube</span>' : ''}
-            <span class="text-[11px] text-zinc-600">${escapeHtml(article.source)}</span>
-            <span class="text-zinc-800">&middot;</span>
-            <span class="text-[11px] text-zinc-700">${formatDateLocal(article.pubDate)}</span>
+            <span class="text-[11px] text-[var(--color-text-muted)]">${escapeHtml(article.source)}</span>
+            <span class="text-[var(--color-border-strong)]">&middot;</span>
+            <span class="text-[11px] text-[var(--color-text-subtle)]">${formatDateLocal(article.pubDate)}</span>
           </div>
         </div>
       </label>
@@ -293,12 +293,10 @@ const siteUrl = 'https://flux.yoandev.co';
       function sync() {
         if (input.checked) {
           box.classList.add('accent-selected');
-          box.classList.remove('border-zinc-700', 'bg-zinc-900');
           check.classList.replace('opacity-0', 'opacity-100');
           row.classList.add('rs-article-selected');
         } else {
           box.classList.remove('accent-selected');
-          box.classList.add('border-zinc-700', 'bg-zinc-900');
           check.classList.replace('opacity-100', 'opacity-0');
           row.classList.remove('rs-article-selected');
         }
@@ -473,13 +471,13 @@ Reponds UNIQUEMENT avec un JSON valide au format :
         : '';
 
     const source = sourceName
-      ? `<span class="text-[11px] text-zinc-600">${escapeHtml(sourceName)}</span>`
+      ? `<span class="text-[11px] text-[var(--color-text-muted)]">${escapeHtml(sourceName)}</span>`
       : '';
 
     card.innerHTML = `
       <div class="flex items-start justify-between gap-2 mb-1.5">
         <div class="flex items-center gap-2 min-w-0">
-          <span class="text-[11px] text-zinc-500 font-mono font-semibold shrink-0">${num}/${total}</span>
+          <span class="text-[11px] text-[var(--color-text-muted)] font-mono font-semibold shrink-0">${num}/${total}</span>
           ${badge}
           ${source}
         </div>
@@ -500,7 +498,7 @@ Reponds UNIQUEMENT avec un JSON valide au format :
           </div>
         </div>
       </div>
-      <p class="text-[13px] text-zinc-200 leading-relaxed whitespace-pre-wrap">${escapeHtml(text)}</p>
+      <p class="text-[13px] text-[var(--color-text-primary)] leading-relaxed whitespace-pre-wrap">${escapeHtml(text)}</p>
     `;
 
     card.querySelector('.copy-single-btn').addEventListener('click', () => {
@@ -605,15 +603,15 @@ Reponds UNIQUEMENT avec un JSON valide au format :
     display: flex;
     flex-direction: column;
     min-height: 0;
-    background: linear-gradient(145deg, rgba(24, 24, 27, 0.5), rgba(9, 9, 11, 0.7));
-    border: 1px solid rgba(39, 39, 42, 0.5);
+    background: var(--color-surface-1);
+    border: 1px solid var(--color-border);
     border-radius: 14px;
     overflow: hidden;
   }
 
   .rs-col-header {
     padding: 16px 16px 12px;
-    border-bottom: 1px solid rgba(39, 39, 42, 0.4);
+    border-bottom: 1px solid var(--color-border);
     flex-shrink: 0;
   }
 
@@ -638,12 +636,12 @@ Reponds UNIQUEMENT avec un JSON valide au format :
   /* ---- Thread tweet cards ---- */
   .rs-thread-tweet {
     padding: 12px 16px;
-    border-bottom: 1px solid rgba(39, 39, 42, 0.3);
+    border-bottom: 1px solid var(--color-border);
     transition: background 0.15s;
     animation: rs-slide-up 0.25s ease-out both;
   }
   .rs-thread-tweet:hover {
-    background: rgba(39, 39, 42, 0.15);
+    background: var(--color-surface-2);
   }
   .rs-tweet-copied {
     border-left: 2px solid rgba(16, 185, 129, 0.4);
@@ -676,21 +674,21 @@ Reponds UNIQUEMENT avec un JSON valide au format :
     padding: 4px 10px;
     border-radius: 6px;
     font-size: 11px;
-    color: #71717a;
+    color: var(--color-text-muted);
     background: transparent;
-    border: 1px solid rgba(39, 39, 42, 0.5);
+    border: 1px solid var(--color-border);
     cursor: pointer;
     transition: all 0.15s;
     font-weight: 500;
   }
   .rs-btn-ghost:hover {
-    color: #d4d4d8;
-    border-color: #3f3f46;
-    background: rgba(39, 39, 42, 0.3);
+    color: var(--color-text-primary);
+    border-color: var(--color-border-strong);
+    background: var(--color-surface-2);
   }
 
   .rs-btn-primary {
-    background: #6366f1;
+    background: var(--color-accent-500);
     color: white;
     border: none;
     border-radius: 8px;
@@ -698,7 +696,7 @@ Reponds UNIQUEMENT avec un JSON valide au format :
     cursor: pointer;
     transition: all 0.15s;
   }
-  .rs-btn-primary:hover { background: #818cf8; }
+  .rs-btn-primary:hover { background: var(--color-accent-400); }
 
   .rs-btn-generate {
     padding: 10px 16px;
@@ -732,17 +730,20 @@ Reponds UNIQUEMENT avec un JSON valide au format :
     border-radius: 6px;
     font-size: 11px;
     font-weight: 500;
-    color: #71717a;
+    color: var(--color-text-muted);
     background: transparent;
     border: 1px solid transparent;
     cursor: pointer;
     transition: all 0.15s;
   }
-  .rs-range-btn:hover { color: #d4d4d8; background: rgba(39, 39, 42, 0.3); }
+  .rs-range-btn:hover { color: var(--color-text-primary); background: var(--color-surface-2); }
   .rs-range-active {
-    color: #c7d2fe;
-    background: rgba(99, 102, 241, 0.12);
-    border-color: rgba(99, 102, 241, 0.25);
+    color: var(--color-accent-300);
+    background: color-mix(in srgb, var(--color-accent-500) 12%, transparent);
+    border-color: color-mix(in srgb, var(--color-accent-500) 25%, transparent);
+  }
+  :root[data-theme="light"] .rs-range-active {
+    color: var(--color-accent-600);
   }
 
   /* ---- Article rows ---- */
@@ -754,15 +755,15 @@ Reponds UNIQUEMENT avec un JSON valide au format :
     cursor: pointer;
     transition: background 0.15s;
   }
-  .rs-article-row:hover { background: rgba(39, 39, 42, 0.15); }
-  .rs-article-selected { background: rgba(99, 102, 241, 0.04); }
+  .rs-article-row:hover { background: var(--color-surface-2); }
+  .rs-article-selected { background: color-mix(in srgb, var(--color-accent-500) 5%, transparent); }
 
   .rs-checkbox-wrap { padding-top: 2px; flex-shrink: 0; position: relative; overflow: hidden; }
   .rs-checkbox {
     width: 15px; height: 15px;
     border-radius: 4px;
-    border: 1.5px solid #3f3f46;
-    background: #18181b;
+    border: 1.5px solid var(--color-border-strong);
+    background: var(--color-surface-0);
     display: flex;
     align-items: center;
     justify-content: center;
