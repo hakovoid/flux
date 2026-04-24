@@ -1,6 +1,7 @@
 ---
 import ArticleCard from './ArticleCard.astro';
 import ArticleListItem from './ArticleListItem.astro';
+import ArticleListItemCompact from './ArticleListItemCompact.astro';
 import SearchBar from './SearchBar.astro';
 import CategoryFilter from './CategoryFilter.astro';
 import type { Article, FeedType } from '../types/index';
@@ -57,6 +58,9 @@ for (let i = 1; i <= totalPages; i++) {
         <svg id="view-list" class="w-[18px] h-[18px] hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 0 1 0 3.75H5.625a1.875 1.875 0 0 1 0-3.75Z" />
         </svg>
+        <svg id="view-compact" class="w-[18px] h-[18px] hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 5.25h16.5M3.75 9h16.5M3.75 12.75h16.5M3.75 16.5h16.5M3.75 20.25h16.5" />
+        </svg>
       </button>
       <button
         id="toggle-filters"
@@ -80,37 +84,40 @@ for (let i = 1; i <= totalPages; i++) {
 
 <script is:inline>
   document.addEventListener('astro:page-load', function() {
-    // View mode toggle
+    // View mode toggle (cycles cards → list → compact)
     var viewToggle = document.getElementById('toggle-view');
     var viewGridIcon = document.getElementById('view-grid');
     var viewListIcon = document.getElementById('view-list');
-    
+    var viewCompactIcon = document.getElementById('view-compact');
+
     // Filter toggle
     var filterToggle = document.getElementById('toggle-filters');
     var filterPanel = document.getElementById('filters-panel');
     var filterIconClosed = document.getElementById('filter-icon-closed');
     var filterIconOpen = document.getElementById('filter-icon-open');
-    
-    // Initialize view mode from localStorage or default to 'cards'
-    var currentViewMode = localStorage.getItem('flux-view-mode') || 'cards';
-    document.documentElement.dataset.viewMode = currentViewMode;
-    
-    // Update view toggle button icons
-    if (currentViewMode === 'list') {
-      viewGridIcon.classList.add('hidden');
-      viewListIcon.classList.remove('hidden');
+
+    var VIEW_MODES = ['cards', 'list', 'compact'];
+    var VIEW_LABELS = { cards: 'Vue cartes', list: 'Vue liste', compact: 'Vue compacte' };
+
+    function applyViewMode(mode) {
+      if (VIEW_MODES.indexOf(mode) === -1) mode = 'cards';
+      document.documentElement.dataset.viewMode = mode;
+      if (viewGridIcon) viewGridIcon.classList.toggle('hidden', mode !== 'cards');
+      if (viewListIcon) viewListIcon.classList.toggle('hidden', mode !== 'list');
+      if (viewCompactIcon) viewCompactIcon.classList.toggle('hidden', mode !== 'compact');
+      if (viewToggle) viewToggle.setAttribute('aria-label', VIEW_LABELS[mode] || 'Basculer la vue');
     }
-    
-    // View toggle click handler
+
+    var currentViewMode = localStorage.getItem('flux-view-mode') || 'cards';
+    applyViewMode(currentViewMode);
+
     if (viewToggle) {
       viewToggle.onclick = function() {
-        var isListView = document.documentElement.dataset.viewMode === 'list';
-        document.documentElement.dataset.viewMode = isListView ? 'cards' : 'list';
-        localStorage.setItem('flux-view-mode', isListView ? 'cards' : 'list');
-
-        // Toggle icons
-        viewGridIcon.classList.toggle('hidden', !isListView);
-        viewListIcon.classList.toggle('hidden', isListView);
+        var current = document.documentElement.dataset.viewMode || 'cards';
+        var nextIndex = (VIEW_MODES.indexOf(current) + 1) % VIEW_MODES.length;
+        var next = VIEW_MODES[nextIndex];
+        applyViewMode(next);
+        localStorage.setItem('flux-view-mode', next);
       };
     }
     
@@ -167,6 +174,13 @@ for (let i = 1; i <= totalPages; i++) {
       ))}
     </div>
 
+    <!-- Compact view -->
+    <div class="flex flex-col divide-y divide-[var(--color-border)] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden" data-view-mode="compact">
+      {articles.map((article) => (
+        <ArticleListItemCompact article={article} />
+      ))}
+    </div>
+
     {articles.length === 0 && (
       <div class="text-center py-20 text-[var(--color-text-muted)]">
         <svg class="w-12 h-12 mx-auto mb-4 text-[var(--color-text-subtle)]" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
@@ -204,6 +218,8 @@ for (let i = 1; i <= totalPages; i++) {
     <div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4" data-view-mode="cards"></div>
     <!-- List view -->
     <div id="search-results-list" class="flex flex-col gap-3" data-view-mode="list"></div>
+    <!-- Compact view -->
+    <div id="search-results-compact" class="flex flex-col divide-y divide-[var(--color-border)] rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] overflow-hidden" data-view-mode="compact"></div>
     <nav id="search-pagination" aria-label="Pagination" class="flex items-center justify-center gap-1.5 mt-8"></nav>
   </div>
 
@@ -472,6 +488,45 @@ for (let i = 1; i <= totalPages; i++) {
     </article>`;
   }
 
+  function formatShortDate(dateStr: string): string {
+    const d = new Date(dateStr);
+    return `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}`;
+  }
+
+  function renderCompactItem(a: SearchArticle): string {
+    const primaryCategory = a.categories[0];
+    const fav = isFavorited(a.id);
+    const later = isReadLater(a.id);
+    const favFill = fav ? '#fbbf24' : 'none';
+    const laterFill = later ? '#60a5fa' : 'none';
+
+    const typeBadgeHtml = (a.type === 'podcast' || a.type === 'youtube')
+      ? `<span class="text-[10px] px-1.5 py-0.5 rounded-full border ${a.type === 'podcast' ? 'bg-fuchsia-500/20 text-fuchsia-400 border-fuchsia-500/30' : 'bg-red-500/20 text-red-400 border-red-500/30'} shrink-0">${getTypeLabel(a.type as any)}</span>`
+      : '';
+
+    const categoryHtml = primaryCategory
+      ? `<a href="/categorie/${encodeURIComponent(slugify(primaryCategory))}" class="text-[10px] text-[var(--color-text-muted)] shrink-0 hidden lg:inline-block hover:text-[var(--color-accent-400)] transition-colors truncate max-w-[100px]">${escapeHtml(primaryCategory)}</a>`
+      : '';
+
+    return `<article class="card-hover group relative flex items-center gap-3 py-2 px-3 hover:bg-[var(--color-surface-2)] transition-colors" data-article-id="${escapeHtml(a.id)}">
+      <time datetime="${escapeHtml(a.pubDate)}" class="text-[11px] tabular-nums text-[var(--color-text-muted)] shrink-0 w-12 hidden sm:block">${formatShortDate(a.pubDate)}</time>
+      <a href="/article/${escapeHtml(a.id)}" class="text-sm font-medium flex-1 min-w-0 truncate hover:text-[var(--color-accent-400)] transition-colors">${escapeHtml(a.title)}</a>
+      ${categoryHtml}
+      <span class="text-xs text-[var(--color-text-secondary)] shrink-0 hidden md:inline-block truncate max-w-[140px]">${escapeHtml(a.source)}</span>
+      ${typeBadgeHtml}
+      <button data-favorite-toggle data-article-id="${escapeHtml(a.id)}" aria-label="Ajouter aux favoris" class="w-6 h-6 flex items-center justify-center rounded hover:bg-[var(--color-surface-overlay)] transition-colors shrink-0">
+        <svg class="w-3.5 h-3.5 favorite-icon" fill="${favFill}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path class="favorite-outline" stroke-linecap="round" stroke-linejoin="round" d="${FAVORITE_PATH}" />
+        </svg>
+      </button>
+      <button data-read-later-toggle data-article-id="${escapeHtml(a.id)}" aria-label="Lire plus tard" class="w-6 h-6 flex items-center justify-center rounded hover:bg-[var(--color-surface-overlay)] transition-colors shrink-0">
+        <svg class="w-3.5 h-3.5 read-later-icon" fill="${laterFill}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="${READ_LATER_PATH}" />
+        </svg>
+      </button>
+    </article>`;
+  }
+
   document.addEventListener('astro:page-load', () => {
     const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
     const browseMode = document.getElementById('browse-mode');
@@ -556,16 +611,19 @@ for (let i = 1; i <= totalPages; i++) {
         resultsCount.textContent = `${results.length} article${results.length > 1 ? 's' : ''} trouvé${results.length > 1 ? 's' : ''}`;
       }
 
-      // Render both view containers so toggling cards ↔ list works instantly
-      // without needing to re-run updateView(). The CSS rule in global.css hides
-      // the container that doesn't match html[data-view-mode].
+      // Render all view containers so toggling between views is instant.
+      // The CSS rule in global.css hides the containers that don't match html[data-view-mode].
       const searchResultsCards = document.getElementById('search-results');
       const searchResultsList = document.getElementById('search-results-list');
+      const searchResultsCompact = document.getElementById('search-results-compact');
       if (searchResultsCards) {
         searchResultsCards.innerHTML = pageResults.map((a) => renderCard(a)).join('');
       }
       if (searchResultsList) {
         searchResultsList.innerHTML = pageResults.map((a) => renderListItem(a)).join('');
+      }
+      if (searchResultsCompact) {
+        searchResultsCompact.innerHTML = pageResults.map((a) => renderCompactItem(a)).join('');
       }
 
       renderSearchPagination(totalPages);

@@ -1,0 +1,67 @@
+---
+import type { Article } from '../types/index';
+import { getTypeLabel, getTypeColor, slugify } from '../utils/articles';
+
+interface Props {
+  article: Article;
+}
+
+const { article } = Astro.props;
+
+const d = new Date(article.pubDate);
+const shortDate = `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}`;
+const primaryCategory = article.categories[0];
+---
+
+<article
+  class="card-hover group relative flex items-center gap-3 py-2 px-3 hover:bg-[var(--color-surface-2)] transition-colors"
+  data-article-id={article.id}
+  data-source={article.source}
+  data-categories={article.categories.join(',')}
+  data-title={article.title}
+  data-description={article.description}
+>
+  <time datetime={article.pubDate} class="text-[11px] tabular-nums text-[var(--color-text-muted)] shrink-0 w-12 hidden sm:block">
+    {shortDate}
+  </time>
+
+  <a href={`/article/${article.id}`} class="text-sm font-medium flex-1 min-w-0 truncate hover:text-[var(--color-accent-400)] transition-colors">
+    {article.title}
+  </a>
+
+  {primaryCategory && (
+    <a href={`/categorie/${slugify(primaryCategory)}`} class="text-[10px] text-[var(--color-text-muted)] shrink-0 hidden lg:inline-block hover:text-[var(--color-accent-400)] transition-colors truncate max-w-[100px]">
+      {primaryCategory}
+    </a>
+  )}
+
+  <span class="text-xs text-[var(--color-text-secondary)] shrink-0 hidden md:inline-block truncate max-w-[140px]">{article.source}</span>
+
+  {(article.type === 'podcast' || article.type === 'youtube') && (
+    <span class={`text-[10px] px-1.5 py-0.5 rounded-full border ${getTypeColor(article.type)} shrink-0`}>
+      {getTypeLabel(article.type)}
+    </span>
+  )}
+
+  <button
+    data-favorite-toggle
+    data-article-id={article.id}
+    aria-label="Ajouter aux favoris"
+    class="w-6 h-6 flex items-center justify-center rounded hover:bg-[var(--color-surface-overlay)] transition-colors shrink-0"
+  >
+    <svg class="w-3.5 h-3.5 favorite-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <path class="favorite-outline" stroke-linecap="round" stroke-linejoin="round" d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z" />
+    </svg>
+  </button>
+
+  <button
+    data-read-later-toggle
+    data-article-id={article.id}
+    aria-label="Lire plus tard"
+    class="w-6 h-6 flex items-center justify-center rounded hover:bg-[var(--color-surface-overlay)] transition-colors shrink-0"
+  >
+    <svg class="w-3.5 h-3.5 read-later-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
+    </svg>
+  </button>
+</article>
