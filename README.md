@@ -167,7 +167,32 @@ Les teintes sont définies dans `src/config/theme.ts` et injectées sous forme d
 
 ## Déploiement
 
-Le site est déployé automatiquement sur Netlify à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 4h UTC et commit les nouveaux articles, ce qui déclenche un redéploiement.
+- **Hébergement** : Netlify, URL : https://hakovoid-flux.netlify.app
+- **Auto-deploy** : push sur `main` → Netlify rebuild (~2 min)
+- **Cron** : `.github/workflows/fetch-feeds.yml` tourne chaque jour à 04:00 UTC, commit les nouveaux articles, ce qui redéclenche le rebuild Netlify
+
+⚠️ **Note quota Netlify free** : depuis le passage au modèle 300 crédits/mois (≈ 20 deploys/mois), un cron quotidien + dev actif sature vite. Plan de migration vers Cloudflare Pages disponible dans `~/kuro_apps/_second-brain/apps/hakomini/flux-daybrief/migration-netlify-vers-cloudflare.md`.
+
+## Intégration DayBrief
+
+Le RSS publié par Flux est consommé par [DayBrief](https://github.com/hakovoid/daybrief), une newsletter quotidienne IA :
+
+```
+Flux         → publie /rss.xml et /world/rss.xml
+DayBrief     → lit ces flux à 05:00 UTC, résume avec Gemini, envoie un email
+```
+
+Aucune dépendance directe : DayBrief consomme le RSS comme n'importe quel agrégateur. Ils sont totalement découplés.
+
+## Documentation interne
+
+Les notes opérationnelles (déploiement, dépannage, migration, suggestions d'évolution) sont dans `~/kuro_apps/_second-brain/apps/hakomini/flux-daybrief/` :
+
+- `STATUS.md` — état courant + TODO
+- `flux-et-daybrief-deploiement.md` — tuto complet
+- `migration-netlify-vers-cloudflare.md` — plan de migration
+
+Suggestions d'évolution dans `.claude/_docs/SUGGESTIONS.md` (36 idées classées par effort/valeur).
 
 ## Licence
 
