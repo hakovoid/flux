@@ -25,9 +25,11 @@ const primaryCategory = article.categories[0];
     {shortDate}
   </time>
 
-  <a href={`/article/${article.id}`} class="text-sm font-medium flex-1 min-w-0 truncate hover:text-[var(--color-accent-400)] transition-colors">
-    {article.title}
-  </a>
+  <h3 class="flex-1 min-w-0 text-sm font-medium leading-snug flex items-center gap-1.5">
+    <a href={`/article/${article.id}`} class="truncate hover:text-[var(--color-accent-400)] transition-colors">
+      {article.title}
+    </a>
+  </h3>
 
   {primaryCategory && (
     <a href={`/categorie/${slugify(primaryCategory)}`} class="text-[10px] text-[var(--color-text-muted)] shrink-0 hidden lg:inline-block hover:text-[var(--color-accent-400)] transition-colors truncate max-w-[100px]">
