@@ -3,7 +3,8 @@ name: Fetch RSS Feeds
 on:
   schedule:
     # 6h du matin heure de Paris (5h UTC en hiver, 4h UTC en été)
-    - cron: '0 4 * * *'
+    # - cron: '0 4 * * *'
+    - cron: '0 4 */3 * *'
   workflow_dispatch:
 
 env:
