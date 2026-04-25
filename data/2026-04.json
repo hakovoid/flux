@@ -2,6 +2,297 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "f7603beeaaaf",
+      "title": "tar-vfs-index - Monter du .tar.gz dans le browser sans l'extraire",
+      "description": "Distribuer des paquets binaires en WebAssembly, c'est galère. Vous téléchargez le .tar.gz, vous le gunzippez, vous l'extrayez en mémoire... et ça rame sévèrement !! Mais youpi, Jeroen Ooms (qui contribue à webR et bosse chez ROpenSci) vient de publier tar-vfs-index , un petit npm package qui casse cette malédiction des enfers en sautant carrément l'étape extraction. L'astuce est toute bête ! Au lieu d'extraire l'archive, on génère un fichier d'index qui liste la taille et l'offset de chaque…",
+      "link": "https://korben.info/webassembly-tar-navigateur.html",
+      "pubDate": "2026-04-25T05:22:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1c4976f5967",
+      "title": "Pack2theRoot - 12 ans d'accès root offert dans PackageKit",
+      "description": "Si vous tournez sur Ubuntu, Debian, Fedora ou RockyLinux, sachez que votre démon PackageKit a passé presque 12 ans à laisser une porte ouverte vers votre compte root. La Deutsche Telekom Red Team vient en effet de publier Pack2theRoot (CVE-2026-41651), une faille notée 8.8/10 qui permet à n'importe quel utilisateur local de devenir root sans mot de passe. Pour corriger le soucis, mettez à jour vers PackageKit 1.3.5 ou le backport de votre distro. Pour vérifier votre version, c'est dpkg -l |…",
+      "link": "https://korben.info/pack2theroot-faille-linux-root.html",
+      "pubDate": "2026-04-25T05:11:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pack2theroot-faille-linux-root/pack2theroot-faille-linux-root-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "7fdc38ee3387",
+      "title": "L'économie cachée des LLM",
+      "description": "Combien coûte vraiment un million de tokens quand on ne paie plus l’API, mais l’infrastructure qui les produit ? En partant du prefill, du decode, du batching, du KV cache et des modèles MoE, on estime combien de tokens une infrastructure GPU peut générer.",
+      "link": "https://blog.octo.com/l'economie-cachee-des-llm",
+      "pubDate": "2026-04-24T14:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0defadc5f04",
+      "title": "DevoxxFR 2026 - Récap du vendredi (jour 3)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) DevoxxFR - Récap du vendredi (jour 3) Troisième jour de DevoxxFR 2026 Dernier jour, et surtout pour moi : c’était le créneau de notre talk. Entre le “petit” stress avant de monter sur scène, la tension des démos live, puis le relâchement après coup, cette journée a eu une saveur différente. Moins de talks que les deux jours précédents dans mon programme, et je suis un peu rincé dans…",
+      "link": "https://blog.zwindler.fr/2026/04/24/devoxxfr-2026-recap-jour-3/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/limits-requests.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9d11d0324ed5",
+      "title": "J'ai testé le Engwe LE20 Passenger, le vélo cargo aux 350 km d'autonomie",
+      "description": "– Contient des liens affiliés Amazon – Gros bestiau électrique avec deux batteries de 19,2 Ah, le Engwe LE20 Passenger annonce 350 km d'autonomie et embarque jusqu'à 200 kg sur sa banquette arrière. Pendant plusieurs semaines, je l'ai utilisé pour amener ponctuellement un enfant de 5 ans à l'école et même pour transporter l'enfant avec sa mère en même temps. J'adore.",
+      "link": "https://korben.info/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie.html",
+      "pubDate": "2026-04-24T12:40:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "973a81e77cc1",
+      "title": "Il fabrique de la RAM dans sa cabane",
+      "description": "Imaginez qu'à cause de cette putain de pénurie, vous vous mettiez à fabriquer votre propre RAM à la main dans votre cabane de jardin façon Heisenberg ? Hé bien c'est exactement ce que Dr. Semiconductor vient de réussir, et les 20 premières cellules DRAM de ce fou furieux fonctionnent ! Alors forcément, ça m'intéresse ! Le bonhomme a posté sa vidéo le 20 avril dernier et ça prend clairement une tournure virale dans le monde du hardware car ça donne de l'espoir et des idées à pas mal de makers.…",
+      "link": "https://korben.info/dr-semiconductor-ram-maison-cabane-jardin.html",
+      "pubDate": "2026-04-24T12:17:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dr-semiconductor-ram-maison-cabane-jardin/dr-semiconductor-ram-maison-cabane-jardin-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "810eadc98591",
+      "title": "Cinquante ans plus tard, la toute première borne d'arcade Nintendo reprend vie",
+      "description": "Vous connaissez probablement Wild Gunman sur NES, ce petit jeu de tir au Zapper avec des cowboys pixellisés. Mais la version originale, c'est autre chose. En 1974, Nintendo sort une borne d'arcade imaginée par Gunpei Yokoi lui-même, avant qu'il ne devienne la légende derrière la Game Boy. Au lieu de sprites, le jeu projette directement à l'écran du vrai film 16mm de cowboys qui dégainent. Le joueur sort un pistolet d'un étui physique au flash lumineux, et doit tirer avant l'adversaire. On est…",
+      "link": "https://korben.info/cinquante-ans-plus-tard-la-toute-premiere-borne-darcade-nintendo-reprend-vie.html",
+      "pubDate": "2026-04-24T11:28:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1de0f0ca87e8",
+      "title": "Un soldat des forces spéciales ayant participé à la capture de Maduro arrêté pour avoir parié sur l'opération sur Polymarket",
+      "description": "Le sergent-chef Gannon Van Dyke, 38 ans, stationné à Fort Bragg, a été arrêté et inculpé pour avoir empoché quelques 410 000 dollars de gains sur Polymarket en misant sur la chute de Nicolás Maduro, alors même qu'il participait à l'opération qui l'a capturé. L'information vient du département de la Justice américain, relayée hier par CNN. Le procureur Jay Clayton, qui pilote le dossier à New York, a déclaré que ceux à qui on confie les secrets de la nation ont le devoir de les protéger.",
+      "link": "https://korben.info/un-soldat-des-forces-speciales-ayant-participe-a-la-capture-de-maduro-arrete-pour-avoir-parie-sur-loperation-sur-polymarket.html",
+      "pubDate": "2026-04-24T11:16:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "59804bf431c1",
+      "title": "Hotfix - Quand l'astreinte au boulot devient un jeu",
+      "description": "Un dev français, Romain Laurent, vient de sortir un jeu qui transforme en divertissement TOUT ce que tous les devs fuient, à savoir l'astreinte de nuit, le téléphone qui sonne à 3h du matin, et le hotfix qu'il faut pondre vite fait avec une prod qui fume. Ça s'appelle Hotfix , ça tourne dans votre navigateur, et ça se prend au sérieux juste comme il faut, vous allez voir. Dans ce jeu, vous enchaînez des micro-crises à résoudre le plus rapidement possible, sans filet. Vous commencez comme…",
+      "link": "https://korben.info/hotfix-astreinte-on-call-jeu-web.html",
+      "pubDate": "2026-04-24T11:10:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hotfix-astreinte-on-call-jeu-web/hotfix-astreinte-on-call-jeu-web-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "7bb2548c3864",
+      "title": "Un bug de PMU espagnol se termine en kidnapping du gérant pour 50 000 euros",
+      "description": "L'histoire nous vient de Málaga, racontée par la Policía Nacional et reprise par The Register. Un magasin de paris local est pris en défaut par un bug logiciel qui affiche des gains doublés sur plusieurs tickets de la journée. Les parieurs concernés voient leur jackpot apparaître deux fois à l'écran, et vont logiquement le réclamer au guichet. Sauf que la direction du groupe, une fois prévenue, refuse net d'honorer les paiements erronés. Les clients repartent avec leur mise normale, et bien…",
+      "link": "https://korben.info/un-bug-de-pmu-espagnol-se-termine-en-kidnapping-du-gerant-pour-50-000-euros.html",
+      "pubDate": "2026-04-24T09:39:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2ab5e0a5ebd2",
+      "title": "Le pilote Nouveau s'apprête à franchir la barrière HDMI 2.1, bloquée depuis des années sur AMD",
+      "description": "La norme HDMI 2.1, avec ses 4K@120 Hz et ses 8K, est un serpent de mer dans le monde Linux. Depuis trois ans, le HDMI Forum refuse aux développeurs AMD l'accès aux spécifications de la Fixed Rate Link, le composant-clé qui permet de faire passer ces gros débits. Résultat, les utilisateurs Linux avec une carte AMD récente sont coincés en HDMI 2.0, donc en 4K@60 Hz. C'est quand même frustrant quand votre écran coûte plus cher que votre GPU.",
+      "link": "https://korben.info/le-pilote-nouveau-sapprete-a-franchir-la-barriere-hdmi-2-1-bloquee-depuis-des-annees-sur-amd.html",
+      "pubDate": "2026-04-24T09:09:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "92523ea7ffc3",
+      "title": "L’IA, ce nouveau membre invisible de vos équipes : catalyseur ou perturbateur ?",
+      "description": "L’IA s’invite dans nos équipes : catalyseur ou perturbateur ? Entre gains de productivité, évolution des rôles et dépendance, cet article décrypte 13 interviews menées chez OCTO. Découvrez les impacts sur l'autonomie, les défis éthiques et la santé mentale pour bâtir une stratégie d'adoption durable et centrée sur l'humain.",
+      "link": "https://blog.octo.com/l'ia-ce-nouveau-membre-invisible-de-vos-equipes--catalyseur-ou-perturbateur",
+      "pubDate": "2026-04-24T09:03:32.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a357df3d2c7",
+      "title": "Un malware qui pourrait être la toute première cyberarme de l'histoire",
+      "description": "SentinelOne a publié une analyse qui peut redessiner la chronologie connue de la cyberguerre. Baptisé FAST16, ce framework de sabotage informatique a été compilé en 2005, soit cinq ans avant la découverte de Stuxnet. Si les analyses tiennent la route, ça en fait la plus ancienne cyberarme étatique documentée à ce jour. Le principe est fourbe. FAST16 ne détruit rien, ne chiffre rien, ne vole rien. Il corrompt des calculs. Le driver kernel (fast16.sys) s'installe silencieusement sur la machine…",
+      "link": "https://korben.info/un-malware-qui-pourrait-etre-la-toute-premiere-cyberarme-de-lhistoire.html",
+      "pubDate": "2026-04-24T08:43:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "388b960fc621",
+      "title": "Mocker - Le clone Docker natif pour Mac Apple Silicon",
+      "description": "Si vous bossez sur Mac et que Docker Desktop commence à vous prendre la tête, les amis, y'a une alternative super cool qui vient de débarquer. Ça s'appelle Mocker , c'est écrit en Swift, c'est sous licence AGPL-3.0, et le principe c'est de remplacer la CLI de Docker à l'identique : mêmes flags, mêmes formats de sortie, même syntaxe pour Compose. mocker run, mocker ps, mocker compose up (...bref, le README annonce 111 commandes et sous-commandes couvertes avec les flags qui matchent).",
+      "link": "https://korben.info/mocker-docker-alternative-macos.html",
+      "pubDate": "2026-04-24T07:27:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mocker-docker-alternative-macos/mocker-docker-alternative-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8bd2b9325eba",
+      "title": "C64UX - Un shell Unix-like pour Commodore 64",
+      "description": "Je viens de tomber sur un projet qui va vous renvoyer direct dans les années 80 !! Ça vous dirait que votre vieux Commodore 64 puisse balancer un prompt façon Unix, avec login, éditeur de texte et 30 commandes ? Hé bien c'est exactement ce que propose C64UX , codé en assembleur pur, sans patch ROM ni rien. L'auteur, Anthony Scarola a sorti sa dernière version en février 2026, avec une bannière de démarrage qui balance fièrement des [ OK ] à chaque étape de la séquence de boot, exactement comme…",
+      "link": "https://korben.info/c64ux-shell-unix-commodore-64.html",
+      "pubDate": "2026-04-24T07:23:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/c64ux-shell-unix-commodore-64/c64ux-shell-unix-commodore-64-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a223d0f6aed",
+      "title": "Bitwarden CLI compromis : retour sur une attaque supply chain qui vise (encore) les développeurs",
+      "description": "Le 22 avril 2026, entre 17h57 et 19h30 (heure de l'Est) — soit une fenêtre d'un peu plus d'une heure et demie — une version piégée du paquet npm @bitwarden/cli@2026.4.0 a été distribuée sur le…",
+      "link": "https://yoandev.co/patreon/patreon-156413402-bitwarden-cli-compromis-retour-sur-une-attaque-supply-chain",
+      "pubDate": "2026-04-24T06:45:14.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/preview.png",
+      "type": "blog"
+    },
+    {
+      "id": "d44909d8bc73",
+      "title": "Bitwarden CLI compromis - Shai-Hulud frappe encore",
+      "description": "Si vous avez installé Bitwarden CLI via npm entre 17h57 et 19h30 PM (heure de New York) ce 22 avril, faut faire le ménage sur votre machine de toute urgence !! En effet, le package @bitwarden/cli version 2026.4.0 a été compromis durant 93 minutes, et le malware qui s'y trouvait a fait des dégâts chez les 334 personnes qui l'ont téléchargé pendant cette fenêtre. Mais alors c'est quoi cette histoire encore ?",
+      "link": "https://korben.info/bitwarden-cli-compromis-checkmarx-shai-hulud.html",
+      "pubDate": "2026-04-24T06:37:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bitwarden-cli-compromis-checkmarx-shai-hulud/bitwarden-cli-compromis-checkmarx-shai-hulud-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c02749787ab4",
+      "title": "Auto Reject Cookies - Anti-popups Firefox avec signal GPC",
+      "description": "Les bannières cookies, franchement, plus personne à part quelques no-life ne les lisent. On clique tous sur \"Accepter tout\" par flemme et on sait tous pertinemment que nous venons de nous \"auto-tracker\" comme des débilos. Mais heureusement, y'a une extension Firefox qui fait le refus automatique à votre place, et qui envoie même un signal légal pour dire \"non merci\" aux sites qui jouent le jeu. Cette extension s'appelle Auto Reject Cookies , elle est open source sous licence MIT,et se fait…",
+      "link": "https://korben.info/auto-reject-cookies-firefox.html",
+      "pubDate": "2026-04-24T06:27:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/auto-reject-cookies-firefox/auto-reject-cookies-firefox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "610e6c3b4f2a",
+      "title": "Flipbook : vers un Web sans fin ni fond ?",
+      "description": "Flipbook.page présente un site web sans contenu prédéfini, où des images sont générées en temps réel par une IA. Bien que l'expérience soit visuellement captivante, elle soulève des questions sur le futur du Web, mettant en avant un accès à l'information réinventé, sans structure ni contenus préalablement établis. L’article Flipbook : vers un Web sans fin ni fond ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/24/flipbook-vers-un-web-sans-fin-ni-fond/",
+      "pubDate": "2026-04-24T06:26:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/Capture-decran-2026-04-24-a-08.05.18-1024x640.png",
+      "type": "blog"
+    },
+    {
       "id": "1439f8a1249d",
       "title": "SpaceX va fabriquer ses propres GPU",
       "description": "Dans son document S-1 déposé à la SEC en vue de son entrée en Bourse, SpaceX liste la fabrication de ses propres GPU parmi ses dépenses en capital en cours. Reuters a repéré l'extrait, qui fait partie des postes identifiés comme substantiels par l'entreprise, même si aucun chiffre précis n'est donné dans le document public. Le projet passe par Terafab, le complexe de fabrication de puces IA que xAI, Tesla et SpaceX développent ensemble à Austin, au Texas. Jusqu'ici, Musk avait surtout évoqué…",
@@ -33,6 +324,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/45444cdb-b822-4068-9872-6305217ec0d1.mp3?_=1776945695",
       "duration": "10:49"
+    },
+    {
+      "id": "f507ed8ad68b",
+      "title": "I finally found a use case for OpenClaw…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=FM5-R4VPArw",
+      "pubDate": "2026-04-23T18:26:39.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "01b8ba2d85f2",
@@ -335,6 +641,23 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/diy-soft-drinks-recettes-sodas-maison/diy-soft-drinks-recettes-sodas-maison-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8a1c73ee4471",
+      "title": "La Duck Conf 2026 - Architect Paradox : Pourquoi personne ne veut parler aux architectes",
+      "description": "Duck Conf 2026 : Architect Paradox",
+      "link": "https://blog.octo.com/la-duck-conf-2026-architect-paradox--pourquoi-personne-ne-veut-parler-aux-architectes",
+      "pubDate": "2026-04-22T10:19:43.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
