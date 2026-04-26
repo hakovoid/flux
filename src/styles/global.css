@@ -117,6 +117,42 @@ body {
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  isolation: isolate;
+}
+
+/* Décor de fond : trois halos utilisant la couleur d'accent.
+   Fixé au viewport (pas affecté par le scroll), derrière tout le contenu. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: -1;
+  background:
+    radial-gradient(ellipse 90% 55% at 50% 0%,
+      color-mix(in srgb, var(--color-accent-500) 28%, transparent),
+      transparent 60%),
+    radial-gradient(ellipse 70% 50% at 100% 100%,
+      color-mix(in srgb, var(--color-accent-500) 20%, transparent),
+      transparent 65%),
+    radial-gradient(ellipse 60% 45% at 0% 80%,
+      color-mix(in srgb, var(--color-accent-500) 14%, transparent),
+      transparent 65%);
+}
+
+/* En mode clair : halos plus subtils (le fond blanc est plus sensible aux teintes). */
+:root[data-theme="light"] body::before {
+  background:
+    radial-gradient(ellipse 90% 55% at 50% 0%,
+      color-mix(in srgb, var(--color-accent-500) 10%, transparent),
+      transparent 60%),
+    radial-gradient(ellipse 70% 50% at 100% 100%,
+      color-mix(in srgb, var(--color-accent-500) 6%, transparent),
+      transparent 65%),
+    radial-gradient(ellipse 60% 45% at 0% 80%,
+      color-mix(in srgb, var(--color-accent-500) 4%, transparent),
+      transparent 65%);
 }
 
 /* Scrollbar */
