@@ -750,9 +750,10 @@ for (let i = 1; i <= totalPages; i++) {
     // Date filters
     const dateFromInput = document.getElementById('date-from') as HTMLInputElement | null;
     const dateToInput = document.getElementById('date-to') as HTMLInputElement | null;
+    const preset3dBtn = document.getElementById('preset-3d');
     const preset7dBtn = document.getElementById('preset-7d');
     const preset30dBtn = document.getElementById('preset-30d');
-    const presetMonthBtn = document.getElementById('preset-month');
+    const preset90dBtn = document.getElementById('preset-90d');
     const resetDatesBtn = document.getElementById('reset-dates');
 
     function parseDateInput(value: string, endOfDay: boolean): Date | null {
@@ -781,15 +782,10 @@ for (let i = 1; i <= totalPages; i++) {
       applyDateChange();
     }
 
+    preset3dBtn?.addEventListener('click', () => setDateRange(3));
     preset7dBtn?.addEventListener('click', () => setDateRange(7));
     preset30dBtn?.addEventListener('click', () => setDateRange(30));
-    presetMonthBtn?.addEventListener('click', () => {
-      const now = new Date();
-      const firstOfMonth = new Date(now.getFullYear(), now.getMonth(), 1);
-      if (dateFromInput) dateFromInput.value = firstOfMonth.toISOString().slice(0, 10);
-      if (dateToInput) dateToInput.value = now.toISOString().slice(0, 10);
-      applyDateChange();
-    });
+    preset90dBtn?.addEventListener('click', () => setDateRange(90));
     resetDatesBtn?.addEventListener('click', () => {
       if (dateFromInput) dateFromInput.value = '';
       if (dateToInput) dateToInput.value = '';
