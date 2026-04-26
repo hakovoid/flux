@@ -25,7 +25,7 @@ Flux is a French-language RSS feed aggregator built with **Astro 5** and deploye
 
 **YouTube integration:** YouTube channels use the YouTube Data API v3 (playlistItems endpoint, 1 unit/request). The `YOUTUBE_API_KEY` env var is required (`.env` locally, GitHub Actions secret in CI). In `feeds.yaml`, YouTube feeds use `type: youtube` and the `url` field contains the channel ID (e.g. `UCxxx`).
 
-**Accent color:** Controlled at build time via `FLUX_ACCENT` env var. Valid values: `indigo` (default), `violet`, `emerald`, `rose`, `amber`. The palette is defined in `src/config/theme.ts` and injected as CSS vars by the `accentInjectorPlugin` in `astro.config.mjs`. Never hardcode `bg-indigo-*`, `bg-violet-*`, or `bg-purple-*` in UI components — always use `bg-[var(--color-accent-500)]` and related tokens. Category-specific colors (e.g. `from-violet-600` for Programmation) are intentionally fixed and exempt.
+**Accent color:** Controlled at build time via `FLUX_ACCENT` env var. Valid values: `indigo` (default), `violet`, `emerald`, `green`, `rose`, `amber`, `orange`, `red`. The palette is defined in `src/config/theme.ts` and injected as CSS vars by the `accentInjectorPlugin` in `astro.config.mjs`. Never hardcode `bg-indigo-*`, `bg-violet-*`, or `bg-purple-*` in UI components — always use `bg-[var(--color-accent-500)]` and related tokens. Category-specific colors (e.g. `from-violet-600` for Programmation) are intentionally fixed and exempt.
 
 **Source & category pages:** Each source and category has a dedicated static page (`/source/[slug]`, `/categorie/[slug]`). Sources are sorted alphabetically. The `slugify()` utility in `articles.ts` generates URL-safe slugs from names. Category tags and source names are clickable links throughout the site.
 

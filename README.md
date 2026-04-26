@@ -32,7 +32,7 @@ Agrégateur de veille technologique RSS et YouTube. Un site statique construit a
 
 ### Theming & UX
 - Dark mode par défaut + thème clair
-- Couleur d'accent configurable au build via `FLUX_ACCENT` (`indigo`, `violet`, `emerald`, `rose`, `amber`)
+- Couleur d'accent configurable au build via `FLUX_ACCENT` (`indigo`, `violet`, `emerald`, `green`, `rose`, `amber`, `orange`, `red`)
 - Mobile first, View Transitions (Astro)
 - SEO : meta, Open Graph, sitemap, robots.txt, canonical vers la source originale
 
@@ -125,7 +125,7 @@ YOUTUBE_API_KEY=votre_clé_ici
 
 La couleur d'accent du site est contrôlée au build via la variable d'environnement `FLUX_ACCENT`.
 
-Valeurs disponibles : `indigo` (défaut), `violet`, `emerald`, `rose`, `amber`.
+Valeurs disponibles : `indigo` (défaut), `violet`, `emerald`, `green`, `rose`, `amber`, `orange`, `red`.
 
 ```bash
 FLUX_ACCENT=emerald npm run build
