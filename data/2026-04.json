@@ -2,6 +2,97 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "b5678d7ca519",
+      "title": "Configurer votre éditeur Zed sur le bout des doigts",
+      "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
+      "link": "https://blog.seboss666.info/2026/04/configurer-votre-editeur-zed-sur-le-bout-des-doigts/",
+      "pubDate": "2026-04-25T16:25:38.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/04/z_for_zorro_sized.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "587529ee9149",
+      "title": "Les cartes bancaires biométriques sont-elles une vraie avancée ou du bullshit marketing ?",
+      "description": "Depuis quelques jours, plusieurs médias français ressortent cette merveilleuse histoire de la carte bancaire à empreinte digitale comme s'il s'agissait d'une révolution imminente ! Par exemple l'Indépendant titre carrément \"le code à quatre chiffres c'est bientôt fini\". Toudoum !! Sauf que la techno, conçue par Thales et IDEMIA , est commercialisée en Europe depuis 2021 quand même. Et plus drôle encore, c'est que BNP Paribas a fermé la commercialisation de sa première version le 8 décembre…",
+      "link": "https://korben.info/cartes-bancaires-biometriques-empreinte-fin-code-pin.html",
+      "pubDate": "2026-04-25T15:33:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cartes-bancaires-biometriques-empreinte-fin-code-pin/cartes-bancaires-biometriques-empreinte-fin-code-pin-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd13d90a7d75",
+      "title": "Un loup s'échappe en Corée du Sud, et l'IA vient mettre le bordel dans sa capture",
+      "description": "Voici l'histoire de Neukgu, un loup coréen de deux ans qui s'est fait la malle d'un zoo de Daejeon le 8 avril dernier, et qui a tenu en haleine toute la Corée du Sud pendant neuf jours. Sauf que dans la foulée de l'évasion, un homme de 40 ans génère une fausse photo IA du loup en train de traverser un carrefour, la diffuse en ligne, et l'image finit par remonter jusqu'aux autorités qui n'y voient que du feu.",
+      "link": "https://korben.info/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture.html",
+      "pubDate": "2026-04-25T08:45:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "61fcf441f886",
+      "title": "Project Deal, l'expérience où des agents Claude négocient des objets pour leurs collègues",
+      "description": "Anthropic a partagé hier les résultats de Project Deal, une expérience interne menée en décembre 2025 où des agents Claude ont négocié, acheté et revendu des objets personnels pour le compte de 69 salariés volontaires de leur bureau de San Francisco. Le but : voir ce que ça donne quand des gens laissent leur IA faire les courses entre elles. Pendant deux jours, chacun des 69 participants a confié un agent Claude à son téléphone, avec 100 dollars de budget virtuel et une liste d'objets à vendre…",
+      "link": "https://korben.info/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues.html",
+      "pubDate": "2026-04-25T07:17:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "60fc9ef30045",
+      "title": "Is It Agent Ready - Vérifiez si votre site parle aux agents IA",
+      "description": "Si vous avez un site, vous savez déjà qu'il faut l'optimiser et le rendre lisible pour Google. Mais en ce moment, Cloudflare pousse vraiment une toute autre couche par-dessus : le rendre lisible pour les agents IA. Et pour vérifier si vous êtes dans les clous, l'équipe a sorti isitagentready.com , un scanner gratuit qui vérifie ça en quelques secondes. Vous tapez tout simplement votre URL, et le scanner check une dizaine de standards émergents, puis pour chaque truc qui manque, il vous crache…",
+      "link": "https://korben.info/is-it-agent-ready-scanner-sites-agents-ia.html",
+      "pubDate": "2026-04-25T05:53:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/is-it-agent-ready-scanner-sites-agents-ia/is-it-agent-ready-scanner-sites-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6ffc8f37f56",
+      "title": "RSVP Nano - Une mini-liseuse DIY qui fait défiler les mots",
+      "description": "John Decebal vient de sortir le RSVP Nano , une mini-liseuse open-source qui tient sur un ESP32-S3 et qui affiche votre bibliothèque... un mot à la fois. 92 mm sur 34, et sous licence MIT, je me suis dis que j'allais y jeter un oeil. En fait, le concept tient en 4 mots : Rapid Serial Visual Presentation. Au lieu d'afficher une page entière, l'appareil fait défiler les mots un par un, à la cadence que vous voulez. Imaginez un téléprompteur de poche, sauf que c'est vous qui gérez le défilement.…",
+      "link": "https://korben.info/rsvp-nano-mini-liseuse-poche.html",
+      "pubDate": "2026-04-25T05:34:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rsvp-nano-mini-liseuse-poche/rsvp-nano-mini-liseuse-poche-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f7603beeaaaf",
       "title": "tar-vfs-index - Monter du .tar.gz dans le browser sans l'extraire",
       "description": "Distribuer des paquets binaires en WebAssembly, c'est galère. Vous téléchargez le .tar.gz, vous le gunzippez, vous l'extrayez en mémoire... et ça rame sévèrement !! Mais youpi, Jeroen Ooms (qui contribue à webR et bosse chez ROpenSci) vient de publier tar-vfs-index , un petit npm package qui casse cette malédiction des enfers en sautant carrément l'étape extraction. L'astuce est toute bête ! Au lieu d'extraire l'archive, on génère un fichier d'index qui liste la taille et l'offset de chaque…",
@@ -29,6 +120,22 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pack2theroot-faille-linux-root/pack2theroot-faille-linux-root-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "08d05cd2ccb1",
+      "title": "Devoxx France 2026 - Bilan",
+      "description": "Cette année encore (comme les deux années précédentes), j’étais présent à Devoxx France. Cette fois-ci, pas de talk pour moi, j’étais donc en “simple visite”, ce qui enlève un élément de stress (ce n’est pas plus mal non plus). J’ai donc bien profité des trois jours, entre les différents talks, les discussions animées, les rencontres inattendues. Je vous raconte tout ça.",
+      "link": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
       "type": "blog"
     },
     {
