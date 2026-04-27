@@ -2,6 +2,51 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "30b5362c6326",
+      "title": "Hypervibe - Codez avec une télécommande Apple TV",
+      "description": "Vous savez cette télécommande Apple TV de première génération qui traîne dans un tiroir et dont vous ne faites rien ? Bah y'a enfin un truc à faire avec ! Jinsoo An, alias machinarii sur GitHub, vient de sortir Hypervibe , un outil macOS qui transforme la télécommande de l'Apple TV en walkie-talkie comme disent les québecois, pour Claude Code. Push-to-talk, swipes pour les commandes slash, boutons remappables, le tout pour coder à une seule main pendant que vous mangez vos chips au vinaigre de…",
+      "link": "https://korben.info/hypervibe-apple-tv-remote-claude-code.html",
+      "pubDate": "2026-04-26T08:35:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hypervibe-apple-tv-remote-claude-code/hypervibe-apple-tv-remote-claude-code-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "fe7cdf58abf0",
+      "title": "WinDiskWriter - Créez une clé USB Windows depuis macOS",
+      "description": "Cas pratique du week-end : ma pote Alex m'a passé son PC familial tournant sous Windows 8, car son fils a changé le mot de passe du Windows et n'a pas la moindre idée de ce qu'il a tapé. Pour faire sauter ce mot de passe sans tout réinstaller, j'utilise depuis des années la bonne vieille astuce Sticky Keys, qui consiste à booter sur une clé USB Windows pour accéder au Terminal de récupération via MAJ+F10. Sauf que pour préparer cette clé, j'avais juste mon MacBook sous la main.",
+      "link": "https://korben.info/windiskwriter-cle-usb-windows-macos.html",
+      "pubDate": "2026-04-26T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/windiskwriter-cle-usb-windows-macos/windiskwriter-cle-usb-windows-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3ca927b5fcb",
+      "title": "L'IA qui conçoit votre prochain produit DIY",
+      "description": "Ce matin, j'ai demandé à une IA de me concevoir un baladeur qui lit du FLAC. L'outil m'a alors posé quelques questions puis il m'a sorti le design électronique complet en quelques secondes. Blueprint.am , c'est le service de 3E8 Robotics qui transforme une simple phrase en bidule hardware DIY : schéma de cablage, liste de pièces avec liens Amazon, vues 3D, instructions de montage étape par étape...etc. Vous tapez votre idée bien délirante dans un champ texte, l'outil balance un plan pour…",
+      "link": "https://korben.info/blueprint-am-genere-hardware-prompt-ia.html",
+      "pubDate": "2026-04-26T06:45:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/blueprint-am-genere-hardware-prompt-ia/blueprint-am-genere-hardware-prompt-ia-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b5678d7ca519",
       "title": "Configurer votre éditeur Zed sur le bout des doigts",
       "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
