@@ -2,6 +2,258 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "31fae699c3dc",
+      "title": "Porting Mac OS X to the Nintendo Wii",
+      "description": "An absurd and very fun technical deep dive into getting Mac OS X 10.0 running natively on a Nintendo Wii. It covers the hardware investigation, boot process, kernel patching, and driver work needed to pull it off. Read more",
+      "link": "https://freek.dev/3081-porting-mac-os-x-to-the-nintendo-wii",
+      "pubDate": "2026-04-26T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/ae89324168c9fea3791354401cc5c2b0.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "deb48760c268",
+      "title": "A Week of Symfony #1008 (April 20–26, 2026)",
+      "description": "This week, SymfonyCasts announced a new course on Doctrine inheritance. In addition, we published the schedule for the SymfonyDay Montreal 2026 conference. Lastly, we continued polishing the new features of the upcoming Symfony 8.1 version, ahead of its release…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1008-april-20-26-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-26T07:17:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "90174b069fd9",
+      "title": "Reinforcement Learning Nanodegree",
+      "description": "...covered with implementation.",
+      "link": "https://blog.dailydoseofds.com/p/reinforcement-learning-nanodegree",
+      "pubDate": "2026-04-25T20:38:40.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!u3xe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac10488-6a60-4f2f-a4b0-b5b0c28847da_844x588.png",
+      "type": "blog"
+    },
+    {
+      "id": "1fee9e330493",
+      "title": "WHY ARE YOU LIKE THIS",
+      "description": "@scottjla on Twitter in reply to my pelican riding a bicycle benchmark: I feel like we need to stack these tests now I checked to confirm that the model (ChatGPT Images 2.0) added the \"WHY ARE YOU LIKE THIS\" sign of its own accord and it did - the prompt Scott used was: Create an image of a horse riding an astronaut, where the astronaut is riding a pelican that is riding a bicycle. It looks very chaotic but they all just manage to balance on top of each other Tags: text-to-image,…",
+      "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+      "pubDate": "2026-04-25T16:44:01.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://static.simonwillison.net/static/2026/why-are-you-like-this.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "71c02c2103e4",
+      "title": "Understanding Traceroute",
+      "description": "A clear walkthrough of how traceroute works under the hood. It explains the TTL trick, the ICMP replies routers send back, and even rebuilds the core idea in Rust. Read more",
+      "link": "https://freek.dev/3079-understanding-traceroute",
+      "pubDate": "2026-04-25T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/2b9178dbf9c9a5e3e81091034c734fd9.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "6bafb810acd4",
+      "title": "Quoting Romain Huet",
+      "description": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex model Tags: generative-ai, gpt, openai, ai, llms",
+      "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+      "pubDate": "2026-04-25T12:06:55.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "76a5f876fdc3",
+      "title": "GPT-5.5 prompting guide",
+      "description": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any tool calls for a multi-step task, send a short user-visible update that acknowledges the request and states the first step. Keep it to one or two sentences. I've already noticed their Codex app doing…",
+      "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+      "pubDate": "2026-04-25T04:13:36.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8a9a689550fb",
+      "title": "73 Open VSX Sleeper Extensions Linked to GlassWorm Show New Malware Activations",
+      "description": "The GlassWorm campaign targeting Open VSX continues to escalate. Socket is now tracking a new cluster of 73 impersonation extensions connected to the same sleeper-extension activity reported in March 2026. Beginning in April 2026, and continuing as of this writing, additional cloned versions of popular code extensions have appeared on the Open VSX marketplace. These extensions did not initially contain malware, but they were published by newly created GitHub accounts with only one or two public…",
+      "link": "https://socket.dev/blog/73-open-vsx-sleeper-extensions-glassworm?utm_medium=feed",
+      "pubDate": "2026-04-25T00:49:01.146Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/5b8d3d6c1d2817e53d228f3ea92cd2ec098a9d1d-2048x905.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "c19e047960b0",
+      "title": "llm 0.31",
+      "description": "Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418 New option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high. New option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - values are low, high and auto, and GPT-5.4 and 5.5 also accept original. Models listed in extra-openai-models.yaml are now also registered as asynchronous. #1395 Tags: gpt, openai, llm",
+      "link": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+      "pubDate": "2026-04-24T23:35:07.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbab8fd935f6",
+      "title": "The people do not yearn for automation",
+      "description": "The people do not yearn for automation This written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket. It’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come. Nilay’s core idea is that people afflicted with “software brain” - who see the world as something to be automated as much as possible, and attempt to model everything in terms of information flows and…",
+      "link": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+      "pubDate": "2026-04-24T22:38:49.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c25fe2fa9861",
+      "title": "8 Techniques to Generate Better LLM Outputs",
+      "description": "...explained visually with usage.",
+      "link": "https://blog.dailydoseofds.com/p/8-techniques-to-generate-better-llm",
+      "pubDate": "2026-04-24T18:30:29.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!0B5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b6378dc-5ed8-4809-97e1-ef960d704367_1283x1065.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb89a18f8e1e",
+      "title": "Introducing Reachability for PHP",
+      "description": "Security teams are already struggling to keep pace with the volume of vulnerability disclosures. Every week brings more CVEs, and the arrival of AI-assisted vulnerability research is only going to push that number higher. Teams that can't tell which disclosures actually matter for their application will fall behind quickly. PHP carries more of this weight than most ecosystems. Composer ranks third for CVE volume among package ecosystems, behind only Maven and npm, and PHP still runs a…",
+      "link": "https://socket.dev/blog/reachability-for-php?utm_medium=feed",
+      "pubDate": "2026-04-24T14:42:17.509Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/ce86b1043c156083e30f0e927d283babe452b515-1920x1280.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "b07671b841c7",
+      "title": "Monthly Roundup #41: April 2025",
+      "description": "AI continue to accelerate and dominate the schedule, which is why this is a bit late, but we do occasionally need to pay our respects to the Goddess of Everything Else.",
+      "link": "https://thezvi.substack.com/p/monthly-roundup-41-april-2025",
+      "pubDate": "2026-04-24T13:15:46.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KtPT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F271b43be-2755-4a61-b0ad-b964a23de847_900x584.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "46a75e3fa457",
+      "title": "Enhancing our API for better agentic consumption",
+      "description": "We've shipped several improvements to the Oh Dear API to make it work better with AI coding agents. The updates include historical check runs, dashboard links in every response, and markdown-friendly documentation. Read more",
+      "link": "https://freek.dev/3062-enhancing-our-api-for-better-agentic-consumption",
+      "pubDate": "2026-04-24T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/dfc4c502a9a1224867412649e9725e4c.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "f6d35180f167",
+      "title": "New SymfonyCasts Course: Doctrine Inheritance - Class Hierarchy in the Database",
+      "description": "Modeling inheritance in your code is natural - but how does that translate to your database? We're excited to announce a new SymfonyCasts course: 👉 Doctrine Inheritance: Class Hierarchy in the Database In this course, we explore how Doctrine ORM handles…",
+      "link": "https://symfony.com/blog/new-symfonycasts-course-doctrine-inheritance-class-hierarchy-in-the-database?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-04-24T07:15:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "173507185225",
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "description": "Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) last December. They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash. Both models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flash is 284B total, 13B active. They're using the standard MIT license. I think this makes DeepSeek-V4-Pro the new largest open weights model. It's larger than Kimi…",
+      "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+      "pubDate": "2026-04-24T06:01:04.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "900e4e02634b",
+      "title": "Millisecond Converter",
+      "description": "Tool: Millisecond Converter LLM reports prompt durations in milliseconds and I got fed up of having to think about how to convert those to seconds and minutes. Tags: tools",
+      "link": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
+      "pubDate": "2026-04-24T04:23:11.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c8852cc459c6",
       "title": "It's a big one",
       "description": "This week's edition of my email newsletter (aka content from this blog delivered to your inbox) features 4 pelicans riding bicycles, 1 possum on an e-scooter, up to 5 raccoons with ham radios hiding in crowds, 5 blog posts, 8 links, 3 quotes and a new chapter of my Agentic Engineering Patterns guide. Tags: newsletter",
@@ -136,6 +388,21 @@
       "type": "blog"
     },
     {
+      "id": "05e2420165d7",
+      "title": "llm-openai-via-codex 0.1a0",
+      "description": "Release: llm-openai-via-codex 0.1a0 Hijacks your Codex CLI credentials to make API calls with LLM, as described in my post about GPT-5.5. Tags: openai, llm, codex-cli",
+      "link": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
+      "pubDate": "2026-04-23T19:22:29.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "96d8bcc29c05",
       "title": "★ Generate Apple and Google Wallet passes from Laravel",
       "description": "A mobile pass is that thing in your iPhone's Wallet app. A boarding pass, a concert ticket, a coffee loyalty card, a gym membership. Apple calls them passes. Google calls them objects. Both Wallet apps let you generate them, hand them out, and push live updates to the copy that's already on someone's device. We just released Laravel Mobile Pass, a package that lets you generate those Apple and Google passes from a Laravel app and send updates to already issues passes. Together with the package,…",
@@ -163,6 +430,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1ba97274eace",
+      "title": "AI #165: In Our Image",
+      "description": "This was the week of Claude Opus 4.7.",
+      "link": "https://thezvi.substack.com/p/ai-165-in-our-image",
+      "pubDate": "2026-04-23T13:34:48.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M_k0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F212437b9-b9d5-4922-a71a-dc0b8380b05d_661x900.jpeg",
       "type": "blog"
     },
     {
@@ -224,6 +505,20 @@
       "type": "blog"
     },
     {
+      "id": "4b8917b825c7",
+      "title": "Opus 4.7 Part 3: Model Welfare",
+      "description": "It is thanks to Anthropic that we get to have this discussion in the first place.",
+      "link": "https://thezvi.substack.com/p/opus-47-part-3-model-welfare",
+      "pubDate": "2026-04-22T21:39:05.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!wbx8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed6f2b04-b897-40ae-a9fa-3895a52bf381_1024x559.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "0049267e5d2d",
       "title": "Community Corner: The AI Refactor with Kumuda Sreenivasa",
       "description": "In this episode, Scott talks Kumuda Sreenivasa about her talk on using AI to help with refactoring/replacing legacy system that she’s be presenting at JStek 2026. Links: Our Discord – https://discord.gg/aMTxunVx Buy our shirts – https://store.phparch.com/products/community-corner-podcast-t-shirt Kumuda’s Links: LinkedIn – https://www.linkedin.com/in/kumudas/ Scott’s Links: Website – https://scott.keck-warren.com/ Bluesky – https://bsky.app/profile/scottkeckwarren.bsky.social LinkedIn –…",
@@ -254,6 +549,20 @@
       "type": "blog"
     },
     {
+      "id": "4383e7d94191",
+      "title": "ChatGPT doesn’t know its whisk from its elbow ",
+      "description": "Medical illustrators can rest easy",
+      "link": "https://garymarcus.substack.com/p/chatgpt-doesnt-know-its-whisk-from",
+      "pubDate": "2026-04-22T16:08:57.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!oonk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b2ff218-91fb-4b42-a216-00a9454311b2_1536x1024.png",
+      "type": "blog"
+    },
+    {
       "id": "307a9ea81792",
       "title": "Malicious Checkmarx Artifacts Found in Official KICS Docker Repository and Code Extensions",
       "description": "Docker alerted Socket to malicious images pushed to the official checkmarx/kics Docker Hub repository after internal monitoring flagged suspicious new activity around KICS image tags. Our investigation found that attackers appear to have overwritten existing tags, including v2.1.20 and alpine, while also introducing a new v2.1.21 tag that does not correspond to a legitimate upstream release. Analysis of the poisoned image indicates that the bundled KICS binary was modified to include data…",
@@ -266,6 +575,20 @@
         "Programmation"
       ],
       "image": "https://cdn.sanity.io/images/cgdhsj6q/production/eb4ffbc6d3a0a1af87022b7f3d13ed7dcbafe24c-600x497.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "a22b5ec1726e",
+      "title": "ChatGPT's “powerful new image engine”",
+      "description": "Regurgitating ≠ understanding",
+      "link": "https://garymarcus.substack.com/p/chatgpts-powerful-new-image-engine",
+      "pubDate": "2026-04-22T14:43:20.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!NG-h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc5437e6-0199-47a1-a659-44104156ce50_1536x1024.png",
       "type": "blog"
     },
     {
@@ -402,6 +725,20 @@
       "type": "blog"
     },
     {
+      "id": "c21187770687",
+      "title": "Opus 4.7 Part 2: Capabilities and Reactions",
+      "description": "Claude Opus 4.7 raises a lot of key model welfare related concerns.",
+      "link": "https://thezvi.substack.com/p/opus-47-part-2-capabilities-and-reactions",
+      "pubDate": "2026-04-21T21:27:15.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!uzQL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f044834-7696-4620-8320-66d5ff25c5b1_958x964.png",
+      "type": "blog"
+    },
+    {
       "id": "b2c9fcda761f",
       "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
       "description": "OpenAI released ChatGPT Images 2.0 today, their latest image generation model. On the livestream Sam Altman said that the leap from gpt-image-1 to gpt-image-2 was equivalent to jumping from GPT-3 to GPT-5. Here's how I put it to the test. My prompt: Do a where's Waldo style image but it's where is the raccoon holding a ham radio gpt-image-1 First as a baseline here's what I got from the older gpt-image-1 using ChatGPT directly: I wasn't able to spot the raccoon - I quickly realized that testing…",
@@ -459,6 +796,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae052abb463b",
+      "title": "Please don’t trust your chatbot for medical advice",
+      "description": "Four separate studies all point in the same direction",
+      "link": "https://garymarcus.substack.com/p/please-dont-trust-your-chatbot-for",
+      "pubDate": "2026-04-21T12:15:09.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6QOj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a5a379c-b687-46fa-a180-95b24496aa5b_2420x1326.png",
       "type": "blog"
     },
     {
@@ -550,6 +901,20 @@
       "type": "blog"
     },
     {
+      "id": "bd8f031fc47e",
+      "title": "Opus 4.7 Part 1: The Model Card",
+      "description": "Less than a week after completing coverage of Claude Mythos, here we are again as Anthropic gives us Claude Opus 4.7.",
+      "link": "https://thezvi.substack.com/p/opus-47-part-1-the-model-card",
+      "pubDate": "2026-04-20T16:44:24.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MiKJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11432e3b-df84-43d8-9898-b00d266024af_1792x2400.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "7f9e3978ba3a",
       "title": "Introducing TypeScript Transformer 3",
       "description": "Ruben explains the full rewrite behind TypeScript Transformer 3 and why the new architecture makes the package much more flexible. The post covers the new transformer pipeline, AST-based output, improved type parsing via PHPStan, and a watch mode for faster development. Read more",
@@ -562,6 +927,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d2f757ea8858",
+      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4 ",
+      "description": "At what point do the financial markets price in the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-454-automating-alignment",
+      "pubDate": "2026-04-20T12:30:19.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -831,6 +1210,20 @@
       "type": "blog"
     },
     {
+      "id": "499bb728e67c",
+      "title": "AI #164: Pre Opus",
+      "description": "This is a day late because, given the discourse around Dwarkesh Patel’s interview with Jensen Huang, I pushed the weekly to Friday.",
+      "link": "https://thezvi.substack.com/p/ai-164-pre-opus",
+      "pubDate": "2026-04-17T13:01:09.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!O2Cg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e89e2a4-34e2-4606-b455-c108973e1bc5_941x869.png",
+      "type": "blog"
+    },
+    {
       "id": "036bc6494438",
       "title": "Spatie Guidelines as AI Skills",
       "description": "We turned our internal coding guidelines into reusable AI skills, so coding assistants can follow the same conventions their team uses. The package works with Laravel Boost and the broader skills.sh ecosystem, and ships with skills for Laravel PHP, JavaScript, version control, and security. Read more",
@@ -932,6 +1325,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!M3OS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c52e17f-e4ab-4c3e-bd05-0610b608c71e_1200x841.png",
+      "type": "blog"
+    },
+    {
+      "id": "41321fd4a1b6",
+      "title": "On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang",
+      "description": "Some podcasts are self-recommending on the ‘yep, I’m going to be breaking this one down’ level.",
+      "link": "https://thezvi.substack.com/p/on-dwarkesh-patels-podcast-with-nvidia",
+      "pubDate": "2026-04-16T17:19:52.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!mbEh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69fcfbba-631a-4ca4-bdc4-f27ff51711c5_1853x933.png",
       "type": "blog"
     },
     {
@@ -1083,6 +1490,20 @@
       "type": "blog"
     },
     {
+      "id": "1ecc16878f3a",
+      "title": "Peak absurdity, Part II",
+      "description": "You can’t make this up",
+      "link": "https://garymarcus.substack.com/p/peak-absurdity-part-ii",
+      "pubDate": "2026-04-15T20:43:17.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hv8b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d91c74-95f6-4ecd-8995-cc7a2ddf1592_1504x1191.png",
+      "type": "blog"
+    },
+    {
       "id": "7c7721fb5b03",
       "title": "Quoting John Gruber",
       "description": "The real goldmine isn’t that Apple gets a cut of every App Store transaction. It’s that Apple’s platforms have the best apps, and users who are drawn to the best apps are thus drawn to the iPhone, Mac, and iPad. That edge is waning. Not because software on other platforms is getting better, but because third-party software on iPhone, Mac, and iPad is regressing to the mean, to some extent, because fewer developers feel motivated — artistically, financially, or both — to create well-crafted…",
@@ -1155,6 +1576,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/Banner-BLOG.png",
+      "type": "blog"
+    },
+    {
+      "id": "cee598aa0576",
+      "title": "Claude Code, Codex and Agentic Coding #7: Auto Mode",
+      "description": "As we all try to figure out what Mythos means for us down the line, the world of practical agentic coding continues, with the latest array of upgrades.",
+      "link": "https://thezvi.substack.com/p/claude-code-codex-and-agentic-coding",
+      "pubDate": "2026-04-15T14:31:26.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!zzZ4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04482265-02da-41e3-b226-849ccc446495_1920x1920.webp",
       "type": "blog"
     },
     {
@@ -1366,6 +1801,20 @@
       "type": "blog"
     },
     {
+      "id": "1b271ac240d6",
+      "title": "Claude Mythos #3: Capabilities and Additions",
+      "description": "To round out coverage of Mythos, today covers capabilities other than cyber, and anything else additional not covered by the first two posts, including new reactions and details.",
+      "link": "https://thezvi.substack.com/p/claude-mythos-3-capabilities-and",
+      "pubDate": "2026-04-14T12:52:54.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b987875f-f7d5-4a24-9e14-1233760e290f_1536x1024.png",
+      "type": "blog"
+    },
+    {
       "id": "41b1775a2b52",
       "title": "Grief and the Nonprofessional Programmer",
       "description": "I can’t claim to be a professional software developer—not by a long shot. I occasionally write some Python code to analyze spreadsheets, and I occasionally hack something together on my own, usually related to prime numbers or numerical analysis. But I have to admit that I identify with both of the groups of programmers that […]",
@@ -1483,6 +1932,34 @@
       "type": "blog"
     },
     {
+      "id": "0d5a222a6a28",
+      "title": "Claude Mythos, evaluated",
+      "description": "How afraid should we be?",
+      "link": "https://garymarcus.substack.com/p/claude-mythos-evaluated",
+      "pubDate": "2026-04-13T18:07:56.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!6KhU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHFybTUVWQAA-Gm8.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d7b3931b5aa5",
+      "title": "Political Violence Is Never Acceptable",
+      "description": "Nor is the threat or implication of violence.",
+      "link": "https://thezvi.substack.com/p/political-violence-is-never-acceptable",
+      "pubDate": "2026-04-13T15:14:25.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/047d940f-1b59-4e4b-8641-9b89596ac188_300x168.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "97161a5e858a",
       "title": "Exploring the new `servo` crate",
       "description": "Research: Exploring the new `servo` crate In Servo is now available on crates.io the Servo team announced the initial release of the servo crate, which packages their browser engine as an embeddable library. I set Claude Code for web the task of figuring out what it can do, building a CLI tool for taking screenshots using it and working out if it could be compiled to WebAssembly. The servo-shot Rust tool it built works pretty well: git clone https://github.com/simonw/research cd…",
@@ -1524,6 +2001,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-07T160133-169.png",
+      "type": "blog"
+    },
+    {
+      "id": "ebe82643ac57",
+      "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+      "description": "Was fire equivalent to a singularity for people at the time?",
+      "link": "https://importai.substack.com/p/import-ai-453-breaking-ai-agents",
+      "pubDate": "2026-04-13T10:02:22.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -1616,6 +2107,20 @@
       "type": "blog"
     },
     {
+      "id": "e190fb3a1c0a",
+      "title": "Even more good news for the future of neurosymbolic AI",
+      "description": "And vindication for Apple’s unfairly maligned 2025 reasoning paper",
+      "link": "https://garymarcus.substack.com/p/even-more-good-news-for-the-future",
+      "pubDate": "2026-04-12T15:55:15.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qHLQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff85529f5-92bb-4758-94f4-60b1940564e7_1873x837.png",
+      "type": "blog"
+    },
+    {
       "id": "133fa6c11098",
       "title": "A Week of Symfony #1006 (April 6–12, 2026)",
       "description": "This week, the upcoming Symfony 8.1 version introduced ServicesBundle and ConsoleBundle as a first step in splitting FrameworkBundle into smaller, standalone bundles. In addition, we released Symfony Polyfill 1.34.0, which covers features from PHP 8.4, 8.5,…",
@@ -1658,6 +2163,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e64b49ecf947",
+      "title": "The biggest advance in AI since the LLM",
+      "description": "Why Claude Code changes everything",
+      "link": "https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the",
+      "pubDate": "2026-04-11T16:19:38.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-P9Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63f64a11-5698-410a-af12-a8c88597d566_784x1168.jpeg",
       "type": "blog"
     },
     {
@@ -1732,6 +2251,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "33f3797181eb",
+      "title": "Claude Mythos #2: Cybersecurity and Project Glasswing",
+      "description": "Anthropic is not going to release its new most capable model, Claude Mythos, to the public any time soon.",
+      "link": "https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and",
+      "pubDate": "2026-04-10T18:49:40.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/70f6a72c-34d7-4caf-9775-c9036b8ae3da_1536x1024.png",
       "type": "blog"
     },
     {
@@ -1868,6 +2401,20 @@
       "type": "blog"
     },
     {
+      "id": "98d4fc2789ea",
+      "title": "Claude Mythos: The System Card",
+      "description": "Claude Mythos is different.",
+      "link": "https://thezvi.substack.com/p/claude-mythos-the-system-card",
+      "pubDate": "2026-04-09T21:32:01.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hQgX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a500a07-2099-4e28-9994-98506e17b95b_1448x1086.png",
+      "type": "blog"
+    },
+    {
       "id": "927e37163b3c",
       "title": "GitHub Repo Size",
       "description": "Tool: GitHub Repo Size GitHub doesn't tell you the repo size in the UI, but it's available in the CORS-friendly API. Paste a repo into this tool to see the size, for example for simonw/datasette (8.1MB). Tags: cors, github",
@@ -1880,6 +2427,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26c90aecbabc",
+      "title": "Three reasons to think that the Claude Mythos announcement from Anthropic was overblown",
+      "description": "No need to panic just yet",
+      "link": "https://garymarcus.substack.com/p/three-reasons-to-think-that-the-claude",
+      "pubDate": "2026-04-09T19:15:13.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Vp9g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHFZyuPDa8AEKJ2x.jpg",
       "type": "blog"
     },
     {
@@ -2016,6 +2577,20 @@
       "type": "blog"
     },
     {
+      "id": "3e19525e51a2",
+      "title": "What should we take from Anthropic’s (possibly) terrifying new report on Mythos?",
+      "description": "Not many facts are on the ground, but here are some starting points for sober thinking",
+      "link": "https://garymarcus.substack.com/p/what-should-we-take-from-anthropics",
+      "pubDate": "2026-04-08T17:47:38.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/92d0e074-8cbd-4742-a4f5-d1c64ccf9adb_989x321.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "4c1cfdeee23c",
       "title": "AI-Infused Development Needs More Than Prompts",
       "description": "The current conversation about AI in software development is still happening at the wrong layer. Most of the attention goes to code generation. Can the model write a method, scaffold an API, refactor a service, or generate tests? Those things matter, and they are often useful. But they are not the hard part of enterprise […]",
@@ -2042,6 +2617,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "676c7f2b5a2e",
+      "title": "AI #163: Mythos Quest",
+      "description": "There exists an AI model, Claude Mythos, that has discovered critical safety vulnerabilities in every major operating system and browser.",
+      "link": "https://thezvi.substack.com/p/ai-163-mythos-quest",
+      "pubDate": "2026-04-08T12:37:05.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!sB1S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F760ac100-2bcc-4d51-88eb-6cc8f5a6edca_900x717.jpeg",
       "type": "blog"
     },
     {
@@ -2145,6 +2734,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!pBdt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7d21ad-f026-44d1-8d99-5c6ef69c0842_1357x696.png",
+      "type": "blog"
+    },
+    {
+      "id": "f2a9439542ef",
+      "title": "OpenAI #16: A History and a Proposal",
+      "description": "The real news today is that Anthropic has partnered with the top companies in cybersecurity to try and patch everyone’s systems to fix all the thousands of zero-day exploits found by their new model Claude Mythos.",
+      "link": "https://thezvi.substack.com/p/openai-16-a-history-and-a-proposal",
+      "pubDate": "2026-04-07T19:02:52.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/62c58c30-0fba-4da3-bed0-99d6875c5c96_275x183.jpeg",
       "type": "blog"
     },
     {
