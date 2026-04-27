@@ -271,6 +271,7 @@ feeds:
   - url: https://korben.info/feed
     name: Korben
     categories: [Programmation, Web]
+    fallbackImage: https://korben.info/img/logo-small.svg
 
   - url: https://www.nextinpact.com/rss/news.xml
     name: Next
