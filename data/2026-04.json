@@ -2,6 +2,435 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "30b5362c6326",
+      "title": "Hypervibe - Codez avec une télécommande Apple TV",
+      "description": "Vous savez cette télécommande Apple TV de première génération qui traîne dans un tiroir et dont vous ne faites rien ? Bah y'a enfin un truc à faire avec ! Jinsoo An, alias machinarii sur GitHub, vient de sortir Hypervibe , un outil macOS qui transforme la télécommande de l'Apple TV en walkie-talkie comme disent les québecois, pour Claude Code. Push-to-talk, swipes pour les commandes slash, boutons remappables, le tout pour coder à une seule main pendant que vous mangez vos chips au vinaigre de…",
+      "link": "https://korben.info/hypervibe-apple-tv-remote-claude-code.html",
+      "pubDate": "2026-04-26T08:35:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hypervibe-apple-tv-remote-claude-code/hypervibe-apple-tv-remote-claude-code-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "fe7cdf58abf0",
+      "title": "WinDiskWriter - Créez une clé USB Windows depuis macOS",
+      "description": "Cas pratique du week-end : ma pote Alex m'a passé son PC familial tournant sous Windows 8, car son fils a changé le mot de passe du Windows et n'a pas la moindre idée de ce qu'il a tapé. Pour faire sauter ce mot de passe sans tout réinstaller, j'utilise depuis des années la bonne vieille astuce Sticky Keys, qui consiste à booter sur une clé USB Windows pour accéder au Terminal de récupération via MAJ+F10. Sauf que pour préparer cette clé, j'avais juste mon MacBook sous la main.",
+      "link": "https://korben.info/windiskwriter-cle-usb-windows-macos.html",
+      "pubDate": "2026-04-26T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/windiskwriter-cle-usb-windows-macos/windiskwriter-cle-usb-windows-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3ca927b5fcb",
+      "title": "L'IA qui conçoit votre prochain produit DIY",
+      "description": "Ce matin, j'ai demandé à une IA de me concevoir un baladeur qui lit du FLAC. L'outil m'a alors posé quelques questions puis il m'a sorti le design électronique complet en quelques secondes. Blueprint.am , c'est le service de 3E8 Robotics qui transforme une simple phrase en bidule hardware DIY : schéma de cablage, liste de pièces avec liens Amazon, vues 3D, instructions de montage étape par étape...etc. Vous tapez votre idée bien délirante dans un champ texte, l'outil balance un plan pour…",
+      "link": "https://korben.info/blueprint-am-genere-hardware-prompt-ia.html",
+      "pubDate": "2026-04-26T06:45:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/blueprint-am-genere-hardware-prompt-ia/blueprint-am-genere-hardware-prompt-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b5678d7ca519",
+      "title": "Configurer votre éditeur Zed sur le bout des doigts",
+      "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
+      "link": "https://blog.seboss666.info/2026/04/configurer-votre-editeur-zed-sur-le-bout-des-doigts/",
+      "pubDate": "2026-04-25T16:25:38.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/04/z_for_zorro_sized.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "587529ee9149",
+      "title": "Les cartes bancaires biométriques sont-elles une vraie avancée ou du bullshit marketing ?",
+      "description": "Depuis quelques jours, plusieurs médias français ressortent cette merveilleuse histoire de la carte bancaire à empreinte digitale comme s'il s'agissait d'une révolution imminente ! Par exemple l'Indépendant titre carrément \"le code à quatre chiffres c'est bientôt fini\". Toudoum !! Sauf que la techno, conçue par Thales et IDEMIA , est commercialisée en Europe depuis 2021 quand même. Et plus drôle encore, c'est que BNP Paribas a fermé la commercialisation de sa première version le 8 décembre…",
+      "link": "https://korben.info/cartes-bancaires-biometriques-empreinte-fin-code-pin.html",
+      "pubDate": "2026-04-25T15:33:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cartes-bancaires-biometriques-empreinte-fin-code-pin/cartes-bancaires-biometriques-empreinte-fin-code-pin-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd13d90a7d75",
+      "title": "Un loup s'échappe en Corée du Sud, et l'IA vient mettre le bordel dans sa capture",
+      "description": "Voici l'histoire de Neukgu, un loup coréen de deux ans qui s'est fait la malle d'un zoo de Daejeon le 8 avril dernier, et qui a tenu en haleine toute la Corée du Sud pendant neuf jours. Sauf que dans la foulée de l'évasion, un homme de 40 ans génère une fausse photo IA du loup en train de traverser un carrefour, la diffuse en ligne, et l'image finit par remonter jusqu'aux autorités qui n'y voient que du feu.",
+      "link": "https://korben.info/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture.html",
+      "pubDate": "2026-04-25T08:45:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture/un-loup-sechappe-en-coree-du-sud-et-lia-vient-mettre-le-bordel-dans-sa-capture-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "61fcf441f886",
+      "title": "Project Deal, l'expérience où des agents Claude négocient des objets pour leurs collègues",
+      "description": "Anthropic a partagé hier les résultats de Project Deal, une expérience interne menée en décembre 2025 où des agents Claude ont négocié, acheté et revendu des objets personnels pour le compte de 69 salariés volontaires de leur bureau de San Francisco. Le but : voir ce que ça donne quand des gens laissent leur IA faire les courses entre elles. Pendant deux jours, chacun des 69 participants a confié un agent Claude à son téléphone, avec 100 dollars de budget virtuel et une liste d'objets à vendre…",
+      "link": "https://korben.info/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues.html",
+      "pubDate": "2026-04-25T07:17:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues/project-deal-lexperience-ou-des-agents-claude-negocient-des-objets-pour-leurs-collegues-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "60fc9ef30045",
+      "title": "Is It Agent Ready - Vérifiez si votre site parle aux agents IA",
+      "description": "Si vous avez un site, vous savez déjà qu'il faut l'optimiser et le rendre lisible pour Google. Mais en ce moment, Cloudflare pousse vraiment une toute autre couche par-dessus : le rendre lisible pour les agents IA. Et pour vérifier si vous êtes dans les clous, l'équipe a sorti isitagentready.com , un scanner gratuit qui vérifie ça en quelques secondes. Vous tapez tout simplement votre URL, et le scanner check une dizaine de standards émergents, puis pour chaque truc qui manque, il vous crache…",
+      "link": "https://korben.info/is-it-agent-ready-scanner-sites-agents-ia.html",
+      "pubDate": "2026-04-25T05:53:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/is-it-agent-ready-scanner-sites-agents-ia/is-it-agent-ready-scanner-sites-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6ffc8f37f56",
+      "title": "RSVP Nano - Une mini-liseuse DIY qui fait défiler les mots",
+      "description": "John Decebal vient de sortir le RSVP Nano , une mini-liseuse open-source qui tient sur un ESP32-S3 et qui affiche votre bibliothèque... un mot à la fois. 92 mm sur 34, et sous licence MIT, je me suis dis que j'allais y jeter un oeil. En fait, le concept tient en 4 mots : Rapid Serial Visual Presentation. Au lieu d'afficher une page entière, l'appareil fait défiler les mots un par un, à la cadence que vous voulez. Imaginez un téléprompteur de poche, sauf que c'est vous qui gérez le défilement.…",
+      "link": "https://korben.info/rsvp-nano-mini-liseuse-poche.html",
+      "pubDate": "2026-04-25T05:34:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rsvp-nano-mini-liseuse-poche/rsvp-nano-mini-liseuse-poche-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f7603beeaaaf",
+      "title": "tar-vfs-index - Monter du .tar.gz dans le browser sans l'extraire",
+      "description": "Distribuer des paquets binaires en WebAssembly, c'est galère. Vous téléchargez le .tar.gz, vous le gunzippez, vous l'extrayez en mémoire... et ça rame sévèrement !! Mais youpi, Jeroen Ooms (qui contribue à webR et bosse chez ROpenSci) vient de publier tar-vfs-index , un petit npm package qui casse cette malédiction des enfers en sautant carrément l'étape extraction. L'astuce est toute bête ! Au lieu d'extraire l'archive, on génère un fichier d'index qui liste la taille et l'offset de chaque…",
+      "link": "https://korben.info/webassembly-tar-navigateur.html",
+      "pubDate": "2026-04-25T05:22:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "b1c4976f5967",
+      "title": "Pack2theRoot - 12 ans d'accès root offert dans PackageKit",
+      "description": "Si vous tournez sur Ubuntu, Debian, Fedora ou RockyLinux, sachez que votre démon PackageKit a passé presque 12 ans à laisser une porte ouverte vers votre compte root. La Deutsche Telekom Red Team vient en effet de publier Pack2theRoot (CVE-2026-41651), une faille notée 8.8/10 qui permet à n'importe quel utilisateur local de devenir root sans mot de passe. Pour corriger le soucis, mettez à jour vers PackageKit 1.3.5 ou le backport de votre distro. Pour vérifier votre version, c'est dpkg -l |…",
+      "link": "https://korben.info/pack2theroot-faille-linux-root.html",
+      "pubDate": "2026-04-25T05:11:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pack2theroot-faille-linux-root/pack2theroot-faille-linux-root-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "08d05cd2ccb1",
+      "title": "Devoxx France 2026 - Bilan",
+      "description": "Cette année encore (comme les deux années précédentes), j’étais présent à Devoxx France. Cette fois-ci, pas de talk pour moi, j’étais donc en “simple visite”, ce qui enlève un élément de stress (ce n’est pas plus mal non plus). J’ai donc bien profité des trois jours, entre les différents talks, les discussions animées, les rencontres inattendues. Je vous raconte tout ça.",
+      "link": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7fdc38ee3387",
+      "title": "L'économie cachée des LLM",
+      "description": "Combien coûte vraiment un million de tokens quand on ne paie plus l’API, mais l’infrastructure qui les produit ? En partant du prefill, du decode, du batching, du KV cache et des modèles MoE, on estime combien de tokens une infrastructure GPU peut générer.",
+      "link": "https://blog.octo.com/l'economie-cachee-des-llm",
+      "pubDate": "2026-04-24T14:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c0defadc5f04",
+      "title": "DevoxxFR 2026 - Récap du vendredi (jour 3)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) DevoxxFR - Récap du vendredi (jour 3) Troisième jour de DevoxxFR 2026 Dernier jour, et surtout pour moi : c’était le créneau de notre talk. Entre le “petit” stress avant de monter sur scène, la tension des démos live, puis le relâchement après coup, cette journée a eu une saveur différente. Moins de talks que les deux jours précédents dans mon programme, et je suis un peu rincé dans…",
+      "link": "https://blog.zwindler.fr/2026/04/24/devoxxfr-2026-recap-jour-3/",
+      "pubDate": "2026-04-24T14:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/limits-requests.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9d11d0324ed5",
+      "title": "J'ai testé le Engwe LE20 Passenger, le vélo cargo aux 350 km d'autonomie",
+      "description": "– Contient des liens affiliés Amazon – Gros bestiau électrique avec deux batteries de 19,2 Ah, le Engwe LE20 Passenger annonce 350 km d'autonomie et embarque jusqu'à 200 kg sur sa banquette arrière. Pendant plusieurs semaines, je l'ai utilisé pour amener ponctuellement un enfant de 5 ans à l'école et même pour transporter l'enfant avec sa mère en même temps. J'adore.",
+      "link": "https://korben.info/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie.html",
+      "pubDate": "2026-04-24T12:40:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie/jai-teste-le-engwe-le20-passenger-le-velo-cargo-aux-350-km-dautonomie-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "973a81e77cc1",
+      "title": "Il fabrique de la RAM dans sa cabane",
+      "description": "Imaginez qu'à cause de cette putain de pénurie, vous vous mettiez à fabriquer votre propre RAM à la main dans votre cabane de jardin façon Heisenberg ? Hé bien c'est exactement ce que Dr. Semiconductor vient de réussir, et les 20 premières cellules DRAM de ce fou furieux fonctionnent ! Alors forcément, ça m'intéresse ! Le bonhomme a posté sa vidéo le 20 avril dernier et ça prend clairement une tournure virale dans le monde du hardware car ça donne de l'espoir et des idées à pas mal de makers.…",
+      "link": "https://korben.info/dr-semiconductor-ram-maison-cabane-jardin.html",
+      "pubDate": "2026-04-24T12:17:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dr-semiconductor-ram-maison-cabane-jardin/dr-semiconductor-ram-maison-cabane-jardin-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "810eadc98591",
+      "title": "Cinquante ans plus tard, la toute première borne d'arcade Nintendo reprend vie",
+      "description": "Vous connaissez probablement Wild Gunman sur NES, ce petit jeu de tir au Zapper avec des cowboys pixellisés. Mais la version originale, c'est autre chose. En 1974, Nintendo sort une borne d'arcade imaginée par Gunpei Yokoi lui-même, avant qu'il ne devienne la légende derrière la Game Boy. Au lieu de sprites, le jeu projette directement à l'écran du vrai film 16mm de cowboys qui dégainent. Le joueur sort un pistolet d'un étui physique au flash lumineux, et doit tirer avant l'adversaire. On est…",
+      "link": "https://korben.info/cinquante-ans-plus-tard-la-toute-premiere-borne-darcade-nintendo-reprend-vie.html",
+      "pubDate": "2026-04-24T11:28:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "1de0f0ca87e8",
+      "title": "Un soldat des forces spéciales ayant participé à la capture de Maduro arrêté pour avoir parié sur l'opération sur Polymarket",
+      "description": "Le sergent-chef Gannon Van Dyke, 38 ans, stationné à Fort Bragg, a été arrêté et inculpé pour avoir empoché quelques 410 000 dollars de gains sur Polymarket en misant sur la chute de Nicolás Maduro, alors même qu'il participait à l'opération qui l'a capturé. L'information vient du département de la Justice américain, relayée hier par CNN. Le procureur Jay Clayton, qui pilote le dossier à New York, a déclaré que ceux à qui on confie les secrets de la nation ont le devoir de les protéger.",
+      "link": "https://korben.info/un-soldat-des-forces-speciales-ayant-participe-a-la-capture-de-maduro-arrete-pour-avoir-parie-sur-loperation-sur-polymarket.html",
+      "pubDate": "2026-04-24T11:16:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "59804bf431c1",
+      "title": "Hotfix - Quand l'astreinte au boulot devient un jeu",
+      "description": "Un dev français, Romain Laurent, vient de sortir un jeu qui transforme en divertissement TOUT ce que tous les devs fuient, à savoir l'astreinte de nuit, le téléphone qui sonne à 3h du matin, et le hotfix qu'il faut pondre vite fait avec une prod qui fume. Ça s'appelle Hotfix , ça tourne dans votre navigateur, et ça se prend au sérieux juste comme il faut, vous allez voir. Dans ce jeu, vous enchaînez des micro-crises à résoudre le plus rapidement possible, sans filet. Vous commencez comme…",
+      "link": "https://korben.info/hotfix-astreinte-on-call-jeu-web.html",
+      "pubDate": "2026-04-24T11:10:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hotfix-astreinte-on-call-jeu-web/hotfix-astreinte-on-call-jeu-web-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4513036fdc99",
+      "title": "Les 7 nouveautés tech de la semaine #17 à ne pas manquer",
+      "description": "Anthropic sort un post-mortem sur Claude Code, Google normalise le design system pour l’IA, Zed passe aux agents parallèles et bien plus : ce qu’il ne fallait pas rater cette semaine.",
+      "link": "https://codecodecoders.substack.com/p/les-7-nouveautes-tech-de-la-semaine-0cc",
+      "pubDate": "2026-04-24T09:46:10.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!M9-X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaf0f1b1-5986-47db-bc9f-c066f5bc77a8_1024x608.png",
+      "type": "blog"
+    },
+    {
+      "id": "7bb2548c3864",
+      "title": "Un bug de PMU espagnol se termine en kidnapping du gérant pour 50 000 euros",
+      "description": "L'histoire nous vient de Málaga, racontée par la Policía Nacional et reprise par The Register. Un magasin de paris local est pris en défaut par un bug logiciel qui affiche des gains doublés sur plusieurs tickets de la journée. Les parieurs concernés voient leur jackpot apparaître deux fois à l'écran, et vont logiquement le réclamer au guichet. Sauf que la direction du groupe, une fois prévenue, refuse net d'honorer les paiements erronés. Les clients repartent avec leur mise normale, et bien…",
+      "link": "https://korben.info/un-bug-de-pmu-espagnol-se-termine-en-kidnapping-du-gerant-pour-50-000-euros.html",
+      "pubDate": "2026-04-24T09:39:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "2ab5e0a5ebd2",
+      "title": "Le pilote Nouveau s'apprête à franchir la barrière HDMI 2.1, bloquée depuis des années sur AMD",
+      "description": "La norme HDMI 2.1, avec ses 4K@120 Hz et ses 8K, est un serpent de mer dans le monde Linux. Depuis trois ans, le HDMI Forum refuse aux développeurs AMD l'accès aux spécifications de la Fixed Rate Link, le composant-clé qui permet de faire passer ces gros débits. Résultat, les utilisateurs Linux avec une carte AMD récente sont coincés en HDMI 2.0, donc en 4K@60 Hz. C'est quand même frustrant quand votre écran coûte plus cher que votre GPU.",
+      "link": "https://korben.info/le-pilote-nouveau-sapprete-a-franchir-la-barriere-hdmi-2-1-bloquee-depuis-des-annees-sur-amd.html",
+      "pubDate": "2026-04-24T09:09:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "92523ea7ffc3",
+      "title": "L’IA, ce nouveau membre invisible de vos équipes : catalyseur ou perturbateur ?",
+      "description": "L’IA s’invite dans nos équipes : catalyseur ou perturbateur ? Entre gains de productivité, évolution des rôles et dépendance, cet article décrypte 13 interviews menées chez OCTO. Découvrez les impacts sur l'autonomie, les défis éthiques et la santé mentale pour bâtir une stratégie d'adoption durable et centrée sur l'humain.",
+      "link": "https://blog.octo.com/l'ia-ce-nouveau-membre-invisible-de-vos-equipes--catalyseur-ou-perturbateur",
+      "pubDate": "2026-04-24T09:03:32.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2a357df3d2c7",
+      "title": "Un malware qui pourrait être la toute première cyberarme de l'histoire",
+      "description": "SentinelOne a publié une analyse qui peut redessiner la chronologie connue de la cyberguerre. Baptisé FAST16, ce framework de sabotage informatique a été compilé en 2005, soit cinq ans avant la découverte de Stuxnet. Si les analyses tiennent la route, ça en fait la plus ancienne cyberarme étatique documentée à ce jour. Le principe est fourbe. FAST16 ne détruit rien, ne chiffre rien, ne vole rien. Il corrompt des calculs. Le driver kernel (fast16.sys) s'installe silencieusement sur la machine…",
+      "link": "https://korben.info/un-malware-qui-pourrait-etre-la-toute-premiere-cyberarme-de-lhistoire.html",
+      "pubDate": "2026-04-24T08:43:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "388b960fc621",
+      "title": "Mocker - Le clone Docker natif pour Mac Apple Silicon",
+      "description": "Si vous bossez sur Mac et que Docker Desktop commence à vous prendre la tête, les amis, y'a une alternative super cool qui vient de débarquer. Ça s'appelle Mocker , c'est écrit en Swift, c'est sous licence AGPL-3.0, et le principe c'est de remplacer la CLI de Docker à l'identique : mêmes flags, mêmes formats de sortie, même syntaxe pour Compose. mocker run, mocker ps, mocker compose up (...bref, le README annonce 111 commandes et sous-commandes couvertes avec les flags qui matchent).",
+      "link": "https://korben.info/mocker-docker-alternative-macos.html",
+      "pubDate": "2026-04-24T07:27:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mocker-docker-alternative-macos/mocker-docker-alternative-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8bd2b9325eba",
+      "title": "C64UX - Un shell Unix-like pour Commodore 64",
+      "description": "Je viens de tomber sur un projet qui va vous renvoyer direct dans les années 80 !! Ça vous dirait que votre vieux Commodore 64 puisse balancer un prompt façon Unix, avec login, éditeur de texte et 30 commandes ? Hé bien c'est exactement ce que propose C64UX , codé en assembleur pur, sans patch ROM ni rien. L'auteur, Anthony Scarola a sorti sa dernière version en février 2026, avec une bannière de démarrage qui balance fièrement des [ OK ] à chaque étape de la séquence de boot, exactement comme…",
+      "link": "https://korben.info/c64ux-shell-unix-commodore-64.html",
+      "pubDate": "2026-04-24T07:23:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/c64ux-shell-unix-commodore-64/c64ux-shell-unix-commodore-64-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a223d0f6aed",
+      "title": "Bitwarden CLI compromis : retour sur une attaque supply chain qui vise (encore) les développeurs",
+      "description": "Le 22 avril 2026, entre 17h57 et 19h30 (heure de l'Est) — soit une fenêtre d'un peu plus d'une heure et demie — une version piégée du paquet npm @bitwarden/cli@2026.4.0 a été distribuée sur le…",
+      "link": "https://yoandev.co/patreon/patreon-156413402-bitwarden-cli-compromis-retour-sur-une-attaque-supply-chain",
+      "pubDate": "2026-04-24T06:45:14.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/preview.png",
+      "type": "blog"
+    },
+    {
+      "id": "610e6c3b4f2a",
+      "title": "Flipbook : vers un Web sans fin ni fond ?",
+      "description": "Flipbook.page présente un site web sans contenu prédéfini, où des images sont générées en temps réel par une IA. Bien que l'expérience soit visuellement captivante, elle soulève des questions sur le futur du Web, mettant en avant un accès à l'information réinventé, sans structure ni contenus préalablement établis. L’article Flipbook : vers un Web sans fin ni fond ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/24/flipbook-vers-un-web-sans-fin-ni-fond/",
+      "pubDate": "2026-04-24T06:26:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/Capture-decran-2026-04-24-a-08.05.18-1024x640.png",
+      "type": "blog"
+    },
+    {
       "id": "1439f8a1249d",
       "title": "SpaceX va fabriquer ses propres GPU",
       "description": "Dans son document S-1 déposé à la SEC en vue de son entrée en Bourse, SpaceX liste la fabrication de ses propres GPU parmi ses dépenses en capital en cours. Reuters a repéré l'extrait, qui fait partie des postes identifiés comme substantiels par l'entreprise, même si aucun chiffre précis n'est donné dans le document public. Le projet passe par Terafab, le complexe de fabrication de puces IA que xAI, Tesla et SpaceX développent ensemble à Austin, au Texas. Jusqu'ici, Musk avait surtout évoqué…",
@@ -13,7 +442,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -35,6 +464,21 @@
       "duration": "10:49"
     },
     {
+      "id": "f507ed8ad68b",
+      "title": "I finally found a use case for OpenClaw…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=FM5-R4VPArw",
+      "pubDate": "2026-04-23T18:26:39.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "01b8ba2d85f2",
       "title": "On a laissé 180 tonnes de bazar sur la Lune",
       "description": "Environ 180 tonnes d'objets fabriqués par l'homme sont déjà posés sur la Lune, dont une grosse partie datant des missions Apollo. e site Hackaday vient de publier un recensement assez complet, qui rappelle que l'exploration lunaire n'a pas laissé que des traces de pas dans le régolithe. Côté matériel technique, il y a les étages de descente des modules lunaires, quelques rovers, des instruments scientifiques et surtout sept réflecteurs optiques encore utilisés aujourd'hui par les astronomes…",
@@ -46,7 +490,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -77,7 +521,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -107,7 +551,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -122,7 +566,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -137,7 +581,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -152,7 +596,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -168,6 +612,22 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/texmacs-alternative-libre-latex/texmacs-alternative-libre-latex-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "624edde5538b",
+      "title": "Votre CV est éliminé avant qu’un humain ne le lise et voici pourquoi",
+      "description": "Vous envoyez des candidatures, rien ne revient. pas même un refus. La raison est souvent invisible : votre CV est filtré automatiquement avant qu'un humain ne le voie. Tout ça se corrige en 30 minutes",
+      "link": "https://codecodecoders.substack.com/p/votre-cv-est-elimine-avant-quun-humain",
+      "pubDate": "2026-04-23T09:05:05.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!TD1J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64737f0c-ec92-4e55-9a47-17739e2ef838_1024x608.png",
       "type": "blog"
     },
     {
@@ -289,7 +749,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -338,6 +798,23 @@
       "type": "blog"
     },
     {
+      "id": "8a1c73ee4471",
+      "title": "La Duck Conf 2026 - Architect Paradox : Pourquoi personne ne veut parler aux architectes",
+      "description": "Duck Conf 2026 : Architect Paradox",
+      "link": "https://blog.octo.com/la-duck-conf-2026-architect-paradox--pourquoi-personne-ne-veut-parler-aux-architectes",
+      "pubDate": "2026-04-22T10:19:43.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7b4ff3c5e7ca",
       "title": "Il charge TOUTES les extensions Firefox dans son navigateur",
       "description": "Vous vous souvenez du mème \" Oh, tu aimes les extension Firefox ? Alors nomme les toutes ! \" ? Bah Jack s'est dit que plutôt que les nommer, autant toutes les installer. Oui, les 84 194 extensions d'un seul coup ! Sur le papier c'est pas si compliqué. Tu télécharges les .xpi depuis l'API publique Mozilla (aucune authentification requise), tu les colles dans le dossier extensions/ d'un profil Firefox, tu édites extensions.json pour tout activer. Sauf que l'API de recherche plafonne à 600 pages…",
@@ -349,7 +826,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -379,7 +856,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -409,7 +886,23 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "9b5e451abb23",
+      "title": "Les Routines Claude Code : un agent de plus qui travaille même quand vous dormez",
+      "description": "Désormais, Claude Code peut exécuter des tâches récurrentes sur le cloud d’Anthropic. Ainsi, votre ordinateur peut être éteint, l’agent tourne quand même. C'est parti pour la découverte !",
+      "link": "https://codecodecoders.substack.com/p/les-routines-claude-code-un-agent",
+      "pubDate": "2026-04-22T07:03:00.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!QMO6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc900e11e-aae1-4785-a749-025b231233f5_1200x630.jpeg",
       "type": "blog"
     },
     {
@@ -424,7 +917,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -532,7 +1025,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -622,7 +1115,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -684,7 +1177,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -713,7 +1206,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -728,7 +1221,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -803,7 +1296,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -833,7 +1326,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -863,7 +1356,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -878,7 +1371,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -893,7 +1386,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -908,7 +1401,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1016,7 +1509,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1046,7 +1539,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1097,6 +1590,22 @@
       "type": "blog"
     },
     {
+      "id": "ae2fed7e11fa",
+      "title": "Linux Kernel 7.0 : une majeure qui affine l'expérience",
+      "description": "Après plusieurs années de développement, le noyau Linux en version 7.0 est officiellement disponible. Si le saut de version majeure pourrait suggérer une révolution, il s’agit plutôt d’une consolidation significative qui affine l’expérience utilisateur et développeur par rapport à la série 6.x. Voici ce qu’il faut retenir : Support rust stabilisé# Le changement le plus marquant est la promotion du support rust au statut stable. Après des expérimentations dans les versions précédentes, les…",
+      "link": "https://j.hommet.net/linux-7.0/",
+      "pubDate": "2026-04-17T22:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef3cadb8684e",
       "title": "Opus 4.7 à chaud : mes premières heures avec Claude Code",
       "description": "Je teste Opus 4.7 depuis sa sortie hier soir, et entre ce que j'ai lu dans deux des derniers billets d'Anthropic et mes propres manipulations, voilà ce qui se dégage. À prendre comme des observations…",
@@ -1125,7 +1634,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1140,7 +1649,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1155,7 +1664,23 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "69351ae33a19",
+      "title": "Les 8 nouveautés tech de la semaine #16 à ne pas manquer",
+      "description": "Claude Code pousse des agents en production pendant que vous dormez, GitHub Copilot suspend ses essais, et un outil Rust réduit vos tokens de 80% en ligne de commande. Ça a bougé cette semaine !",
+      "link": "https://codecodecoders.substack.com/p/les-8-nouveautes-tech-de-la-semaine-ec8",
+      "pubDate": "2026-04-17T07:54:33.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!G5Rn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd325a64-5e12-453b-9712-ed5e32383e1a_1024x608.png",
       "type": "blog"
     },
     {
@@ -1170,7 +1695,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1268,7 +1793,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1283,7 +1808,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1347,7 +1872,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1362,7 +1887,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1377,7 +1902,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1392,7 +1917,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1430,6 +1955,22 @@
       "type": "blog"
     },
     {
+      "id": "055eab2a34a3",
+      "title": "Créer son LLM Wiki pour développer des features plus intelligemment (2/2)",
+      "description": "Après le premier article sur la théorie concernant la méthode LLM Wiki, on attaque aujourd'hui la pratique avec un guide pas à pas sur un use case réel !",
+      "link": "https://codecodecoders.substack.com/p/creer-son-llm-wiki-pour-developper",
+      "pubDate": "2026-04-16T08:00:53.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!GO7f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bf1040a-3123-4a87-a455-1edd359b6c6b_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "90af62b11065",
       "title": "sandbox-exec - L'outil de sandboxing caché de votre Mac",
       "description": "Sandbox-exec, c'est un utilitaire en ligne de commande dont pas grand monde ne parle mais qui est intégré à macOS et qui permet de lancer n'importe quel programme dans un bac à sable sécurisé, avec des restrictions sur mesure. Apple l'a déprécié, mais ça marche toujours... et c'est franchement pratique. Avec ce truc, il suffit de créer un petit fichier de profil (extension .sb) et vous lancez votre commande avec sandbox-exec -f profil.sb votre_commande. En faisant ça, le programme de votre…",
@@ -1441,7 +1982,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1507,7 +2048,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1522,7 +2063,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1537,7 +2078,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1552,7 +2093,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1647,7 +2188,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1662,7 +2203,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1692,7 +2233,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1707,7 +2248,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1722,7 +2263,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1754,7 +2295,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1770,6 +2311,22 @@
         "Web"
       ],
       "image": "https://standblog.org/dc-blog/public/2026/Romain_et_Tristan.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e4c9d06d5dce",
+      "title": "Créez votre LLM Wiki pour développer des features plus intelligemment (1/2)",
+      "description": "Votre CLAUDE.md documente le présent, mais les décisions passées, les bugs résolus, les arbitrages techniques, eux, disparaissent. Découvrons la nouvelle méthode LLM Wiki qui résout ce problème.",
+      "link": "https://codecodecoders.substack.com/p/creez-votre-llm-wiki-pour-developper",
+      "pubDate": "2026-04-14T08:00:48.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MFNe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf08200-2560-4235-8c60-67f84a55eb98_1024x608.png",
       "type": "blog"
     },
     {
@@ -1864,7 +2421,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1896,7 +2453,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1926,7 +2483,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1941,7 +2498,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -1956,7 +2513,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2020,7 +2577,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2227,7 +2784,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2288,7 +2845,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2335,7 +2892,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2382,7 +2939,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2418,6 +2975,22 @@
       "type": "blog"
     },
     {
+      "id": "7805d29cc018",
+      "title": "Les nouveautés tech de la semaine #15 à ne pas manquer",
+      "description": "Un modèle Anthropic qui trouve des failles vieilles de 27 ans, des agents qui testent votre code dans un vrai navigateur et une pépite open source que vous allez vouloir garder sous le coude.",
+      "link": "https://codecodecoders.substack.com/p/les-nouveautes-tech-de-la-semaine",
+      "pubDate": "2026-04-10T08:09:31.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!jwVw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff86e5c9-0f70-47cc-9aa0-39a747a6a977_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "d839eb831e54",
       "title": "La Corée du Sud impose un accès mobile universel à ses opérateurs",
       "description": "Le ministère sud-coréen des Sciences vient d'annoncer un programme d'accès mobile universel. Le principe : une fois votre forfait data épuisé, vous ne tombez plus dans le néant. Les trois opérateurs du pays (SK Telecom, KT et LG Uplus) devront fournir un débit illimité à 400 kbps à tous leurs abonnés, sans frais supplémentaires. Plus de 7 millions de personnes sont concernées par la mesure. 400 kbps, ça ne fait rêver personne. Mais c'est assez pour envoyer des messages, consulter ses mails,…",
@@ -2429,7 +3002,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2492,7 +3065,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2522,7 +3095,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2587,7 +3160,7 @@
         "Programmation",
         "Web"
       ],
-      "image": null,
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -2602,6 +3175,22 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "68ca49ba7f54",
+      "title": "Négocier son TJM sans se brader : le guide concret pour les devs frontend",
+      "description": "Chaque négociation où vous annoncez votre vrai plancher vous coûte des milliers d'euros. Découvrez les 7 techniques pour facturer jusqu'à 30% de plus.",
+      "link": "https://codecodecoders.substack.com/p/negocier-son-tjm-sans-se-brader-le",
+      "pubDate": "2026-04-09T08:02:35.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!-qyj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0777d36a-e67e-45aa-8dc0-bed253729f80_1024x608.png",
       "type": "blog"
     },
     {
@@ -2871,6 +3460,22 @@
       "image": "https://i.ytimg.com/vi/XoduFJc8x3Y/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "XoduFJc8x3Y"
+    },
+    {
+      "id": "1ea0fda390a5",
+      "title": "Claude Code /batch : la puissance du traitement en masse",
+      "description": "Combien de fois avez-vous traité vos fichiers un par un avec Claude Code alors que vous auriez pu tout faire en parallèle ? /batch existe pour ça.",
+      "link": "https://codecodecoders.substack.com/p/claude-code-batch-la-puissance-du",
+      "pubDate": "2026-04-07T08:00:27.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!c63K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ca0efc9-b6ac-4245-ac2d-fb5a04adb54f_1024x608.png",
+      "type": "blog"
     },
     {
       "id": "e44bc702ca2e",
