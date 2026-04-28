@@ -2,6 +2,328 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1261a8ef672a",
+      "title": "Shaker App : L’outil lillois qui veut enfin réconcilier Design et Business (et qui cartonne !)",
+      "description": "User Shaker est une entreprise lilloise innovante dans le domaine du Product Design, récemment récompensée lors de Techinnov 2026. Son outil, Shaker App, facilite la création de spécifications actionnables à partir des User Stories. Grâce à leur expertise en Discovery, Design System et Product Management, ils améliorent significativement l'expérience utilisateur et maximisent le ROI. L’article Shaker App : L’outil lillois qui veut enfin réconcilier Design et Business (et qui cartonne !) est…",
+      "link": "https://oliviersauvage.com/2026/04/28/shaker-app-loutil-lillois-qui-veut-enfin-reconcilier-design-et-business-et-qui-cartonne/",
+      "pubDate": "2026-04-28T06:22:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/user-shaker.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3bbc48bcd1ac",
+      "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
+      "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues, PRs, utilisateurs demandant « juste ce petit truc en plus ». Nous avons récemment dépassé les 150 téléchargements par jour, l’annonce […] L’article Ember 1.2 / 1.3 : logs, plugins et une plateforme qui…",
+      "link": "https://les-tilleuls.coop/blog/ember-1-2-1-3-highlight-des-nouvelles-features",
+      "pubDate": "2026-04-28T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-release-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0d276a4b6595",
+      "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
+      "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
+      "link": "https://domopi.eu/sauvegarder-votre-raspberry-pi-avec-rpi-clone-et-rsync/",
+      "pubDate": "2026-04-28T05:45:21.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--1-.png",
+      "type": "blog"
+    },
+    {
+      "id": "6159a4a4dc07",
+      "title": "Quarkdown 2.0 - Du Markdown qui crache PDF, slides et wikis",
+      "description": "Quarkdown vient de passer en v2.0.0, et c'est une mise à jour qui en jette ! Pour ceux qui auraient raté le projet de Giorgio Garofalo, c'est ce compilateur Markdown capable de cracher livres, slides, PDF académiques et wikis à partir du même projet. J'en avais parlé il y a presque un an dans cet article , et le truc a bien grossi depuis. Du Kotlin sous le capot, et surtout une v2 qui ajoute le truc qu'on attendait pas : un vrai système de permissions ! En gros, vous pouvez maintenant brider ce…",
+      "link": "https://korben.info/quarkdown-2-multi-format-permissions.html",
+      "pubDate": "2026-04-28T05:43:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/quarkdown-2-multi-format-permissions/quarkdown-2-multi-format-permissions-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "542b43dc566c",
+      "title": "UNIX Magic - Le poster culte de 1986 enfin décodé",
+      "description": "Si vous avez bossé sous Unix dans les années 80, vous avez peut-être déjà croisé ce poster. Un sorcier barbu en robe noire, un chaudron qui déborde, des étagères couvertes de conteneurs étiquetés tar, awk, troff... C'est l'œuvre de Gary Overacre, publiée par UniTech Software dans les années 80 (apparemment 1986), et ce n'est qu'aujourd'hui qu'un dev nommé drio s'est dit que ce serait cool de cartographier chaque référence cachée sur unixmagic.net .",
+      "link": "https://korben.info/unix-magic-poster-histoire.html",
+      "pubDate": "2026-04-27T18:58:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/unix-magic-poster-histoire/unix-magic-poster-histoire-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "05e00ebedf23",
+      "title": "Cat Gatekeeper - Le chat qui débarque quand vous scrollez trop",
+      "description": "Cat Gatekeeper, c'est une extension Chrome signée Zokuzoku, un développeur japonais et son truc à lui c'est de balancer un chat virtuel sur votre écran quand vous traînez trop longtemps sur les réseaux sociaux (Pour le moment, X, Instagram, TikTok et YouTube). Voilà c'est un peu comme cette grosse boule de graisse que vous appelez \"Mon chat\" et qui vient toujours s'installer sur votre clavier au pire moment quand vous bossez ! Sauf que celui-là est virtuel et vient saboter votre dose de scroll…",
+      "link": "https://korben.info/cat-gatekeeper-extension-chat-pause-reseaux-sociaux.html",
+      "pubDate": "2026-04-27T18:07:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "88f4015f7783",
+      "title": "Canonical va foutre de l'IA partout dans Ubuntu",
+      "description": "Jon Seager, VP Engineering chez Canonical, vient de poser sur le Discourse Ubuntu le plan IA de la distrib pour les 12 prochains mois. Et ça va saupoudrer partout, du speech-to-text amélioré aux workflows agentic, en passant par l'analyse automatisée des logs serveur. Le timing est limpide, et à peine Ubuntu 26.04 LTS est sortie que Canonical aligne déjà sa \"next big thing\". Concrètement, vous tapez snap install nemotron-3-nano et tadaa, vous récupérez un modèle local pré-optimisé pour votre…",
+      "link": "https://korben.info/ubuntu-ia-canonical-roadmap-2026.html",
+      "pubDate": "2026-04-27T17:26:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ubuntu-ia-canonical-roadmap-2026/ubuntu-ia-canonical-roadmap-2026-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "705c782f5108",
+      "title": "Pedro de Ayala - Sa lettre chiffrée de 1498 enfin décodée",
+      "description": "Adrian William Jaime, Valeria Tapia Cruz et Mairi Cowan, 3 chercheurs de l'Université de Toronto, viennent de boucler le déchiffrement complet d'une lettre que personne n'avait jamais réussi à lire en entier depuis sa redécouverte en 1860. C'est Bruce Schneier qui relaye l'info sur son blog , et c'est pil poil une histoire qui prouve que l'infosec ne date pas d'hier. La lettre fait 11 pages, elle a été écrite à Londres le 25 juillet 1498 par Pedro de Ayala, un noble de Tolède en mission…",
+      "link": "https://korben.info/pedro-ayala-lettre-chiffree-1498-decodee.html",
+      "pubDate": "2026-04-27T16:44:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pedro-ayala-lettre-chiffree-1498-decodee/pedro-ayala-lettre-chiffree-1498-decodee-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c868a374c36c",
+      "title": "Test du DJI Mic Mini, le kit de micros sans fil indispensable",
+      "description": "– Contient des liens affiliés Amazon – J'ai pris il y a quelques semaines le pack DJI Mic Mini à 79 euros sur Amazon , deux émetteurs et un récepteur dans un boîtier de charge, pour un usage assez mixte : stories Instagram, vidéos YouTube, et de plus en plus d'appels et de visios où je voulais arrêter d'avoir un son moyen sur le micro intégré du Mac ou de mon iPhone. Je l’utilise absolument tout le temps, en intérieur comme en extérieur.",
+      "link": "https://korben.info/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable.html",
+      "pubDate": "2026-04-27T15:46:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable/test-du-dji-mic-mini-le-kit-de-micros-sans-fil-indispensable-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "71e2693cb3e4",
+      "title": "Specification-Driven Development : du Vibe Coding à l’Agentic Engineering",
+      "description": "Apparu en février 2025, le terme Vibe Coding a fait l’objet d’une hype sans précédent. Si l’on en croyait certains",
+      "link": "https://blog.zenika.com/2026/04/27/specification-driven-development-du-vibe-coding-a-lagentic-engineering/",
+      "pubDate": "2026-04-27T14:32:26.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/04/image-22.png?resize=800%2C437&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "e9a6e0daa81c",
+      "title": "Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀",
+      "description": "La grosse nouvelle de la fin mars dans le monde du développement d’agent IA vient de Google avec les releases",
+      "link": "https://blog.zenika.com/2026/04/27/agent-development-kit-2-0-adk-java-11-et-go-1-0-%f0%9f%9a%80/",
+      "pubDate": "2026-04-27T14:12:50.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png",
+      "type": "blog"
+    },
+    {
+      "id": "dd0e87bd79b8",
+      "title": "smolvm - Des microVMs qui se lancent en moins de 200ms",
+      "description": "Docker Desktop bouffe la RAM comme vous le saucisson à l'apéro. Et même quand vous n'utilisez pas cette RAM, d'autres outils comme Lima ou Colima prennent aussi de la RAM. Mais c'était sans compter sur smolvm , le projet de BinSquare et de l'équipe smol-machines, qui s'attaque au problème par un autre angle, à savoir utiliser des microVMs hardware-isolées qui bootent en moins de 200 millisecondes, qu'on configure en TOML, et qu'on peut packer dans un seul binaire .smolmachine qui tournera sur…",
+      "link": "https://korben.info/smolvm-microvm-portable-rust.html",
+      "pubDate": "2026-04-27T13:57:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/smolvm-microvm-portable-rust/smolvm-microvm-portable-rust-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ca77aff5d68",
+      "title": "Microsoft lance Windows K2, son chantier interne pour réparer Windows 11",
+      "description": "Microsoft a lancé en interne une initiative baptisée Windows K2, dont le but est de répondre aux plaintes les plus fréquentes des utilisateurs de Windows 11. Le projet, démarré au second semestre 2025 et révélé cette semaine par Zac Bowden de Windows Central , attaque trois fronts : la prolifération de Copilot un peu partout, les performances du système et la fiabilité générale. C'est la première fois depuis longtemps que Microsoft reconnaît officiellement, en interne en tout cas, qu'il y a un…",
+      "link": "https://korben.info/microsoft-lance-windows-k2-son-chantier-interne-pour-reparer-windows-11.html",
+      "pubDate": "2026-04-27T13:46:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "06d63bf61ed0",
+      "title": "PanicLock - Désactiver Touch ID en un clic sur votre Mac",
+      "description": "Si vous voyagez avec un Macbook qui contient des trucs trèèèès sensibles, faut absolument que vous alliez tester cet outil. PanicLock est le bouton \"panique\" qu'Apple n'a jamais voulu faire. Grâce à cela, en un clic, Touch ID se désactive totalement. Plus de biométrie, et retour au mot de passe obligatoire pour rouvrir la session. Parce que oui, Touch ID, c'est ultra pratique au quotidien, sauf quand un agent à la frontière ou un flic un peu trop curieux vous demande gentiment (ou de force) de…",
+      "link": "https://korben.info/paniclock-touch-id-panic-button-mac.html",
+      "pubDate": "2026-04-27T13:30:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/paniclock-touch-id-panic-button-mac/paniclock-touch-id-panic-button-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "af5531cdac26",
+      "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
+      "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au microscope. L’objectif ? Optimiser l’usage de nos ressources et réduire notre […] L’article 47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks est apparu en…",
+      "link": "https://les-tilleuls.coop/blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
+      "pubDate": "2026-04-27T13:07:20.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/cloud-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "10cac3a6de7e",
+      "title": "Linux 7.1-rc1 sort avec un nouveau pilote NTFS deux fois plus rapide",
+      "description": "La première release candidate de Linux 7.1 est sortie, avec un tout nouveau pilote NTFS écrit pour le noyau, qui annonce des écritures multi-thread deux fois plus rapides et un montage de disque jusqu'à quatre fois plus véloce que l'ancien. La sortie stable est prévue pour la mi-juin selon le calendrier de Linus Torvalds. Au total, la fenêtre de merge a vu passer plus de 13 000 commits, ce qui en fait une release plutôt costaude.",
+      "link": "https://korben.info/linux-7-1-rc1-sort-avec-un-nouveau-pilote-ntfs-deux-fois-plus-rapide.html",
+      "pubDate": "2026-04-27T13:00:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "8205398f530a",
+      "title": "Un amateur résout un problème d'Erdős vieux de 60 ans avec un seul prompt GPT-5.4",
+      "description": "Liam Price, 23 ans, mathématicien amateur sans formation avancée, a résolu un problème d'Erdős resté ouvert depuis 60 ans en posant la question à GPT-5.4 Pro un lundi après-midi en avril. Le modèle a tourné 80 minutes pour produire une preuve qui passe la validation du médaillé Fields Terence Tao. C'est ce que rapporte Joseph Howlett dans Scientific American. Le problème en question, c'est l'Erdős #1196, posé par le mathématicien hongrois en 1965. L'IA n'a pas tout cassé en force brute. Elle a…",
+      "link": "https://korben.info/un-amateur-resout-un-probleme-derdos-vieux-de-60-ans-avec-un-seul-prompt-gpt-5-4.html",
+      "pubDate": "2026-04-27T12:36:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "482856b53f08",
+      "title": "DeepSeek lance V4, optimisé pour les puces chinoises Huawei Ascend",
+      "description": "DeepSeek a publié la preview de V4, sa nouvelle famille de modèles ajustée pour tourner sur les puces Ascend de Huawei. C'est un peu la première vraie démonstration que l'écosystème chinois peut faire fonctionner un grand modèle d'IA compétitif sans dépendre de Nvidia. Pour rappel, DeepSeek avait déjà fait du bruit avec V3 fin 2024, en publiant un modèle compétitif à une fraction du coût d'entraînement des concurrents américains. La gamme se décline en deux versions, V4-Pro et V4-Flash, avec…",
+      "link": "https://korben.info/deepseek-lance-v4-optimise-pour-les-puces-chinoises-huawei-ascend.html",
+      "pubDate": "2026-04-27T10:56:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "82d8d602a607",
+      "title": "Firefox embarque en douce le moteur d'adblock open source de Brave",
+      "description": "Mozilla a glissé dans Firefox 149, sorti en mars, le moteur d'adblock open source de Brave, sans communiquer dessus dans les notes de version. L'info est sortie cette semaine via le blog itsfoss et un billet du VP Brave Shivan Kaul Sahib. C'est un retournement assez inattendu : Firefox embarque le code d'un concurrent direct pour bloquer des publicités au cœur du navigateur. Le composant en question s'appelle adblock-rust. C'est un moteur écrit en Rust, sous licence MPL-2.0, qui gère le…",
+      "link": "https://korben.info/firefox-embarque-en-douce-le-moteur-dadblock-open-source-de-brave.html",
+      "pubDate": "2026-04-27T09:45:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "fd946aba0439",
+      "title": "Plan de migration vers Tailwind CSS v4 🚀 : la méthode (presque) sans douleur",
+      "description": "Ça y est, le grand jour est arrivé ! Vous avez enfin décidé de vous attaquer à cette fameuse dette technique qui vous fait faire des cauchemars la nuit. 😅 Beaucoup de nos projets (et sans doute les vôtres) reposent encore sur d’anciens frameworks CSS basés sur Sass, comme Bootstrap v4 ou d'autres solutions maison (coucou Atomic Builder 👋). Et soyons honnêtes : maintenir et mettre à jour ces projets relève souvent du parcours du combattant. On fait face à un manque cruel de flexibilité, la…",
+      "link": "https://jolicode.com/blog/plan-de-migration-vers-tailwind-css-v4-la-methode-presque-sans-douleur",
+      "pubDate": "2026-04-27T08:20:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/plan-de-migration-vers-tailwind-css-v4-la-methode-presque-sans-douleur.png",
+      "type": "blog"
+    },
+    {
+      "id": "7b75a89803c5",
+      "title": "Pourquoi l'Open Source ne suffira pas à nous libérer des Big Tech",
+      "description": "264 milliards d'euros s'échappent d'Europe chaque année. Pourquoi l'open source, sans une vraie stratégie de communs numériques, ne nous sauvera pas.",
+      "link": "https://eventuallycoding.com/p/pourquoi-l-open-source-ne-suffira-pas-a-nous-liberer-des-big-tech",
+      "pubDate": "2026-04-27T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777282153184-5ozqknf.png",
+      "type": "blog"
+    },
+    {
       "id": "30b5362c6326",
       "title": "Hypervibe - Codez avec une télécommande Apple TV",
       "description": "Vous savez cette télécommande Apple TV de première génération qui traîne dans un tiroir et dont vous ne faites rien ? Bah y'a enfin un truc à faire avec ! Jinsoo An, alias machinarii sur GitHub, vient de sortir Hypervibe , un outil macOS qui transforme la télécommande de l'Apple TV en walkie-talkie comme disent les québecois, pour Claude Code. Push-to-talk, swipes pour les commandes slash, boutons remappables, le tout pour coder à une seule main pendant que vous mangez vos chips au vinaigre de…",
@@ -44,6 +366,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/blueprint-am-genere-hardware-prompt-ia/blueprint-am-genere-hardware-prompt-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dc7e4900e16b",
+      "title": "Prise en main de Zensical",
+      "description": "Prise en main de Zensical {align=right} Depuis un peu moins d'un an, j'utilise MkDocs avec le plugin Material for MkDocs pour mon site web, mon blog et mes supports de cours. Après avoir passé quelques semaines à tester une flopée de moteurs de documentation, j'ose affirmer haut et fort que Material for MkDocs constitue sans doute la meilleure solution pour publier de la documentation technique sur le web.",
+      "link": "https://www.microlinux.fr/blog/zensical/",
+      "pubDate": "2026-04-26T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/zensical-logo.png",
       "type": "blog"
     },
     {
@@ -462,6 +799,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/45444cdb-b822-4068-9872-6305217ec0d1.mp3?_=1776945695",
       "duration": "10:49"
+    },
+    {
+      "id": "509a7804e645",
+      "title": "Les sub-agents Claude Code : isoler, déléguer, paralléliser",
+      "description": "Comprendre les sub-agents de Claude Code, leurs cas d'usage et comment ils permettent d'optimiser vos workflows : isolation de contexte, choix du modèle et parallélisation.",
+      "link": "https://www.elao.com/blog/ia/sub-agents-claude-code",
+      "pubDate": "2026-04-24T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/thumbnails/sub-agents-claude-code.jpg/50405465fa31c6c7d14aed3da5fcec20.jpg",
+      "type": "blog"
     },
     {
       "id": "f507ed8ad68b",
