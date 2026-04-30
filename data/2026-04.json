@@ -2,6 +2,261 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "0bbfea1dbaf0",
+      "title": "Test du Weenect Chat XS, le collier GPS qui localise mon chat au mètre près",
+      "description": "– Contient des liens affiliés Amazon – Alors dans le titre j’ai écrit chat, mais c’est une chatte, juste je voulais pas vous faire rigoler dès le début, je vous connais. Ma chatte donc… Je la sors depuis plusieurs mois et je la laisse se balader à sa guise dans la résidence, mais l'idée qu'elle puisse traverser jusqu'à la rue où passent les voitures m'a fait craquer pour un collier GPS.",
+      "link": "https://korben.info/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres.html",
+      "pubDate": "2026-04-29T14:08:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres/test-du-weenect-chat-xs-le-collier-gps-qui-localise-mon-chat-au-metre-pres-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3d529e0670d3",
+      "title": "Firefox 151 ajoute le choix du pays sur son VPN intégré gratuit",
+      "description": "Pour qui n'utilise pas encore de VPN (on sait jamais, il y a aussi des néophytes qui nous lisent parfois !), c'est un service qui fait passer votre trafic Internet par un serveur intermédiaire situé dans un autre pays. Résultat, les sites web croient que vous vous connectez depuis là-bas, ce qui sert à débloquer du contenu géo-bloqué (Netflix, presse étrangère) ou à masquer votre vraie adresse IP face aux sites que vous visitez.",
+      "link": "https://korben.info/firefox-151-ajoute-le-choix-du-pays-sur-son-vpn-integre-gratuit.html",
+      "pubDate": "2026-04-29T12:40:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "f9f92e9e8203",
+      "title": "Le DNS souverain européen DNS4EU forcé par la justice française de bloquer des sites pirates",
+      "description": "Coup dur pour DNS4EU. Le résolveur DNS public co-financé par la Commission européenne, présenté il y a moins d'un an comme l'alternative souveraine à Google et Cloudflare, doit désormais bloquer une trentaine de domaines de streaming pirate, sur ordre du tribunal judiciaire de Paris. La décision date du 17 avril, après deux ordonnances réclamées par Canal+ et restées sans réponse côté défense. Concrètement, l'ordonnance vise 37 domaines au total, répartis entre 16 sites qui diffusaient…",
+      "link": "https://korben.info/le-dns-souverain-europeen-dns4eu-force-par-la-justice-francaise-de-bloquer-des-sites-pirates.html",
+      "pubDate": "2026-04-29T11:44:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "76b09e49d668",
+      "title": "Xiaomi ouvre MiMo-V2.5 et MiMo-V2.5-Pro en open source sous licence MIT",
+      "description": "Xiaomi a publié hier MiMo-V2.5 et MiMo-V2.5-Pro, deux modèles d'IA qu'il met directement en open source sous licence MIT. Le plus gros, le Pro, fait 1 020 milliards de paramètres dont 42 milliards activés en simultané, avec une fenêtre de contexte d'un million de tokens. À noter que tout est téléchargeable sur Hugging Face avec poids, tokenizer et fiche modèle complète. L'architecture est un Mixture-of-Experts à attention hybride, conçue pour tenir des tâches longues avec plus de mille appels…",
+      "link": "https://korben.info/xiaomi-ouvre-mimo-v2-5-et-mimo-v2-5-pro-en-open-source-sous-licence-mit.html",
+      "pubDate": "2026-04-29T10:44:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "3fcda7300837",
+      "title": "Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles",
+      "description": "Lexia, une startup deeptech française, révolutionne la transcription vocale au sein des entreprises. Avec une précision de plus de 99% et une sécurité des données inégalée, elle transforme les flux de travail en convertissant la parole en information structurée tout en respectant la souveraineté numérique, offrant ainsi des solutions adaptées à divers secteurs. L’article Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/04/29/lexia-lia-vocale-made-in-france-qui-protege-vos-donnees-les-plus-sensibles/",
+      "pubDate": "2026-04-29T09:45:42.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/media-gen-1777454803832.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cd0a3ca965d1",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre",
+      "pubDate": "2026-04-29T09:12:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a62645e251db",
+      "title": "Talkie-1930 - Le LLM qui pense qu'on est en 1930",
+      "description": "Une IA qui pense que 2026 ressemble à un monde fait de bateaux à vapeur et de vastes réseaux ferroviaires, et qui considère qu'une seconde guerre mondiale est très peu probable... voilà Talkie-1930, le nouveau modèle de langage à 13 milliards de paramètres lancé par Nick Levine, David Duvenaud et Alec Radford (l'un des architectes de GPT-2 chez OpenAI). LE truc avec ce modèle d'un nouveau genre, c'est qu'il n'a JAMAIS lu un mot écrit après le 31 décembre 1930. Pas de Wikipedia, pas de Reddit,…",
+      "link": "https://korben.info/talkie-1930-llm-historique.html",
+      "pubDate": "2026-04-29T09:03:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/talkie-1930-llm-historique/talkie-1930-llm-historique-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f1cb704182a4",
+      "title": "BTP : Ne perdez plus de temps à chercher vos fiches techniques avec OneFiche",
+      "description": "OneFiche est une plateforme collaborative dédiée à la centralisation des fiches techniques dans le secteur du BTP. Elle améliore l'accès à des informations fiables et à jour, facilitant ainsi la collaboration entre les différents acteurs d'un projet. En intégrant des technologies avancées, OneFiche permet une gestion efficace des données techniques, contribuant à réduire les erreurs et à optimiser les décisions sur le terrain. L’article BTP : Ne perdez plus de temps à chercher vos fiches…",
+      "link": "https://oliviersauvage.com/2026/04/29/btp-ne-perdez-plus-de-temps-a-chercher-vos-fiches-techniques-avec-onefiche/",
+      "pubDate": "2026-04-29T08:40:22.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/media-gen-1777038538935.png",
+      "type": "blog"
+    },
+    {
+      "id": "337064341490",
+      "title": "Ghostty quitte GitHub - Hashimoto craque après 18 ans",
+      "description": "\"GitHub n'est plus un endroit pour faire du travail sérieux.\" C'est signé Mitchell Hashimoto, le créateur de HashiCorp, de Vagrant ou plus récemment de Ghostty, et l'utilisateur numéro 1299 de la plateforme depuis février 2008. Et quand un mec qui a passé 18 ans à pousser du code presque tous les jours sur Github annonce qu'il se casse, bah ça vaut clairement le coup de comprendre pourquoi. L'annonce est tombée hier : Ghostty , le terminal en Zig pour macOS et Linux va quitter la plateforme.…",
+      "link": "https://korben.info/ghostty-quitte-github-hashimoto.html",
+      "pubDate": "2026-04-29T08:37:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ghostty-quitte-github-hashimoto/ghostty-quitte-github-hashimoto-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "97ea210d021e",
+      "title": "Comment choisir un dumbphone sans se planter",
+      "description": "Si vous avez décidé de passer au dumbphone notamment après avoir lu mon merveilleux article sur le débat dumbphone vs smartphone qui agite le monde en ce moment, vous êtes tombé peut-être démuni sur le choix de votre futur doudou tech. Heureusement, Jose Briones , le type qui modère r/dumbphones et qui anime la chaîne YouTube de référence sur le sujet, maintient depuis un petit moment un site baptisé Dumbphone Finder qui recense 89 modèles avec une trentaine de critères filtrables.",
+      "link": "https://korben.info/comment-choisir-dumbphone-2026-france.html",
+      "pubDate": "2026-04-29T07:54:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/comment-choisir-dumbphone-2026-france/comment-choisir-dumbphone-2026-france-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "325faf535a91",
+      "title": "DOOM tourne aussi dans ChatGPT et Claude (évidemment)",
+      "description": "DOOM a déjà été porté sur des thermostats, des tests de grossesse, et même un piano ! Manquait donc plus que les chatbots IA ! Et voilà que c'est fait puisque Chris Nager vient de faire tourner DOOM dans ChatGPT et Claude, jouable directement dans la fenêtre du chat. lien vers la vidéo. Le truc tient en deux outils MCP. Pour rappel, MCP (Model Context Protocol), c'est le protocole standard qui permet à une IA d'appeler des outils externes.",
+      "link": "https://korben.info/doom-chatgpt-claude-mcp.html",
+      "pubDate": "2026-04-29T07:31:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/doom-chatgpt-claude-mcp/doom-chatgpt-claude-mcp-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "50e4296eb8cb",
+      "title": "PS5-Linux - Andy Nguyen libère son hack",
+      "description": "PS5-Linux est là !! Andy Nguyen, le security engineer alias theflow0, vient de publier le hack qui transforme une PS5 Phat (les modèles originaux, pas les Slim ni les Pro) en PC 100% Linux. Et le truc cool c'est que ça marche désormais sur les firmwares 3.xx et 4.xx, et pas seulement sur les premières consoles oubliées dans leur boîte ! Pour rappel, en mars dernier, Andy Nguyen avait fait tourner GTA 5 Enhanced en ray tracing sur sa PS5 , mais l'exploit était limité aux firmwares 1.xx et 2.xx,…",
+      "link": "https://korben.info/ps5-linux-hack-andy-nguyen-firmware.html",
+      "pubDate": "2026-04-29T07:20:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ps5-linux-hack-andy-nguyen-firmware/ps5-linux-hack-andy-nguyen-firmware-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3eb45b6240a9",
+      "title": "Denuvo enfin contourné sur tous ses jeux solo",
+      "description": "Pour qui n'a jamais fouillé là-dedans, Denuvo est le système anti-piratage le plus utilisé sur les jeux PC depuis 2014. Édité par une boîte autrichienne, il s'ajoute aux jeux pour les empêcher de tourner sans autorisation, et il a longtemps été considéré comme imperforable. Mauvaise nouvelle pour ses clients : le 27 avril, le fil Reddit qui suivait l'état des jeux Denuvo encore non cassés est tombé à zéro. Tous les jeux solo protégés par Denuvo ont désormais une version pirate qui marche, dont…",
+      "link": "https://korben.info/denuvo-enfin-contourne-sur-tous-ses-jeux-solo.html",
+      "pubDate": "2026-04-29T07:15:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "2093105a644f",
+      "title": "Pikimov - L'alternative française à After Effects et CapCut",
+      "description": "Adobe vous fourgue du After Effects en abonnement Creative Cloud obligatoire, et CapCut appartient à ByteDance, avec tout ce que ça implique côté collecte de données et juridiction chinoise. Et dire que pendant ce temps, Clément Cordier, dev solo basé en Normandie, vient de sortir la version 5 de Pikimov , son éditeur vidéo qui tourne directement dans le navigateur ! Ce serait vraiment con de passer à côté, non ? Surtout que c'est gratuit et que ça tient la route.",
+      "link": "https://korben.info/pikimov-5-alternative-after-effects-capcut.html",
+      "pubDate": "2026-04-29T07:08:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pikimov-5-alternative-after-effects-capcut/pikimov-5-alternative-after-effects-capcut-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7c7652b59f0c",
+      "title": "Du PDD au multi-agent : mon premier REX avec Liza",
+      "description": "Du Prompt-Driven Development au multi-agent orchestré : j'ai confié un projet entier à Liza, un système multi-agent open source. Ce que j'en retiens, ce que ça coûte, et pourquoi le craft fait toute la différence.",
+      "link": "https://blog.ippon.fr/2026/04/29/premier-rex-multi-agent-liza/",
+      "pubDate": "2026-04-29T07:00:12.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/liza-tui-coding-review-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "77f60533c2c1",
+      "title": "Slint - Un toolkit GUI pour Rust, C++, JS et Python",
+      "description": "Vous avez déjà voulu créer une appli desktop qui tourne sur Linux, Mac et Windows en même temps ? En Rust, c'était un peu compliqué jusqu'ici. Heureusement, Slint , créé par la société allemande SixtyFPS GmbH, propose une solution sympa ! L'idée, c'est de décrire votre interface dans des petits fichiers .slint (un genre de mini HTML/CSS pour appli native), et de brancher ça à du Rust, du C++, du JavaScript ou du Python. Comme ça, vous codez le visuel d'un côté, la logique de l'autre.",
+      "link": "https://korben.info/slint-framework-ui-multiplateforme.html",
+      "pubDate": "2026-04-29T06:49:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/slint-framework-ui-multiplateforme/slint-framework-ui-multiplateforme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "548c6e05918a",
+      "title": "Shelfmark - La relève de Readarr pour vos ebooks",
+      "description": "Readarr a malheureusement fermé boutique en juin dernier et depuis, le créneau Sonarr-pour-bouquins était orphelin. Mais voili que voilà Shelfmark qui débarque pour combler ce trou, et c'est signé calibrain. Cet outil c'est l'évolution directe de Calibre-Web-Automated-Book-Downloader (CWA-BD pour les intimes), renommé en début d'année ! Niveau interface, ça se présente comme une seule barre de recherche, façon Spotlight mais pour vos sources de livres, qui sait chercher et télécharger des…",
+      "link": "https://korben.info/shelfmark-self-hosted-ebooks-audiobooks.html",
+      "pubDate": "2026-04-29T06:32:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/shelfmark-self-hosted-ebooks-audiobooks/shelfmark-self-hosted-ebooks-audiobooks-2.png",
+      "type": "blog"
+    },
+    {
       "id": "b4fbb0e53705",
       "title": "Réussir ses webinaires en B2B : la meilleure recette",
       "description": "Cet article met en avant les avantages des webinaires, soulignant leur coût accessible et leur impact en marketing. Il propose des conseils pratiques pour organiser des webinaires réussis, incluant la préparation, l'animation et l'interaction avec l'audience. Le webinaire est présenté comme un outil puissant et pertinent pour les entreprises. L’article Réussir ses webinaires en B2B : la meilleure recette est apparu en premier sur OlivierSauvage.com.",
@@ -32,6 +287,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/96fa46c8-3640-4896-8f87-147e055f4087.mp3?_=1777377723",
       "duration": "53:44"
+    },
+    {
+      "id": "049ba199cc11",
+      "title": "Quand personne ne répare la CI, ce n'est pas un bug. C'est un choix.",
+      "description": "J’ai connu des équipes dans lesquels, quand on arrivait le matin, on pouvait constater que la branche principale était cassée depuis plusieurs jours. La CI (eg. l’intégration continue) échouait en continu, et personne dans l’équipe ne semblait s’en inquiéter. Quand on vit cette situation, ce n’est plus un problème technique, c’est un problème de culture. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre…",
+      "link": "https://www.jdecool.fr/blog/2026/04/29/quand-personne-ne-repare-la-ci-ce-n-est-pas-un-bug-c-est-un-choix.html",
+      "pubDate": "2026-04-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "6691e3f1fd9e",
@@ -840,6 +1110,22 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c7a32d157976",
+      "title": "🎤 Talks donnés à Devoxx France 🎤",
+      "description": "Liste de talks donnés lors de la conférence Devoxx France",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-fr-2026/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/images/conferences/devoxx-fr-2026.webp",
       "type": "blog"
     },
     {
