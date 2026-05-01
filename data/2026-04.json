@@ -2,6 +2,275 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "4acb7dd428d9",
+      "title": "GitHub is having some major issues right now…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=d53Zk28esmU",
+      "pubDate": "2026-04-30T16:37:31.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "01eca2fbda4f",
+      "title": "Le code source original du premier 86-DOS enfin publié",
+      "description": "45 ans après sa sortie, le code source du tout premier 86-DOS vient d'atterrir sur GitHub . Microsoft a profité de cet anniversaire pour publier les listings d'assembleur originaux, accompagnés de plusieurs versions de PC-DOS 1.00 et de MS-DOS 1.25, sous licence MIT. Tout ceci est dans le dépôt DOS-History/Paterson-Listings, et oui, le tout est compilable. Ces listings, c'est Tim Paterson en personne qui les avait conservés dans ses tiroirs depuis 1980. À cette époque, il bossait chez Seattle…",
+      "link": "https://korben.info/le-code-source-original-du-premier-86-dos-enfin-publie.html",
+      "pubDate": "2026-04-30T16:19:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "cdfdbc86d651",
+      "title": "Une appli Android scanne tous les Raspberry Pi de votre réseau",
+      "description": "Si vous avez plusieurs Raspberry Pi qui traînent chez vous, vous connaissez la galère du DHCP. Le routeur leur balance des IP différentes au gré des redémarrages, et impossible de savoir laquelle correspond à votre Pi-hole, votre Home Assistant ou votre média center sans aller fouiller dans l'interface admin du box. Un développeur du nom de Philipp a sorti une appli Android qui résout ça en repérant automatiquement tous les Pi présents sur le LAN.",
+      "link": "https://korben.info/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau.html",
+      "pubDate": "2026-04-30T15:29:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau/une-appli-android-scanne-tous-les-raspberry-pi-de-votre-reseau-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9c96a44ca3a9",
+      "title": "Comment activer l'adblock natif de Firefox 149 ?",
+      "description": "Vincent en avait parlé il y a peu : Firefox 149 embarque maintenant discrètement adblock-rust , le moteur Adblock de Brave, désactivé par défaut et contrôlé uniquement par deux prefs dans about:config. A l'origine, je vous avais parlé d'une extension mais après analyse plus approfondie, celle-ci n'est pas vraiment nécessaire. Y'a juste deux valeurs à coller dans about:config et le moteur tourne. Merci donc à François qui m'a indiqué cette méthode directe.",
+      "link": "https://korben.info/adblock-rust-manager.html",
+      "pubDate": "2026-04-30T13:55:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/adblock-rust-manager/adblock-rust-manager-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0e3f56ef7470",
+      "title": "Felix \"FX\" Lindner, le hacker de Berlin-Est qui a forcé Huawei à sécuriser ses routeurs",
+      "description": "Cet article fait partie de ma série spéciale hackers . Bonne lecture ! Felix \"FX\" Lindner est mort le 1er mars 2026 à l'âge de seulement 49 ans. Et si ce nom ne vous dit rien, c'est normal, car FX n'a jamais cherché les projecteurs. Par contre, ceux qui bossent dans la cybersécurité, eux, savent parfaitement qui il était.",
+      "link": "https://korben.info/felix-fx-lindner-hacker-berlin-recurity-labs.html",
+      "pubDate": "2026-04-30T12:27:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/felix-fx-lindner-hacker-berlin-recurity-labs/felix-fx-lindner-hacker-berlin-recurity-labs-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "93f9724bf37e",
+      "title": "GameDate - Trouver des joueurs pour vos jeux morts et oubliés",
+      "description": "Hier soir, je suis tombé sur GameDate et ça m'a carrément fait remonter 20 ans en arrière, à cette époque bénie l'époque où on passait toutes nos nuits sur des jeux comme Wolfenstein: Enemy Territory ou Tribes 2 sans que personne ne nous juge bizarrement. Ce site pour le moins original permet d'organiser des sessions multijoueurs pour tous les jeux que tout le monde a oubliés. D'abord vous arrivez sur le site, ensuite vous voyez les sessions programmées par d'autres joueurs, vous cliquez sur…",
+      "link": "https://korben.info/gamedate-sessions-jeux-morts-anonyme.html",
+      "pubDate": "2026-04-30T12:06:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gamedate-sessions-jeux-morts-anonyme/gamedate-sessions-jeux-morts-anonyme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "fd3f328784f0",
+      "title": "Kavita, la bibliothèque auto-hébergée pour vos ebooks, comics et manga",
+      "description": "Depuis qu'Amazon a coupé le téléchargement USB de nos ebooks Kindle (sniiiif), héberger sa propre bibliothèque est passé du statut de bricolage du dimanche aprem au geste héroïque de préservation de notre souveraineté ! Alors si vous voulez vous lancer, sachez que Kavita , le serveur de lecture auto-hébergé développé depuis 2020, est l'un des candidats les plus solides du moment. C'est un lecteur web qui gère EPUB, PDF, comics CBZ/CBR et manga avec mode de lecture droite-à-gauche pour les…",
+      "link": "https://korben.info/kavita-serveur-ebooks-self-hosted.html",
+      "pubDate": "2026-04-30T11:56:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kavita-serveur-ebooks-self-hosted/kavita-serveur-ebooks-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "01daa01c2d2e",
+      "title": "Le consultant : une lecture sociologique",
+      "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/le-consultant-une-lecture-sociologique/",
+      "pubDate": "2026-04-30T11:17:14.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-13.09.05.png",
+      "type": "blog"
+    },
+    {
+      "id": "594e38ce6824",
+      "title": "Souveraineté numérique : pourquoi basculer sur une stack privacy européenne",
+      "description": "-- Article en partenariat avec Proton -- L'actualité de la tech ces derniers mois donne des sueurs froides. Entre les rebondissements autour du CLOUD Act, la section 702 de FISA qui permet aux agences US d'accéder aux données des non-américains sans mandat, et les tensions diplomatiques internationales, la question de la souveraineté numérique n'est plus un débat de geeks. C'est un enjeu concret pour quiconque stocke, communique ou navigue en ligne.",
+      "link": "https://korben.info/stack-privacy-europeenne.html",
+      "pubDate": "2026-04-30T11:06:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/stack-privacy-europeenne/stack-privacy-europeenne-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "7c747f6f0c1d",
+      "title": "Distribution.ai : la machine à recycler les contenus marketing",
+      "description": "Distribution.ai est une plateforme d'automatisation marketing qui transforme des contenus uniques en multiples publications sur divers réseaux sociaux. En exploitant l'IA, elle optimise le recyclage des articles, vidéos et podcasts, tout en assurant cohérence et personnalisation. Cela permet d'améliorer le ROI et de maximiser la visibilité sans surcharge de travail. L’article Distribution.ai : la machine à recycler les contenus marketing est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/04/30/distribution-ai-la-machine-a-recycler-les-contenus-marketing/",
+      "pubDate": "2026-04-30T10:41:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/04/media-gen-1777545050366.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4cea88e7141a",
+      "title": "Copy Fail - Une IA trouve la faille Linux que personne n'a vue",
+      "description": "732 octets, c'est tout ce qu'il faut pour passer de simple utilisateur à root sur n'importe quel Linux non patché compilé depuis 2017, soit la quasi-totalité des kernels. Cette faille béante s'appelle Copy Fail (CVE-2026-31431), elle a été dénichée par Taeyang Lee de chez Theori avec leur outil d'audit IA Xint Code. Et comme elle vient d'être divulguée hier sur la liste oss-security et qu'en plus, ils ont fait un joli petit site qui explique tout comme ça fonctionne, je vais essayer de tout…",
+      "link": "https://korben.info/copy-fail-faille-kernel-linux-decouverte-ia.html",
+      "pubDate": "2026-04-30T09:27:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/copy-fail-faille-kernel-linux-decouverte-ia/copy-fail-faille-kernel-linux-decouverte-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d41e15426611",
+      "title": "PixelFX Morph 2K : un scaler 1080p pour consoles rétro à peu près accessible",
+      "description": "199 $ pour passer vos consoles rétro en HDMI 1080p sans bouillie de pixels et sans latence visible ? C'est ce que promet le Morph 2K, le nouveau scaler analogique-numérique de PixelFX. Pré-commandes le 1er juin, livraisons huit à dix semaines plus tard. L'idée est de prendre n'importe quel signal analogique des consoles rétro (composite, S-Video, SCART, component) et de le balancer en 1080p sur HDMI moderne, avec une couleur 4:4:4 propre et une sortie pouvant grimper à 60 Hz en VRR.",
+      "link": "https://korben.info/pixelfx-morph-2k-un-scaler-1080p-pour-consoles-retro-a-peu-pres-accessible.html",
+      "pubDate": "2026-04-30T09:08:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "28c62a5855d2",
+      "title": "Starcraft2.ai - Le coach IA SC2",
+      "description": "Starcraft2.ai débarque en force pour les joueurs de StarCraft 2 et de Brood War qui voudraient disséquer leurs replays sans bouger de leur navigateur. Le créateur de ce site, qui se présente sous le pseudo de Tomkit, a sorti un analyseur gratuit qui combine un moteur de rendu isométrique et un coach IA. Vous balancez un fichier .SC2Replay (ou .rep pour Brood War), et chose incroyableuuuh, le site reconstruit votre partie complète en vue isométrique avec mouvement des unités, brouillard de…",
+      "link": "https://korben.info/starcraft2-ai-coach-claude-replay.html",
+      "pubDate": "2026-04-30T09:00:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/starcraft2-ai-coach-claude-replay/starcraft2-ai-coach-claude-replay-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c6155dc1a4b8",
+      "title": "En vrac d'avril 2026",
+      "description": "En Vrac Je découvre la fonctionnalité about:keyboard dans Firefox, qui affiche tous les raccourcis claviers et permet de les modifier. C’est encore expérimental mais c’est génial ! (Si vous n’utilisez pas les raccourcis claviers quand vous utilisez Firefox — ou tout autre application — sachez que c’est un incroyable gain de productivité, et garanti sans IA Voic Apfel, le p’tit truc qui permet d’utiliser le LLM local des Macs les plus récents. C’est limité (4096 tokens en comptant l’entrée et la…",
+      "link": "https://standblog.org/blog/post/2026/04/30/En-vrac-d-avril-2026",
+      "pubDate": "2026-04-30T07:48:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=smile.svg",
+      "type": "blog"
+    },
+    {
+      "id": "a53ef1bc41ad",
+      "title": "Vos capteurs d'humidité meurent dans votre salle de bain à cause... de l'humidité",
+      "description": "Le BME280 et le DHT22, deux capteurs ultra-populaires en domotique, ont une faiblesse cachée dans leur spécifications : ils ne supportent pas la condensation. Les gens de Mellow Labs ont creusé la question sur Hackaday après avoir flingué plusieurs sondes dans une salle de bain, et le coupable est marqué noir sur blanc dans les caractéristiques du produit, « non-condensing humidity »… Le souci tient en fait à la physique du truc. Quand l'humidité relative dépasse les 100%, l'air saturé en…",
+      "link": "https://korben.info/vos-capteurs-dhumidite-meurent-dans-votre-salle-de-bain-a-cause-de-lhumidite.html",
+      "pubDate": "2026-04-30T07:42:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "f80104d2c30b",
+      "title": "Slim - HTTPS local et tunnels publics, tout en un",
+      "description": "Monter un serveur HTTPS local pour bosser sur du Next.js ou du Vite, ça reste étrangement chiant. Faut mkcert pour générer les certifs, faut éditer le /etc/hosts à la mimine, installer caddy ou nginx en reverse proxy par-dessus... bref, vous voyez le diiiiliiiire ! Heureusement, Kamran Ahmed , le mec derrière roadmap.sh, vient de balancer Slim , un binaire Go standalone qui fait tout ça d'un coup. Et tant qu'à faire, il rajoute aussi des tunnels publics à la ngrok au cas où vous voudriez…",
+      "link": "https://korben.info/slim-https-local-et-tunnels-publics-tout-en-un.html",
+      "pubDate": "2026-04-30T07:26:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/slim-https-local-et-tunnels-publics-tout-en-un/slim-https-local-et-tunnels-publics-tout-en-un-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e0997f6bcacb",
+      "title": "Pup branche votre agent IA sur Datadog",
+      "description": "Datadog Labs vient de sortir pup , un outil CLI codé en Rust qui donne à vos agents IA un accès complet à leur plateforme. L'idée c'est que pendant que Vercel et AWS galèrent de ouf à rendre leurs trucs « agent-friendly », Datadog, lui, dégaine un outil dédié qui expose +200 commandes sur plus de 33 de leurs produits, du monitoring aux SLOs en passant par la sécurité et les incidents.",
+      "link": "https://korben.info/pup-cli-datadog-agents-ia.html",
+      "pubDate": "2026-04-30T07:05:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "ba84b93bc3ba",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "Installez EasyAdmin sur Symfony en quelques minutes pour un back-office efficace. Découvrez pourquoi ce bundle est la solution idéale pour administrer vos entités Doctrine. Guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin",
+      "pubDate": "2026-04-29T15:59:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0bbfea1dbaf0",
       "title": "Test du Weenect Chat XS, le collier GPS qui localise mon chat au mètre près",
       "description": "– Contient des liens affiliés Amazon – Alors dans le titre j’ai écrit chat, mais c’est une chatte, juste je voulais pas vous faire rigoler dès le début, je vous connais. Ma chatte donc… Je la sors depuis plusieurs mois et je la laisse se balader à sa guise dans la résidence, mais l'idée qu'elle puisse traverser jusqu'à la rue où passent les voitures m'a fait craquer pour un collier GPS.",
