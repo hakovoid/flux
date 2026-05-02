@@ -364,7 +364,7 @@ for (let i = 1; i <= totalPages; i++) {
   function renderActionButtons(id: string, size: 'card' | 'list'): string {
     const fav = isFavorited(id);
     const later = isReadLater(id);
-    const favFill = fav ? '#fbbf24' : 'none';
+    const favFill = fav ? '#fb7185' : 'none';
     const laterFill = later ? '#60a5fa' : 'none';
 
     if (size === 'card') {
@@ -510,7 +510,7 @@ for (let i = 1; i <= totalPages; i++) {
     const primaryCategory = a.categories[0];
     const fav = isFavorited(a.id);
     const later = isReadLater(a.id);
-    const favFill = fav ? '#fbbf24' : 'none';
+    const favFill = fav ? '#fb7185' : 'none';
     const laterFill = later ? '#60a5fa' : 'none';
 
     const typeBadgeHtml = (a.type === 'podcast' || a.type === 'youtube')
