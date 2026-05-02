@@ -22,7 +22,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 
 ## Origine — fork modifié et enrichi
 
-> **Important** : ce dépôt est un **fork largement modifié** du projet original [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) créé par [Yoan Bernabeu](https://yoandev.co). Le concept initial — agrégateur RSS statique en Astro — vient de son travail. À partir de cette base, le projet a été **retravaillé en profondeur** pour offrir une expérience utilisateur plus riche.
+> Ce dépôt est un **fork modifié** du projet original [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) créé par [Yoan Bernabeu](https://yoandev.co). Le concept initial — agrégateur RSS statique en Astro — vient de son travail. À partir de cette base, le projet a été **retravaillé** pour offrir une expérience utilisateur plus riche.
 
 **Ce qui vient déjà du projet original** (Yoan Bernabeu) — pour que le crédit aille où il faut :
 
