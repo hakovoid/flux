@@ -185,11 +185,13 @@ Le site sera disponible sur `http://localhost:4321`.
 
 ## Variables d'environnement
 
-Le projet utilise trois variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL`.
+Le projet utilise cinq variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL`.
 
 | Variable | Quand est-elle utilisée | Fallback |
 |---|---|---|
 | `SITE_URL` | URL canonique du site — utilisée pour le sitemap, les `<link rel="canonical">`, les `og:image` absolus, les JSON-LD schema.org, le RSS sortant, l'outil `/rs`. | `https://your-flux-site.example.com` (placeholder cassé pour le SEO) |
+| `GITHUB_REPO_URL` | URL du repo GitHub affichée dans le header et le footer. | non défini → boutons « GitHub / Code source » masqués |
+| `UMAMI_WEBSITE_ID` | Active l'injection du script Umami (analytics sans cookies). | non défini → aucun script analytics, mention « Analytique sans cookies » masquée dans le footer |
 | `YOUTUBE_API_KEY` | Récupération des chaînes YouTube par `scripts/fetch-feeds.ts` (API Data v3). | aucun — les flux YouTube échouent silencieusement |
 | `FLUX_ACCENT` | Couleur d'accent par défaut (build-time) pour les nouveaux visiteurs / no-JS. Une fois qu'un utilisateur a choisi via le sélecteur dans le header, sa préférence localStorage prend le pas. | `indigo` |
 
@@ -200,6 +202,12 @@ Créer un fichier `.env` à la racine du projet (gitignored) :
 ```env
 # URL canonique du site (production)
 SITE_URL=https://ton-domaine.exemple.com
+
+# URL du repo GitHub (optionnel — si absent, les boutons GitHub sont masqués)
+GITHUB_REPO_URL=https://github.com/ton-user/ton-fork
+
+# ID Umami pour les analytics sans cookies (optionnel)
+# UMAMI_WEBSITE_ID=
 
 # Clé API YouTube Data v3 (https://console.cloud.google.com/apis/credentials)
 YOUTUBE_API_KEY=ta_cle_youtube
@@ -219,6 +227,8 @@ Les variables se définissent depuis le dashboard, **pas dans un fichier `.env`*
 2. **Settings → Environment variables**
 3. Ajouter pour `Production` (et `Preview` si tu veux que les deploys de PR soient corrects) :
    - `SITE_URL` = `https://ton-projet.pages.dev` (ou ton domaine custom)
+   - `GITHUB_REPO_URL` = `https://github.com/ton-user/ton-fork` (optionnel)
+   - `UMAMI_WEBSITE_ID` = ton website-id Umami (optionnel)
    - `YOUTUBE_API_KEY` = (si tes flux YouTube doivent être à jour quand Cloudflare rebuild — sinon GitHub Actions les fetch déjà avant push)
    - `FLUX_ACCENT` = (optionnel)
 4. **Save** puis **Deployments → … → Retry deployment** pour appliquer (ou attendre le prochain push).
