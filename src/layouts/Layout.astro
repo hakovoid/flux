@@ -20,11 +20,12 @@ const ogImage = image || 'https://your-flux-site.example.com/og.webp';
 
 const accentName = ((process.env.FLUX_ACCENT as string) || 'indigo') as AccentName;
 const p = palettes[accentName] ?? palettes.indigo;
-const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`;
+const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`
+  + `:root[data-theme="light"]{--color-accent-500:${p.c600};--color-accent-400:${p.c600};--color-accent-300:${p.c500};--color-accent-light:${p.c600};--color-accent:${p.c600}}`;
 ---
 
 <!doctype html>
-<html lang="fr" data-theme="dark" style={`--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}`}>
+<html lang="fr" data-theme="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -53,6 +54,9 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
         } catch (e) {}
       });
     </script>
+
+    <!-- Variables CSS d'accent (override par mode clair via spécificité) -->
+    <style is:inline set:html={accentCSS}></style>
 
     <title>{title} | Flux YoanDev</title>
     <meta name="description" content={description} />
