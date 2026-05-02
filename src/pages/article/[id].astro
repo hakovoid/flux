@@ -117,7 +117,7 @@ const badge = getFreshnessBadge(article.pubDate);
     <h1 class="text-2xl sm:text-3xl font-bold leading-tight mb-4">{article.title}</h1>
 
     <!-- Source & Date -->
-    <div class="flex flex-wrap items-center gap-3 text-sm text-[var(--color-text-secondary)] mb-6 pb-6 border-b border-[var(--color-border)]">
+    <div class="flex flex-wrap items-center gap-3 text-sm text-[var(--color-text-secondary)] mb-4">
       <a href={`/source/${slugify(article.source)}`} class="inline-flex items-center gap-1.5 hover:text-[var(--color-accent-400)] transition-colors">
         <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
@@ -126,6 +126,32 @@ const badge = getFreshnessBadge(article.pubDate);
       </a>
       <span>·</span>
       <time datetime={article.pubDate}>{formatDate(article.pubDate)}</time>
+    </div>
+
+    <!-- Actions (favoris / à lire plus tard) -->
+    <div class="flex flex-wrap items-center gap-2 mb-6 pb-6 border-b border-[var(--color-border)]">
+      <button
+        data-favorite-toggle
+        data-article-id={article.id}
+        aria-label="Ajouter aux favoris"
+        class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-1)] hover:bg-[var(--color-surface-2)] text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors"
+      >
+        <svg class="w-4 h-4 favorite-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path class="favorite-outline" stroke-linecap="round" stroke-linejoin="round" d="M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.175 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z" />
+        </svg>
+        <span>Favoris</span>
+      </button>
+      <button
+        data-read-later-toggle
+        data-article-id={article.id}
+        aria-label="Ajouter à lire plus tard"
+        class="inline-flex items-center gap-2 px-3 py-2 rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-1)] hover:bg-[var(--color-surface-2)] text-sm text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors"
+      >
+        <svg class="w-4 h-4 read-later-icon" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" />
+        </svg>
+        <span>À lire plus tard</span>
+      </button>
     </div>
 
     <!-- Description -->
@@ -212,6 +238,29 @@ const badge = getFreshnessBadge(article.pubDate);
     if (id) {
       localStorage.setItem(`flux-read-${id}`, 'true');
     }
+
+    // Initialize favorite / read-later button states from localStorage
+    try {
+      const favorites = JSON.parse(localStorage.getItem('flux-favorites') || '[]');
+      document.querySelectorAll('[data-favorite-toggle][data-article-id]').forEach((button) => {
+        const articleId = button.getAttribute('data-article-id');
+        if (articleId && favorites.includes(articleId)) {
+          const icon = button.querySelector('.favorite-icon');
+          if (icon) icon.setAttribute('fill', '#fb7185');
+        }
+      });
+    } catch (e) { /* ignore */ }
+
+    try {
+      const readLater = JSON.parse(localStorage.getItem('flux-read-later') || '[]');
+      document.querySelectorAll('[data-read-later-toggle][data-article-id]').forEach((button) => {
+        const articleId = button.getAttribute('data-article-id');
+        if (articleId && Array.isArray(readLater) && readLater.some((item) => item && item.id === articleId)) {
+          const icon = button.querySelector('.read-later-icon');
+          if (icon) icon.setAttribute('fill', '#60a5fa');
+        }
+      });
+    } catch (e) { /* ignore */ }
 
     // Audio player fallback: show link if audio fails to load
     const audio = document.querySelector('audio[data-fallback-link]') as HTMLAudioElement | null;

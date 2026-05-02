@@ -4,20 +4,20 @@
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, monospace;
   /* Surfaces */
-  --color-surface-0: #09090b;
-  --color-surface-1: #18181b;
-  --color-surface-2: #27272a;
-  --color-surface-3: #3f3f46;
+  --color-surface-0: #0d1117;
+  --color-surface-1: #1c2330;
+  --color-surface-2: #272f3d;
+  --color-surface-3: #3a4452;
   /* Texte */
-  --color-text-primary: #fafafa;
-  --color-text-secondary: #a1a1aa;
-  --color-text-muted: #71717a;
-  --color-text-subtle: #52525b;
+  --color-text-primary: #f0f6fc;
+  --color-text-secondary: #8b949e;
+  --color-text-muted: #6e7681;
+  --color-text-subtle: #484f58;
   /* Bordures */
-  --color-border: #27272a;
-  --color-border-strong: #3f3f46;
+  --color-border: #3a4452;
+  --color-border-strong: #525c6b;
   /* Surfaces spéciales */
-  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-glass: rgba(28, 35, 48, 0.8);
   --color-surface-overlay: rgba(0, 0, 0, 0.5);
   /* Badges (couleurs réutilisables, adaptables par thème) */
   --color-success-bg: rgba(16, 185, 129, 0.2);
@@ -29,17 +29,17 @@
 }
 
 :root[data-theme="dark"] {
-  --color-surface-0: #09090b;
-  --color-surface-1: #18181b;
-  --color-surface-2: #27272a;
-  --color-surface-3: #3f3f46;
-  --color-text-primary: #fafafa;
-  --color-text-secondary: #a1a1aa;
-  --color-text-muted: #71717a;
-  --color-text-subtle: #52525b;
-  --color-border: #27272a;
-  --color-border-strong: #3f3f46;
-  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-0: #0d1117;
+  --color-surface-1: #1c2330;
+  --color-surface-2: #272f3d;
+  --color-surface-3: #3a4452;
+  --color-text-primary: #f0f6fc;
+  --color-text-secondary: #8b949e;
+  --color-text-muted: #6e7681;
+  --color-text-subtle: #484f58;
+  --color-border: #3a4452;
+  --color-border-strong: #525c6b;
+  --color-surface-glass: rgba(28, 35, 48, 0.8);
   --color-surface-overlay: rgba(0, 0, 0, 0.5);
   --color-success-bg: rgba(16, 185, 129, 0.2);
   --color-success-text: #34d399;
@@ -121,8 +121,8 @@ body {
   isolation: isolate;
 }
 
-/* Décor de fond : trois halos utilisant la couleur d'accent.
-   Fixé au viewport (pas affecté par le scroll), derrière tout le contenu. */
+/* Décor de fond : dégradé diffus façon Proton (une nappe qui couvre tout le
+   viewport, pas des halos localisés). Fixé au viewport, derrière le contenu. */
 body::before {
   content: '';
   position: fixed;
@@ -130,29 +130,25 @@ body::before {
   pointer-events: none;
   z-index: -1;
   background:
-    radial-gradient(ellipse 90% 55% at 50% 0%,
-      color-mix(in srgb, var(--color-accent-500) 28%, transparent),
-      transparent 60%),
-    radial-gradient(ellipse 70% 50% at 100% 100%,
-      color-mix(in srgb, var(--color-accent-500) 20%, transparent),
-      transparent 65%),
-    radial-gradient(ellipse 60% 45% at 0% 80%,
-      color-mix(in srgb, var(--color-accent-500) 14%, transparent),
-      transparent 65%);
+    radial-gradient(ellipse 140% 100% at 20% 0%,
+      color-mix(in srgb, var(--color-accent-500) 35%, transparent) 0%,
+      transparent 55%),
+    linear-gradient(135deg,
+      color-mix(in srgb, var(--color-accent-500) 22%, transparent) 0%,
+      transparent 45%,
+      color-mix(in srgb, var(--color-accent-500) 16%, transparent) 100%);
 }
 
-/* En mode clair : halos plus subtils (le fond blanc est plus sensible aux teintes). */
+/* En mode clair : nappe plus subtile (le fond blanc est plus sensible aux teintes). */
 :root[data-theme="light"] body::before {
   background:
-    radial-gradient(ellipse 90% 55% at 50% 0%,
-      color-mix(in srgb, var(--color-accent-500) 10%, transparent),
-      transparent 60%),
-    radial-gradient(ellipse 70% 50% at 100% 100%,
-      color-mix(in srgb, var(--color-accent-500) 6%, transparent),
-      transparent 65%),
-    radial-gradient(ellipse 60% 45% at 0% 80%,
-      color-mix(in srgb, var(--color-accent-500) 4%, transparent),
-      transparent 65%);
+    radial-gradient(ellipse 140% 100% at 20% 0%,
+      color-mix(in srgb, var(--color-accent-500) 16%, transparent) 0%,
+      transparent 55%),
+    linear-gradient(135deg,
+      color-mix(in srgb, var(--color-accent-500) 10%, transparent) 0%,
+      transparent 45%,
+      color-mix(in srgb, var(--color-accent-500) 7%, transparent) 100%);
 }
 
 /* Scrollbar */

@@ -20,11 +20,12 @@ const ogImage = image || 'https://your-flux-site.example.com/og.webp';
 
 const accentName = ((process.env.FLUX_ACCENT as string) || 'indigo') as AccentName;
 const p = palettes[accentName] ?? palettes.indigo;
-const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`;
+const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`
+  + `:root[data-theme="light"]{--color-accent-500:${p.c600};--color-accent-400:${p.c600};--color-accent-300:${p.c500};--color-accent-light:${p.c600};--color-accent:${p.c600}}`;
 ---
 
 <!doctype html>
-<html lang="fr" data-theme="dark" style={`--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}`}>
+<html lang="fr" data-theme="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -52,6 +53,56 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
           document.documentElement.style.colorScheme = theme;
         } catch (e) {}
       });
+    </script>
+
+    <!-- Variables CSS d'accent (fallback no-JS : palette de FLUX_ACCENT) -->
+    <style is:inline set:html={accentCSS}></style>
+
+    <!-- Sélecteur d'accent runtime : applique la palette stockée dans localStorage -->
+    <script is:inline define:vars={{ palettes, defaultAccent: accentName }}>
+      (function () {
+        function applyAccent(name) {
+          var p = palettes[name];
+          if (!p) return;
+          var s = document.documentElement.style;
+          var isLight = document.documentElement.dataset.theme === 'light';
+          s.setProperty('--color-accent-glow', p.glow);
+          s.setProperty('--color-accent-from', p.from);
+          s.setProperty('--color-accent-to', p.to);
+          s.setProperty('--color-accent-600', p.c600);
+          if (isLight) {
+            s.setProperty('--color-accent-500', p.c600);
+            s.setProperty('--color-accent-400', p.c600);
+            s.setProperty('--color-accent-300', p.c500);
+            s.setProperty('--color-accent-light', p.c600);
+            s.setProperty('--color-accent', p.c600);
+          } else {
+            s.setProperty('--color-accent-500', p.c500);
+            s.setProperty('--color-accent-400', p.c400);
+            s.setProperty('--color-accent-300', p.c300);
+            s.setProperty('--color-accent-light', p.c400);
+            s.setProperty('--color-accent', p.c500);
+          }
+        }
+        function getStored() {
+          try {
+            var v = localStorage.getItem('flux-accent');
+            return palettes[v] ? v : defaultAccent;
+          } catch (e) {
+            return defaultAccent;
+          }
+        }
+        applyAccent(getStored());
+        window.__applyAccent = function (name) {
+          try { localStorage.setItem('flux-accent', name); } catch (e) {}
+          applyAccent(name);
+        };
+        window.__getCurrentAccent = getStored;
+        window.__accentPalettes = palettes;
+        document.addEventListener('astro:after-swap', function () {
+          applyAccent(getStored());
+        });
+      })();
     </script>
 
     <title>{title} | Flux YoanDev</title>
@@ -111,11 +162,11 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
-    <main class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <main class="flex-1 w-full max-w-[90rem] mx-auto px-4 sm:px-5 lg:px-6 py-8">
       <slot />
     </main>
     <footer class="border-t border-[var(--color-border)] py-8 text-sm text-[var(--color-text-muted)]">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-[90rem] mx-auto px-4 sm:px-5 lg:px-6">
         <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
           <div>
             <h4 class="text-xs uppercase tracking-widest text-[var(--color-text-subtle)] font-medium mb-3">Catégories</h4>
@@ -253,7 +304,7 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
               const icon = button.querySelector('.favorite-icon');
               if (icon) {
                 if (isNowFavorite) {
-                  icon.setAttribute('fill', '#fbbf24'); // Yellow fill for favorited state
+                  icon.setAttribute('fill', '#fb7185'); // Pink fill for favorited state
                   const outlinePath = icon.querySelector('path');
                   if (outlinePath) {
                     outlinePath.setAttribute('d', 'M11.645 20.91l-.007-.003-.022-.012a15.247 15.247 0 01-.383-.218 25.18 25.18 0 01-4.244-3.17C4.688 15.36 2.25 12.174 2.25 8.25 2.25 5.322 4.714 3 7.688 3A5.5 5.5 0 0112 5.052 5.5 5.5 0 0116.313 3c2.973 0 5.437 2.322 5.437 5.25 0 3.925-2.438 7.111-4.739 9.256a25.175 25.185 0 01-4.244 3.17 15.247 15.247 0 01-.383.219l-.022.012-.007.004-.003.001a.75.75 0 01-.712 0l-.003-.001z');

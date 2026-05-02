@@ -230,7 +230,7 @@ for (let i = 1; i <= totalPages; i++) {
   </div>
 </div>
 
-<script is:inline define:vars={{ searchIndexUrl }}>
+<script is:inline define:vars={{ searchIndexUrl }} data-astro-rerun>
   window.__searchIndexUrl = searchIndexUrl;
 </script>
 
@@ -268,11 +268,15 @@ for (let i = 1; i <= totalPages; i++) {
   }
 
   let searchIndex: SearchArticle[] | null = null;
+  let searchIndexUrl: string | null = null;
   let fuse: Fuse<SearchArticle> | null = null;
 
   async function loadSearchIndex(): Promise<SearchArticle[]> {
-    if (searchIndex) return searchIndex;
-    const res = await fetch((window as any).__searchIndexUrl || '/search-index.json');
+    const url = (window as any).__searchIndexUrl || '/search-index.json';
+    if (searchIndex && searchIndexUrl === url) return searchIndex;
+    searchIndexUrl = url;
+    fuse = null;
+    const res = await fetch(url);
     searchIndex = await res.json();
     return searchIndex!;
   }
@@ -364,7 +368,7 @@ for (let i = 1; i <= totalPages; i++) {
   function renderActionButtons(id: string, size: 'card' | 'list'): string {
     const fav = isFavorited(id);
     const later = isReadLater(id);
-    const favFill = fav ? '#fbbf24' : 'none';
+    const favFill = fav ? '#fb7185' : 'none';
     const laterFill = later ? '#60a5fa' : 'none';
 
     if (size === 'card') {
@@ -510,7 +514,7 @@ for (let i = 1; i <= totalPages; i++) {
     const primaryCategory = a.categories[0];
     const fav = isFavorited(a.id);
     const later = isReadLater(a.id);
-    const favFill = fav ? '#fbbf24' : 'none';
+    const favFill = fav ? '#fb7185' : 'none';
     const laterFill = later ? '#60a5fa' : 'none';
 
     const typeBadgeHtml = (a.type === 'podcast' || a.type === 'youtube')
