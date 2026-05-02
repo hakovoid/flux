@@ -4,20 +4,20 @@
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, monospace;
   /* Surfaces */
-  --color-surface-0: #09090b;
-  --color-surface-1: #18181b;
-  --color-surface-2: #27272a;
-  --color-surface-3: #3f3f46;
+  --color-surface-0: #0d1117;
+  --color-surface-1: #161b22;
+  --color-surface-2: #21262d;
+  --color-surface-3: #30363d;
   /* Texte */
-  --color-text-primary: #fafafa;
-  --color-text-secondary: #a1a1aa;
-  --color-text-muted: #71717a;
-  --color-text-subtle: #52525b;
+  --color-text-primary: #f0f6fc;
+  --color-text-secondary: #8b949e;
+  --color-text-muted: #6e7681;
+  --color-text-subtle: #484f58;
   /* Bordures */
-  --color-border: #27272a;
-  --color-border-strong: #3f3f46;
+  --color-border: #30363d;
+  --color-border-strong: #484f58;
   /* Surfaces spéciales */
-  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-glass: rgba(22, 27, 34, 0.8);
   --color-surface-overlay: rgba(0, 0, 0, 0.5);
   /* Badges (couleurs réutilisables, adaptables par thème) */
   --color-success-bg: rgba(16, 185, 129, 0.2);
@@ -29,17 +29,17 @@
 }
 
 :root[data-theme="dark"] {
-  --color-surface-0: #09090b;
-  --color-surface-1: #18181b;
-  --color-surface-2: #27272a;
-  --color-surface-3: #3f3f46;
-  --color-text-primary: #fafafa;
-  --color-text-secondary: #a1a1aa;
-  --color-text-muted: #71717a;
-  --color-text-subtle: #52525b;
-  --color-border: #27272a;
-  --color-border-strong: #3f3f46;
-  --color-surface-glass: rgba(24, 24, 27, 0.8);
+  --color-surface-0: #0d1117;
+  --color-surface-1: #161b22;
+  --color-surface-2: #21262d;
+  --color-surface-3: #30363d;
+  --color-text-primary: #f0f6fc;
+  --color-text-secondary: #8b949e;
+  --color-text-muted: #6e7681;
+  --color-text-subtle: #484f58;
+  --color-border: #30363d;
+  --color-border-strong: #484f58;
+  --color-surface-glass: rgba(22, 27, 34, 0.8);
   --color-surface-overlay: rgba(0, 0, 0, 0.5);
   --color-success-bg: rgba(16, 185, 129, 0.2);
   --color-success-text: #34d399;
