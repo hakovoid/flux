@@ -12,7 +12,7 @@ const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
 const articles = allArticles.slice(0, PAGE_SIZE);
 ---
 
-<Layout title="World — Veille internationale" description={`${allArticles.length} articles de veille technologique internationale agrégés depuis ${sources.length} sources.`} image="https://your-flux-site.example.com/og.webp">
+<Layout title="World — Veille internationale" description={`${allArticles.length} articles de veille technologique internationale agrégés depuis ${sources.length} sources.`}>
   <ArticleListPage
     articles={articles}
     categories={categories}

@@ -27,7 +27,7 @@ export function getStaticPaths() {
 const { articles, currentPage, totalPages, categories, sources, types } = Astro.props;
 ---
 
-<Layout title={`World — Veille internationale - Page ${currentPage}`} image="https://your-flux-site.example.com/og.webp">
+<Layout title={`World — Veille internationale - Page ${currentPage}`}>
   <ArticleListPage
     articles={articles}
     categories={categories}

@@ -9,7 +9,7 @@ if (env.FLUX_ACCENT) process.env.FLUX_ACCENT = env.FLUX_ACCENT;
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://your-flux-site.example.com',
+  site: env.SITE_URL || 'https://your-flux-site.example.com',
   prefetch: {
     prefetchAll: true,
     defaultStrategy: 'viewport',

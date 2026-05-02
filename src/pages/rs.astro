@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { loadAllArticles, loadWorldArticles } from '../utils/articles';
 
 const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
-const siteUrl = 'https://your-flux-site.example.com';
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? '';
 ---
 
 <Layout title="Thread Twitter / LinkedIn" description="Generez des threads pour partager votre veille tech." noindex>
@@ -126,7 +126,7 @@ const siteUrl = 'https://your-flux-site.example.com';
   </div>
 </Layout>
 
-<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://your-flux-site.example.com' }}>
+<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl }}>
   const allArticles = JSON.parse(articlesJson);
   let visibleArticles = [];
   let currentDays = 1;
