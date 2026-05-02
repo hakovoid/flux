@@ -183,6 +183,57 @@ npm run dev
 
 Le site sera disponible sur `http://localhost:4321`.
 
+## Variables d'environnement
+
+Le projet utilise trois variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL`.
+
+| Variable | Quand est-elle utilisée | Fallback |
+|---|---|---|
+| `SITE_URL` | URL canonique du site — utilisée pour le sitemap, les `<link rel="canonical">`, les `og:image` absolus, les JSON-LD schema.org, le RSS sortant, l'outil `/rs`. | `https://your-flux-site.example.com` (placeholder cassé pour le SEO) |
+| `YOUTUBE_API_KEY` | Récupération des chaînes YouTube par `scripts/fetch-feeds.ts` (API Data v3). | aucun — les flux YouTube échouent silencieusement |
+| `FLUX_ACCENT` | Couleur d'accent par défaut (build-time) pour les nouveaux visiteurs / no-JS. Une fois qu'un utilisateur a choisi via le sélecteur dans le header, sa préférence localStorage prend le pas. | `indigo` |
+
+### En local
+
+Créer un fichier `.env` à la racine du projet (gitignored) :
+
+```env
+# URL canonique du site (production)
+SITE_URL=https://ton-domaine.exemple.com
+
+# Clé API YouTube Data v3 (https://console.cloud.google.com/apis/credentials)
+YOUTUBE_API_KEY=ta_cle_youtube
+
+# Couleur d'accent par défaut (optionnel)
+# Valeurs : indigo, violet, blue, sky, emerald, green, amber, orange, red, rose, pink, yellow
+FLUX_ACCENT=indigo
+```
+
+`npm run dev` et `npm run build` lisent ce fichier automatiquement. `npm run fetch-feeds` utilise `--env-file-if-exists=.env` (silencieux si absent).
+
+### En production sur Cloudflare Pages
+
+Les variables se définissent depuis le dashboard, **pas dans un fichier `.env`** (le `.env` n'est pas commité, donc Cloudflare ne le verra jamais).
+
+1. https://dash.cloudflare.com → **Pages** → ton projet
+2. **Settings → Environment variables**
+3. Ajouter pour `Production` (et `Preview` si tu veux que les deploys de PR soient corrects) :
+   - `SITE_URL` = `https://ton-projet.pages.dev` (ou ton domaine custom)
+   - `YOUTUBE_API_KEY` = (si tes flux YouTube doivent être à jour quand Cloudflare rebuild — sinon GitHub Actions les fetch déjà avant push)
+   - `FLUX_ACCENT` = (optionnel)
+4. **Save** puis **Deployments → … → Retry deployment** pour appliquer (ou attendre le prochain push).
+
+Sans `SITE_URL`, le build prod sera fonctionnel mais le SEO sera cassé (canonicals/og:image vers `your-flux-site.example.com`).
+
+### En CI (GitHub Actions)
+
+Le cron `fetch-feeds` quotidien a besoin de `YOUTUBE_API_KEY` pour les flux YouTube :
+
+1. Repo GitHub → **Settings → Secrets and variables → Actions → New repository secret**
+2. Name : `YOUTUBE_API_KEY` · Value : ta clé
+
+Le workflow `.github/workflows/fetch-feeds.yml` injecte automatiquement ce secret dans l'env du job. `SITE_URL` et `FLUX_ACCENT` ne sont pas utilisés en CI (le job ne build pas le site, il fetch les flux et commit).
+
 ## Ajouter un flux
 
 Modifier le fichier `feeds.yaml` à la racine. Deux collections coexistent :
@@ -226,22 +277,15 @@ feeds_world:
 
 Certaines sources n'exposent pas d'image dans leur RSS et bloquent le scraping `og:image` (Cloudflare, blogs minimalistes…). Le champ optionnel `fallbackImage` définit une URL utilisée en dernier recours. Le fallback est ré-appliqué rétroactivement aux articles déjà en base à chaque `npm run fetch-feeds`.
 
-## Configuration YouTube
+## Obtenir une clé YouTube
 
-Pour récupérer les vidéos YouTube, une clé API Google est nécessaire :
+Pour récupérer les vidéos YouTube via l'API Data v3 :
 
 1. Créer un projet dans la [Google Cloud Console](https://console.cloud.google.com/)
 2. Activer l'API **YouTube Data API v3**
 3. Créer une clé API (Credentials → API Key)
 
-**En local** : créer un fichier `.env` à la racine :
-```env
-YOUTUBE_API_KEY=ta_cle_ici
-```
-
-**En CI** : ajouter le secret `YOUTUBE_API_KEY` dans Settings → Secrets and variables → Actions du repo GitHub.
-
-Le script `fetch-feeds` utilise `--env-file-if-exists=.env`, donc l'absence du fichier en CI est silencieuse (les vars viennent du secret GitHub).
+Renseigner ensuite la clé via la variable `YOUTUBE_API_KEY` (voir la section [Variables d'environnement](#variables-denvironnement) ci-dessus).
 
 ## Personnaliser la couleur d'accent
 
@@ -346,8 +390,6 @@ Aucune dépendance directe — DayBrief consomme le RSS comme n'importe quel agr
 ## Remerciements
 
 Un grand merci à **[Yoan Bernabeu](https://yoandev.co)** ([@yoanbernabeu](https://github.com/yoanbernabeu)) pour son projet original [**Flux**](https://github.com/yoanbernabeu/flux) qui a servi de point de départ à ce fork.
-
-Sans son travail initial — concept d'agrégateur RSS statique, choix d'Astro, architecture du pipeline d'ingestion, premières pages — rien de tout ce qui a été construit ici n'aurait été possible. Ce dépôt n'existerait tout simplement pas.
 
 Va voir son site **[yoandev.co](https://yoandev.co)** et sa **[chaîne YouTube](https://www.youtube.com/@yoandev_co)** : c'est de la veille tech francophone de qualité, accessible et passionnante.
 
