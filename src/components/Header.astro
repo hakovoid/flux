@@ -1,5 +1,21 @@
 ---
 import { loadAllArticles, loadWorldArticles, getAllSources } from '../utils/articles';
+import { palettes, type AccentName } from '@/config/theme';
+
+const accentList: { name: AccentName; label: string }[] = [
+  { name: 'indigo', label: 'Indigo' },
+  { name: 'violet', label: 'Violet' },
+  { name: 'blue', label: 'Bleu foncé' },
+  { name: 'sky', label: 'Bleu clair' },
+  { name: 'emerald', label: 'Émeraude' },
+  { name: 'green', label: 'Vert' },
+  { name: 'amber', label: 'Ambre' },
+  { name: 'orange', label: 'Orange' },
+  { name: 'red', label: 'Rouge' },
+  { name: 'rose', label: 'Rose foncé' },
+  { name: 'pink', label: 'Rose' },
+  { name: 'yellow', label: 'Jaune' },
+];
 
 let articleCount = 0;
 let sourceCount = 0;
@@ -52,7 +68,7 @@ const moreActive = moreNav.some((i) => isActive(i.href));
 ---
 
 <header class="sticky top-0 z-50 bg-[var(--color-surface-glass)] backdrop-blur-xl border-b border-[var(--color-border)]">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="max-w-[90rem] mx-auto px-4 sm:px-5 lg:px-6">
     <div class="flex items-center justify-between h-16">
       <!-- Logo -->
       <a href="/" class="flex items-center gap-3 group shrink-0">
@@ -181,6 +197,34 @@ const moreActive = moreNav.some((i) => isActive(i.href));
           <kbd class="font-mono text-[10px]">⌘K</kbd>
         </button>
 
+        <!-- Accent picker -->
+        <details class="relative" id="accent-menu">
+          <summary
+            class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors flex items-center cursor-pointer"
+            aria-label="Couleur d'accent"
+            title="Couleur d'accent"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.098 19.902a3.75 3.75 0 005.304 0l6.401-6.402M6.75 21A3.75 3.75 0 013 17.25V4.125C3 3.504 3.504 3 4.125 3h5.25c.621 0 1.125.504 1.125 1.125v4.072M6.75 21a3.75 3.75 0 003.75-3.75V8.197M6.75 21h13.125c.621 0 1.125-.504 1.125-1.125v-5.25c0-.621-.504-1.125-1.125-1.125h-4.072M10.5 8.197l2.88-2.88c.438-.439 1.15-.439 1.59 0l3.712 3.713c.44.44.44 1.152 0 1.59l-2.879 2.88M6.75 17.25h.008v.008H6.75v-.008z"/>
+            </svg>
+          </summary>
+          <div class="absolute right-0 top-full mt-2 w-64 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] shadow-lg p-4 z-50">
+            <div class="text-xs text-[var(--color-text-muted)] mb-3 px-1 font-medium">Couleur d'accent</div>
+            <div class="grid grid-cols-4 gap-3">
+              {accentList.map((a) => (
+                <button
+                  type="button"
+                  data-accent={a.name}
+                  aria-label={a.label}
+                  title={a.label}
+                  class="accent-swatch w-10 h-10 rounded-full border-2 border-transparent hover:scale-105 transition-transform cursor-pointer"
+                  style={`background-color: ${palettes[a.name].c500}`}
+                ></button>
+              ))}
+            </div>
+          </div>
+        </details>
+
         <!-- Theme toggle -->
         <button
           id="theme-toggle"
@@ -215,6 +259,31 @@ const moreActive = moreNav.some((i) => isActive(i.href));
             <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
         </button>
+        <details class="relative" id="accent-menu-mobile">
+          <summary
+            class="text-[var(--color-text-muted)] hover:text-[var(--color-text-primary)] transition-colors flex items-center cursor-pointer"
+            aria-label="Couleur d'accent"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.098 19.902a3.75 3.75 0 005.304 0l6.401-6.402M6.75 21A3.75 3.75 0 013 17.25V4.125C3 3.504 3.504 3 4.125 3h5.25c.621 0 1.125.504 1.125 1.125v4.072M6.75 21a3.75 3.75 0 003.75-3.75V8.197M6.75 21h13.125c.621 0 1.125-.504 1.125-1.125v-5.25c0-.621-.504-1.125-1.125-1.125h-4.072M10.5 8.197l2.88-2.88c.438-.439 1.15-.439 1.59 0l3.712 3.713c.44.44.44 1.152 0 1.59l-2.879 2.88M6.75 17.25h.008v.008H6.75v-.008z"/>
+            </svg>
+          </summary>
+          <div class="absolute right-0 top-full mt-2 w-64 rounded-xl border border-[var(--color-border)] bg-[var(--color-surface-1)] shadow-lg p-4 z-50">
+            <div class="text-xs text-[var(--color-text-muted)] mb-3 px-1 font-medium">Couleur d'accent</div>
+            <div class="grid grid-cols-4 gap-3">
+              {accentList.map((a) => (
+                <button
+                  type="button"
+                  data-accent={a.name}
+                  aria-label={a.label}
+                  title={a.label}
+                  class="accent-swatch w-10 h-10 rounded-full border-2 border-transparent hover:scale-105 transition-transform cursor-pointer"
+                  style={`background-color: ${palettes[a.name].c500}`}
+                ></button>
+              ))}
+            </div>
+          </div>
+        </details>
         <button
           id="theme-toggle-mobile"
           type="button"
@@ -245,7 +314,7 @@ const moreActive = moreNav.some((i) => isActive(i.href));
 
   <!-- Mobile menu -->
   <div id="mobile-menu" class="hidden md:hidden border-t border-[var(--color-border)] bg-[var(--color-surface-glass)] backdrop-blur-xl">
-    <nav class="max-w-7xl mx-auto px-4 py-4 flex flex-col gap-1">
+    <nav class="max-w-[90rem] mx-auto px-4 py-4 flex flex-col gap-1">
       {mobileNav.map((item) => (
         <a
           href={item.href}
@@ -302,11 +371,42 @@ const moreActive = moreNav.some((i) => isActive(i.href));
           document.documentElement.style.colorScheme = next;
           localStorage.setItem('flux-theme', next);
           themeButtons.forEach((b) => b.setAttribute('aria-pressed', String(next === 'light')));
+          // Re-apply accent for the new theme variant (different vars in light vs dark)
+          const apply = (window as any).__applyAccent;
+          const get = (window as any).__getCurrentAccent;
+          if (apply && get) apply(get());
         } catch (e) {
           // Ignore localStorage errors
         }
       });
       themeBtn.setAttribute('aria-pressed', String(document.documentElement.dataset.theme === 'light'));
+    });
+
+    // Accent picker (desktop + mobile)
+    function updateActiveAccentSwatch() {
+      const current = (window as any).__getCurrentAccent?.() || 'indigo';
+      document.querySelectorAll<HTMLElement>('[data-accent]').forEach((el) => {
+        if (el.dataset.accent === current) {
+          el.style.outline = '2px solid var(--color-text-primary)';
+          el.style.outlineOffset = '2px';
+        } else {
+          el.style.outline = '';
+          el.style.outlineOffset = '';
+        }
+      });
+    }
+    updateActiveAccentSwatch();
+    document.querySelectorAll<HTMLElement>('[data-accent]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const name = btn.dataset.accent;
+        if (!name) return;
+        (window as any).__applyAccent?.(name);
+        updateActiveAccentSwatch();
+        const m1 = document.getElementById('accent-menu') as HTMLDetailsElement | null;
+        const m2 = document.getElementById('accent-menu-mobile') as HTMLDetailsElement | null;
+        if (m1) m1.open = false;
+        if (m2) m2.open = false;
+      });
     });
 
     // Burger menu
@@ -365,14 +465,15 @@ const moreActive = moreNav.some((i) => isActive(i.href));
     }
   });
 
-  // Bind once at module load: close <details id="more-menu"> on outside click
+  // Bind once at module load: close <details> menus on outside click
   if (!(window as any).__moreMenuBound) {
     (window as any).__moreMenuBound = true;
     document.addEventListener('click', (e) => {
-      const moreMenu = document.getElementById('more-menu') as HTMLDetailsElement | null;
-      if (moreMenu && moreMenu.open && !moreMenu.contains(e.target as Node)) {
-        moreMenu.open = false;
-      }
+      const target = e.target as Node;
+      ['more-menu', 'accent-menu', 'accent-menu-mobile'].forEach((id) => {
+        const el = document.getElementById(id) as HTMLDetailsElement | null;
+        if (el && el.open && !el.contains(target)) el.open = false;
+      });
     });
   }
 </script>
