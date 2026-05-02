@@ -14,11 +14,6 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Forked from](https://img.shields.io/badge/forked%20from-yoanbernabeu%2Fflux-success?logo=github)](https://github.com/yoanbernabeu/flux)
 
-[![Last commit](https://img.shields.io/github/last-commit/hakovoid/flux?style=flat-square)](https://github.com/hakovoid/flux/commits/main)
-[![Repo size](https://img.shields.io/github/repo-size/hakovoid/flux?style=flat-square)](https://github.com/hakovoid/flux)
-[![Stars](https://img.shields.io/github/stars/hakovoid/flux?style=flat-square)](https://github.com/hakovoid/flux/stargazers)
-[![Issues](https://img.shields.io/github/issues/hakovoid/flux?style=flat-square)](https://github.com/hakovoid/flux/issues)
-
 **Site en production : à déployer sur ton propre domaine** (Cloudflare Pages, Netlify, Vercel…)
 
 </div>
@@ -29,36 +24,31 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 
 > **Important** : ce dépôt est un **fork largement modifié** du projet original [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) créé par [Yoan Bernabeu](https://yoandev.co). Le concept initial — agrégateur RSS statique en Astro — vient de son travail. À partir de cette base, le projet a été **retravaillé en profondeur** pour offrir une expérience utilisateur plus riche.
 
-**Ce qui a été ajouté / modifié par rapport à l'original :**
+**Ce qui vient déjà du projet original** (Yoan Bernabeu) — pour que le crédit aille où il faut :
 
-- **Refonte visuelle complète** : nouvelle palette de surfaces (type GitHub), dégradés de fond façon Proton, cards repensées pour mieux se détacher du fond, hiérarchie typographique, micro-interactions, mode clair retravaillé pour la lisibilité
-- **Section internationale** (`/world`) en parallèle du fil francophone (RSS sortant + index de recherche dédiés)
-- **Intégration YouTube** via l'API Data v3 (au-delà du simple flux Atom YouTube)
-- **Pages dédiées par catégorie** (`/categorie/[slug]`) et **par source** (`/source/[slug]`)
-- **Page liste des sources** (`/sources`), triée alphabétiquement, avec cards cliquables
+- Concept d'agrégateur RSS statique en Astro 5 + Tailwind v4
+- Pipeline d'ingestion (RSS / Atom + YouTube Data API v3, dédup SHA256, image en cascade)
+- Sections francophone et internationale (`/`, `/world`) avec RSS sortant double
+- Pages catégories (`/categorie/[slug]`), sources (`/source/[slug]`), liste des sources, stats, à propos, articles
+- Recherche full-text Fuse.js, View Transitions, mode clair / sombre
+- Filtres catégorie / source / type, articles similaires, indicateurs de fraîcheur, marquage articles non lus
+- Sitemap, robots.txt, OpenGraph, configuration SEO
+
+**Ce qui a vraiment été ajouté ou modifié dans ce fork** :
+
+- **Refonte visuelle** : nouvelle palette de surfaces (type GitHub), dégradés de fond façon Proton qui suivent la couleur d'accent, cards repensées pour mieux se détacher du fond, mode clair retravaillé pour la lisibilité (variantes WCAG AA sur les accents)
 - **Page Favoris** (`/favoris`) — articles mis de côté, sans compte, persistance localStorage
 - **Page À lire plus tard** (`/a-lire-plus-tard`) avec horodatage et bouton « Marquer lu »
-- **Marquage automatique** des articles non lus depuis la dernière visite
-- **Indicateurs de fraîcheur** sur les cards (« Nouveau », « Récent »)
-- **Recherche full-text** côté client (Fuse.js, chargé à la demande)
-- **Trois vues d'affichage** au choix : cartes, liste, liste compacte (persisté)
-- **Filtres combinables** : catégorie, source, type (article / podcast / vidéo), plage de dates avec presets (7j / 30j / mois courant)
+- **Sélecteur de couleur d'accent runtime** dans le header avec 12 palettes (l'original utilisait `FLUX_ACCENT` build-time uniquement)
+- 4 nouvelles palettes ajoutées : `blue`, `sky`, `pink`, `yellow` ; `orange` retravaillé vers le ton Korben
+- **Trois vues d'affichage** au choix : cartes, liste, liste compacte (persisté en localStorage)
+- **Sélecteur de taille de page** : 15 / 30 / 50 / 100 articles par page (au lieu d'une taille fixe)
+- **Filtre de date enrichi** sur la page principale avec presets 3j / 7j / 30j / 90j et reset rapide
 - **Command Palette** (`Ctrl+K`) pour navigation rapide
-- **Mode clair / sombre** avec anti-flash, toggle dans le header
-- **Sélecteur de couleur d'accent runtime** dans le header — 12 palettes au choix (`indigo`, `violet`, `blue`, `sky`, `emerald`, `green`, `amber`, `orange` ton Korben, `red`, `rose`, `pink`, `yellow`)
-- **Dégradés de fond façon Proton** (radial + linéaire qui suit la couleur d'accent)
-- **Articles similaires** en bas de chaque page article
-- **Pages détail article** indexables (`canonicalOverride` vers la source originale)
-- **Page Stats** (`/stats`) — métriques d'agrégation
-- **Outil interne tweets** (`/rs`) avec génération via Gemini API et cache localStorage
-- **RSS sortant double** : `/rss.xml` (fr) et `/world/rss.xml` (international)
-- **Tokens CSS centralisés** (`@theme` Tailwind v4), accessibilité WCAG AA en mode clair
-- **View Transitions** d'Astro pour des navigations fluides
-- **Anti-flash** thème + accent au boot (script `is:inline` dans `<head>`)
-- **Slugs normalisés** (NFD + retrait d'accents)
-- **Déduplication** par hash SHA256 de l'URL (12 premiers chars)
-- **Migration de Netlify vers Cloudflare Pages** (deploys illimités gratuits)
-- **Sitemap, robots.txt, OpenGraph, JSON-LD** en place pour le SEO
+- **Intégration Gemini API** dans l'outil interne `/rs` (génération de tweets avec cache localStorage)
+- **Anti-flash boot** : thème + couleur d'accent appliqués avant le rendu via script `is:inline`
+- **Migration de Netlify vers Cloudflare Pages** (deploys illimités gratuits, edge global)
+- Diverses améliorations d'UX et de polissage
 
 ## Présentation
 
@@ -84,9 +74,9 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 - Recherche full-text Fuse.js (threshold 0.3, chargée à la demande)
 - Command Palette `Ctrl+K` pour navigation rapide
 - 3 vues d'affichage : cartes / liste / liste compacte (toggle persisté)
-- Filtres combinables : catégorie · source · type (article/podcast/YouTube) · plage de dates avec presets
+- Filtres combinables : catégorie · source · type (article/podcast/YouTube) · date avec presets (3j / 7j / 30j / 90j) et reset
 - Panneau de filtres pliable (état mémorisé)
-- Pagination 15 articles/page
+- Pagination avec sélecteur de taille (15 / 30 / 50 / 100 articles par page, défaut 15)
 - Pages dédiées : par catégorie, par source, liste des sources, stats
 - Articles similaires en bas de page article
 - Tags catégories et noms de sources cliquables partout

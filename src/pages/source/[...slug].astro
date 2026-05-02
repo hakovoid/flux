@@ -55,17 +55,17 @@ for (let i = 1; i <= totalPages; i++) {
     "@type": "CollectionPage",
     "name": `${source.name} — Flux`,
     "description": `${totalArticles} articles de ${source.name} agrégés par Flux — Veille technologique francophone.`,
-    "url": `https://your-flux-site.example.com/source/${source.slug}/`,
+    "url": new URL(`/source/${source.slug}/`, Astro.site).toString(),
     "numberOfItems": totalArticles,
     "inLanguage": "fr",
-    "isPartOf": { "@type": "WebSite", "name": "Flux — Veille technologique", "url": "https://your-flux-site.example.com" },
+    "isPartOf": { "@type": "WebSite", "name": "Flux — Veille technologique", "url": Astro.site?.toString() ?? '' },
   })} />
   <script slot="head" type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://your-flux-site.example.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Sources", "item": "https://your-flux-site.example.com/sources/" },
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": new URL('/', Astro.site).toString() },
+      { "@type": "ListItem", "position": 2, "name": "Sources", "item": new URL('/sources/', Astro.site).toString() },
       { "@type": "ListItem", "position": 3, "name": source.name },
     ]
   })} />
