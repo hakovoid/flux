@@ -2,6 +2,66 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e8f38d962eae",
+      "title": "Japan Airlines teste des robots humanoïdes pour charger les bagages",
+      "description": "Japan Airlines va confier la manutention des bagages à des robots humanoïdes sur les pistes de l'aéroport Haneda. Le test démarre en mai 2026, dure deux ans, et implique pour commencer deux machines posées au milieu des bagagistes humains. L'opération est pilotée par JAL Ground Service avec GMO AI & Robotics. Les robots viennent de Chine : un Unitree G1 d'environ 1m30 et un Walker E d'UBTECH. Le programme est découpé en plusieurs étapes (cartographie du site, simulations en environnement…",
+      "link": "https://korben.info/japan-airlines-teste-des-robots-humanoides-pour-charger-les-bagages.html",
+      "pubDate": "2026-05-01T11:33:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "6a9b07028766",
+      "title": "Hadopi : le Conseil d'État éteint la riposte graduée après 17 ans",
+      "description": "Fin de partie pour la riposte graduée. Le Conseil d'État a déclaré illégale, le 30 avril 2026, la phase la plus dure du dispositif anti-piratage Arcom, héritier de la Hadopi. La décision s'applique immédiatement et décapite le système après 17 ans de chasse aux téléchargeurs sur les réseaux peer-to-peer. La Quadrature du Net, qui pilote le contentieux depuis 2019, a publié dans la foulée un bilan intitulé \"Hadopi (2009-2026)\". Concrètement, deux failles ont été retenues. La juridiction a…",
+      "link": "https://korben.info/hadopi-le-conseil-detat-eteint-la-riposte-graduee-apres-17-ans.html",
+      "pubDate": "2026-05-01T08:01:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "0cab46e11e71",
+      "title": "Tunarr - Recréer la télévision qu'on aime zapper dans Plex",
+      "description": "Vous vous souvenez de l'époque où on s'écroulait comme des merdes dans notre canapé après une grosse journée de boulot et où on regardait juste ce que la télé nous balançait ? Pas de choix à faire sur Netflix, ni de recommandation sur l'Apple TV. On zappait juste en mode no-brain jusqu'à ce qu'on tombe sur une connerie qui réveille notre cerveau reptilien. Eh bah le dev Chris Benincasa a créé Tunarr , un soft open source qui ressuscite ce truc-là en transformant votre Plex ou Jellyfin en chaîne…",
+      "link": "https://korben.info/tunarr-chaines-tv-plex-jellyfin.html",
+      "pubDate": "2026-05-01T07:08:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "37b4a11c3da7",
+      "title": "KULA - Le monitoring serveur Linux qui tient dans un seul binaire",
+      "description": "Ouais, je sais, on est le 1er mai, et je suis pas censé bosser mais que voulez-vous on ne se refait pas ^^. Et si j'ai ouvert l'ordi ce matin, c'est pour vous parler de KULA ! KULA est un binaire tout simple qui permet de monitorer très facilement votre serveur Linux en temps réel, sans aucune dépendance. c0m4r , le dev derrière le projet, l'a codé en Go avec une obsession claire : Que ça marche partout sans rien installer à côté !",
+      "link": "https://korben.info/kula-monitoring-linux-self-hosted.html",
+      "pubDate": "2026-05-01T06:53:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kula-monitoring-linux-self-hosted/kula-monitoring-linux-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
       "id": "ed6fd4050c59",
       "title": "#336.exe - La cyber avant et après l’IA: Multiplier la détection, garder l'esprit critique par Houleymatou Baldé",
       "description": "Pour l'épisode #336 je recevais Benoit Larroque. On en débrief avec Houleymatou. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez audiomeans.fr/politique-de-confidentialite pour plus d'informations.",
