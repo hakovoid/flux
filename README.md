@@ -10,6 +10,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node](https://img.shields.io/badge/Node-24-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-deploy-F38020?logo=cloudflare&logoColor=white)](https://pages.cloudflare.com)
+[![Netlify](https://img.shields.io/badge/Netlify-deploy-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com)
 [![Version](https://img.shields.io/badge/version-1.2-blue.svg)](https://github.com/hakovoid/flux/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Forked from](https://img.shields.io/badge/forked%20from-yoanbernabeu%2Fflux-success?logo=github)](https://github.com/yoanbernabeu/flux)
@@ -24,7 +25,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 
 > Ce dépôt est un **fork modifié** du projet original [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) créé par [Yoan Bernabeu](https://yoandev.co). Le concept initial — agrégateur RSS statique en Astro — vient de son travail. À partir de cette base, le projet a été **retravaillé** pour offrir une expérience utilisateur plus riche.
 
-**Ce qui vient déjà du projet original** (Yoan Bernabeu) — pour que le crédit aille où il faut :
+**Ce qui vient déjà du projet original** (Yoan Bernabeu) :
 
 - Concept d'agrégateur RSS statique en Astro 5 + Tailwind v4
 - Pipeline d'ingestion (RSS / Atom + YouTube Data API v3, dédup SHA256, image en cascade)
@@ -34,7 +35,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 - Filtres catégorie / source / type, articles similaires, indicateurs de fraîcheur, marquage articles non lus
 - Sitemap, robots.txt, OpenGraph, configuration SEO
 
-**Ce qui a vraiment été ajouté ou modifié dans ce fork** :
+**Ce qui a été ajouté ou modifié dans ce fork** :
 
 - **Refonte visuelle** : nouvelle palette de surfaces (type GitHub), dégradés de fond façon Proton qui suivent la couleur d'accent, cards repensées pour mieux se détacher du fond, mode clair retravaillé pour la lisibilité (variantes WCAG AA sur les accents)
 - **Section `/ai`** : annonces officielles des labos d'IA en direct (OpenAI, Anthropic, Google DeepMind, Google AI, Hugging Face, NVIDIA, Microsoft Research, Mistral, Cohere, Groq) — RSS sortant dédié `/ai/rss.xml`, search index séparé. Données dans `data-ai/`, configurées dans la section `feeds_ai:` de `feeds.yaml`.
@@ -48,7 +49,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 - **Command Palette** (`Ctrl+K`) pour navigation rapide
 - **Intégration Gemini API** dans l'outil interne `/rs` (génération de tweets avec cache localStorage)
 - **Anti-flash boot** : thème + couleur d'accent appliqués avant le rendu via script `is:inline`
-- **Migration de Netlify vers Cloudflare Pages** (deploys illimités gratuits, edge global)
+- **Hébergement Cloudflare Pages + Netlify** (deploy possible sur les deux, avec `netlify.toml` pour les headers de cache et de sécurité)
 - Diverses améliorations d'UX et de polissage
 
 ## Présentation
@@ -78,11 +79,12 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 - Filtres combinables : catégorie · source · type (article/podcast/YouTube) · date avec presets (3j / 7j / 30j / 90j) et reset
 - Panneau de filtres pliable (état mémorisé)
 - Pagination avec sélecteur de taille (15 / 30 / 50 / 100 articles par page, défaut 15)
-- Pages dédiées : par catégorie, par source, liste des sources, stats
+- Pages dédiées : par catégorie, par source, liste des sources, liste des catégories (avec compteurs), stats, newsletter (promo DayBrief)
 - Articles similaires en bas de page article
 - Tags catégories et noms de sources cliquables partout
 
 ### Interactions utilisateur (sans compte, localStorage)
+- **Trois collections** accessibles depuis le header : **Articles** (`/`, francophone), **World** (`/world`, international), **AI** (`/ai`, annonces des labos d'IA)
 - **Favoris** — page `/favoris` dédiée
 - **À lire plus tard** — page `/a-lire-plus-tard` avec horodatage et bouton « Marquer lu »
 - **Articles non lus** — marquage automatique depuis la dernière visite
@@ -129,7 +131,7 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 | Scripts | [tsx](https://github.com/privatenumber/tsx) | 4.21 | Runner TS du `fetch-feeds` |
 | Runtime | Node.js | 24 | CI + dev local |
 | CI | GitHub Actions | — | Cron quotidien `fetch-feeds`, commit/push automatique |
-| Hébergement | **Cloudflare Pages** | — | Auto-deploy sur push `main`, edge global |
+| Hébergement | **Cloudflare Pages** + **Netlify** | — | Auto-deploy sur push `main` (les deux peuvent tourner en parallèle, edge global) |
 
 ## Fonctionnement
 
@@ -155,13 +157,13 @@ data-ai/YYYY-MM.json  ─────────►  annonces des labos IA (/ai
 git commit + push (CI)
    │
    ▼
-Cloudflare Pages détecte le push
+Cloudflare Pages / Netlify détectent le push
    ├─ npm install
    ├─ npm run build  (Astro statique → dist/)
    └─ deploy edge global
    │
    ▼
-ton-domaine.pages.dev
+ton-domaine.pages.dev  /  ton-domaine.netlify.app
 ```
 
 Côté client :
@@ -229,22 +231,24 @@ FLUX_ACCENT=indigo
 
 `npm run dev` et `npm run build` lisent ce fichier automatiquement. `npm run fetch-feeds` utilise `--env-file-if-exists=.env` (silencieux si absent).
 
-### En production sur Cloudflare Pages
+### En production (Cloudflare Pages et/ou Netlify)
 
-Les variables se définissent depuis le dashboard, **pas dans un fichier `.env`** (le `.env` n'est pas commité, donc Cloudflare ne le verra jamais).
+Les deux hébergeurs sont supportés et peuvent même tourner en parallèle (le build est 100 % statique, sans adapter spécifique). Dans tous les cas les variables se définissent depuis le dashboard de l'hébergeur, **pas dans un fichier `.env`** (le `.env` n'est pas commité).
 
-1. https://dash.cloudflare.com → **Pages** → ton projet
-2. **Settings → Environment variables**
-3. Ajouter pour `Production` (et `Preview` si tu veux que les deploys de PR soient corrects) :
-   - `SITE_URL` = `https://ton-projet.pages.dev` (ou ton domaine custom)
-   - `SITE_NAME` = ex. `Flux mon-pseudo`
-   - `SITE_PUBLISHER_NAME` = ex. `mon-pseudo` (pour le schema.org)
-   - `SITE_PUBLISHER_URL` = ton site / profil (optionnel)
-   - `GITHUB_REPO_URL` = `https://github.com/ton-user/ton-fork` (optionnel)
-   - `UMAMI_WEBSITE_ID` = ton website-id Umami (optionnel)
-   - `YOUTUBE_API_KEY` = (si tes flux YouTube doivent être à jour quand Cloudflare rebuild — sinon GitHub Actions les fetch déjà avant push)
-   - `FLUX_ACCENT` = (optionnel)
-4. **Save** puis **Deployments → … → Retry deployment** pour appliquer (ou attendre le prochain push).
+Variables à ajouter pour `Production` (et `Preview` si tu veux que les deploys de PR soient corrects) :
+
+- `SITE_URL` = `https://ton-projet.pages.dev` / `https://ton-projet.netlify.app` (ou ton domaine custom)
+- `SITE_NAME` = ex. `Flux mon-pseudo`
+- `SITE_PUBLISHER_NAME` = ex. `mon-pseudo` (pour le schema.org)
+- `SITE_PUBLISHER_URL` = ton site / profil (optionnel)
+- `GITHUB_REPO_URL` = `https://github.com/ton-user/ton-fork` (optionnel)
+- `UMAMI_WEBSITE_ID` = ton website-id Umami (optionnel)
+- `YOUTUBE_API_KEY` = (si tes flux YouTube doivent être à jour quand l'hébergeur rebuild — sinon GitHub Actions les fetch déjà avant push)
+- `FLUX_ACCENT` = (optionnel)
+
+**Cloudflare Pages** : https://dash.cloudflare.com → **Pages** → ton projet → **Settings → Environment variables** → ajouter les variables → **Save** puis **Deployments → … → Retry deployment**.
+
+**Netlify** : https://app.netlify.com → ton site → **Site configuration → Environment variables** → ajouter les variables → **Deploys → Trigger deploy → Clear cache and deploy site**. Le fichier `netlify.toml` à la racine fixe `NODE_VERSION=22` et les headers de cache / sécurité (`X-Frame-Options`, `Cache-Control` longs sur `*.css` / `*.js` / `*.woff2`).
 
 Sans `SITE_URL`, le build prod sera fonctionnel mais le SEO sera cassé (canonicals/og:image vers `your-flux-site.example.com`).
 
@@ -371,13 +375,15 @@ En mode clair, les variantes WCAG AA des couleurs d'accent sont automatiquement 
 │   │   ├── index.astro                # Fil francophone
 │   │   ├── page/[page].astro          # Pagination
 │   │   ├── article/[id].astro         # Détail article (canonique vers la source)
-│   │   ├── source/[slug].astro        # Page par source
-│   │   ├── categorie/[slug].astro     # Page par catégorie
+│   │   ├── source/[...slug].astro     # Page par source
+│   │   ├── categorie/[...slug].astro  # Page par catégorie
 │   │   ├── sources.astro              # Liste des sources
+│   │   ├── categories.astro           # Liste des catégories (avec compteurs)
 │   │   ├── favoris.astro              # Favoris (localStorage)
 │   │   ├── a-lire-plus-tard.astro     # À lire plus tard (localStorage)
 │   │   ├── stats.astro                # Statistiques d'agrégation
 │   │   ├── a-propos.astro             # À propos
+│   │   ├── newsletter.astro           # Page promo DayBrief (créer sa newsletter)
 │   │   ├── rs.astro                   # Outil tweets (Gemini)
 │   │   ├── search-index.json.ts       # Index Fuse.js (fr)
 │   │   ├── rss.xml.ts                 # RSS sortant fr
@@ -402,9 +408,10 @@ En mode clair, les variantes WCAG AA des couleurs d'accent sont automatiquement 
 
 ## Déploiement
 
-- **Hébergement** : [Cloudflare Pages](https://pages.cloudflare.com) — deploys illimités gratuits, edge global
-- **URL de production** : à configurer dans Cloudflare Pages (ex. `ton-projet.pages.dev` ou domaine custom)
-- **Auto-deploy** : push sur `main` → Cloudflare détecte → `npm install && npm run build` → propagation CDN (~3 min)
+- **Hébergement** : [Cloudflare Pages](https://pages.cloudflare.com) **et / ou** [Netlify](https://www.netlify.com) — le build est 100 % statique, les deux peuvent tourner en parallèle sur le même repo
+- **URL de production** : à configurer dans le dashboard de l'hébergeur (ex. `ton-projet.pages.dev`, `ton-projet.netlify.app` ou domaine custom)
+- **Auto-deploy** : push sur `main` → l'hébergeur détecte → `npm install && npm run build` → propagation CDN (~3 min)
+- **Config Netlify** : `netlify.toml` à la racine fixe `NODE_VERSION=22` et les headers (cache long sur `*.css` / `*.js` / `*.woff2`, `X-Frame-Options`, `X-Content-Type-Options`, `Referrer-Policy`)
 - **Cron** : `.github/workflows/fetch-feeds.yml` tourne chaque jour à 04:00 UTC, commit les nouveaux articles sur `main`, ce qui redéclenche le build
 
 ## Intégration DayBrief
@@ -417,6 +424,8 @@ DayBrief    → lit ces flux à 05:00 UTC, résume avec Gemini, envoie un email
 ```
 
 Aucune dépendance directe — DayBrief consomme le RSS comme n'importe quel agrégateur. Les deux projets sont totalement découplés.
+
+La page `/newsletter` du site présente DayBrief aux visiteurs et explique comment se monter sa propre newsletter à partir des flux Flux.
 
 ## Remerciements
 
