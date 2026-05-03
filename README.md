@@ -24,7 +24,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 
 > Ce dépôt est un **fork modifié** du projet original [yoanbernabeu/flux](https://github.com/yoanbernabeu/flux) créé par [Yoan Bernabeu](https://yoandev.co). Le concept initial — agrégateur RSS statique en Astro — vient de son travail. À partir de cette base, le projet a été **retravaillé** pour offrir une expérience utilisateur plus riche.
 
-**Ce qui vient déjà du projet original** (Yoan Bernabeu) — pour que le crédit aille où il faut :
+**Ce qui vient déjà du projet original** (Yoan Bernabeu) :
 
 - Concept d'agrégateur RSS statique en Astro 5 + Tailwind v4
 - Pipeline d'ingestion (RSS / Atom + YouTube Data API v3, dédup SHA256, image en cascade)
@@ -34,7 +34,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 - Filtres catégorie / source / type, articles similaires, indicateurs de fraîcheur, marquage articles non lus
 - Sitemap, robots.txt, OpenGraph, configuration SEO
 
-**Ce qui a vraiment été ajouté ou modifié dans ce fork** :
+**Ce qui a été ajouté ou modifié dans ce fork** :
 
 - **Refonte visuelle** : nouvelle palette de surfaces (type GitHub), dégradés de fond façon Proton qui suivent la couleur d'accent, cards repensées pour mieux se détacher du fond, mode clair retravaillé pour la lisibilité (variantes WCAG AA sur les accents)
 - **Section `/ai`** : annonces officielles des labos d'IA en direct (OpenAI, Anthropic, Google DeepMind, Google AI, Hugging Face, NVIDIA, Microsoft Research, Mistral, Cohere, Groq) — RSS sortant dédié `/ai/rss.xml`, search index séparé. Données dans `data-ai/`, configurées dans la section `feeds_ai:` de `feeds.yaml`.
@@ -83,6 +83,7 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 - Tags catégories et noms de sources cliquables partout
 
 ### Interactions utilisateur (sans compte, localStorage)
+- **Trois collections** accessibles depuis le header : **Articles** (`/`, francophone), **World** (`/world`, international), **AI** (`/ai`, annonces des labos d'IA)
 - **Favoris** — page `/favoris` dédiée
 - **À lire plus tard** — page `/a-lire-plus-tard` avec horodatage et bouton « Marquer lu »
 - **Articles non lus** — marquage automatique depuis la dernière visite
