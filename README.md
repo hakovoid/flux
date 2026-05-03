@@ -185,11 +185,14 @@ Le site sera disponible sur `http://localhost:4321`.
 
 ## Variables d'environnement
 
-Le projet utilise cinq variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL`.
+Le projet utilise sept variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL` et `SITE_NAME`.
 
 | Variable | Quand est-elle utilisée | Fallback |
 |---|---|---|
 | `SITE_URL` | URL canonique du site — utilisée pour le sitemap, les `<link rel="canonical">`, les `og:image` absolus, les JSON-LD schema.org, le RSS sortant, l'outil `/rs`. | `https://your-flux-site.example.com` (placeholder cassé pour le SEO) |
+| `SITE_NAME` | Nom du site affiché dans `<title>`, og:title, twitter:title, le titre des RSS sortants et la sitemap. | `Flux` |
+| `SITE_PUBLISHER_NAME` | Nom de la personne / entité éditrice du site (apparaît dans le `publisher` du JSON-LD schema.org sur la home et les pages article). | non défini → bloc publisher omis du JSON-LD |
+| `SITE_PUBLISHER_URL` | URL associée au publisher schema.org (profil, site perso). | non défini → champ `url` omis |
 | `GITHUB_REPO_URL` | URL du repo GitHub affichée dans le header et le footer. | non défini → boutons « GitHub / Code source » masqués |
 | `UMAMI_WEBSITE_ID` | Active l'injection du script Umami (analytics sans cookies). | non défini → aucun script analytics, mention « Analytique sans cookies » masquée dans le footer |
 | `YOUTUBE_API_KEY` | Récupération des chaînes YouTube par `scripts/fetch-feeds.ts` (API Data v3). | aucun — les flux YouTube échouent silencieusement |
@@ -202,6 +205,11 @@ Créer un fichier `.env` à la racine du projet (gitignored) :
 ```env
 # URL canonique du site (production)
 SITE_URL=https://ton-domaine.exemple.com
+
+# Identité du site (titres, RSS, schema.org)
+SITE_NAME=Flux mon-pseudo
+SITE_PUBLISHER_NAME=mon-pseudo
+# SITE_PUBLISHER_URL=https://mon-site.com
 
 # URL du repo GitHub (optionnel — si absent, les boutons GitHub sont masqués)
 GITHUB_REPO_URL=https://github.com/ton-user/ton-fork
@@ -227,6 +235,9 @@ Les variables se définissent depuis le dashboard, **pas dans un fichier `.env`*
 2. **Settings → Environment variables**
 3. Ajouter pour `Production` (et `Preview` si tu veux que les deploys de PR soient corrects) :
    - `SITE_URL` = `https://ton-projet.pages.dev` (ou ton domaine custom)
+   - `SITE_NAME` = ex. `Flux mon-pseudo`
+   - `SITE_PUBLISHER_NAME` = ex. `mon-pseudo` (pour le schema.org)
+   - `SITE_PUBLISHER_URL` = ton site / profil (optionnel)
    - `GITHUB_REPO_URL` = `https://github.com/ton-user/ton-fork` (optionnel)
    - `UMAMI_WEBSITE_ID` = ton website-id Umami (optionnel)
    - `YOUTUBE_API_KEY` = (si tes flux YouTube doivent être à jour quand Cloudflare rebuild — sinon GitHub Actions les fetch déjà avant push)

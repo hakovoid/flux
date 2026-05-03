@@ -22,6 +22,9 @@ const accentName = ((process.env.FLUX_ACCENT as string) || 'indigo') as AccentNa
 const p = palettes[accentName] ?? palettes.indigo;
 const umamiWebsiteId = process.env.UMAMI_WEBSITE_ID as string | undefined;
 const githubRepoUrl = process.env.GITHUB_REPO_URL as string | undefined;
+const siteName = (process.env.SITE_NAME as string) || 'Flux';
+const sitePublisherName = process.env.SITE_PUBLISHER_NAME as string | undefined;
+const sitePublisherUrl = process.env.SITE_PUBLISHER_URL as string | undefined;
 const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c400};--color-accent-600:${p.c600};--color-accent-300:${p.c300};--color-accent-glow:${p.glow};--color-accent-from:${p.from};--color-accent-to:${p.to};--color-accent:${p.c500};--color-accent-light:${p.c400}}`
   + `:root[data-theme="light"]{--color-accent-500:${p.c600};--color-accent-400:${p.c600};--color-accent-300:${p.c500};--color-accent-light:${p.c600};--color-accent:${p.c600}}`;
 ---
@@ -107,7 +110,7 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
       })();
     </script>
 
-    <title>{title} | Flux YoanDev</title>
+    <title>{title} | {siteName}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
     <link rel="alternate" hreflang="fr" href={canonicalURL} />
@@ -116,15 +119,15 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonicalURL} />
-    <meta property="og:title" content={`Flux YoanDev | ${title}`} />
+    <meta property="og:title" content={`${siteName} | ${title}`} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:locale" content="fr_FR" />
-    <meta property="og:site_name" content="Flux — Veille technologique" />
+    <meta property="og:site_name" content={`${siteName} — Veille technologique`} />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={`Flux YoanDev | ${title}`} />
+    <meta name="twitter:title" content={`${siteName} | ${title}`} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
 
@@ -149,15 +152,17 @@ const accentCSS = `:root{--color-accent-500:${p.c500};--color-accent-400:${p.c40
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Flux — Veille technologique",
+      "name": `${siteName} — Veille technologique`,
       "url": Astro.site?.toString() ?? '',
       "description": "Agrégateur de veille technologique francophone — Articles, podcasts et vidéos sur la programmation, l'IA, le DevOps, le Cloud et la cybersécurité.",
       "inLanguage": "fr",
-      "publisher": {
-        "@type": "Person",
-        "name": "YoanDev",
-        "url": "https://yoandev.co"
-      }
+      ...(sitePublisherName ? {
+        "publisher": {
+          "@type": "Person",
+          "name": sitePublisherName,
+          ...(sitePublisherUrl ? { "url": sitePublisherUrl } : {})
+        }
+      } : {})
     })} />
     <slot name="head" />
 

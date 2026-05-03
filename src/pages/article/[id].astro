@@ -16,6 +16,8 @@ export function getStaticPaths() {
 const { article, allArticles } = Astro.props;
 const related = getRelatedArticles(article, allArticles);
 const badge = getFreshnessBadge(article.pubDate);
+const sitePublisherName = process.env.SITE_PUBLISHER_NAME as string | undefined;
+const sitePublisherUrl = process.env.SITE_PUBLISHER_URL as string | undefined;
 ---
 
 <Layout title={`${article.title} (${article.source})`} description={getMetaDescription(article.description)} image={article.image || undefined} canonicalOverride={article.link}>
@@ -47,7 +49,7 @@ const badge = getFreshnessBadge(article.pubDate);
       "description": article.description,
       "datePublished": article.pubDate,
       "author": { "@type": "Organization", "name": article.source, "url": article.sourceUrl },
-      "publisher": { "@type": "Person", "name": "YoanDev", "url": "https://yoandev.co" },
+      ...(sitePublisherName ? { "publisher": { "@type": "Person", "name": sitePublisherName, ...(sitePublisherUrl ? { "url": sitePublisherUrl } : {}) } } : {}),
       ...(article.image ? { "image": article.image } : {}),
       "mainEntityOfPage": article.link,
       "inLanguage": "fr",

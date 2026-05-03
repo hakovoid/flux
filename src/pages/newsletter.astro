@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 
 const rssUrl = new URL('/rss.xml', Astro.site).toString();
+const siteName = process.env.SITE_NAME || 'Flux';
 ---
 
 <Layout title="Newsletter" description="Créez votre propre newsletter tech automatisée à partir des flux RSS de Flux, grâce à DayBrief.">
@@ -96,7 +97,7 @@ mail:
 sources:
   rss:
     - url: "{rssUrl}"
-      name: "Flux YoanDev"</pre>
+      name: "{siteName}"</pre>
         </div>
 
         <!-- workflow -->
