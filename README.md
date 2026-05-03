@@ -10,7 +10,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Node](https://img.shields.io/badge/Node-24-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-deploy-F38020?logo=cloudflare&logoColor=white)](https://pages.cloudflare.com)
-[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/hakovoid/flux/releases)
+[![Version](https://img.shields.io/badge/version-1.2-blue.svg)](https://github.com/hakovoid/flux/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Forked from](https://img.shields.io/badge/forked%20from-yoanbernabeu%2Fflux-success?logo=github)](https://github.com/yoanbernabeu/flux)
 
@@ -67,7 +67,7 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 - Flux RSS / Atom classiques (rss-parser, support iTunes pour podcasts)
 - Chaînes YouTube via l'API Data v3 (`playlistItems`, 1 unit/req)
 - Cron quotidien GitHub Actions (04:00 UTC)
-- Deux collections : francophone (`/`) et internationale (`/world`)
+- Trois collections : francophone (`/`), internationale (`/world`) et labos d'IA (`/ai`)
 - Déduplication par SHA256 de l'URL
 - Extraction d'image en cascade : `itunes:image` → `enclosure` → `media:content` → `media:thumbnail` → premier `<img>` du HTML → `og:image` → `fallbackImage` de la source → gradient client par catégorie
 
@@ -94,7 +94,7 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
   - Lecteur audio intégré pour les podcasts
   - Lecteur YouTube embarqué pour les vidéos
   - Canonique vers la source originale (pas de doublon SEO)
-- Flux RSS sortants `/rss.xml` (fr) et `/world/rss.xml` (international) pour s'abonner
+- Flux RSS sortants `/rss.xml` (fr), `/world/rss.xml` (international) et `/ai/rss.xml` (labos IA) pour s'abonner
 
 ### Theming & UX
 - **Mode clair / sombre** avec toggle dans le header, anti-flash au boot
@@ -124,7 +124,7 @@ Aucun runtime serveur, aucune base de données, aucun cookie. **Toutes les préf
 | RSS / Atom | [rss-parser](https://github.com/rbren/rss-parser) | 3.13 | Parsing avec custom fields iTunes / media |
 | YouTube | [YouTube Data API v3](https://developers.google.com/youtube/v3) | — | Endpoint `playlistItems` (1 unit/req) |
 | YAML | [yaml](https://github.com/eemeli/yaml) | 2.8 | Lecture de `feeds.yaml` |
-| RSS out | [@astrojs/rss](https://docs.astro.build/en/guides/rss/) | 4.0 | Génère `/rss.xml` et `/world/rss.xml` |
+| RSS out | [@astrojs/rss](https://docs.astro.build/en/guides/rss/) | 4.0 | Génère `/rss.xml`, `/world/rss.xml` et `/ai/rss.xml` |
 | Sitemap | [@astrojs/sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/) | 3.7 | Sitemap auto |
 | Scripts | [tsx](https://github.com/privatenumber/tsx) | 4.21 | Runner TS du `fetch-feeds` |
 | Runtime | Node.js | 24 | CI + dev local |
@@ -259,9 +259,10 @@ Le workflow `.github/workflows/fetch-feeds.yml` injecte automatiquement ce secre
 
 ## Ajouter un flux
 
-Modifier le fichier `feeds.yaml` à la racine. Deux collections coexistent :
+Modifier le fichier `feeds.yaml` à la racine. Trois collections coexistent :
 - `feeds:` pour les sources francophones (rendues sur `/`)
 - `feeds_world:` pour les sources internationales (rendues sur `/world`)
+- `feeds_ai:` pour les annonces officielles des labos d'IA (rendues sur `/ai`)
 
 ```yaml
 feeds:
@@ -291,6 +292,11 @@ feeds:
 feeds_world:
   - url: https://example.org/feed.xml
     name: International Example
+    categories: [IA]
+
+feeds_ai:
+  - url: https://openai.com/news/rss.xml
+    name: OpenAI
     categories: [IA]
 ```
 
