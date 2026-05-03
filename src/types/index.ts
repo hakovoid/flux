@@ -11,6 +11,7 @@ export interface FeedConfig {
 export interface FeedsConfig {
   feeds: FeedConfig[];
   feeds_world?: FeedConfig[];
+  feeds_ai?: FeedConfig[];
 }
 
 export interface Article {

@@ -359,3 +359,45 @@ feeds_world:
   - url: https://freek.dev/feed
     name: Freek Van der Herten
     categories: [Programmation, Web]
+
+# ============================================================================
+# AI labs — annonces officielles (rendues sur /ai)
+# RSS officiels quand disponibles, sinon feeds générés via Olshansk/rss-feeds
+# ============================================================================
+feeds_ai:
+  # === RSS officiels ===
+  - url: https://openai.com/news/rss.xml
+    name: OpenAI
+    categories: [IA]
+  - url: https://deepmind.google/blog/rss.xml
+    name: Google DeepMind
+    categories: [IA]
+  - url: https://blog.google/technology/ai/rss
+    name: Google AI
+    categories: [IA]
+  - url: https://huggingface.co/blog/feed.xml
+    name: Hugging Face
+    categories: [IA]
+  - url: https://blogs.nvidia.com/blog/category/deep-learning/feed
+    name: NVIDIA AI
+    categories: [IA]
+  - url: https://www.microsoft.com/en-us/research/feed/
+    name: Microsoft Research
+    categories: [IA]
+
+  # === Via Olshansk/rss-feeds (sources sans RSS natif) ===
+  - url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+    name: Anthropic News
+    categories: [IA]
+  - url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
+    name: Anthropic Research
+    categories: [IA]
+  - url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml
+    name: Mistral AI
+    categories: [IA]
+  - url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml
+    name: Cohere
+    categories: [IA]
+  - url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_groq.xml
+    name: Groq
+    categories: [IA]

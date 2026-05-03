@@ -331,6 +331,22 @@
       "type": "blog"
     },
     {
+      "id": "3a62cfb91a37",
+      "title": "PBS 4.2 - Nouvelles fonctionnalités",
+      "description": "Proxmox Backup Server 4.2 est disponible.",
+      "link": "https://j.hommet.net/news-pbs-4-2/",
+      "pubDate": "2026-04-29T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3fcda7300837",
       "title": "Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles",
       "description": "Lexia, une startup deeptech française, révolutionne la transcription vocale au sein des entreprises. Avec une précision de plus de 99% et une sécurité des données inégalée, elle transforme les flux de travail en convertissant la parole en information structurée tout en respectant la souveraineté numérique, offrant ainsi des solutions adaptées à divers secteurs. L’article Lexia : l’IA vocale « Made in France » qui protège vos données les plus sensibles est apparu en premier sur…",
@@ -877,6 +893,22 @@
       "type": "blog"
     },
     {
+      "id": "20072a40c839",
+      "title": "Équipes d'agents Claude Code : orchestrez une vraie équipe d'IA",
+      "description": "Plusieurs agents Claude qui se parlent, se contredisent, et travaillent en parallèle sur votre projet. Découvrez les équipes d’agents et boostez votre productivité !",
+      "link": "https://codecodecoders.substack.com/p/equipes-dagents-claude-code-orchestrez",
+      "pubDate": "2026-04-28T06:01:44.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3PXQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb68c65ef-cd02-4b5f-a68d-ff550943354b_1024x608.png",
+      "type": "blog"
+    },
+    {
       "id": "3bbc48bcd1ac",
       "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
       "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues, PRs, utilisateurs demandant « juste ce petit truc en plus ». Nous avons récemment dépassé les 150 téléchargements par jour, l’annonce […] L’article Ember 1.2 / 1.3 : logs, plugins et une plateforme qui…",
@@ -981,6 +1013,22 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pedro-ayala-lettre-chiffree-1498-decodee/pedro-ayala-lettre-chiffree-1498-decodee-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2deb397c7c6f",
+      "title": "Quoi de neuf les devs? #174 - Veille tech et l'interview de François de Programmez.com",
+      "description": "Votre dose d'infos tech infusé par un dev pour les devs avec l'interview de François de Programmez.com. On parlera aussi de ✅ Git, ✅ Zed, ✅ Ember, ✅ IA, ✅ Github, ✅ …",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-174-veille",
+      "pubDate": "2026-04-27T16:00:44.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!lwWj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b2e37bb-3de9-452a-b91b-bfdfc263ab9f_1920x1252.webp",
       "type": "blog"
     },
     {
