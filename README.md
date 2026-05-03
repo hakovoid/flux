@@ -37,6 +37,7 @@ Articles, podcasts, vidéos YouTube — site 100 % statique, mis à jour automat
 **Ce qui a vraiment été ajouté ou modifié dans ce fork** :
 
 - **Refonte visuelle** : nouvelle palette de surfaces (type GitHub), dégradés de fond façon Proton qui suivent la couleur d'accent, cards repensées pour mieux se détacher du fond, mode clair retravaillé pour la lisibilité (variantes WCAG AA sur les accents)
+- **Section `/ai`** : annonces officielles des labos d'IA en direct (OpenAI, Anthropic, Google DeepMind, Google AI, Hugging Face, NVIDIA, Microsoft Research, Mistral, Cohere, Groq) — RSS sortant dédié `/ai/rss.xml`, search index séparé. Données dans `data-ai/`, configurées dans la section `feeds_ai:` de `feeds.yaml`.
 - **Page Favoris** (`/favoris`) — articles mis de côté, sans compte, persistance localStorage
 - **Page À lire plus tard** (`/a-lire-plus-tard`) avec horodatage et bouton « Marquer lu »
 - **Sélecteur de couleur d'accent runtime** dans le header avec 12 palettes (l'original utilisait `FLUX_ACCENT` build-time uniquement)
@@ -148,6 +149,7 @@ scripts/fetch-feeds.ts
    ▼
 data/YYYY-MM.json    ──────────►  fil francophone (/)
 data-world/YYYY-MM.json  ──────►  fil international (/world)
+data-ai/YYYY-MM.json  ─────────►  annonces des labos IA (/ai)
    │
    ▼
 git commit + push (CI)
@@ -348,9 +350,10 @@ En mode clair, les variantes WCAG AA des couleurs d'accent sont automatiquement 
 ## Structure du projet
 
 ```
-├── feeds.yaml                  # Configuration des flux (feeds + feeds_world)
+├── feeds.yaml                  # Configuration des flux (feeds + feeds_world + feeds_ai)
 ├── data/                       # Articles francophones (JSON mensuel, auto-généré)
 ├── data-world/                 # Articles internationaux (JSON mensuel, auto-généré)
+├── data-ai/                    # Annonces des labos d'IA (JSON mensuel, auto-généré)
 ├── scripts/
 │   └── fetch-feeds.ts          # Pipeline RSS + YouTube + og:image + dédup
 ├── src/
@@ -372,7 +375,8 @@ En mode clair, les variantes WCAG AA des couleurs d'accent sont automatiquement 
 │   │   ├── rs.astro                   # Outil tweets (Gemini)
 │   │   ├── search-index.json.ts       # Index Fuse.js (fr)
 │   │   ├── rss.xml.ts                 # RSS sortant fr
-│   │   └── world/                     # Section internationale (pages + RSS + index)
+│   │   ├── world/                     # Section internationale (pages + RSS + index)
+│   │   └── ai/                        # Section labos IA (pages + RSS + index)
 │   ├── styles/global.css       # Tokens CSS, gradients, classes accent
 │   ├── types/index.ts          # FeedConfig, Article, FeedsConfig…
 │   └── utils/                  # articles.ts (loaders, slugify), userLists.ts
