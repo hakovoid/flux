@@ -2,6 +2,82 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "29a50b0b2ff9",
+      "title": "Bruteforce de cartes bancaires",
+      "description": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a pas de données confidentielles dessus et que tous les chiffres de ma CB sont masqués avec des petites étoiles sauf une partie, généralement les 4 derniers, qui sont en clairs évidemment.",
+      "link": "https://korben.info/carte-bancaire-brute-force.html",
+      "pubDate": "2026-05-02T08:35:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/carte-bancaire-brute-force/carte-bancaire-brute-force-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a49f816e983d",
+      "title": "ip66.dev - Une base de géoloc IP libre et compatible MaxMind",
+      "description": "Hello les amis, voici ma petite trouvaille du jour, idéale pour ceux qui jouent en ce moment avec des adresses IP : ip66.dev . C'est une base de géolocalisation IP et entièrement libre, livrée au format MMDB (le même que celui de MaxMind) qui permet de remplacer direct un fichier GeoLite2 dans vos libs existantes (Python, Go, Node.js), sans toucher au code. L'équipe de Cloud 66 maintient cette liste à jour sous licence CC BY 4.0 et tout est utilisable simplement en récupérant le fichier mmdb.",
+      "link": "https://korben.info/ip66-geolocalisation-ip-libre.html",
+      "pubDate": "2026-05-02T07:47:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ip66-geolocalisation-ip-libre/ip66-geolocalisation-ip-libre-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "167f625a04ac",
+      "title": "DirPlayer - L'émulateur qui ressuscite Shockwave",
+      "description": "Flash à sa grande époque c'était quand même tout un truc, mais est-ce que vous vous souvenez de Shockwave ? Le grand frère de Flash (techniquement c'était une autre techno bâtie sur Director mais bref...), qui était capable de faire tourner des trucs bien plus complexes que les vieux .swf ? Et ben l'équipe derrière DirPlayer s'est tapé tout le reverse-engineering du moteur Director from scratch pour le ressusciter grâce à Rust et le rendre à nouveau fonctionnel dans nos navigateurs modernes !",
+      "link": "https://korben.info/dirplayer-emulateur-shockwave-rust.html",
+      "pubDate": "2026-05-02T07:38:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dirplayer-emulateur-shockwave-rust/dirplayer-emulateur-shockwave-rust-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "6af86d0ee557",
+      "title": "Kloak : injection de secrets en kernel-space via eBPF sur Kubernetes",
+      "description": "Comment Kloak intercepte le trafic TLS de vos pods au niveau kernel avec des uprobes eBPF pour injecter vos secrets de façon transparente, sans modifier vos applications ni déployer de sidecar.",
+      "link": "https://une-tasse-de.cafe/blog/kloak/",
+      "pubDate": "2026-05-02T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://une-tasse-de.cafe/blog/kloak/cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "9570f7103132",
+      "title": "Se former à un nouveau langage à l'ère de l'IA",
+      "description": "C’est une habitude que j’ai depuis longtemps, je m’intéresse de manière plus ou moins assidue, chaque année à un langage de programmation autre que mon langage principal que j’utilise professionnellement. Ruby, Elixir, Rust, Go, Python ou encore Typescript. Cette année, ça sera C#. Mais à une période où l’intelligence artificielle écrit de plus en plus de code à notre place, est-ce qu’apprendre et explorer un nouveau langage a-t-il encore du sens ? 🇻🇬 This blog post is also available in…",
+      "link": "https://www.jdecool.fr/blog/2026/05/02/se-former-a-un-nouveau-langage-a-l-ere-de-l-ia.html",
+      "pubDate": "2026-05-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e8f38d962eae",
       "title": "Japan Airlines teste des robots humanoïdes pour charger les bagages",
       "description": "Japan Airlines va confier la manutention des bagages à des robots humanoïdes sur les pistes de l'aéroport Haneda. Le test démarre en mai 2026, dure deux ans, et implique pour commencer deux machines posées au milieu des bagagistes humains. L'opération est pilotée par JAL Ground Service avec GMO AI & Robotics. Les robots viennent de Chine : un Unitree G1 d'environ 1m30 et un Walker E d'UBTECH. Le programme est découpé en plusieurs étapes (cartographie du site, simulations en environnement…",
