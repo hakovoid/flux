@@ -1,0 +1,1181 @@
+{
+  "month": "2026-03",
+  "articles": [
+    {
+      "id": "096dac0b19bf",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "description": "Veo 3.1 Lite is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "pubDate": "2026-03-31T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "925612dcbcc3",
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "pubDate": "2026-03-31T15:10:41.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-4-vision.png",
+      "type": "blog"
+    },
+    {
+      "id": "9f84e2e45d87",
+      "title": "Accelerating the next phase of AI",
+      "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "pubDate": "2026-03-31T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6OSKcUkJputeSfEUssuwQk/ca93432564e7748ab08ee2b5be907f29/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "66637736903e",
+      "title": "Training mRNA Language Models Across 25 Species for $165",
+      "description": "",
+      "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+      "pubDate": "2026-03-31T08:23:44.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/5fd5e18a90b6dc4633f6d292/5dSAoMdQZBsLBS2mTPyWA.png",
+      "type": "blog"
+    },
+    {
+      "id": "98c6dab19849",
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "description": "",
+      "link": "https://huggingface.co/blog/trl-v1",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/trl-v1/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "b3be35db7b67",
+      "title": "Australian government and Anthropic sign MOU for AI safety and research",
+      "description": "Australian government and Anthropic sign MOU for AI safety and research",
+      "link": "https://www.anthropic.com/news/australia-MOU",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
+      "id": "8bdd4935b0b1",
+      "title": "Mar 31, 2026Economic ResearchHow Australia Uses Claude: Findings from the Anthropic Economic Index",
+      "description": "Mar 31, 2026Economic ResearchHow Australia Uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-australia-uses-claude",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
+      "id": "876583f451ef",
+      "title": "Two users, one CLI: people and agents",
+      "description": "Designing for agents forced us to build better tools, starting with our internal ones.",
+      "link": "https://mistral.ai/news/two-users-one-cli-people-and-agents",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "c720bf728da9",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "pubDate": "2026-03-29T22:15:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/44Ypmth3XEpOmWE7Ko2rMC/c83d1f5be284e02c7daa07632bbf6f27/Frame__4_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "16594c97bd60",
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "link": "https://openai.com/index/stadler",
+      "pubDate": "2026-03-27T22:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7gH7N0xTGVcaEf1JzuezAp/97b0aa1e3d5aa4027cb265825bfa2cf4/oai_Stadler_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e8802cbf5c89",
+      "title": "Liberate your OpenClaw",
+      "description": "",
+      "link": "https://huggingface.co/blog/liberate-your-openclaw",
+      "pubDate": "2026-03-27T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/liberate-your-openclaw/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "a8034ff2a0c5",
+      "title": "AsgardBench: A benchmark for visually grounded interactive planning",
+      "description": "Imagine a robot tasked with cleaning a kitchen. It needs to observe its environment, decide what to do, and adjust when things don’t go as expected, for example, when the mug it was tasked to wash is already clean, or the sink is full of other items. This is the domain of embodied AI: systems […] The post AsgardBench: A benchmark for visually grounded interactive planning appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
+      "pubDate": "2026-03-26T19:02:53.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AsgardBench-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f8d0eb2cfdf",
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "description": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "pubDate": "2026-03-26T17:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d7a1b9ed3ec2",
+      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+      "description": "Vision-language models (VLMs) use images and text to plan robot actions, but they still struggle to decide what actions to take and where to take them. Most systems split these decisions into two steps: a VLM generates a plan in natural language, and a separate model translates it into executable actions. This approach often breaks […] The post GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
+      "pubDate": "2026-03-26T16:03:56.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/V2GP-BlogHeroFeature-v2-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4e37dc6664d2",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "description": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "link": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "pubDate": "2026-03-26T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Static-InterstitialscreenJapane.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cd69125d9969",
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "description": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "pubDate": "2026-03-26T15:23:35.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_header_dark.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "6b7e6317e930",
+      "title": "Protecting people from harmful manipulation",
+      "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+      "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "pubDate": "2026-03-25T16:46:20.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6eec7c7553b9",
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "description": "Introducing Lyria 3 Pro, which unlocks longer tracks with structural awareness. We’re also bringing Lyria to more Google products and surfaces.",
+      "link": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "pubDate": "2026-03-25T16:01:39.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria-3-Pro_thumbnail.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "263c2043f1c3",
+      "title": "Inside our approach to the Model Spec",
+      "description": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "link": "https://openai.com/index/our-approach-to-the-model-spec",
+      "pubDate": "2026-03-25T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/35bHEbm0rP6Pp4Vz11SaVW/1033fdf6bbcac970107c7503b38ddeba/oai_model_spec_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fb38dfafd80a",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "link": "https://openai.com/index/safety-bug-bounty",
+      "pubDate": "2026-03-25T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6tvi0m9Z8P15gx4gd3ClmR/cfb5e925a1d3b2f9ac2ccbcd311c50cc/Frame__2_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d75d7d2ee748",
+      "title": "Helping developers build safer AI experiences for teens",
+      "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "pubDate": "2026-03-24T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7vlGVflhNZ61C1qlgDB6fZ/f3825d17562a63dffcf5bd0ac0522520/SEO_card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d58daa6d846a",
+      "title": "Powering product discovery in ChatGPT",
+      "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "pubDate": "2026-03-24T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/54zHAGljzaGUAL8FNoSXAV/a2dda4a62fccf740c4717bf1afac17eb/Shopping-SEO-1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f7bebe3fb535",
+      "title": "Update on the OpenAI Foundation",
+      "description": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "pubDate": "2026-03-24T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/x9BLgz5QX4tAoHRxjCx8X/3dcc6d6b01160fdb728cdc0b613c9bc3/OAIF_Blogpost_SEO_2.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8d885b2ad7c1",
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "pubDate": "2026-03-24T02:01:52.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva.png",
+      "type": "blog"
+    },
+    {
+      "id": "490c7dfff243",
+      "title": "Mar 24, 2026Economic ResearchAnthropic Economic Index report: Learning curves",
+      "description": "Mar 24, 2026Economic ResearchAnthropic Economic Index report: Learning curves",
+      "link": "https://www.anthropic.com/research/economic-index-march-2026-report",
+      "pubDate": "2026-03-24T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
+      "id": "92250fa21db8",
+      "title": "Will machines ever be intelligent? ",
+      "description": "Are machines truly intelligent? AI researchers Subutai Ahmad and Nicolò Fusi join Doug Burger to compare transformer-based AI with the human brain, exploring continual learning, efficiency, and whether today’s models are on a path toward human intelligence. The post Will machines ever be intelligent? appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/podcast/will-machines-ever-be-intelligent/",
+      "pubDate": "2026-03-23T15:00:21.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/Episode-1-Doug-Nicolo-Subutai_TheShapeofThings_TW_LI_FB_1200x627-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "85771c0fe867",
+      "title": "Creating with Sora Safely",
+      "description": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "link": "https://openai.com/index/creating-with-sora-safely",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "77bcdf2c55ab",
+      "title": "Mar 23, 2026ScienceIntroducing our Science Blog",
+      "description": "Mar 23, 2026ScienceIntroducing our Science Blog",
+      "link": "https://www.anthropic.com/research/introducing-anthropic-science",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Head-Constellation&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "6a35b94fbf56",
+      "title": "Speaking of Voxtral",
+      "description": "Voxtral TTS: A frontier, open-weights text-to-speech model that’s fast, instantly adaptable, and produces lifelike speech for voice agents.",
+      "link": "https://mistral.ai/news/voxtral-tts",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "13c5d54df9fe",
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "pubDate": "2026-03-20T19:38:16.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/domain-specific-embedding-finetune.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4b340379768",
+      "title": "How we monitor internal coding agents for misalignment",
+      "description": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "pubDate": "2026-03-19T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6QiOsDAtMDSQDtyJdqygZ3/e00d303b22fcbefb76ebb13ed003f6b9/OAI_Monitoring_internal_deployments_for_loss_of_control_risks_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "387cb8d894c7",
+      "title": "OpenAI to acquire Astral",
+      "description": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "link": "https://openai.com/index/openai-to-acquire-astral",
+      "pubDate": "2026-03-19T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3uWAsXbgJZrNpl7YfjNXdx/e206142c84dd1b0c9580f03c112f588b/OAI_Astral_16x9_Art_Card_text.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c52b08d09cf8",
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "description": "",
+      "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "pubDate": "2026-03-17T16:37:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/62543749b777cd32720675c2/6SncRLSzbOb4IubAj2qyN.png",
+      "type": "blog"
+    },
+    {
+      "id": "675a5ba35370",
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "description": "We’re introducing a framework to measure progress toward AGI, and launching a Kaggle hackathon to build the relevant evaluations.",
+      "link": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+      "pubDate": "2026-03-17T16:03:47.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agi_cognitive-framework_meta.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c0a1c8593727",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "description": "",
+      "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "pubDate": "2026-03-17T12:33:39.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/682c3e22650f6bbe33bb9d94/ZrDLn6Wer5-TM_okKVmZ2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8afdb503cc56",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "pubDate": "2026-03-17T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6EnJZAuVLIIArGkpgWz9Mh/92ab6109d7f17ca20ebc70e830294c66/5.4_Mini_Nano_Hero___SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4e32c322a737",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "link": "https://openai.com/index/japan-teen-safety-blueprint",
+      "pubDate": "2026-03-17T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7azghKvcTTwCO0cBFRf8yw/47c1807d65e36a654561ec2829f67cbe/japan-teen-safety-blueprint-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1ba2801c79e4",
+      "title": "Equipping workers with insights about compensation",
+      "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "pubDate": "2026-03-17T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4GBm24T8YMxi8GbqlByRXf/58f56857e7f154cdfa9db6c7dad9d809/Equipping_workers.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e83845111157",
+      "title": "Introducing Forge",
+      "description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
+      "link": "https://mistral.ai/news/forge",
+      "pubDate": "2026-03-17T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "16914115229b",
+      "title": "Cohere advances sovereign AI capabilities with NVIDIA",
+      "description": "NVIDIA ecosystem-native model and local North instance will meet growing market demand for secure, privately run AI systems",
+      "link": "https://cohere.com/blog/cohere-sovereign-ai-nvidia",
+      "pubDate": "2026-03-16T20:28:39.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/03/260313_blog-social-image-nvidia--1-.png",
+      "type": "blog"
+    },
+    {
+      "id": "8a8601b30dd9",
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "description": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7nFhulmdaa2ZpVlVwTmVQ/4772873488ecde6cb6d5525df99fb702/OAI_Why_Codex_Security_Doesn%C3%A2__t_Include_a_SAST_Report_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1714cec3bc16",
+      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+      "description": "First open-source code agent for Lean 4.",
+      "link": "https://mistral.ai/news/leanstral",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "31ea9f5bb6ea",
+      "title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+      "description": "As a founding member of the NVIDIA Nemotron Coalition, Mistral AI is contributing large-scale model development and multimodal capabilities.",
+      "link": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "b071b3375367",
+      "title": "Introducing Mistral Small 4",
+      "description": "Introducing Mistral Small 4",
+      "link": "https://mistral.ai/news/mistral-small-4",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "73b836bfc2f5",
+      "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+      "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge has emerged: transparency. When a human makes a mistake, we can usually trace the logic. But when an AI agent fails, perhaps by hallucinating a tool output or […] The post Systematic debugging for AI agents: Introducing the AgentRx framework appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
+      "pubDate": "2026-03-12T16:38:45.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/03/AgentRx-framework.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "9d6a48ccf42b",
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "description": "Anthropic invests $100 million into the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/claude-partner-network",
+      "pubDate": "2026-03-12T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+      "type": "blog"
+    },
+    {
+      "id": "3dec299964e6",
+      "title": "Designing AI agents to resist prompt injection",
+      "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "pubDate": "2026-03-11T11:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7vwwEVWeYVswN8KAIIRiAZ/3b21f7147ba40289879f844649d6897e/OAI_Designing_AI_agentsto_resist_prompt_injection_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "01572b4c34e9",
+      "title": "From model to agent: Equipping the Responses API with a computer environment ",
+      "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "link": "https://openai.com/index/equip-responses-api-computer-environment",
+      "pubDate": "2026-03-11T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7cy5agupSmbTruQd6hlgxU/f8ac88fa18599d1dc9221bca58512f13/SEO__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6c85667bb456",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "link": "https://openai.com/index/wayfair",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2BwLsAc9CDgCMWPnvMG6zT/88486652ebb56e9410a9949bfb4938f8/oai_wayfair_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0ed7a8a167fe",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "description": "",
+      "link": "https://openai.com/index/rakuten",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5uPNx6tKKw9bfKsi7uepmm/9ac19cf10103ab0c10bd4407b7050e8b/oai_Rakuten_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a6aa0996df7b",
+      "title": "Introducing The Anthropic Institute",
+      "description": "Introducing The Anthropic Institute",
+      "link": "https://www.anthropic.com/news/the-anthropic-institute",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Book&amp;backgroundColor=oat",
+      "type": "blog"
+    },
+    {
+      "id": "75df6b713eb1",
+      "title": "Rails testing on autopilot: Building an agent that writes what developers won't",
+      "description": "Rails testing on autopilot: Building an agent that writes what developers won't",
+      "link": "https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont",
+      "pubDate": "2026-03-11T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "18b7ee4fe5e4",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "link": "https://openai.com/index/instruction-hierarchy-challenge",
+      "pubDate": "2026-03-10T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1hgOrtUKV9JbWpgIZLElGG/f1e68fcb747aeb0cb87633a34bb71bb3/SEO_Card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "101605e3044a",
+      "title": "New ways to learn math and science in ChatGPT",
+      "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "pubDate": "2026-03-10T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6WeStJuG7Vpz0AfZWGS6cm/27e0b45847fa1d82241e7ea5af01a7ad/Learning_Blocks_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "25505e303fd7",
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "description": "",
+      "link": "https://huggingface.co/blog/storage-buckets",
+      "pubDate": "2026-03-10T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/storage-buckets/buckets-annoucement.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8544e21ac38",
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "description": "",
+      "link": "https://huggingface.co/blog/async-rl-training-landscape",
+      "pubDate": "2026-03-10T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/async-rl-landscape/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "2c7edba2551d",
+      "title": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+      "description": "Sydney will become Anthropic’s fourth office in Asia-Pacific",
+      "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
+      "pubDate": "2026-03-10T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "cbf4861d9bf2",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "description": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+      "link": "https://deepmind.google/blog/10-years-of-alphago/",
+      "pubDate": "2026-03-09T13:52:36.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f16a35767e05",
+      "title": "OpenAI to acquire Promptfoo",
+      "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "link": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "pubDate": "2026-03-09T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2l5nfItID8KM3c99MpQSbH/e0e585f9f8c924b6a95d2fda52def6c4/Promptfoo__3_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5ccb6851805d",
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "description": "",
+      "link": "https://huggingface.co/blog/ulysses-sp",
+      "pubDate": "2026-03-09T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/ulysses/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "0052db55dfd7",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "description": "",
+      "link": "https://huggingface.co/blog/lerobot-release-v050",
+      "pubDate": "2026-03-09T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/lerobot-release-v050/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "5becf449a527",
+      "title": "Codex Security: now in research preview ",
+      "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "link": "https://openai.com/index/codex-security-now-in-research-preview",
+      "pubDate": "2026-03-06T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4QZG2snhmXd89vmtR2bRNf/c1bffbdf458cada105f3c0780de583e2/oai_Blog_Codex_Security_SEO_Open_Graph_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "878b3b60e9d0",
+      "title": "How Descript engineers multilingual video dubbing at scale",
+      "description": "Using OpenAI reasoning models, Descript unlocked automatic localization of large content libraries without losing timing or meaning.",
+      "link": "https://openai.com/index/descript",
+      "pubDate": "2026-03-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "dc37dabb9801",
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "description": "By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.",
+      "link": "https://openai.com/index/balyasny-asset-management",
+      "pubDate": "2026-03-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "95b4de2e9e82",
+      "title": "Partnering with Mozilla to improve Firefox’s security",
+      "description": "Partnering with Mozilla to improve Firefox’s security",
+      "link": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "pubDate": "2026-03-06T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Desktop&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
+      "id": "058383c4e538",
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "description": "",
+      "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "pubDate": "2026-03-05T14:16:49.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/652d3409a7275ea70302b30c/gXqFpO7MoXWDcrmViQY-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "eea6230f612a",
+      "title": "Introducing GPT-5.4",
+      "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "link": "https://openai.com/index/introducing-gpt-5-4",
+      "pubDate": "2026-03-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/261kYlzPT8cBKoynLi35ct/14e3cae5d20ab9349af93f6b034c2947/5.4_Thinking_Hero___SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "287a6bf67154",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "pubDate": "2026-03-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1uuAgWlWOgYMZuyLDaVFVL/af9711812b0868d52b15270a25f99913/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_that%C3%A2__s_Good_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f59abf9daf09",
+      "title": "GPT-5.4 Thinking System Card",
+      "description": "",
+      "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "pubDate": "2026-03-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5t4zXynvPxIHXdXQMxiAwm/917d03bceb6cc7513cd2b34b7df46fe5/5.4_Thinking_System_Card_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "565dea8b571b",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "link": "https://openai.com/index/ai-education-opportunity",
+      "pubDate": "2026-03-05T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6qY7eyvVrPtwOMwQUPzqOO/55ab458c03157e061c83215cf215e51a/IMG_0185.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "39ce611a50f8",
+      "title": "Introducing the Adoption news channel",
+      "description": "Practical insights and frameworks to turn AI progress into business advantage",
+      "link": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2sFYvyNzcOJOzZ2B3VT8sN/7317b90a6eb9968b00d97f74618256a8/OAI_Introducing_the_Adoption_news_channel_16x9_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "61b0991879bc",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "description": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "link": "https://openai.com/index/chatgpt-for-excel",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7bSi1GJxlKgzkl3OaftYh5/453b92e8255940d43f2474386c5ae031/ChatGPT_Excel_seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ba0e40128dd7",
+      "title": "The five AI value models driving business reinvention",
+      "description": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "link": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/48FHdIK9VMlMr4I1Imtmjz/545d367833f9c21d9195e915af8d951f/OAI_The_five_AI_value_modelsdriving_business_reinvention_16x9_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2b1ea71bf0b9",
+      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "description": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+      "link": "https://openai.com/index/vfl-wolfsburg",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3DYUjiAAVmE8OiREpUtGHd/686e53542c7a01c0cdb82ab499f6eaeb/oai_Vfl_Wolfsburg__1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2207a1b2fa24",
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "description": "",
+      "link": "https://huggingface.co/blog/modular-diffusers",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/modular-diffusers/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "d3ae286e89da",
+      "title": "Where things stand with the Department of War",
+      "description": "Where things stand with the Department of War",
+      "link": "https://www.anthropic.com/news/where-stand-department-war",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png",
+      "type": "blog"
+    },
+    {
+      "id": "5bd932ab7f49",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+      "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "pubDate": "2026-03-04T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/EeranjBSfKC928pggXMwV/617a27a19ab63c20f33b076c2d7ebfc6/Graviton__SEO_card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "83a834f6928a",
+      "title": "Understanding AI and learning outcomes",
+      "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "pubDate": "2026-03-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6P3qpFT3riD5SElLwe1uN5/9402c91bb39208dbd468c3e410f44911/OAI_New_tools_for_understanding_AIand_learning_outcomes_SEO_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9e5718ec6cb8",
+      "title": "How Axios uses AI to help deliver high-impact local journalism ",
+      "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+      "link": "https://openai.com/index/axios-allison-murphy",
+      "pubDate": "2026-03-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8a924fa243d4",
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "description": "",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "pubDate": "2026-03-03T16:50:49.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/68e529af513e724edd8702f6/zMyALdakGbN6SDG3ucmLd.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "48c56df59bcb",
+      "title": "The advantages of AI in business",
+      "description": "The advantages of AI in business",
+      "link": "https://cohere.com/blog/advantage-of-ai-in-business",
+      "pubDate": "2026-03-03T16:37:13.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/03/260227_blog_competitive-advantage_hero.png",
+      "type": "blog"
+    },
+    {
+      "id": "96291259b42e",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "pubDate": "2026-03-03T16:35:55.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyword_metacard_d.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4a245738a8f",
+      "title": "GPT-5.3 Instant System Card",
+      "description": "",
+      "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "pubDate": "2026-03-03T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/43Ka7Xw88BMEUdLF6MDTPM/8b7032e8e3d65aecbb6f3435160e9923/5.3_Instant_System_Card_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "46b3e364b737",
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "description": "",
+      "link": "https://openai.com/index/gpt-5-3-instant",
+      "pubDate": "2026-03-03T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/l9JkI2hbnrr4QZb6LJJhT/85a843d06ba16a05e05e6450e20d762f/5.3_Instant_Hero___SEO__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    }
+  ]
+}

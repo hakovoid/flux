@@ -1,5 +1,5 @@
 ---
-import { loadAllArticles, loadWorldArticles, getAllSources } from '../utils/articles';
+import { loadAllArticles, loadWorldArticles, loadAiArticles, getAllSources } from '../utils/articles';
 import { palettes, type AccentName } from '@/config/theme';
 
 const accentList: { name: AccentName; label: string }[] = [
@@ -23,7 +23,7 @@ let articleCount = 0;
 let sourceCount = 0;
 
 try {
-  const articles = [...loadAllArticles(), ...loadWorldArticles()];
+  const articles = [...loadAllArticles(), ...loadWorldArticles(), ...loadAiArticles()];
   articleCount = articles.length;
   sourceCount = getAllSources(articles).length;
 } catch {
@@ -47,16 +47,22 @@ function isActive(href: string): boolean {
   if (href === '/world') {
     return pathname === '/world' || pathname.startsWith('/world/');
   }
+  if (href === '/ai') {
+    return pathname === '/ai' || pathname.startsWith('/ai/');
+  }
   return pathname === href || pathname.startsWith(href + '/');
 }
 
 const primaryNav = [
   { label: 'Articles', href: '/' },
   { label: 'World', href: '/world' },
+  { label: 'AI', href: '/ai' },
 ];
 
 const moreNav = [
   { label: 'Sources', href: '/sources' },
+  { label: 'Catégories', href: '/categories' },
+  { label: 'Statistiques', href: '/stats' },
 ];
 
 const mobileNav = [

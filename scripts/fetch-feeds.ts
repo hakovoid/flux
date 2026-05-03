@@ -6,6 +6,7 @@ import type { FeedsConfig, Article, MonthlyData } from '../src/types/index.ts';
 
 const DATA_DIR = 'data';
 const DATA_WORLD_DIR = 'data-world';
+const DATA_AI_DIR = 'data-ai';
 const FEEDS_FILE = 'feeds.yaml';
 const MAX_RETRIES = 2;
 const RETRY_DELAY = 1000;
@@ -427,10 +428,11 @@ async function main() {
 
   const fr = await processCollection('Flux francophones', config.feeds, DATA_DIR);
   const world = await processCollection('Flux internationaux', config.feeds_world || [], DATA_WORLD_DIR);
+  const ai = await processCollection('Flux IA (labos)', config.feeds_ai || [], DATA_AI_DIR);
 
-  const totalNew = fr.newCount + world.newCount;
-  const totalArticles = fr.totalIds + world.totalIds;
-  const totalFiles = fr.totalFiles + world.totalFiles;
+  const totalNew = fr.newCount + world.newCount + ai.newCount;
+  const totalArticles = fr.totalIds + world.totalIds + ai.totalIds;
+  const totalFiles = fr.totalFiles + world.totalFiles + ai.totalFiles;
 
   console.log(`\n✅ Terminé ! ${totalNew} nouveaux articles ajoutés.`);
   console.log(`📊 Total: ${totalArticles} articles dans ${totalFiles} fichier(s) mensuel(s).`);

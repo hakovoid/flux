@@ -1,0 +1,25 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ArticleListPage from '../../components/ArticleListPage.astro';
+import { loadAiArticles, getAllCategories, getAllSources, getAllTypes } from '../../utils/articles';
+
+const PAGE_SIZE = 15;
+const allArticles = loadAiArticles();
+const categories = getAllCategories(allArticles);
+const sources = getAllSources(allArticles);
+const types = getAllTypes(allArticles);
+const totalPages = Math.max(1, Math.ceil(allArticles.length / PAGE_SIZE));
+const articles = allArticles.slice(0, PAGE_SIZE);
+---
+
+<Layout title="AI — Annonces des labos d'IA" description={`${allArticles.length} annonces officielles agrégées depuis ${sources.length} labos d'IA (OpenAI, Anthropic, Google DeepMind, Mistral, Hugging Face…).`}>
+  <ArticleListPage
+    articles={articles}
+    categories={categories}
+    sources={sources}
+    types={types}
+    currentPage={1}
+    totalPages={totalPages}
+    basePath="ai"
+  />
+</Layout>

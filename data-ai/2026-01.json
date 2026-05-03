@@ -1,0 +1,929 @@
+{
+  "month": "2026-01",
+  "articles": [
+    {
+      "id": "1875c900d0da",
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "description": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+      "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+      "pubDate": "2026-01-29T17:01:05.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-film_social-shar.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fa5410010e0a",
+      "title": "Inside OpenAI’s in-house data agent",
+      "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "pubDate": "2026-01-29T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "37bd9866fae9",
+      "title": "Taisei Corporation shapes the next generation of talent with AI",
+      "description": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+      "link": "https://openai.com/index/taisei",
+      "pubDate": "2026-01-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6478wLlgipZZ4kSg8oVhX8/46c94f35fd30cd59b7535200c0800800/oai_Taisei_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "54ada6137f69",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+      "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "pubDate": "2026-01-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6oUjRcIy2z7wgnLMeFsGKi/4061c404a054075e25bd303fb25f5135/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "eec01c0dd80f",
+      "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+      "description": "",
+      "link": "https://huggingface.co/blog/daggr",
+      "pubDate": "2026-01-29T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/daggr/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "97e5981f0b98",
+      "title": "Introducing Model Vault: Your private platform for secure and scalable model inference",
+      "description": "Model Vault simplifies serving and scaling Cohere models, so teams can focus on building, not infrastructure.",
+      "link": "https://cohere.com/blog/model-vault",
+      "pubDate": "2026-01-28T13:59:42.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/01/260127_ModelVaultLaunch_Hero.png",
+      "type": "blog"
+    },
+    {
+      "id": "b06606b88a53",
+      "title": "EMEA Youth & Wellbeing Grant",
+      "description": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "pubDate": "2026-01-28T01:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea4e4e11d85e",
+      "title": "The next chapter for AI in the EU",
+      "description": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "pubDate": "2026-01-28T01:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7wKqLVPH6ILxh0idovaKPh/9e9afdac761dad42de0ca794af2d23a5/EU_SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0d2abbb0fa62",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "description": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "link": "https://openai.com/index/ai-agent-link-safety",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54d604eb530d",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "description": "",
+      "link": "https://huggingface.co/blog/upskill",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/upskill/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "94f6451e3643",
+      "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+      "description": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+      "link": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNode&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "ed8917719253",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
+      "description": "",
+      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "pubDate": "2026-01-27T15:01:45.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/63a369d98c0c89dcae3b8329/XeSYoUIf7wyFTWr4Py09D.webp",
+      "type": "blog"
+    },
+    {
+      "id": "927036739d8c",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "description": "",
+      "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "pubDate": "2026-01-27T10:26:42.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/onlBsI7RckKVGphzfZJjp.png",
+      "type": "blog"
+    },
+    {
+      "id": "61967ed53f8f",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "description": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "link": "https://openai.com/index/pvh-future-of-fashion",
+      "pubDate": "2026-01-27T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2m0gubQ6C4BwUiJHynIq2c/20c6a8a7228f3fcf8d76565c53d13f9e/PVH__2_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6314aebbd61e",
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "description": "",
+      "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "pubDate": "2026-01-27T01:53:15.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64efbd469e7770db74cb72f5/rNoYY6yaQSfXYMBn3M1xb.png",
+      "type": "blog"
+    },
+    {
+      "id": "df8617fa40e9",
+      "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+      "description": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
+      "link": "https://openai.com/index/trustbank",
+      "pubDate": "2026-01-27T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5c3EpK3XmnjM11RA1lXZ1r/a5638d1f91b85e391772b5301686a790/oai_Trustbank_SEO_English.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b3951aad48c9",
+      "title": "Introducing Prism",
+      "description": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "link": "https://openai.com/index/introducing-prism",
+      "pubDate": "2026-01-27T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4W9CYPhZqZ7BC3xX5l9eqF/db0ec67da7b563f88e1d3516495f1c78/Prism_BlogPage_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4219e5eab4db",
+      "title": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "description": "Anthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+      "link": "https://www.anthropic.com/news/gov-UK-partnership",
+      "pubDate": "2026-01-27T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Government&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "b8bacde8bd8c",
+      "title": "Terminally online Mistral Vibe.",
+      "description": "Terminally online Mistral Vibe.",
+      "link": "https://mistral.ai/news/mistral-vibe-2-0",
+      "pubDate": "2026-01-27T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "ec18d5affaa6",
+      "title": "How Indeed uses AI to help evolve the job search",
+      "description": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "link": "https://openai.com/index/indeed-maggie-hulce",
+      "pubDate": "2026-01-26T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae10eb4597fe",
+      "title": "Unrolling the Codex agent loop",
+      "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "pubDate": "2026-01-23T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "89a221162f32",
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "description": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "link": "https://openai.com/index/scaling-postgresql",
+      "pubDate": "2026-01-22T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1jMkEyUx0I5dBOoXhBrDcC/da4be6739c5bc7596245833cd2bf6d4c/oai-scaling-postgresql-to-power-800-million-chatgpt-users-seo-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b447a90ef280",
+      "title": "Inside Praktika's conversational approach to language learning",
+      "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "link": "https://openai.com/index/praktika",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/XQ72eFI92VMLB1oZUApnM/f3ad7268337db9b0c2ebc1dfe5d71cd4/oai_Praktika_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3cfde46429d5",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "description": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ed45b16af9c9",
+      "title": "Claude's new constitution",
+      "description": "Claude's new constitution",
+      "link": "https://www.anthropic.com/news/claude-new-constitution",
+      "pubDate": "2026-01-22T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Constitution&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "aae21d8eeec5",
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "link": "https://openai.com/index/higgsfield",
+      "pubDate": "2026-01-21T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/l4N7eLGr7UTXrD7rVQsUE/c10a14431c48d07d9dfbaf6f02c0bd3f/oai_higgsfield_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2cc75063d0d1",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "pubDate": "2026-01-21T06:25:31.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64c47f731d44fc06afc80953/fB0GHxhoG5McKZtklVj_I.png",
+      "type": "blog"
+    },
+    {
+      "id": "cf4ec1d6c752",
+      "title": "Introducing Edu for Countries",
+      "description": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "link": "https://openai.com/index/edu-for-countries",
+      "pubDate": "2026-01-21T01:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6BiN06SaVBBRF4b5aUv6Q7/29ea79a72b62c68318ae53715bc21c7d/SEO_Image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5e4fb8bc5ba7",
+      "title": "How countries can end the capability overhang",
+      "description": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "link": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "pubDate": "2026-01-21T01:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8905509e5a3e",
+      "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "description": "Anthropic and Teach For All launch global AI training initiative for educators",
+      "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampPaper&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "2c6738a6e16d",
+      "title": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+      "description": "Mariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "4af35e6550c4",
+      "title": "Heaps do lie: debugging a memory leak in vLLM.",
+      "description": "Heaps do lie: debugging a memory leak in vLLM.",
+      "link": "https://mistral.ai/news/debugging-memory-leak-in-vllm",
+      "pubDate": "2026-01-21T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "b85716109421",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "description": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "link": "https://openai.com/index/horizon-1000",
+      "pubDate": "2026-01-20T21:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3064a6581310",
+      "title": "Stargate Community",
+      "description": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+      "link": "https://openai.com/index/stargate-community",
+      "pubDate": "2026-01-20T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5kRWor8nmGQC5MVpbPDYlN/7194b7357f2a1b9bf3f261ef49e5c85c/stargate-community-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1eaa5743cd62",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "description": "",
+      "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "pubDate": "2026-01-20T15:02:10.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/62543749b777cd32720675c2/kXuitQ-DyXNAqtzAFGqi-.webp",
+      "type": "blog"
+    },
+    {
+      "id": "53e1da4b0cbc",
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "link": "https://openai.com/index/cisco",
+      "pubDate": "2026-01-20T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6biPCt1l6a2vedPJey5inM/67b80b0750688b948c1fd9b9427cccbd/oai_Cisco_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "38d75be71712",
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "description": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+      "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "pubDate": "2026-01-20T05:45:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1fc81779824",
+      "title": "Differential Transformer V2",
+      "description": "",
+      "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+      "pubDate": "2026-01-20T03:20:57.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/5df85abada6d0311fd3d5408/ULgU7-Z51YYJN4fl1FnWH.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3eec9fb139cb",
+      "title": "Our approach to age prediction",
+      "description": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+      "link": "https://openai.com/index/our-approach-to-age-prediction",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6Zc47ksvon6g1VivNjTI0R/b5c02b2cec9669fd1f46822d3bfad12b/OAI_AgePrediction_Blog_ArtCard_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d97821963ad0",
+      "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+      "description": "",
+      "link": "https://huggingface.co/blog/waypoint-1",
+      "pubDate": "2026-01-20T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/overworld/overworld_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "251f6337f181",
+      "title": "A business that scales with the value of intelligence",
+      "description": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "link": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "pubDate": "2026-01-18T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7mXMm1LlJN16ZZzwzEng4z/59da17f15723369457ad5cf9c2a64c80/a-business-that-scales-with-the-value-of-intelligence-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "141edcd2d5e5",
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "description": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "pubDate": "2026-01-16T10:39:00.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7e92cfb2dba9",
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "description": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "link": "https://openai.com/index/introducing-chatgpt-go",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3zF5sZPzDdth82KtAetQeH/181e176a9b9ea8f3d2f5325dac534494/OAI_Go_Blog_OpenGraph_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6accc8619e9d",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "description": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5s44WB2F1IO0YAfgRqAiBa/21d496f2d34f61eeef89b59c8129db19/OAI_Ads_Blog_OpenGraph_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a001136e3c2b",
+      "title": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+      "description": "Anthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+      "link": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cf8eec2a5603",
+      "title": "How the Cohere Labs open research community turns early-career researchers into global leaders",
+      "description": "Cohere Labs' open research community empowers early-career researchers like Ram Kadiyala and Jebish Purbey to become global leaders in AI research through mentorship, collaboration, and inclusive opportunities.",
+      "link": "https://cohere.com/blog/how-the-cohere-labs-open-research-community-turns-early-career-researchers-into-global-leaders",
+      "pubDate": "2026-01-15T12:05:20.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.ghost.io/c/81/47/8147eb50-617d-4929-b563-3922b88421fd/content/images/2026/01/RamJebish_Blog_title.png",
+      "type": "blog"
+    },
+    {
+      "id": "64f6f2a31dfc",
+      "title": "Investing in Merge Labs",
+      "description": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "link": "https://openai.com/index/investing-in-merge-labs",
+      "pubDate": "2026-01-15T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6iv6ddNMOxlTaPibmUP01G/f47e6f32967e23c2a6e6cf541a64422c/Investing_in_Merge_Labs.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fb38965b12e0",
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "description": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "link": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/728oLmSXw7mfWWGe9SZ7zs/ea6deb1e3a117c0ec8518968020046a8/AI_Supply.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9376086b5b51",
+      "title": "Open Responses: What you need to know",
+      "description": "",
+      "link": "https://huggingface.co/blog/open-responses",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/openresponses/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "d8f5ba2b5c6d",
+      "title": "How scientists are using Claude to accelerate research and discovery",
+      "description": "How scientists are using Claude to accelerate research and discovery",
+      "link": "https://www.anthropic.com/news/accelerating-scientific-research",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Book&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "dab2a335b9a7",
+      "title": "OpenAI partners with Cerebras  ",
+      "description": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+      "link": "https://openai.com/index/cerebras-partnership",
+      "pubDate": "2026-01-14T14:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3AKrxHQZGWRq0XSFr3Tz8y/e1b2721e08ac271ec8c8f9b595bbe350/OpenAI_Cerebras__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "cb6c48f7124a",
+      "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+      "description": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+      "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+      "pubDate": "2026-01-13T17:00:18.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1IngredientstoVideo_Social.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "5265d72fa2c4",
+      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "description": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+      "link": "https://openai.com/index/zenken",
+      "pubDate": "2026-01-13T16:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/19Sz7JHI83sYEbpUVQvOMn/6ff976b42129bf31e00f6bc71f7d04fd/oai_Zenken_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6d0046ccd858",
+      "title": "Introducing Labs",
+      "description": "Introducing Labs",
+      "link": "https://www.anthropic.com/news/introducing-anthropic-labs",
+      "pubDate": "2026-01-13T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "87ff46e228ed",
+      "title": "Advancing Claude in healthcare and the life sciences",
+      "description": "Advancing Claude in healthcare and the life sciences",
+      "link": "https://www.anthropic.com/news/healthcare-life-sciences",
+      "pubDate": "2026-01-11T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e044fa67f5dc",
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "description": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "link": "https://openai.com/index/stargate-sb-energy-partnership",
+      "pubDate": "2026-01-09T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "27d219dd79b5",
+      "title": "Datadog uses Codex for system-level code review",
+      "description": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "link": "https://openai.com/index/datadog",
+      "pubDate": "2026-01-09T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/619kruHqeZXsnNOyg336Ho/70558438f79acb321fb1b6cf96bded13/oai_datadog_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "bedda3a88515",
+      "title": "OpenAI for Healthcare",
+      "description": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "link": "https://openai.com/index/openai-for-healthcare",
+      "pubDate": "2026-01-08T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4UGWFdKeoK2WDO4ITb0sef/e20280d31a4236e5e615831501452e44/OAI_forHealth_ArtCard_16-9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2d9b2aa26e18",
+      "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "description": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
+      "link": "https://openai.com/index/netomi",
+      "pubDate": "2026-01-08T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/73MzGWJqwp1YazJCDrUhra/be3d8a969d196f6492e3a912d4ff8361/oai_Netomi_SEO.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7339e10bcdac",
+      "title": "How Tolan builds voice-first AI with GPT-5.1",
+      "description": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+      "link": "https://openai.com/index/tolan",
+      "pubDate": "2026-01-07T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/419ed2PplLerw020k1Usi0/881913b327f73f9590867392f0ce9c30/oai_Tolan_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "15e34c2e2d89",
+      "title": "Introducing ChatGPT Health ",
+      "description": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+      "link": "https://openai.com/index/introducing-chatgpt-health",
+      "pubDate": "2026-01-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2zlj1v5fup8IPQFeD0HI8j/908a1aafec67c13ee67a62163e3c3c35/OAI_ChatGPT_Health_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ca82a7731d9a",
+      "title": "NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES",
+      "description": "NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas to open CES 2026, declaring that AI is scaling into every domain and every device. “Computing has been fundamentally reshaped as a result of accelerated computing, as a result of artificial intelligence,” Huang said. “What that means is some $10 trillion […]",
+      "link": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
+      "pubDate": "2026-01-05T23:30:18.000Z",
+      "source": "NVIDIA AI",
+      "sourceUrl": "https://blogs.nvidia.com/blog/category/deep-learning/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/01/26ces-blog-1280x680-DEB19668.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "83fb5439cd58",
+      "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+      "pubDate": "2026-01-05T22:56:51.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/63b738acbd2d1535227daa4c/7B01Lxy_IS-2FaPGUKJiA.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f6225b387c6",
+      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "description": "",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "pubDate": "2026-01-05T09:16:51.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/hB7RdDHJprXx2oi4UOCmN.png",
+      "type": "blog"
+    },
+    {
+      "id": "49b3f6f1a10d",
+      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia-reachy-mini",
+      "pubDate": "2026-01-05T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/nvidia-reachy-mini/new_thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6f8b1ccb985",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "description": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "link": "https://openai.com/index/openai-grove",
+      "pubDate": "2026-01-02T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}

@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "46f7ed5ecc70",
+      "title": "A Week of Symfony #1009 (April 27 – May 3, 2026)",
+      "description": "This week, Symfony released the maintained versions 6.4.37, 7.4.9, and 8.0.9. Meanwhile, we continued merging new features for the upcoming Symfony 8.1 version, such as the new TUI component. Lastly, we published an update about the recent SymfonyInsight…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1009-april-27-may-3-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-03T07:20:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
       "id": "1aa1432e45e7",
       "title": "Sightings",
       "description": "/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist, and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an extension of my beats system for syndicating external content. Here's the PR and prompt. As with my other forms of incoming syndicated content sightings show up on the homepage, the date archive…",
@@ -14,6 +29,20 @@
         "Programmation"
       ],
       "image": "https://static.simonwillison.net/static/2026/sightings-beats-card.jpg.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "518d82724c63",
+      "title": "Richard Dawkins and The Claude Delusion",
+      "description": "The great skeptic gets taken in",
+      "link": "https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion",
+      "pubDate": "2026-05-02T16:19:23.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qMHq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bd0c255-15fd-4d04-91e5-7b3b2a7a2998_1302x1034.png",
       "type": "blog"
     },
     {
@@ -61,6 +90,20 @@
       "type": "blog"
     },
     {
+      "id": "d2935f688880",
+      "title": "“A model that produces code which compiles and passes the tests it was given is not the same as a model that produces correct, secure, maintainable, well-architected software”",
+      "description": "A lot of code is being written by AI, but what does it mean?",
+      "link": "https://garymarcus.substack.com/p/a-model-that-produces-code-which",
+      "pubDate": "2026-05-01T20:04:02.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!L9Di!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9610e183-b1a7-4522-8838-ec798cec6525_1383x864.png",
+      "type": "blog"
+    },
+    {
       "id": "199911941bfe",
       "title": "iNaturalist Sightings",
       "description": "Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for fetching and \"clumping\" observations - by default clumps use observations within 2 hours and 5km of each other. Then I setup simonw/inaturalist-clumps as a Git scraping repository to run that tool and record the…",
@@ -73,6 +116,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "56df1ba30c32",
+      "title": "Housing Roundup #14: You Can't Build That",
+      "description": "Why can’t you build it?",
+      "link": "https://thezvi.substack.com/p/housing-roundup-14-you-cant-build",
+      "pubDate": "2026-05-01T16:46:17.000Z",
+      "source": "Don't Worry About the Vase",
+      "sourceUrl": "https://thezvi.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!_q08!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4944e40-9b28-4704-9c2a-25ad47bdd3f8_1008x583.png",
       "type": "blog"
     },
     {

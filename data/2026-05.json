@@ -2,9 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e782f06ce267",
+      "title": "Ce jeu Steam flingue votre SSD en silence",
+      "description": "108 Go par heure. C'est ce que Windrose, le RPG de pirates en Early Access publié par Kraken Express le 14 avril dernier, écrivait silencieusement sur les SSD des joueurs, sans aucune mention dans les notes de mise à jour. Avec déjà 1,5 million de copies vendues et un pic à 69 000 joueurs simultanés, ça commence à faire un sacré paquet de SSD potentiellement bien fatigués. Le bug a été repéré par Pixel Operative et confirmé par TechSpot puis Tom's Hardware. En jeu, des pics d'écriture…",
+      "link": "https://korben.info/ce-jeu-steam-flingue-votre-ssd-en-silence.html",
+      "pubDate": "2026-05-03T10:02:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "c5600c6c73a3",
+      "title": "Un C-3PO grandeur nature transformé en assistant vocal qui répond pour de vrai",
+      "description": "Un maker a transformé une réplique grandeur nature de C-3PO en assistant vocal interactif, et le résultat est franchement convaincant. Sa version du droïde papote, répond à vos questions, et tient même une conversation, le tout sans dépendre du moindre cloud une fois en local. Le truc tient sur un Raspberry Pi 5 planqué dans la coque dorée du droïde. Un micro capte ce que vous racontez, un moteur de speech-to-text le transcrit, et un LLM local s'occupe de comprendre votre question pour formuler…",
+      "link": "https://korben.info/un-c-3po-grandeur-nature-transforme-en-assistant-vocal-qui-repond-pour-de-vrai.html",
+      "pubDate": "2026-05-03T08:20:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
       "id": "29a50b0b2ff9",
       "title": "Bruteforce de cartes bancaires",
-      "description": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a pas de données confidentielles dessus et que tous les chiffres de ma CB sont masqués avec des petites étoiles sauf une partie, généralement les 4 derniers, qui sont en clairs évidemment.",
+      "description": "Quand j'achète un truc avec ma CB, c'est vrai que j'évite maintenant de demander le ticket de carte bancaire. Ça ne me sert à rien, et puis j'en fais quoi après ? Je le jette à la poubelle ? Heureusement qu'il n'y a pas de données confidentielles dessus et que tous les chiffres de ma CB sont masqués avec des petites étoiles sauf une partie, généralement les 4 derniers, qui sont en clair évidemment.",
       "link": "https://korben.info/carte-bancaire-brute-force.html",
       "pubDate": "2026-05-02T08:35:52.000Z",
       "source": "Korben",
@@ -90,6 +120,38 @@
         "Web"
       ],
       "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "5ab63c0e38ca",
+      "title": "Retour d'expérience avec Proxmox Datacenter Manager",
+      "description": "Quelques retours de mon utilisation de Proxmox Datacenter Manager pour migrer des VM d’un cluster vers un autre",
+      "link": "https://j.hommet.net/proxmox-retex-pdm/",
+      "pubDate": "2026-05-01T10:00:00.000Z",
+      "source": "J.Hommet",
+      "sourceUrl": "https://j.hommet.net/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://j.hommet.net/images/jametlene-reskp-fmyZcoCaSac-unsplash.webp",
+      "type": "blog"
+    },
+    {
+      "id": "958a8e566e94",
+      "title": "Un bug Claude Code brûle vos crédits en silence (veille #18)",
+      "description": "Cette semaine, un message de commit peut vous coûter 200 €, Mistral veut tuer la code review humaine, Claude s’invite dans Blender et Adobe et plus encore !",
+      "link": "https://codecodecoders.substack.com/p/un-bug-claude-code-brule-vos-credits",
+      "pubDate": "2026-05-01T09:23:28.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Jm77!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44eb8dd3-1448-4678-924c-891f6d79a18b_1024x608.png",
       "type": "blog"
     },
     {
