@@ -185,7 +185,7 @@ Le site sera disponible sur `http://localhost:4321`.
 
 ## Variables d'environnement
 
-Le projet utilise sept variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL` et `SITE_NAME`.
+Le projet utilise huit variables d'env. Toutes sont **optionnelles avec un fallback**, mais en production tu voudras au moins définir `SITE_URL` et `SITE_NAME`.
 
 | Variable | Quand est-elle utilisée | Fallback |
 |---|---|---|
