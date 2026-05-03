@@ -1,8 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { loadAllArticles, loadWorldArticles, getAllSources, getCategoryColor } from '../utils/articles';
+import { loadAllArticles, loadWorldArticles, loadAiArticles, getAllSources, getCategoryColor } from '../utils/articles';
 
-const allArticles = [...loadAllArticles(), ...loadWorldArticles()];
+const allArticles = [...loadAllArticles(), ...loadWorldArticles(), ...loadAiArticles()];
 const sources = getAllSources(allArticles);
 ---
 
