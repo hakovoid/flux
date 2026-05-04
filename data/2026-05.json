@@ -2,6 +2,39 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fde31b1a0ea7",
+      "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
+      "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-204-d0e3406e7010",
+      "pubDate": "2026-05-04T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ae0811c7-af8b-49c7-8de3-d0e3406e7010.mp3?_=1777809650",
+      "duration": "57:09"
+    },
+    {
+      "id": "c557851922ab",
+      "title": "BrowserQuest - Le MMO HTML5 de Mozilla est de retour",
+      "description": "BrowserQuest est de retour les amis ! Hé ouais, el famoso MMO HTML5 que Little Workshop avait pondu pour Mozilla en 2012 vient de ressurgir sur threej.in , alors que Mozilla avait officiellement archivé le repo GitHub en janvier 2024. En allant sur ce lien, vous choisissez le nom de votre personnage, et hop, vous vous retrouvez comme y'a plus de 10 ans, dans un monde 2D en pixel art prêt à vous taper avec des rats et des squelettes direct dans le navigateur.",
+      "link": "https://korben.info/browserquest-mmo-mozilla-html5-retour.html",
+      "pubDate": "2026-05-03T14:21:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/browserquest-mmo-mozilla-html5-retour/browserquest-mmo-mozilla-html5-retour-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e782f06ce267",
       "title": "Ce jeu Steam flingue votre SSD en silence",
       "description": "108 Go par heure. C'est ce que Windrose, le RPG de pirates en Early Access publié par Kraken Express le 14 avril dernier, écrivait silencieusement sur les SSD des joueurs, sans aucune mention dans les notes de mise à jour. Avec déjà 1,5 million de copies vendues et un pic à 69 000 joueurs simultanés, ça commence à faire un sacré paquet de SSD potentiellement bien fatigués. Le bug a été repéré par Pixel Operative et confirmé par TechSpot puis Tom's Hardware. En jeu, des pics d'écriture…",
