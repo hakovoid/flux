@@ -2,6 +2,216 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "85c4c470ff7e",
+      "title": "732 bytes of Python just borked every Linux machine on earth…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=lkifbWtxxlk",
+      "pubDate": "2026-05-04T18:40:40.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d1d37561d44",
+      "title": "ffmpeg-over-ip - Le transcodage GPU distant pour Jellyfin",
+      "description": "Jellyfin sans GPU, c'est la croix et la bannière dès que quelqu'un lance un film en 4K. Mais c'était sans compter sur ffmpeg-over-ip qui est capable de transformer un serveur équipé d'un GPU en endpoint de transcoding distant, accessible via un simple binaire qui se fait passer pour ffmpeg. Y'a pas de passthrough GPU, ni besoin de vous lancer dans la config de point de montage réseau exotique. Le principe c'est que le client reçoit les commandes ffmpeg de Jellyfin (ou Emby), les sérialise et…",
+      "link": "https://korben.info/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin.html",
+      "pubDate": "2026-05-04T14:15:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin/ffmpeg-over-ip-le-transcodage-gpu-distant-pour-jellyfin-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "35b98d4a426d",
+      "title": "Un robot qui construit des maisons en argile",
+      "description": "Vous connaissez ICON, qui imprime des maisons en béton avec ses grosses machines ? Hé bien Terran Robotics fait en fait pareil, mais avec de la terre, ou plutôt avec l'argile extraite directement du terrain. Du coup ça revient carrément moins cher. Leur techno consiste en un robot suspendu par des câbles entre quatre tourelles dressées aux coins du chantier qui crache de l'argile. Zach Dwiel (CEO, ex-Intel) et Danny Weddle (CDO, architecte) ont développé ce système depuis 2019 et leur premier…",
+      "link": "https://korben.info/terran-robotics-maisons-terre-robots-texas.html",
+      "pubDate": "2026-05-04T13:26:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/terran-robotics-maisons-terre-robots-texas/terran-robotics-maisons-terre-robots-texas-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "00ac297993ad",
+      "title": "Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI",
+      "description": "Novabricks est une plateforme \"aPaaS\" qui facilite la création d'applications métiers sans codage grâce au No-Code et Low-Code. Elle répond aux besoins numériques croissants des entreprises, aidant à surmonter les limitations des solutions traditionnelles. Novabricks permet ainsi une rapidité, flexibilité et coût réduit, tout en favorisant la souveraineté numérique. L’article Novabricks : la plateforme No-Code « à la française » pour réconcilier les métiers et la DSI est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/04/novabricks-la-plateforme-no-code-a-la-francaise-pour-reconcilier-les-metiers-et-la-dsi/",
+      "pubDate": "2026-05-04T12:45:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1777898383562-1024x572.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "298e5343ac04",
+      "title": "Zxc, une bibliothèque de compression 2× plus rapide que LZ4",
+      "description": "Deux fois plus rapide que LZ4 en décompression ?? Ah bon c'est possible ? Évidemment, quand Bertrand Lebonnois a publié zxc sur GitHub , et m'a envoyé un email pour me prévenir, j'ai été jeter un œil, surtout aux benchmarks. Eh bien après analyse, c'est bien réel ! La philosophie de zxc est assez tranchée vous allez voir. Il s'agit d'une lib WORM (Write-Once, Read-Many) qui permet de compresser une fois lentement, à la compilation ou en CI, et ensuite de décompresser comme vous voulez des…",
+      "link": "https://korben.info/zxc-bibliotheque-compression-2x-rapide-lz4.html",
+      "pubDate": "2026-05-04T11:56:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/zxc-bibliotheque-compression-2x-rapide-lz4/zxc-bibliotheque-compression-2x-rapide-lz4-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0cc207dc2b08",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Découvrez Symfony AI Mate, la solution innovante qui ouvre votre application Symfony aux agents via JSON-RPC sur stdio. Exposez vos services à des IDE ou chatbots en toute sécurité, sans port TCP ouvert. Simplifiez le développement avec cette approche unique.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony",
+      "pubDate": "2026-05-04T11:22:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "60638c4640ac",
+      "title": "ReactOS, le clone open source de Windows, simplifie son installation",
+      "description": "Trois décennies que ReactOS essaie de devenir un clone open source de Windows, et le projet vient de mettre en place deux changements assez gros pour mériter un coup d'œil. La 0.4.16 est entrée en phase finale cette semaine, avec des release candidates qui devraient suivre dans la foulée, et elle apporte une image d'installation unifiée plus un nouveau storage stack ATA. Deux gros morceaux qui devraient simplifier la vie de ceux qui veulent tester le truc sur de vraies machines.",
+      "link": "https://korben.info/reactos-le-clone-open-source-de-windows-simplifie-son-installation.html",
+      "pubDate": "2026-05-04T11:11:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/reactos-le-clone-open-source-de-windows-simplifie-son-installation/reactos-le-clone-open-source-de-windows-simplifie-son-installation-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a19aa879f131",
+      "title": "Photographier les vraies couleurs en stockant tout le spectre était déjà possible en... 1891",
+      "description": "Hackaday vient de remettre en lumière (c'est le cas de le dire) une technique de photo couleur quasi oubliée et complètement folle : les plaques Lippmann. Au lieu de découper la lumière en trois canaux RGB comme un capteur moderne, elles enregistrent le spectre complet, longueur d'onde par longueur d'onde. Le résultat est tellement précis qu'un spectromètre peut le relire sans problème. Le truc tient à un montage tout simple. Vous prenez une plaque de verre recouverte d'un gel photographique…",
+      "link": "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891.html",
+      "pubDate": "2026-05-04T10:01:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891/photographier-les-vraies-couleurs-en-stockant-tout-le-spectre-etait-deja-possible-en-1891-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "51b434926492",
+      "title": "RTK - Le proxy Rust qui vous fait économiser jusqu'à 90% de tokens",
+      "description": "Si vous utilisez Claude Code au quotidien, vous connaissez ce goût de sang qui vous monte dans la bouche lorsque sans prévenir quand cette putain de limite de quota imposée par Anthropic vous explose à la gueule ! Et le pire c'est que vous n'avez pas l'impression d'avoir fait grand chose. En réalité, la vraie raison c'est surtout le \"bruit\" de toutes vos sorties shell. Un git log, un cargo test, un npm build... votre agent IA ingère tout ça comme du petit lait alors qu'il n'a besoin que d'une…",
+      "link": "https://korben.info/rtk-proxy-rust-economiser-tokens.html",
+      "pubDate": "2026-05-04T09:52:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rtk-proxy-rust-economiser-tokens/rtk-proxy-rust-economiser-tokens-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "88844e28fb1c",
+      "title": "OAuth2 Proxy - L'authentification OIDC en reverse proxy",
+      "description": "Vous avez un service qui tourne sur le port 8080, mais aucune authentification native dessus et vous voulez ajouter OAuth2 sans avoir à toucher au code ? Vous êtes vraiment exigeant dans la vie ! Mais comme vos désirs sont des ordres, je vous présente oauth2-proxy dont c'est EXACTEMENT le boulot ! Le principe avec cet outil c'est qu'il se glisse entre l'utilisateur et votre application. Ainsi, si la personne n'est pas connectée, elle est alors redirigée vers son provider OAuth2 ou OIDC. Et une…",
+      "link": "https://korben.info/oauth2-proxy-lauthentification-oidc-en-reverse-proxy.html",
+      "pubDate": "2026-05-04T09:32:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/oauth2-proxy-lauthentification-oidc-en-reverse-proxy/oauth2-proxy-lauthentification-oidc-en-reverse-proxy-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a378bdefb394",
+      "title": "Agent Safehouse - Un garde-fou pour vos agents IA sur macOS",
+      "description": "Comme vous le savez, les LLMs sont assez probabilistes de par leur nature. C'est leur force mais également leur principal problème de sécurité car si votre agent IA a une probabilité de 1% de faire une grosse connerie des enfers par session, sur 100 sessions vous montez à environ 63% de chances qu'il en arrive au moins une. Heureusement, Agent Safehouse vous permet d'encapsuler votre agent préféré dans un profil sandbox macOS au niveau du kernel afin de réduire drastiquement la surface…",
+      "link": "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos.html",
+      "pubDate": "2026-05-04T09:13:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/agent-safehouse-garde-fou-agents-ia-macos/agent-safehouse-garde-fou-agents-ia-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca26b4196c9a",
+      "title": "Un iPod Nano transformé en workstation triple écran",
+      "description": "Sur sa chaîne YouTube \"Will It Work?\", un bidouilleur a réussi à brancher trois moniteurs sur un iPod Nano de sixième génération. Oui, vous avez bien lu, l'iPod cliquable carré qui faisait 4 cm de côté en 2010, et qui n'avait à l'origine aucune sortie vidéo digne de ce nom. Le résultat est un setup absurde mais qui tient debout, et c'est franchement délicieux à regarder. La clé magique pour que ça fonctionne, c'est un ancien Apple iPad Keyboard Dock 30 broches, l'un des rares accessoires de…",
+      "link": "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran.html",
+      "pubDate": "2026-05-04T08:23:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-ipod-nano-transforme-en-workstation-triple-ecran/un-ipod-nano-transforme-en-workstation-triple-ecran-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7a9f0c40ca44",
+      "title": "Coincés durant +5 heures sur Age of Empires 2",
+      "description": "Hier soir Lilian, fidèle lecteur de Korben m'a envoyé une vidéo incroyable qui retrace 5h de combat sur Age of Empires 2 résumées en 34 minutes par TheGreatReview. Faut savoir que je suis fan d'Age of Empires depuis le premier épisode de 1997 . AoE 1, 2, Mythology, AoE 3... j'ai laissé un nombre indécent d'heures sur ces titres, donc forcément, voir ces longues heures de matchs condensées en chouette récit, ça ravive de vieux souvenirs !",
+      "link": "https://korben.info/thegreatreview-age-of-empires-5-heures.html",
+      "pubDate": "2026-05-04T07:00:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/thegreatreview-age-of-empires-5-heures/thegreatreview-age-of-empires-5-heures-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cba1db645544",
+      "title": "Admission Kubernetes en 2026 : Native policies (VAP, MAP), Kyverno ou Gatekeeper, comment choisir ?",
+      "description": "ContexteLe 22 avril 2026, Kubernetes 1.36 sortait avec MutatingAdmissionPolicy en GA. C’est un tournant. Jusqu’ici, beaucoup d’équipes restaient sur Kyverno ou OPA Gatekeeper pour la simple raison qu’il manquait la mutation native dans l’API server. Maintenant, validation et mutation tournent sans webhook, sans dépendance externe. En parallèle, en février 2026, Kyverno 1.17 bascule sur CEL comme moteur principal et déprécie ses anciennes CRDs JMESPath. Le même langage que les Admission Policies…",
+      "link": "https://blog.cockpitio.com/kubernetes/kubernetes-admission-solutions/",
+      "pubDate": "2026-05-04T07:00:00.000Z",
+      "source": "Cockpit io",
+      "sourceUrl": "https://blog.cockpitio.com/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fde31b1a0ea7",
       "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
       "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch…",
@@ -249,6 +459,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7b2af2c5-8b09-4eff-a333-08e07f9ea763.mp3?_=1777550508",
       "duration": "11:43"
+    },
+    {
+      "id": "c1b8657ecbf4",
+      "title": "Jour 181 : Ce que j'ai appris avec un skill Claude pour du SEO",
+      "description": "Comment utiliser Claude-SEO pour auditer son site ? Test complet sur Writizzy : du JSON-LD aux headers de sécurité. Analyse des conseils de l'IA pour booster le trafic et résoudre les problèmes d'indexation.",
+      "link": "https://eventuallycoding.com/p/jour-181-ce-que-j-ai-appris-avec-un-skill-claude-pour-du-seo",
+      "pubDate": "2026-05-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777635362166-iw90sjp.png",
+      "type": "blog"
     }
   ]
 }

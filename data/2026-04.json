@@ -512,6 +512,23 @@
       "type": "blog"
     },
     {
+      "id": "b46f58fbe551",
+      "title": "Dataquitaine 2026 : comment Industrialiser l'IA de Manière Souveraine",
+      "description": "Retour sur Dataquitaine 2026 : souveraineté numérique, délégation cognitive, embeddings multimodaux et notre REX sur un RAG industrialisé avec l'ANSSI. Les enseignements clés de cette 9e édition bordelaise.",
+      "link": "https://blog.ippon.fr/2026/04/29/dataquitaine-2026-ia-souverainete/",
+      "pubDate": "2026-04-29T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/dataquitaine.png",
+      "type": "blog"
+    },
+    {
       "id": "77f60533c2c1",
       "title": "Slint - Un toolkit GUI pour Rust, C++, JS et Python",
       "description": "Vous avez déjà voulu créer une appli desktop qui tourne sur Linux, Mac et Windows en même temps ? En Rust, c'était un peu compliqué jusqu'ici. Heureusement, Slint , créé par la société allemande SixtyFPS GmbH, propose une solution sympa ! L'idée, c'est de décrire votre interface dans des petits fichiers .slint (un genre de mini HTML/CSS pour appli native), et de brancher ça à du Rust, du C++, du JavaScript ou du Python. Comme ça, vous codez le visuel d'un côté, la logique de l'autre.",
