@@ -2,6 +2,225 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4aca4999a653",
+      "title": "Kawaii - La GameCube découpée au scalpel qui tient dans la poche",
+      "description": "Mackie Kannard-Smith vient de sortir Kawaii , une GameCube qui tient dans un porte-clés avec une vraie carte mère Nintendo dedans. Pas d'émulation ni de Raspberry Pi déguisé mais juste du silicium d'origine charcuté à mort pour rentrer dans 60 × 60 × 15,8 mm ! Pour vous donner une idée, c'est plus petit qu'une Game Boy Color et c'est le boîtier en alu bleu anodisé qui fait office de dissipateur thermique passif.",
+      "link": "https://korben.info/kawaii-gamecube-poche-mackie-kannard-smith.html",
+      "pubDate": "2026-05-06T05:37:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/kawaii-gamecube-poche-mackie-kannard-smith/kawaii-gamecube-poche-mackie-kannard-smith-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19b35f829a9b",
+      "title": "Comment réussir un quiz marketing B2B qui accroche et génère des leads ?",
+      "description": "Les quiz sont des outils puissants et sous-estimés en marketing pour engager les audiences, récolter des informations et renforcer la mémorisation de la marque. En combinant interactivité, simplicité et pédagogie, ils transforment l'expérience utilisateur. Des exemples de réussite, comme la campagne de Dropbox, démontrent leur efficacité en génération de leads. L’article Comment réussir un quiz marketing B2B qui accroche et génère des leads ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/06/comment-reussir-un-quiz-marketing-b2b-qui-accroche-et-genere-des-leads/",
+      "pubDate": "2026-05-06T05:32:59.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1777972190699.png",
+      "type": "blog"
+    },
+    {
+      "id": "23aa6e2f08d4",
+      "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
+      "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret de SRE. Kevin décortique la question des rôles et des responsabilités, l'importance de l'erreur budget, et l'impact réel des outils managés et de l'IA. On discute de la montée en puissance de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-355-9f21f7fcd7ff",
+      "pubDate": "2026-05-06T03:00:38.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/583b328b-9353-4cf0-adf8-7bd0996391b0.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
+      "duration": "52:47"
+    },
+    {
+      "id": "93951d1fb522",
+      "title": "Interviews d'experts - épisode #3 : GreenOps  and  FinOps",
+      "description": "Lors cette série d’interviews, OCTO mobilise ses experts pour vous décrypter l’actualité. Aujourd’hui, Brice Le Roux, expert Ops, nous parle de GreenOps and amp; FinOps.",
+      "link": "https://blog.octo.com/interviews-d'experts-episode-3--greenops-and-finops",
+      "pubDate": "2026-05-05T15:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bf42f08ae9a2",
+      "title": "Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026",
+      "description": "Yeah Pa ! est une entreprise lilloise qui vise à recréer du lien humain en milieu professionnel à travers le jeu. Proposant des événements variés et des solutions ludiques, elle transforme l’expérience de travail en favorisant la cohésion d'équipe, brisant les hiérarchies et améliorant la qualité de vie au travail. L’article Yeah Pa ! : réinventer le lien social en entreprise par la « JOIE » en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/05/yeah-pa-reinventer-le-lien-social-en-entreprise-par-la-joie-en-2026/",
+      "pubDate": "2026-05-05T14:22:28.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1777990719101-1024x572.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a93dcd6efbbc",
+      "title": " Software development : les DSI face au chaos du code généré par l’IA",
+      "description": "Grâce à l'IA, la production logicielle tend à se démocratiser au sein de l’entreprise, il devient essentiel de mettre en place dès maintenant un accompagnement structuré autour de l’IA. À défaut, la DSI pourrait de se transformer en « Wall-E du code », contrainte de trier et réparer les déchets d’une production logicielle devenue incontrôlée.",
+      "link": "https://blog.octo.com/software-development--les-dsi-face-au-chaos-du-code-genere-par-l'ia",
+      "pubDate": "2026-05-05T13:14:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "cdae38b159f2",
+      "title": "10 sites pour jouer aux jeux DOS dans votre navigateur gratuitement",
+      "description": "DOOM, Fallout, Theme Hospital, Civilization... il y a sur le web des milliers de jeux DOS jouables directement dans votre navigateur, gratuitement, sans installer quoi que ce soit. Car oui mes amis, l'émulation DOS dans le browser a vraiment mûri, et il existe des dizaines de bons sites qui vous permettent de jouer à tout un tas de jeux disparus. Je vous propose donc une bonne dizaine d'entre eux classés par ordre alphabétique.",
+      "link": "https://korben.info/emulateurs-dos-navigateur-gratuits.html",
+      "pubDate": "2026-05-05T11:44:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/emulateurs-dos-navigateur-gratuits/emulateurs-dos-navigateur-gratuits-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8f8aa51adc91",
+      "title": "Il démonte une caméra gimbal de drone Shahed-136 récupéré en Ukraine",
+      "description": "Un chercheur du nom de Michel a mis la main sur une caméra de surveillance issue d'un drone Shahed-136 abattu en Ukraine, et il en a fait un démontage très complet. Le Shahed-136, ce drone iranien que la Russie a adopté massivement et qu'elle modifie au fil des mois avec des charges utiles supplémentaires, embarque ici une caméra thermique pour les missions de nuit, montée sur un gimbal motorisé, le tout dans un boîtier qui tient dans la main.",
+      "link": "https://korben.info/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine.html",
+      "pubDate": "2026-05-05T10:11:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine/il-demonte-une-camera-gimbal-de-drone-shahed-136-recupere-en-ukraine-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "434c612a7aa5",
+      "title": "L'IA : Sauveur ou Fossoyeur de L’open source? (AI Slop, Fuzzing & Clean Room) 🤖⚔️",
+      "description": "L'IA : Sauveur ou Fossoyeur de L’open source? (AI Slop, Fuzzing & Clean Room) 🤖⚔️ L'intelligence artificielle est-elle une bénédiction pour le logiciel libre, ou la menace ultime qui va faire s'effondrer ses fondations ? 🚀 Dans ce nouvel épisode de A La French, on débat de l'impact sismique de l'IA sur l'écosystème Open Source. Le constat est paradoxal : si l'IA permet de briser le syndrome de la page blanche, d'accélérer les portages sur de nouvelles plateformes et de démultiplier la force…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69f93de3d9139f13fbc56759",
+      "pubDate": "2026-05-05T10:06:34.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1777975547364-f7a49097-f91f-447b-b23a-4f0e1f716076.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69f93de3d9139f13fbc56759/media.mp3",
+      "duration": "1:18:45"
+    },
+    {
+      "id": "fdcd2cc18474",
+      "title": "Un slider caméra à trois axes bricolé avec des pièces d'imprimante 3D",
+      "description": "Un slider caméra, c'est ce rail motorisé sur lequel on pose un appareil photo ou une caméra pour qu'elle glisse latéralement pendant la prise de vue, et obtenir ce travelling propre qu'on voit dans les pubs ou les vidéos YouTube un peu soignées. CNCDan , lui, a voulu pousser le concept un cran plus loin avec un système à trois axes (haut/bas, gauche/droite, et une rotation), pour filmer ses propres projets. Et il l'a construit avec ce qu'il avait sous la main : un stock de pièces d'imprimante…",
+      "link": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d.html",
+      "pubDate": "2026-05-05T09:25:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d/un-slider-camera-a-trois-axes-bricole-avec-des-pieces-dimprimante-3d-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1fa0dc856639",
+      "title": "Design ops, Product ops, Research ops : comment passer de pompier à stratège en 3 mois",
+      "description": "Les fonctions opérationnelles des équipes Produit - Design Ops, Product Ops et Research Ops - sont soumises actuellement à une pression sans précédent, à l’heure de l’hyper-accélération provoquée par l’Intelligence Artificielle. Je vous partage ici une méthode en 3 temps pour construire une stratégie Ops qui tient la route !",
+      "link": "https://blog.octo.com/design-ops-product-ops-research-ops--comment-passer-de-pompier-a-stratege-en-3-mois",
+      "pubDate": "2026-05-05T08:10:00.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9a24af71d414",
+      "title": "AlmaLinux 10.2 Beta réintroduit le support 32-bit, à contre-courant",
+      "description": "La distribution AlmaLinux a publié sa version 10.2 Beta nommée \"Lavender Lion\", et elle fait un truc que la plupart des distros récentes refusent de faire : remettre du support 32-bit dans le système. Pas un retour total, on s'entend, mais des packages userspace i686 pour faire tourner du logiciel ancien, des pipelines de CI un peu datées et des conteneurs qui dépendent encore de bibliothèques 32-bit. Pas d'ISO d'install i686, ça reste enterré pour de bon. Mais bon, vos vieux binaires repartent…",
+      "link": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant.html",
+      "pubDate": "2026-05-05T07:17:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant/almalinux-10-2-beta-reintroduit-le-support-32-bit-a-contre-courant-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3a33520b1c52",
+      "title": "Korben - Toujours là 22 ans plus tard, et c'est grâce à vous",
+      "description": "Salut les amis, Aujourd'hui, c'est un jour un peu spécial pour moi, puisque c'est l'anniversaire de mon site web ! Alors je tenais à célébrer ça avec vous parce que les années filent à la vitesse de l'éclair et qu'on ne fête jamais assez les choses. Et il s'en est passé des choses en 22 ans quand même. J'ai démarré ça comme un site perso, et qui, parce que les gens aiment bien ranger les trucs dans des cases, est devenu un \"blog\", puis un \"média\", et qui sait ce que ce sera demain...",
+      "link": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous.html",
+      "pubDate": "2026-05-05T07:07:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/korben-22-ans-plus-tard-toujours-la-grace-a-vous/korben-22-ans-plus-tard-toujours-la-grace-a-vous-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5e6bf8338dac",
+      "title": "Edge - Les mots de passe en clair en mémoire, by design",
+      "description": "Si vous utilisez le gestionnaire de mots de passe intégré à Microsoft Edge, et que vous le trouvez cool, hé bien accrochez-vous les amis, car Tom Jøran Sønstebyseter Rønning, chercheur norvégien en cybersécurité, vient de publier sur GitHub un PoC qui dump TOUS vos credentials en clair directement depuis la mémoire du processus du navigateur ! Et de ce que j'ai compris, Microsoft a l'air d'assumer ça tranquillou... Et n'allez pas croire qu'activer \"l'Authentification avant remplissage…",
+      "link": "https://korben.info/edge-mots-de-passe-clair-memoire-by-design.html",
+      "pubDate": "2026-05-05T07:06:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/edge-mots-de-passe-clair-memoire-by-design/edge-mots-de-passe-clair-memoire-by-design-2.png",
+      "type": "blog"
+    },
+    {
       "id": "85c4c470ff7e",
       "title": "732 bytes of Python just borked every Linux machine on earth…",
       "description": "",
