@@ -2,6 +2,204 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5c0ffed1c14e",
+      "title": "Docker Bake : une nouvelle manière de build nos images Docker",
+      "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
+      "link": "https://blog.ippon.fr/2026/05/07/docker-bake-une-nouvelle-maniere-de-build-nos-images-docker/",
+      "pubDate": "2026-05-07T06:01:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8acaa4f2f43",
+      "title": "Scattered Spider - Un cybercriminel arrêté à cause d'un collier en diamants",
+      "description": "Y'a des génies du crime, et puis y'a Peter Stokes, alias Bouquet, 19 ans, presque toutes ses dents, double nationalité américano-estonienne, et surtout membre de Scattered Spider, le collectif qui a déjà plumé MGM et Caesars. Le mec a tellement bien réussi son coup qu'il est parti se payer des vacances à Tokyo, sauf que pour fêter ça, en bon teubé, il a posté sur Snapchat des selfies de sa grosse tête avec un tout nouveau bijou : un collier en diamants HACK THE PLANET. Comme dans le film de…",
+      "link": "https://korben.info/scattered-spider-hack-planet-collier-arrete.html",
+      "pubDate": "2026-05-06T15:06:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/scattered-spider-hack-planet-collier-arrete/scattered-spider-hack-planet-collier-arrete-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c7a760207d22",
+      "title": "Quand les hackers de Rockstar font monter l'action Take-Two",
+      "description": "Énorme retournement de situation. ShinyHunters, le groupe qui avait piraté Rockstar via Anodot mi-avril et exigé une rançon, a fini par balancer ses données sur internet quand l'éditeur a refusé de payer. Le but était de faire mal financièrement à Take-Two, sauf que les chiffres révélés étaient si impressionnants que l'effet a été l'exact opposé. En effet, l'action Take-Two est passée d'environ 202 dollars à presque 208 dollars en une matinée, soit une capitalisation boursière qui a pris à peu…",
+      "link": "https://korben.info/rockstar-hack-take-two-stock.html",
+      "pubDate": "2026-05-06T14:35:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/rockstar-hack-take-two-stock/rockstar-hack-take-two-stock-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1dc77faa2ee6",
+      "title": "Les Pays-Bas migrent leur code vers Forgejo et claquent la porte de GitHub",
+      "description": "Le gouvernement néerlandais a ouvert sa propre instance Forgejo à l'adresse code.overheid.nl, hébergée sur les serveurs de l'État via SSC-ICT (le service informatique mutualisé du gouvernement). L'idée dans cette démarche, c'est de regrouper tout le code source produit par les administrations sur une plateforme libre et hébergée localement, plutôt que de continuer à dépendre de GitHub (Microsoft) ou de GitLab dont les versions entreprise sont fermées. Forgejo, c'est un fork de Gitea, lui-même…",
+      "link": "https://korben.info/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github.html",
+      "pubDate": "2026-05-06T13:54:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github/les-pays-bas-migrent-leur-code-vers-forgejo-et-claquent-la-porte-de-github-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6e5abd011ee9",
+      "title": "L'IA débarque sur le banc de touche : comment la tech transforme le rugby",
+      "description": "L'IA sur le banc de touche : les défis de l'intégration logicielle dans le rugby. Analyse des étapes cruciales pour déployer des solutions de Deep Learning : de la gestion de la qualité vidéo à l'adoption par les coachs, pour une technologie au service de l'humain.",
+      "link": "https://blog.ippon.fr/2026/05/06/lia-debarque-sur-le-banc-de-touche-comment-la-tech-transforme-le-rugby/",
+      "pubDate": "2026-05-06T13:19:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ttfd8mttfd8mttfd.png",
+      "type": "blog"
+    },
+    {
+      "id": "daf9ee71908c",
+      "title": "Apple ajoute le chiffrement bout-en-bout entre iPhone et Android pour les RCS dans iOS 26.5",
+      "description": "Avec iOS 26.5, Apple corrige enfin un manque que tout le monde signalait depuis l'arrivée du RCS sur iPhone : les messages échangés entre un iPhone et un Android n'étaient pas chiffrés. Côté iPhone-vers-iPhone, les iMessage sont protégés de bout en bout depuis des années. Mais sitôt que la conversation passait par Android, la communication redevenait en clair, comme un bon vieux SMS. Plus pour longtemps. Apple a travaillé avec la GSMA pour finaliser la version 3.0 de l'Universal Profile RCS,…",
+      "link": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5.html",
+      "pubDate": "2026-05-06T13:00:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5/apple-ajoute-le-chiffrement-bout-en-bout-entre-iphone-et-android-pour-les-rcs-dans-ios-26-5-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "983a53e350cd",
+      "title": "Konexio : quand le numérique devient un levier d’inclusion, pas une barrière",
+      "description": "Konexio est une association qui lutte contre l'illectronisme en rendant les compétences numériques accessibles à tous, notamment aux populations vulnérables comme les réfugiés et les jeunes en difficulté. Fondée en 2016, elle offre des formations variées pour favoriser l'inclusion numérique et faciliter l'insertion professionnelle, avec des taux de réussite élevés. L’article Konexio : quand le numérique devient un levier d’inclusion, pas une barrière est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/06/konexio-quand-le-numerique-devient-un-levier-dinclusion-pas-une-barriere/",
+      "pubDate": "2026-05-06T12:57:23.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1778055647978.png",
+      "type": "blog"
+    },
+    {
+      "id": "a57e9ef790c0",
+      "title": "WorkBoy - Le PDA fantôme de la Game Boy",
+      "description": "En 1992, Eddie Gil de la boîte anglaise Source R&D et Frank Ballouz de Fabtek s'étaient mis en tête d'une chose : transformer la Game Boy en PDA. La console à pile AA de Nintendo avec son écran vert pissette devait, dans leurs rêves les plus fous, devenir l'agenda électronique des cadres dynamiques. Le projet s'appelait WorkBoy, et il a même été présenté au CES en 1992, puis... plus rien.",
+      "link": "https://korben.info/workboy-game-boy-prototype-perdu-pda.html",
+      "pubDate": "2026-05-06T11:47:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/workboy-game-boy-prototype-perdu-pda/workboy-game-boy-prototype-perdu-pda-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "466f3ddc80b7",
+      "title": "VS Code signe vos commits avec Copilot, même sans Copilot",
+      "description": "Si vous avez committé du code depuis VS Code depuis mi-avril, allez tout de suite vérifier vos messages de commit car vous avez peut-être un nouveau co-auteur que vous n'avez jamais embauché. En effet, Microsoft a discrètement basculé le réglage par défaut de l'éditeur pour ajouter Co-authored-by: Copilot à des commits que VS Code considérait à tort comme contenant des contributions IA, même quand vous n'avez pas utilisé Copilot, et même quand vous avez explicitement désactivé toutes les…",
+      "link": "https://korben.info/vscode-copilot-coauthor-polemique.html",
+      "pubDate": "2026-05-06T10:16:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vscode-copilot-coauthor-polemique/vscode-copilot-coauthor-polemique-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d43001f7106f",
+      "title": "Chrome installe en douce un modèle IA de 4 Go sur votre disque sans rien demander",
+      "description": "Alexander Hanff, consultant, a remonté un truc pas net sur Chrome. La dernière version du navigateur télécharge en arrière-plan un modèle de langage local appelé Gemini Nano, qui pèse environ 4 Go, sans jamais demander la moindre permission à l'utilisateur. Le fichier s'appelle weights.bin, il atterrit dans un dossier OptGuideOnDeviceModel quelque part dans votre profil Chrome, et il sert ensuite à des fonctions du genre \"Help me write\" ou détection de fraude.",
+      "link": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander.html",
+      "pubDate": "2026-05-06T10:09:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander/chrome-installe-en-douce-un-modele-ia-de-4-go-sur-votre-disque-sans-rien-demander-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "276cb3a6d66e",
+      "title": "Un passionné a recréé l'Apple Lisa de 1983 dans un FPGA",
+      "description": "Voilà un projet qui sort un peu de l'ordinaire. Un développeur a passé huit mois à réimplémenter intégralement l'Apple Lisa, l'ordinateur lancé par Apple en 1983, à l'intérieur d'un FPGA. Le résultat tourne. Il charge le système d'exploitation Lisa OS et fait fonctionner les logiciels de l'époque comme à la sortie de la machine, sans la moindre puce d'origine. Juste une description matérielle Verilog/VHDL synthétisée sur une carte FPGA moderne.",
+      "link": "https://korben.info/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga.html",
+      "pubDate": "2026-05-06T09:12:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga/un-passionne-a-recree-lapple-lisa-de-1983-dans-un-fpga-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "45a696cd37ed",
+      "title": "wg-obfuscator - Faire passer WireGuard pour de la visioconf",
+      "description": "Si vous faites tourner WireGuard depuis un réseau filtré par DPI (Genre en Russie, Iran, Chine, et autres pays défenseurs de la libertéééé (non)), vous avez sans doute remarqué que les tunnels tombent rapidement. En effet, les signatures des protocoles et notamment du protocole WireGuard sont devenues facilement identifiables. Les filtres modernes de censure sont ainsi capable de les bloquer en quelques secondes. C'est pour ça que wg-obfuscator , sorti par Alexey Cluster (le dev derrière le mod…",
+      "link": "https://korben.info/wg-obfuscator.html",
+      "pubDate": "2026-05-06T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wg-obfuscator/wg-obfuscator-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "7aa3c232743c",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "description": "Analysez la faille IDOR exploitée chez l'ANTS. Comprenez cette vulnérabilité critique et découvrez comment la prévenir efficacement avec Symfony et PHP pour sécuriser vos applications web.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor",
+      "pubDate": "2026-05-06T06:20:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4aca4999a653",
       "title": "Kawaii - La GameCube découpée au scalpel qui tient dans la poche",
       "description": "Mackie Kannard-Smith vient de sortir Kawaii , une GameCube qui tient dans un porte-clés avec une vraie carte mère Nintendo dedans. Pas d'émulation ni de Raspberry Pi déguisé mais juste du silicium d'origine charcuté à mort pour rentrer dans 60 × 60 × 15,8 mm ! Pour vous donner une idée, c'est plus petit qu'une Game Boy Color et c'est le boîtier en alu bleu anodisé qui fait office de dissipateur thermique passif.",
@@ -47,6 +245,55 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
       "duration": "52:47"
+    },
+    {
+      "id": "946d82ad2229",
+      "title": "Les news du mois d'avril 2026",
+      "description": "Elin Mel sur Unsplash Avril est terminé, et il fut déjà le mois le plus chaud de l’année. Malgré la pluie et les inondations de cet hiver, nous sommes déjà en sécheresse sur une bonne partie du pays et notamment en Bretagne ! Malgré cette nouvelle démoralisante, je vous ai sélectionné des articles intéressants à tout point de vue. Les thèmes sont les mêmes depuis le début d’année, à savoir comment l’IA générative bouscule nos habitudes, la souveraineté de nos infrastructures et de nos données…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/banner.avif",
+      "type": "blog"
+    },
+    {
+      "id": "e792c3b1ca5b",
+      "title": "News Mai 2026, TypeScript 7 en beta, faux package TanStack et agent Cursor destructeur",
+      "description": "Nous évoquons TypeScript 7 qui débarque en beta, NPMX et son indicateur « You might not need this dependency », un agent Cursor qui détruit une base de prod en neuf secondes, le faux package TanStack qui volait les fichiers .env, Laravel qui glisse des publicités dans le contexte des agents IA, et quelques outils comme React Email 6, Starship ou Patterns.dev. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-mai26/",
+      "link": "https://double-slash.dev/podcasts/news-mai26/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778059761/episode/ART_131_yyi6wl.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_131_news-mai26.mp3",
+      "duration": "4165"
+    },
+    {
+      "id": "f99fa5aa996f",
+      "title": "Être développeur, c'est résoudre des problèmes, pas écrire du code",
+      "description": "Je constate que de plus en plus de développeurs s’interrogent sur leur avenir face à l’IA. Je ne parle pas de simplement s’inquiéter de la perte de leur emploi, mais une remise en question qui va jusqu’à changer de métier. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Ce n’est pas mon cas. Ce qui m’a toujours attiré, c’est de résoudre des problèmes, de réfléchir à une…",
+      "link": "https://www.jdecool.fr/blog/2026/05/06/etre-developpeur-c-est-resoudre-des-problemes-pas-ecrire-du-code.html",
+      "pubDate": "2026-05-05T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "93951d1fb522",
