@@ -118,6 +118,7 @@ for (let i = 1; i <= totalPages; i++) {
         var next = VIEW_MODES[nextIndex];
         applyViewMode(next);
         localStorage.setItem('flux-view-mode', next);
+        document.dispatchEvent(new CustomEvent('flux:view-mode-changed', { detail: { mode: next } }));
       };
     }
     
@@ -799,23 +800,33 @@ for (let i = 1; i <= totalPages; i++) {
 
     // Mark new articles (localStorage) - static cards only
     const LAST_VISIT_KEY = 'flux-last-visit';
-    const lastVisit = localStorage.getItem(LAST_VISIT_KEY);
-    if (lastVisit && browseMode) {
-      const cards = Array.from(browseMode.querySelectorAll('article'));
+
+    function applyUnreadDots() {
+      if (!browseMode) return;
+      if (!localStorage.getItem(LAST_VISIT_KEY)) return;
+      const cards = browseMode.querySelectorAll('article');
       cards.forEach((card) => {
         const id = card.getAttribute('data-article-id');
-        if (id && !localStorage.getItem(`flux-read-${id}`)) {
-          const titleEl = card.querySelector('h3');
-          if (titleEl) {
-            const dot = document.createElement('span');
-            dot.className = 'w-2 h-2 rounded-full accent-dot inline-block ml-1.5 flex-shrink-0';
-            dot.title = 'Non lu';
-            titleEl.classList.add('flex', 'items-start');
-            titleEl.appendChild(dot);
-          }
-        }
+        if (!id || localStorage.getItem(`flux-read-${id}`)) return;
+        const titleEl = card.querySelector('h3');
+        if (!titleEl) return;
+        if (titleEl.querySelector('.accent-dot')) return;
+        const dot = document.createElement('span');
+        dot.className = 'w-2 h-2 rounded-full accent-dot inline-block ml-1.5 flex-shrink-0';
+        dot.title = 'Non lu';
+        titleEl.classList.add('flex', 'items-start');
+        titleEl.appendChild(dot);
       });
     }
+
+    applyUnreadDots();
     localStorage.setItem(LAST_VISIT_KEY, new Date().toISOString());
+
+    document.addEventListener('flux:view-mode-changed', () => {
+      applyUnreadDots();
+      if (isFilterActive()) {
+        updateView();
+      }
+    });
   });
 </script>
