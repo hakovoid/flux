@@ -1,0 +1,411 @@
+{
+  "month": "2026-05",
+  "articles": [
+    {
+      "id": "a505eac8f113",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5JZQQtfzupvQaPZWeiyQJZ/77ed8a3e6c75c12b4a5a50b33b5ae8fd/seo-card-trusted-access.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fa002821b90d",
+      "title": "Parloa builds service agents customers want to talk to",
+      "description": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "link": "https://openai.com/index/parloa",
+      "pubDate": "2026-05-07T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/AIhmC19juXLrDyAbpWliE/19b7fce51de7054c14135288545c43aa/oai_Parloa_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "24a3c172de48",
+      "title": "Advancing voice intelligence with new models in the API",
+      "description": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "pubDate": "2026-05-07T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/CtzMayHtxIkcMPAo8BpqJ/966285cf3802995841337122190ec2fd/OAI_GPT-Realtime-2_Art_Card_16x9.png.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a6fcbba28838",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "description": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/717fkfVfad6sZoA19CqwrX/173d606c4088c58b077b6771ddaf8972/SEO-Trusted-Contact-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a04d57070e9b",
+      "title": "Simplex rethinks software development with Codex",
+      "description": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+      "link": "https://openai.com/index/simplex",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5fjNSHH89mLPBtQIWMnYeE/2324d64841e789e5b94269aa31170817/oai_simplex_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "24545504aa1e",
+      "title": "May 7, 2026PolicyFocus areas for The Anthropic Institute",
+      "description": "May 7, 2026PolicyFocus areas for The Anthropic Institute",
+      "link": "https://www.anthropic.com/research/anthropic-institute-agenda",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampPaper&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "04eef9e16814",
+      "title": "May 7, 2026AlignmentDonating our open-source alignment tool",
+      "description": "May 7, 2026AlignmentDonating our open-source alignment tool",
+      "link": "https://www.anthropic.com/research/donating-open-source-petri",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "2bbe148f9157",
+      "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "description": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/645f8c90db35a5d392c816a90c806b2904ccad21-1280x720.png",
+      "type": "blog"
+    },
+    {
+      "id": "463b01d5793b",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "pubDate": "2026-05-06T19:06:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/correctness-before-corrections.png",
+      "type": "blog"
+    },
+    {
+      "id": "54656a817730",
+      "title": "5 gardening tips you can try right in Search",
+      "description": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "pubDate": "2026-05-06T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01-Google_Gardening_Header.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "99b1170ac145",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "pubDate": "2026-05-06T10:43:49.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0001057cafdd",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/59y5qvmWpHUH174x36IAzJ/1b5a6e7411dff6705e0846ed642d099e/Futures-Cover.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "57a55fcb2055",
+      "title": "How frontier firms are pulling ahead",
+      "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "link": "https://openai.com/index/introducing-b2b-signals",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/nLjavCv9SqZk0i5Ds1h7B/d8a57a0d18bd16af4dac1f03ddb84c88/Frame3.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f9a6fe3e0b32",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "link": "https://openai.com/index/singular-bank",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1OnlxB4PvMkGuoGAOaSTHJ/e2a10ebfa7fe8b569d024323bcfca3dc/oai_SingularBank_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0ef58dbb67f9",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "link": "https://openai.com/index/uber",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/44fSkviPWfIhzSgGXp9dhg/ac7d107ec3203cd2c90db1e5b6b9fff9/oai_Uber_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9bcec59458e9",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "description": "",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-private-data/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "f53c308cf32b",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "description": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=fig",
+      "type": "blog"
+    },
+    {
+      "id": "0521b68e1d36",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "description": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "pubDate": "2026-05-05T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "819616a737a3",
+      "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
+      "description": "Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during NSDI ’26. The post Microsoft at NSDI 2026: Advances in large-scale networked systems appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+      "pubDate": "2026-05-05T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/NSDI2026-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a2a811b50a4c",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
+      "pubDate": "2026-05-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/NSCNpuBUrt6RGqH5vxTT5/424808cad42085d2f79adcb86566ae04/SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "01a8b52eee81",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "description": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "link": "https://openai.com/index/gpt-5-5-instant",
+      "pubDate": "2026-05-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/360kMX00WHnA5T0OV55dEf/72aedfc1c8d09cbc8662acd8af2e2afc/20250822.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3bbc92d9c76e",
+      "title": "GPT-5.5 Instant System Card",
+      "description": "",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "pubDate": "2026-05-05T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/Aj1UBJC1Kpt5IYhqrwOn4/0b039f2804579e9bbe42a67f8316a5c0/System_Card_16x9.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "08792e01b9a9",
+      "title": "New ways to buy ChatGPT ads",
+      "description": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "pubDate": "2026-05-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7BFuH170Tk8pxf9XMjXE48/253f0f50015a47b3a94a42c57c5bd3b9/SEO-ChatGPT-Ads.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8147e5470add",
+      "title": "Agents for financial services",
+      "description": "Agents for financial services",
+      "link": "https://www.anthropic.com/news/finance-agents",
+      "pubDate": "2026-05-05T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b843178b595",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "description": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "pubDate": "2026-05-04T21:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6hTu9A1Ohf6CQm1JAdKxxI/402fbd106edb5fa9d5eac590d23c2b24/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "728a4d52e0da",
+      "title": "The latest AI news we announced in April 2026",
+      "description": "Here are Google’s latest AI updates from April 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "pubDate": "2026-05-04T17:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d6e3ffe7d677",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "description": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "pubDate": "2026-05-04T15:30:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5c3d93bd7160",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "pubDate": "2026-05-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5LQivcsFcndtRl4EsbtnOC/c548a54b9bbe11c0b4d9de714f800b30/Voice_AI___SEO_card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ba2481e5e2dc",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "description": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "pubDate": "2026-05-04T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=cactus",
+      "type": "blog"
+    }
+  ]
+}

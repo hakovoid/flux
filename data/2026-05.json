@@ -2,6 +2,175 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "1d0018336ffd",
+      "title": "#330.exe - Souveraineté numérique: Sortir de l'ombre des GAFAM par Guillaume Lours",
+      "description": "Pour l'épisode #330 je recevais Damien Lecan. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-330-f4d95537c5b8",
+      "pubDate": "2026-05-08T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
+      "duration": "12:45"
+    },
+    {
+      "id": "8545460a5df6",
+      "title": "Every operating system concept in one video…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=MtxP2pyCvYA",
+      "pubDate": "2026-05-07T17:32:34.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ccbe49e0d14e",
+      "title": "LibreSpeed - Le test de vitesse à auto-héberger",
+      "description": "Speedtest.net c'est pratique, sauf que ça a été racheté par Accenture en 2026 et chaque test envoie votre IP, le nom de votre FAI et votre localisation à leurs serveurs... Alors pourquoi ne pas adopter LibreSpeed , l'alternative open source que vous hébergez chez vous, et qui ne contient aucun sans tracker ??? L'outil est signé Federico Dossena, ça a été lancé en 2016 et c'est sous licence LGPL v3. Et ce que ça mesure c'est la vitesse du download, de l'upload, le ping, le jitter , et ça relève…",
+      "link": "https://korben.info/librespeed-test-de-vitesse-auto-heberger.html",
+      "pubDate": "2026-05-07T11:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/librespeed-test-de-vitesse-auto-heberger/librespeed-test-de-vitesse-auto-heberger-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "58333f89db3a",
+      "title": "Reddit : le nouvel eldorado du marketing digital ?",
+      "description": "Reddit émerge comme une plateforme incontournable pour le marketing digital et les entreprises, grâce à sa richesse en contenu humain, expert et actuel. Les LLM apprécient ce lac de données, redéfinissant ainsi le paysage du SEO. Pour réussir, il est crucial d’adopter une approche authentique tout en respectant les codes culturels français. L’article Reddit : le nouvel eldorado du marketing digital ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/07/reddit-le-nouvel-eldorado-du-marketing-digital/",
+      "pubDate": "2026-05-07T11:18:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1778152313905.png",
+      "type": "blog"
+    },
+    {
+      "id": "1072cfa0a0e7",
+      "title": "Un hamster qui court dans une roue peut-il charger un téléphone ? Apparemment oui",
+      "description": "Le YouTubeur « Flamethrower » a documenté un projet aussi inutile que satisfaisant : utiliser un hamster comme source d'énergie pour charger son smartphone. e principe est simple sur le papier. Vous prenez un hamster, vous le mettez dans une roue, vous reliez la roue à un générateur, et au bout d'une nuit complète d'activité rongeuse, vous obtenez assez de jus pour démarrer la charge d'un téléphone. Pas pour finir la charge, hein. Juste pour la commencer.",
+      "link": "https://korben.info/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui.html",
+      "pubDate": "2026-05-07T09:26:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui/un-hamster-qui-court-dans-une-roue-peut-il-charger-un-telephone-apparemment-oui-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "71efc5d54c4a",
+      "title": "Au Royaume-Uni, les enfants contournent la vérification d'âge avec des fausses moustaches dessinées",
+      "description": "Le Royaume-Uni a mis en place via l'Online Safety Act un système de vérification d'âge obligatoire sur les plateformes accessibles aux mineurs, avec contrôles biométriques à la clé pour estimer l'âge à partir d'un selfie. Sur le papier, c'était la grande solution pour empêcher les ados d'accéder à TikTok, Instagram ou aux sites pour adultes. En pratique, c'est l'inverse : les enfants britanniques se passent les méthodes pour passer outre, et les méthodes en question sont parfois franchement…",
+      "link": "https://korben.info/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees.html",
+      "pubDate": "2026-05-07T08:39:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees/au-royaume-uni-les-enfants-contournent-la-verification-dage-avec-des-fausses-moustaches-dessinees-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a6191f32cbf1",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les gérer à l’extérieur. Le contexte derrière cette […] L’article Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes est apparu en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "6405ec34f124",
+      "title": "GridTV, le guide TV open source pour votre setup IPTV",
+      "description": "Bon, maintenant que vous avez vos chaînes IPTV qui tournent via Tunarr ou xTeVe, votre flux XMLTV est super propre. Mais il vous manque un seul truc : Un guide de programme potable. Hé bien GridTV développé par l'ami JohnnyBeGood est là pour ça ! GridTV c'est une interface web en PHP/JS/CSS qui transforme toute source XMLTV compatible en guide TV façon grille horizontale, avec l'indicateur \"maintenant\" visible en permanence, un barre de progression du programme en cours, et les émissions…",
+      "link": "https://korben.info/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv.html",
+      "pubDate": "2026-05-07T08:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv/gridtv-le-guide-tv-open-source-pour-votre-setup-iptv-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5c09497bd4a",
+      "title": "Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ?",
+      "description": "Pourquoi les études qui prévoient la fin de tel ou tel emploi « à cause » de l’IA finissent-elles toujours par se planter ? Alors que les prédictions catastrophistes sur l’emploi circulent comme autant de rumeurs médiatiquement séduisantes, ce papier de Thomas Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ? first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/pourquoi-les-etudes-qui-prevoient-la-de-lemploi-a-cause-de-lia-se-plantent-elles-toujours/",
+      "pubDate": "2026-05-07T07:53:32.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-09.52.07.png",
+      "type": "blog"
+    },
+    {
+      "id": "053659d09e27",
+      "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
+      "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
+      "link": "https://code-garage.com/blog/qu-est-ce-qu-un-adr-architecture-decision-record",
+      "pubDate": "2026-05-07T07:37:03.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/bruno_fernandes_a_Izs0_Pp_VXY_unsplash_25dea52ff8.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2c08d9d0f91d",
+      "title": "Surfshark sort Dausos : le protocole VPN qui pense enfin à vous",
+      "description": "-- Article en partenariat avec Surfshark VPN -- On connaît tous les grands noms des protocoles VPN : WireGuard, OpenVPN, IKEv2 (Surfshark VPN utilise les 3). Ce sont des bêtes solides, mais elles ont au départ été pondues pour des usages pro, avec des armées de serveurs en entreprise et des configs à rallonge. Puis on les a adaptés pour nous, les users lambda qui veulent juste binge-watcher une série sur Netflix ou checker ses mails sur le Wi-Fi crade du troquet du coin, sans se prendre la tête…",
+      "link": "https://korben.info/surfshark-sort-dausos.html",
+      "pubDate": "2026-05-07T07:25:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-sort-dausos/surfshark-sort-dausos-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5c0ffed1c14e",
       "title": "Docker Bake : une nouvelle manière de build nos images Docker",
       "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
@@ -16,6 +185,37 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e719f9ba03e",
+      "title": "Solo, vingt features, AGPL : deux mois à coder Maintenant avec Claude",
+      "description": "Le résultat avant l’histoire Maintenant, c’est un binaire Go de quelques mégaoctets qui tourne à 17 Mo de RAM en idle. Tu le drop dans un container, il auto-discover tes containers Docker, Swarm et Kubernetes, surveille tes endpoints HTTP et TCP, tes jobs cron via heartbeats, tes certificats TLS, les ressources de chaque service, détecte les images qui ont une mise à jour disponible, repère les configurations réseau dangereuses — ports DB exposés, bindings 0.0.0.0, containers privilégiés —…",
+      "link": "https://kolapsis.com/blog/maintenant-solo-claude/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": "https://kolapsis.com/img/og-kolapsis.png",
+      "type": "blog"
+    },
+    {
+      "id": "d995f51c0b9f",
+      "title": "🤖 Découverte d&#39;ADK Java de Google",
+      "description": "There is no spoon. ©The Oracle",
+      "link": "https://philippart-s.github.io/blog/2026-05-07-adk-java/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/2026-05-07-adk-java/cover.jpg",
       "type": "blog"
     },
     {
