@@ -2,6 +2,90 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f36c908e6fe5",
+      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+      "description": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic […] The post Building realistic electric transmission grid dataset at scale: a pipeline from open dataset…",
+      "link": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+      "pubDate": "2026-05-08T19:53:56.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/GridSage-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2754aaae10ff",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "description": "",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "pubDate": "2026-05-08T17:41:05.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b.png",
+      "type": "blog"
+    },
+    {
+      "id": "2eaaedaf0247",
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/emo",
+      "pubDate": "2026-05-08T16:03:50.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/zw0eFl6MyYg-hmcPSBfYw.png",
+      "type": "blog"
+    },
+    {
+      "id": "9d091522e5c0",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "description": "Today we're launching The Small Brief, an initiative bringing together three ad industry icons to champion a local businesses they love. Their mission is to build breakt…",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "pubDate": "2026-05-08T15:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Group_Icons_1x1.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "66be12207714",
+      "title": "Running Codex safely at OpenAI",
+      "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "link": "https://openai.com/index/running-codex-safely",
+      "pubDate": "2026-05-08T12:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6Z5UXg0cKSYxr2RGkNkMCl/3087a1569ea42e3aab6b3e4decd1b140/Frame4.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b86216cf8bfb",
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "description": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "2026-05-08T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knot&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "a505eac8f113",
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
@@ -153,6 +237,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ca7758ca2a2c",
+      "title": "How ChatGPT learns about the world while protecting privacy ",
+      "description": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+      "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "pubDate": "2026-05-06T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4ZzoLapknvX6owt0ydlQAk/15d5a9f42c0e671bb8f6e06459fce88e/how-chatgpt-protects-privacy-16_9.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
@@ -335,6 +433,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2de76809a598",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "description": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "link": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "pubDate": "2026-05-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/kN8xs5SYct3TOKgv94j1k/18e35564fc72b34c94196e6a353e2596/Frame__19_.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
