@@ -2,6 +2,37 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "2e009a142515",
+      "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
+      "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",
+      "link": "https://blog.seboss666.info/2026/05/varnish-9-et-le-tls-cool-et-avec-lets-encrypt/",
+      "pubDate": "2026-05-09T12:23:52.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2026/04/varnish-cache.png",
+      "type": "blog"
+    },
+    {
+      "id": "cafb85e64f9d",
+      "title": "Faire des requêtes CTE avec Doctrine ORM en PHP",
+      "description": "J’ai déjà évoqué sur ce blog que le développement “moderne” avec les ORM masque les fonctionnalités avancées des SGBD au point que dorénavant les développeurs ne maitrisent et ne connaissent guère plus que le classique SELECT ... FROM ... WHERE .... Dans les mécanismes méconnus et qui pourtant, pourrait permettre de soulager certains traitements applicatifs, on retrouve les CTE (Common Table Expressions). Voyons comment les utiliser avec Doctrine ORM en PHP. Commençons par expliquer ce qu’est…",
+      "link": "https://www.jdecool.fr/blog/2026/05/09/faire-des-requetes-cte-avec-doctrine-orm-en-php.html",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1c7f7d95a91f",
       "title": "Google Workspace CLI - Pour piloter tous les services Google avec votre IA",
       "description": "Justin Poehnelt, Senior Developer Relations Engineer chez Google, vient de balancer sur Github un outil en ligne de commande (CLI), codé en Rust qui permet de faire un truc trop pratique, à savoir piloter entièrement Workspace depuis le terminal. Ce logiciel nommé GWS est donc capable de gérer Gmail, Drive, Calendar, Sheets et sept autres services Google d'un coup. Et en plus, comme il a été conçu pour les agents IA, donc c'est pas juste pour vous et votre terminal !",

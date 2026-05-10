@@ -2,6 +2,20 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "720e95603af9",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "description": "",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "pubDate": "2026-05-09T18:09:28.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper.png",
+      "type": "blog"
+    },
+    {
       "id": "f36c908e6fe5",
       "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
       "description": "Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level power grid behavior is essential for modern power systems research. Analyses of congestion, transmission expansion, demand growth, and system resilience all depend on network models with realistic […] The post Building realistic electric transmission grid dataset at scale: a pipeline from open dataset…",
