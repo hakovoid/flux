@@ -2,6 +2,84 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4702e4633d55",
+      "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
+      "description": "J'sais pas si vous avez vu mais le Pentagone vient de balancer 161 documents OVNI déclassifiés sur ordre de ce bon vieux Trump ! Pete Hegseth, le secrétaire à la Défense (ou à la Guerre, j'sais plus comment on dit) a donc mis en ligne 119 PDFs, 28 vidéos et 14 images couvrant les années de 1948 à 2026. Et vous allez voir, c'est la déception scientifique du siècle ! J'ai été voir un peu de quoi il en retournait et c'est majoritairement flou et nul à chier. Les vidéos infrarouges montrent des…",
+      "link": "https://korben.info/ovnis-declassifies-pentagone-mai-2026.html",
+      "pubDate": "2026-05-10T18:45:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ovnis-declassifies-pentagone-mai-2026/ovnis-declassifies-pentagone-mai-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b2b51374975d",
+      "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
+      "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
+      "link": "https://lecodeestdanslepre.fr/billets/un-widget-tui-custom-trois-bugs-et-un-chat-degoute",
+      "pubDate": "2026-05-10T16:24:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "973509c7873c",
+      "title": "GitHub commit spoofing - Quand n'importe qui peut être Linus",
+      "description": "Vous avez confiance dans le nom qui est affiché à côté d'un commit GitHub ? Bah vous pouvez arrêter tout de suite car le chercheur Shani Lavi a documenté il y a quelques années ce que les devs Git sérieux savent depuis longtemps : N'importe qui peut publier un commit avec n'importe quelle identité, et bien sûr, on peut systématiquement compter sur GitHub pour lier ce commit au profil correspondant sans broncher.",
+      "link": "https://korben.info/github-commit-spoofing-tutoriel.html",
+      "pubDate": "2026-05-10T16:06:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/github-commit-spoofing-tutoriel/github-commit-spoofing-tutoriel-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea5e41198d90",
+      "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
+      "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
+      "link": "https://yoandev.co/mirage-productivite-ia",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/mirage-productivite-ia.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3cd1780a2e15",
+      "title": "Construire des Golden Images avec Packer sur Scaleway",
+      "description": "Pour mes expérimentations sur Tangled, je souhaitais tester l’auto-hébergement des knot et spindles dans des machines virtuelles (les explications arrivent dans un futur article). C’était donc l’occasion de rejouer un peu sur Scaleway, et avec Packer.",
+      "link": "https://codeka.io/2026/05/10/packer-scaleway/",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/10/packer-scaleway/cover_hu_bfba8d5cff808896.webp",
+      "type": "blog"
+    },
+    {
       "id": "2e009a142515",
       "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
       "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",

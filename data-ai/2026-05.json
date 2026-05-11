@@ -2,6 +2,34 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "0cfd73d98838",
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "description": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "pubDate": "2026-05-11T06:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7c90eb1585b8",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "description": "",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "pubDate": "2026-05-10T18:44:11.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/lablab-ai-amd-developer-hackathon/machinacheck.png",
+      "type": "blog"
+    },
+    {
       "id": "720e95603af9",
       "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
       "description": "",
