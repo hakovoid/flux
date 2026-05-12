@@ -2,6 +2,218 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "032dd932355b",
+      "title": "L'outil n'est pas la compétence",
+      "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Je passe aujourd’hui beaucoup plus de temps dans mon terminal et dans des éditeurs comme Zed ou VS Code. Les outils, tels que Claude Code, Codex ou…",
+      "link": "https://www.jdecool.fr/blog/2026/05/12/l-outil-n-est-pas-la-competence.html",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9c22d0aa558b",
+      "title": "Faire tourner des LLM gratuitement avec Ollama",
+      "description": "Découvrez comment faire fonctionner un grand modèle de langage localement avec Ollama. Apprenez à installer, à tirer un modèle et à l'intégrer dans votre application Symfony grâce à ce guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/faire-tourner-des-llm-gratuitement-avec-ollama",
+      "pubDate": "2026-05-11T19:22:30.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "548b1e86608c",
+      "title": "Robots chiens Unitree - La backdoor que personne ne corrige",
+      "description": "Si vous croisez un robot-chien Unitree dans un hall d'HLM, sur un parking, un chantier, ou en train de patrouiller dansv otre ville, faut que vous sachiez 2 trucs quand même : Un, n'importe qui peut le rooter en moins d'une minute avec son téléphone. Et de deux, le robot lui-même envoie en continu un flux chiffré vers un tunnel cloud opéré depuis la Chine. C'est en tout cas ce que Benn Jordan, musicien indépendant et chercheur amateur, vient de démontrer hier dans une enquête de 24 minutes qui…",
+      "link": "https://korben.info/unitree-robots-chiens-backdoor.html",
+      "pubDate": "2026-05-11T13:40:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/unitree-robots-chiens-backdoor/unitree-robots-chiens-backdoor-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a176a16f7a1c",
+      "title": "Les données de 120 000 adhérents LFI dans la nature",
+      "description": "Un hacker au pseudo \"fuzzeddffmepg\" a balancé sur un forum cybercriminel le 7 mai une base de données présentée comme provenant d'Action Populaire, le réseau militant numérique de la France Insoumise. Au programme : environ 120 000 adresses email uniques, 20 000 numéros de téléphone, et un paquet de données personnelles couvrant pratiquement neuf ans d'activité, de 2017 à 2026. Le contenu de la fuite est franchement gênant pour les adhérents. On y trouve les noms et prénoms des utilisateurs,…",
+      "link": "https://korben.info/les-donnees-de-120-000-adherents-lfi-dans-la-nature.html",
+      "pubDate": "2026-05-11T13:14:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/les-donnees-de-120-000-adherents-lfi-dans-la-nature/les-donnees-de-120-000-adherents-lfi-dans-la-nature-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "783f297d89e6",
+      "title": "TeePee : la solution no-code qui digitalise les processus métier des entreprises",
+      "description": "TeePee est une solution SaaS no-code développée à Lille, permettant aux entreprises de digitaliser efficacement leurs processus métier sans complexité technique. En centralisant les données et automatisant les opérations, elle s'adresse aux organisations de toutes tailles, notamment dans l'industrie et le BTP, avec un modèle tarifaire accessible. L’article TeePee : la solution no-code qui digitalise les processus métier des entreprises est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/11/teepee-la-solution-no-code-qui-digitalise-les-processus-metier-des-entreprises/",
+      "pubDate": "2026-05-11T12:51:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/media-gen-1778491166545-1024x595.png",
+      "type": "blog"
+    },
+    {
+      "id": "fe6072a7df4d",
+      "title": "myAudi permettaient de localiser un véhicule à partir de son code VIN",
+      "description": "Le numéro VIN de votre voiture est visible sur le bas du pare-brise et récupérable par n'importe qui qui passe à côté. Et croyez le ou non, mais c'est pourtant sur ce numéro, visible de tous, que repose en partie le modèle de sécurité de myAudi, l'application connectée pour contrôler son véhicule Audi à distance. Un chercheur qui se présente sous le pseudo Decoder a décidé de regarder ça de plus près. Son setup c'est un émulateur Android Pixel 7, Burp Suite en proxy pour intercepter le trafic…",
+      "link": "https://korben.info/myaudi-app-failles-securite.html",
+      "pubDate": "2026-05-11T11:49:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/myaudi-app-failles-securite/myaudi-app-failles-securite-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "73b9f7fe4a50",
+      "title": "JDownloader a diffusé des versions piégées, votre PC est peut-être compromis",
+      "description": "Entre le 6 et le 7 mai 2026, le site officiel jdownloader.org a été compromis et a servi pendant un peu plus d'une journée des installeurs piégés à la place des versions légitimes du célèbre gestionnaire de téléchargements. Concrètement, les liens alternatifs pour Windows et l'installateur shell pour Linux ont été remplacés par un loader qui déploie un RAT (Remote Access Trojan) écrit en Python sur la machine de la victime. Pour ceux qui ne connaissent pas, un RAT donne à l'attaquant un…",
+      "link": "https://korben.info/jdownloader-a-diffuse-des-versions-piegees-votre-pc-est-peut-etre-compromis.html",
+      "pubDate": "2026-05-11T10:58:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/jdownloader-a-diffuse-des-versions-piegees-votre-pc-est-peut-etre-compromis/jdownloader-a-diffuse-des-versions-piegees-votre-pc-est-peut-etre-compromis-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6442cfa6cbef",
+      "title": "Dusk - Zelda Twilight Princess en natif sur PC, Mac, Linux et mobile",
+      "description": "Plus de 4 000 commits, 5 ans de décompilation acharnée, et selon l'équipe ZeldaRET le plus gros projet de reverse-engineering jamais bouclé sur un jeu Nintendo. Voilà tout ce qu'il a fallu à la team Twilit Realm pour livrer Dusk, leur portage natif de Zelda Twilight Princess sur Windows, macOS, Linux, iOS et même Android. La sortie officielle a eu lieu samedi dernier, et le projet fait son petit effet dans la communauté retrogaming.",
+      "link": "https://korben.info/dusk-port-natif-zelda-twilight-princess.html",
+      "pubDate": "2026-05-11T09:09:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dusk-port-natif-zelda-twilight-princess/dusk-port-natif-zelda-twilight-princess-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "59fc52e4e579",
+      "title": "Spotify génère maintenant vos podcasts tout seul",
+      "description": "Spotify vient d'annoncer un truc intéressant je trouve, qui s'appelle les Personal Podcasts. Le principe c'est de demander absolument tout ce que vous voulez, par exemple un podcast sur un cours que vous venez de suivre, sur un bouquin, sur un article de Korben.info voire sur votre planning de la semaine, vos objectifs...etc etc... Peu importe... Spotify prend tout ça, et génère un épisode audio personnalisé raconté par une voix IA plus ou moins moche.",
+      "link": "https://korben.info/spotify-personal-podcasts-ia.html",
+      "pubDate": "2026-05-11T08:48:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/spotify-personal-podcasts-ia/spotify-personal-podcasts-ia-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "96aff29a17ab",
+      "title": "DATO Ares Q4 - Le SSD aimanté qui se colle partout",
+      "description": "Le truc cool avec un disque de backup, c'est quand vous arrêtez de le sortir du tiroir. Et c'est ce que permet de faire le DATO Ares Q4 (lien affilié) qui se trouve être aimanté et que je peux donc coller direct sur le côté de mon Mac Studio . Je l'ai depuis bientôt un an, et c'est devenu mon disque de Time Machine à résidence. Il est trop mignon parce qu'il est tout petit, puisqu'il mesure 64 par 64 mm, 12 mm d'épaisseur, et 40 grammes, soit à peine plus gros qu'un bloc de petits Post-it, sauf…",
+      "link": "https://korben.info/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup.html",
+      "pubDate": "2026-05-11T08:09:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup/dato-ares-q4-ssd-externe-4to-usb4-magnetique-backup-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a7178f275540",
+      "title": "Llama.cpp, SGLang, vLLM : quel framework d'inférence LLM choisir pour votre assistant de code ?",
+      "description": "Étude d’une architecture auto-hébergée (LiteLLM + vLLM/SGLang/llama.cpp) sur GPUs H100/L40S avec le modèle Devstral-Small-2-24B. Tests jusqu’à 200 utilisateurs via llm-grill, notre outil d'évaluation open source.",
+      "link": "https://blog.octo.com/llama.cpp-sglang-vllm--quel-framework-d'inference-llm-choisir-pour-votre-assistant-de-code",
+      "pubDate": "2026-05-11T07:40:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "029e83e5aafe",
+      "title": "Étude LinkedIn : qu’est-ce qui marche encore en 2026 ?",
+      "description": "Une étude de Social Insider analyse 1,3 million de posts LinkedIn et révèle que l'engagement global augmente, surtout via les documents natifs. Pourtant, les vues de vidéos chutent de 36 %, et la croissance des abonnés ralentit, car les utilisateurs se tournent vers d'autres plateformes pour partager leur expertise. LinkedIn, malgré ses forces de ciblage, montre des signes de saturation. L’article Étude LinkedIn : qu’est-ce qui marche encore en 2026 ? est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/11/etude-linkedin-quest-ce-qui-marche-encore-en-2026/",
+      "pubDate": "2026-05-11T07:37:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/etude-linkedin-2026.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4a43f4bfd86b",
+      "title": "Devoxx 2026",
+      "description": "L'édition 2026 du Devoxx décrypte les avancées majeures de l'IA sur l'ingénierie logicielle, des architectures multi-agents à l'informatique quantique et aux stratégies pour maintenir la qualité du code.",
+      "link": "https://blog.ippon.fr/2026/05/11/devoxx-2026/",
+      "pubDate": "2026-05-11T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
+      "id": "ef6c5175c730",
+      "title": "Les couleurs en CSS : 4 fonctionnalités pour des thèmes vivants et adaptatifs",
+      "description": "Découvrez comment CSS prend en charge nativement la gestion des couleurs et des thèmes, sans préprocesseur ni JavaScript.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025-part3",
+      "pubDate": "2026-05-11T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/dev/nouveautes-css-2025/thumbnail-part3.jpg/0d67d5a59eb57d499b8a62e79cd00770.jpg",
+      "type": "blog"
+    },
+    {
       "id": "4702e4633d55",
       "title": "Documents OVNI déclassifiés - 161 fichiers et zéro preuve",
       "description": "J'sais pas si vous avez vu mais le Pentagone vient de balancer 161 documents OVNI déclassifiés sur ordre de ce bon vieux Trump ! Pete Hegseth, le secrétaire à la Défense (ou à la Guerre, j'sais plus comment on dit) a donc mis en ligne 119 PDFs, 28 vidéos et 14 images couvrant les années de 1948 à 2026. Et vous allez voir, c'est la déception scientifique du siècle ! J'ai été voir un peu de quoi il en retournait et c'est majoritairement flou et nul à chier. Les vidéos infrarouges montrent des…",
@@ -108,6 +320,21 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "58b046afebc9",
+      "title": "Le message",
+      "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-message/\n",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_126:Le%20message,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_126:Le%20message,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -434,6 +661,21 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/2026-05-07-adk-java/cover.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c6d362052711",
+      "title": "Pas le temps",
+      "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
+      "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/\n",
+      "pubDate": "2026-05-06T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_124:Pas%20le%20temps,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_124:Pas%20le%20temps,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {

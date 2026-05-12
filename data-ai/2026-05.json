@@ -2,6 +2,76 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "7c1a813822f7",
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "description": "",
+      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "pubDate": "2026-05-11T23:18:26.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64d6b270c2eedf9af82baa23/YybsyZaGr5f0fLe0qDuLn.png",
+      "type": "blog"
+    },
+    {
+      "id": "2c83aa3580f3",
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+      "description": "Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize for user interest. The post SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "pubDate": "2026-05-11T17:19:28.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/SocialReasoningBench-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6262633bf728",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "description": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "pubDate": "2026-05-11T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7GIoPsn9eWXhOmzzp56Goz/256ab35e40510baf8bdd870c944688fd/research_analysis_share_image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2a6999bc8c1a",
+      "title": "How enterprises are scaling AI",
+      "description": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "pubDate": "2026-05-11T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/33wbWUELa8LqPj0SZWOxeL/86a395af69191bb11da7342b92a803d9/How_enterprises_are_scaling_AI.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5d49356f591b",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "description": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "pubDate": "2026-05-11T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7jgfj0ck26uG4g1nrzrA0Q/66561482da84669067710304a720a960/OpenAI_Campus_Network-_Student_club_interest_form.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "0cfd73d98838",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "description": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
@@ -13,6 +83,20 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e7455462824d",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "link": "https://openai.com/index/openai-launches-the-deployment-company",
+      "pubDate": "2026-05-11T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/31rjlet3neWRz6pY1AzuTd/b48667a68f2e86d0fa1f7a890060bbbe/Frame__7_.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
