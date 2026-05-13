@@ -128,6 +128,20 @@
       "type": "blog"
     },
     {
+      "id": "4747a5a76215",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "description": "Google DeepMind is transforming the mouse pointer into a context-aware AI partner. Move beyond the friction of traditional prompting with intuitive AI collaboration in Chrome and beyond.",
+      "link": "https://deepmind.google/blog/ai-pointer/",
+      "pubDate": "2026-03-29T10:50:49.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "16594c97bd60",
       "title": "STADLER reshapes knowledge work at a 230-year-old company",
       "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",

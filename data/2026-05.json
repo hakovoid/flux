@@ -2,6 +2,269 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "24cb40e4360e",
+      "title": "UnDUNE II - Dune II en entier dans 12 cartouches PICO-8",
+      "description": "UnDUNE II , c'est Dune II qui tient en entier dans une PICO-8 , cette fameuse \"fantasy console\" dont je vous ai déjà parlé. Ça a donc pris près de trois ans de boulot pour Paul Nicholas (alias Liquidream) afin de faire tenir le RTS culte de Westwood Studios dans 128x128 pixels et 16 couleurs. 3 factions, 21 unités, 19 bâtiments, neuf missions, et oui, c'est jouable depuis le navigateur. Et si vous préférez faire tourner le binaire en local, des versions Windows, macOS, Linux et même Raspberry…",
+      "link": "https://korben.info/undune2-demake-dune-ii-pico-8.html",
+      "pubDate": "2026-05-13T05:57:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/undune2-demake-dune-ii-pico-8/undune2-demake-dune-ii-pico-8-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "35041c9bc45b",
+      "title": "#356.src - La force de la conférence: Pourquoi les devs ont besoin de se retrouver IRL avec Julien Landuré",
+      "description": "\"Notre métier est profondément ancré dans une culture de transmission, de personne à personne.\" Le D.E.V. de la semaine est Julien Landuré, CTO chez TechTown. Organisateur engagé de conférences comme le DevFest Nantes, il nous explique pourquoi la culture tech adore se retrouver en chair et en os, même à l'heure du replay permanent. Julien partage son regard de bâtisseur d'agora moderne, parle modèle économique et inclusivité, et insiste sur l'importance du collectif. On découvre les coulisses…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-356-e93b537c95bb",
+      "pubDate": "2026-05-13T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f4d9b2bd-548b-4d48-acc3-b352e1c39292.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ea2e1295-c58f-4ca6-b83f-e93b537c95bb.mp3?_=1778587371",
+      "duration": "53:16"
+    },
+    {
+      "id": "f255e23fe762",
+      "title": "Operation Epic Furious - Trump envahit l'Iran en pixel art",
+      "description": "J'sais pas si vous avez vu passer ça, mais vous pouvez désormais déclencher la guerre Iran-USA directement depuis votre navigateur, tout ça en pixel art, en incarnant ce bon vieux Donald Trump. C'est gratuit, accessible sur epicfurious.com , et c'est signé The Secret Handshake , le collectif anonyme déjà responsable des statues Trump-Epstein qui poppent et disparaissent un peu partout. Le jeu s'appelle Operation Epic Furious : Strait to Hell, et il a en fait deux vies. D'abord, une version…",
+      "link": "https://korben.info/epic-furious-jeu-rpg-trump-iran.html",
+      "pubDate": "2026-05-12T21:00:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/epic-furious-jeu-rpg-trump-iran/epic-furious-jeu-rpg-trump-iran-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b3f1d7332de3",
+      "title": "CrowdSec : la défense réseau communautaire expliquée",
+      "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
+      "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
+      "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "abbe95788360",
+      "title": "Ratty, l'émulateur de terminal qui affiche de la 3D directement dans la ligne de commande",
+      "description": "Orhun Parmaksız, l'un des principaux mainteneurs de Ratatui (une bibliothèque Rust très utilisée pour créer des interfaces texte dans le terminal), vient de sortir un projet qui sort vraiment des clous. Ça s'appelle Ratty, c'est donc un émulateur de terminal capable d'afficher des objets 3D, des sprites animés et des modèles complets en plein milieu de votre ligne de commande. Sur le papier, ça paraît absurde. Un terminal sert à taper des commandes et lire du texte. Sauf que Parmaksız s'est…",
+      "link": "https://korben.info/ratty-lemulateur-de-terminal-qui-affiche-de-la-3d-directement-dans-la-ligne-de-commande.html",
+      "pubDate": "2026-05-12T15:28:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ratty-lemulateur-de-terminal-qui-affiche-de-la-3d-directement-dans-la-ligne-de-commande/ratty-lemulateur-de-terminal-qui-affiche-de-la-3d-directement-dans-la-ligne-de-commande-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9f7c96855b07",
+      "title": "Le Fisher Price Pixter ressuscité",
+      "description": "Le Fisher Price Pixter, ce jouet éducatif à écran tactile que Mattel vendait entre 2000 et 2002, vient de se faire passer au scanner par Dmitry Grinberg . Alors ce truc n’est pas le truc le plus répandu qui soit, surtout par chez nous, mais on en a trouvé quand même quelques uns à l’époque, et si ça se trouve vous en avez eu un. C’est un appareil cartouches que les gosses utilisaient pour dessiner et écouter de la musique. Personne ne l'avait jamais documenté correctement. Aucune doc…",
+      "link": "https://korben.info/le-fisher-price-pixter-ressuscite.html",
+      "pubDate": "2026-05-12T14:34:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/le-fisher-price-pixter-ressuscite/le-fisher-price-pixter-ressuscite-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eaa4962a08ea",
+      "title": "Google neutralise la première cyber-attaque massive générée par une IA",
+      "description": "Google a balancé l'info via son équipe cyberdéfense, le GTIG (Google Threat Intelligence Group). Des cybercriminels ont utilisé une IA générative pour dénicher et écrire un code d'attaque exploitant une faille inconnue (ce qu'on appelle un zero-day, une vulnérabilité que l'éditeur du logiciel n'a pas encore corrigée). Et ils s'apprêtaient à lancer une vague d'attaques massives. C'est, d'après Google, la première fois qu'on observe ça dans la vraie vie, pas en labo.",
+      "link": "https://korben.info/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia.html",
+      "pubDate": "2026-05-12T13:49:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia/google-neutralise-la-premiere-cyber-attaque-massive-generee-par-une-ia-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a393df1df19b",
+      "title": "Vos câbles fibre optique peuvent servir à vous espionner, et ça marche très bien",
+      "description": "Une fibre optique de télécom standard, celle qui passe peut-être à quelques mètres de votre bureau en ce moment, peut être transformée en microphone à distance. C'est ce qu'ont démontré des chercheurs à la conférence NDSS 2026, le rendez-vous annuel de la sécurité réseau qui s'est tenu à San Diego. Leur démo est carrément flippante. Pas de matériel posé sur place, pas de signal radio détectable, et une qualité audio largement suffisante pour transcrire ce qu'on dit dans une pièce.",
+      "link": "https://korben.info/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien.html",
+      "pubDate": "2026-05-12T13:08:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien/vos-cables-fibre-optique-peuvent-servir-a-vous-espionner-et-ca-marche-tres-bien-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4e2eb40572b4",
+      "title": "Comment intégrer l'IA dans son workflow UX/UI",
+      "description": "\"On a déjà deux agents IA qui tournent en interne.\" Ce n'est pas en réunion que j'ai entendu ça. C'est en mission chez un client, dans leurs bureaux. Ce genre de phrase, je l'entends de plus en plus souvent maintenant, entre deux écrans, dans les couloirs, pendant la pause déjeuner. L'IA fait désormais partie du quotidien. Quelques semaines plus tard, un autre client nous présente deux pages de maquettes générées par Claude, structure de page et premières intentions de contenu, pour expliquer…",
+      "link": "https://jolicode.com/blog/comment-integrer-l-ia-dans-son-workflow-ux-ui",
+      "pubDate": "2026-05-12T10:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/workflow-ia-ux-ui/article-ai-design-01.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a31ac8160fc1",
+      "title": "Plus de confort de lecture sur Korben",
+      "description": "Je viens de pousser en prod une fonctionnalité sur laquelle je bosse depuis quelques temps et comme je suis content du résultat, c'est le moment de partager ça avec vous. En haut à gauche du site, juste à côté de l'icône qui change le thème, vous trouverez un petit bouton \"abc\" qui jusqu'à présent ne servait qu'à appliquer une police spéciale dyslexique à mon contenu. Mais j'ai amélioré un peu tout ça pour que maintenant niveau \"Confort de lecture\" vous soyez refait !",
+      "link": "https://korben.info/accessibilite-confort-lecture-dyslexie.html",
+      "pubDate": "2026-05-12T10:14:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/accessibilite-confort-lecture-dyslexie/accessibilite-confort-lecture-dyslexie-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "90b21435647f",
+      "title": "Test de CKE, le Kubernetes managé chez Clever Cloud (partie 1)",
+      "description": "La suite de ma saga avec Clever Cloud Ça fait maintenant quelques années que je teste les produits de Clever Cloud sur ce blog. En 2022, j’avais testé le Clever Kubernetes Operator, qui permet de provisionner des services managés (MySQL, Redis, Pulsar…) directement depuis un cluster Kubernetes via des CRDs. En 2025, j’ai réessayé leur offre d’hébergement de sites statiques, et j’ai même poussé le délire jusqu’à déployer un control plane Kubernetes sur leurs apps Linux, pour rigoler en attendant…",
+      "link": "https://blog.zwindler.fr/2026/05/12/test-cke-kubernetes-manage-clever-cloud-partie-1/",
+      "pubDate": "2026-05-12T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/logo-cke2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9da943f69d43",
+      "title": "La tech est-elle vraiment neutre? ",
+      "description": "🌐🏛️ La tech est-elle vraiment neutre, ou masque-t-elle une idéologie politique conçue pour modeler le monde à son image ? 🚀 Dans ce nouvel épisode de A La French, on s'attaque aux mythes fondateurs de la Silicon Valley et on déconstruit la gouvernance d'Internet avec nos deux invités du Centre Internet et Société du CNRS : Francesca Musiani et Olivier Alexandre. Le constat est sans appel : loin des discours d'émancipation et des licornes idylliques , la technologie s'impose de plus en plus…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a02e8c4b443364556418651",
+      "pubDate": "2026-05-12T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1778576024058-31960869-3330-4d40-a1fd-0d7958b72a1b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a02e8c4b443364556418651/media.mp3",
+      "duration": "1:31:33"
+    },
+    {
+      "id": "ef0115611a53",
+      "title": "Termix - L'alternative open source et gratuite à Termius",
+      "description": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateur depuis n'importe quelle machine et retrouver tous ses serveurs, fichiers et tunnels au même endroit... Et Termius fait ça très bien, sauf que la fonctionnalité la plus utile, à savoir la synchro entre appareils, c'est payant !",
+      "link": "https://korben.info/termix-lalternative-open-source-et-gratuite-a-termius.html",
+      "pubDate": "2026-05-12T08:24:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/termix-lalternative-open-source-et-gratuite-a-termius/termix-lalternative-open-source-et-gratuite-a-termius-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3af91f510146",
+      "title": "Des faux installateurs Claude Code se baladent dans Google",
+      "description": "Des faux installateurs Claude Code se baladent dans Google Les chercheurs d'Ontinue, une boîte de cybersécurité, ont publié une analyse d'une campagne de vol de données qui vise directement les développeurs. La méthode est en fait assez simple. Vous tapez \"install claude code\" dans Google, vous cliquez, plein d'innocence, sur le premier résultat sponsorisé, et là vous tombez sur une page qui ressemble trait pour trait à la doc officielle d'Anthropic. Sauf que le serveur derrière n'a rien à…",
+      "link": "https://korben.info/des-faux-installateurs-claude-code-se-baladent-dans-google.html",
+      "pubDate": "2026-05-12T08:09:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/des-faux-installateurs-claude-code-se-baladent-dans-google/des-faux-installateurs-claude-code-se-baladent-dans-google-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8037d33570bf",
+      "title": "Taggez vos photos avec de l'IA en local",
+      "description": "Tagger des milliers de photos à la main, c'est le genre de corvée qu'on remet tous à plus tard depuis des années. Mais c'était sans compter sur photo-folder-tagger de Laurent Voillot qui règle ça grâce à 6 modes IA spécialisés, le tout en local, sans envoyer une seule image dans le cloud. Vous faites pointer l'outil sur un dossier, vous choisissez le mode IA correspondant à vos photos, et hop, des fichiers XMP annexes sont générés à côté de chaque cliché. Ces fichiers contiennent les tags et…",
+      "link": "https://korben.info/photo-folder-tagger.html",
+      "pubDate": "2026-05-12T08:08:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/photo-folder-tagger/photo-folder-tagger-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4fe0cb37a381",
+      "title": "pstop - Le vrai htop natif pour Windows",
+      "description": "Y'a des gens trop habitués à Linux, qui tapent htop par réflexe alors que sous Windows, la commande ne fait rien. Pour que ça fonctionne, faut installer WSL, configurer un sous-système Linux entier, et tout ça juste pour surveiller quelques processus... C'est un peu overkill comme on dit. Mais heureusement, pstop arrive pour corriger ça ! Pstop est un moniteur système TUI pour Windows PowerShell, écrit en Rust, qui pèse ~1 Mo et qui tourne nativement sur Windows 10 et 11 sans aucune dépendance !",
+      "link": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows.html",
+      "pubDate": "2026-05-12T07:49:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pstop-le-vrai-htop-natif-pour-windows/pstop-le-vrai-htop-natif-pour-windows-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "3ff391e24f5f",
+      "title": "Comment faire tourner une IA en local: outils, modèles et configuration matérielle",
+      "description": "Le prix des tokens ne cesse de monter et la protection des données devient de plus en plus importante. Alors, pourquoi ne pas faire tourner un modèle d'IA directement sur votre machine, en local ? Dans cet épisode, nous vous expliquons comment procéder, quel modèle choisir en fonction de la puissance de votre machine, et quels logiciels utiliser. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/ia-local/",
+      "link": "https://double-slash.dev/podcasts/ia-local/",
+      "pubDate": "2026-05-12T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778599560/episode/ART_132_kg8gzh.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_132_ia-local.mp3",
+      "duration": "2129"
+    },
+    {
       "id": "032dd932355b",
       "title": "L'outil n'est pas la compétence",
       "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas dépendre entièrement d'une plateforme tierce. Je passe aujourd’hui beaucoup plus de temps dans mon terminal et dans des éditeurs comme Zed ou VS Code. Les outils, tels que Claude Code, Codex ou…",
@@ -14,6 +277,22 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "32303d5fd426",
+      "title": "Mise + Krew : vos plugins kubectl en mode déclaratif",
+      "description": "Comment Mise arrive à résoudre les problèmes de Krew et du tooling interne des équipes SRE en général",
+      "link": "https://une-tasse-de.cafe/expresso/mise-krew/",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://une-tasse-de.cafe/expresso/mise-krew/cover.png",
       "type": "blog"
     },
     {
