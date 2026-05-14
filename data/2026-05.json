@@ -2,6 +2,174 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b6ed3bcc3042",
+      "title": "Unitree lance son robot mecha à 500 000 dollars",
+      "description": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabricant chinois déjà connu pour ses chiens-robots quadrupèdes, passe au stade de la production en série pour son engin transformable. Le robot pèse 500 kilos avec son pilote à bord, soit clairement plus qu'un quad de loisir. Sa particularité, et c'est là qu'on bascule dans le délire…",
+      "link": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars.html",
+      "pubDate": "2026-05-13T14:40:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/unitree-lance-son-robot-mecha-a-500-000-dollars/unitree-lance-son-robot-mecha-a-500-000-dollars-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "141fd2689411",
+      "title": "Valve a planqué un Wilhelm Scream dans le nouveau Steam Controller",
+      "description": "Un utilisateur de Reddit a découvert cette semaine que le nouveau Steam Controller de Valve, vendu 100 euros en pré-commande sur le site de Steam, contient un easter egg complètement absurde : si vous lâchez la manette en mode Big Picture (l'interface plein écran de Steam, pensée pour être affichée sur une télé), elle pousse un Wilhelm Scream. Pour ceux qui n'auraient jamais entendu ce nom, le Wilhelm Scream est un cri d'agonie enregistré en 1951 pour le film Distant Drums, et samplé depuis…",
+      "link": "https://korben.info/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller.html",
+      "pubDate": "2026-05-13T14:23:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller/valve-a-planque-un-wilhelm-scream-dans-le-nouveau-steam-controller-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c9927a1b690c",
+      "title": "De l'orchestrateur labyrinthe au facilitateur de projet : Retour sur le meetup Airflow 3.2",
+      "description": "Retour sur le meetup Apache Airflow 3.2 organisé par Astronomer et Ippon Technologies à Paris : Partition Keys pour propager le contexte entre DAGs, Async @task pour paralléliser les micro-tâches, et un REX concret sur l'industrialisation d'Airflow à grande échelle.",
+      "link": "https://blog.ippon.fr/2026/05/13/meetup-apache-airflow-3-2-nouveautes-rex/",
+      "pubDate": "2026-05-13T13:08:35.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Airflow-image.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8a5434cb2a1e",
+      "title": "L'IA ou le syndrome de l'Imposteur Augmenté",
+      "description": "Les outils d’IA générative transforment en profondeur notre rapport à l’expertise. Leur capacité à simuler une intelligence, une créativité, voire une intentionnalité, pose une question vertigineuse : et si ces technologies, conçues pour nous assister, finissaient par nous convaincre que nous sommes nous-mêmes des imposteurs ?",
+      "link": "https://blog.octo.com/l'ia-ou-le-syndrome-de-l'imposteur-augmente",
+      "pubDate": "2026-05-13T12:54:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0af96d71b104",
+      "title": "OpenZFS 2.4.2 sort avec le support du noyau Linux 7.0",
+      "description": "OpenZFS 2.4.2 est sortie ce 12 mai, et c'est une mise à jour qu'attendaient pas mal de gens qui font tourner du Linux 7.0 (le tout dernier noyau Linux stable). OpenZFS, pour ceux qui ne suivent pas, c'est le portage libre du célèbre système de fichiers ZFS originellement développé par Sun Microsystems, et désormais maintenu par une communauté autour de FreeBSD et Linux. ZFS, en gros, c'est ce qui permet de gérer des pools de disques de plusieurs téraoctets avec snapshots, compression,…",
+      "link": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0.html",
+      "pubDate": "2026-05-13T12:15:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0/openzfs-2-4-2-sort-avec-le-support-du-noyau-linux-7-0-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7dce0cf0b738",
+      "title": "Il essaye de réparer une GoPro Hero 10, et c'est l'enfer",
+      "description": "Hugh Jeffreys , le YouTuber australien qui démonte tout ce qu'il trouve, s'est attaqué cette fois à une GoPro Hero 10 achetée 100 dollars avec un message d'erreur \"no camera input\". Traduction : la caméra ne reçoit plus l'image du capteur. Sur Hackaday , le récit complet est savoureux pour qui aime la réparation board-level (la réparation au niveau de la carte, avec fer à souder et microscope, plutôt que le simple swap de pièces).",
+      "link": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer.html",
+      "pubDate": "2026-05-13T11:45:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer/il-essaye-de-reparer-une-gopro-hero-10-et-cest-lenfer-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e74d1b9ec1e",
+      "title": "Magic Pointer, le pointeur de souris pensé par Google DeepMind",
+      "description": "Du côté de Google DeepMind, on s'amuse à réinventer le pointeur de souris. Le projet s'appelle Magic Pointer, c'est un pointeur piloté par Gemini (le modèle d'IA maison de Google) qui comprend ce que vous désignez à l'écran. L'idée est simple. Vous survolez un élément (un tableau, une image, un PDF, une recette), vous tapez ou dites ce que vous voulez en faire, et Gemini exécute en tenant compte du contexte visuel précis.",
+      "link": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind.html",
+      "pubDate": "2026-05-13T11:18:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind/magic-pointer-le-pointeur-de-souris-pense-par-google-deepmind-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "034b107240e6",
+      "title": "Des utilisateurs Google Cloud facturés des milliers de dollars par erreur",
+      "description": "Un truc franchement rageant remonte du côté de chez Google Cloud, et c'est The Register qui a mené l'enquête. Plusieurs développeurs ont vu leur facture Google Cloud exploser entre 3000 et 10000 dollars en quelques minutes, pour des services qu'ils n'ont jamais utilisés : génération vidéo Veo 3, tokens du modèle Gemini, le tout via leurs clés API Maps. Et le pire, c'est qu'ils avaient suivi à la lettre les recommandations officielles de Google.",
+      "link": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur.html",
+      "pubDate": "2026-05-13T10:57:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur/des-utilisateurs-google-cloud-factures-des-milliers-de-dollars-par-erreur-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0916ab351bff",
+      "title": "Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture",
+      "description": "Un article efficace combine contenu de qualité et mise en forme soignée pour captiver les lecteurs. Les pratiques de présentation, comme l'utilisation de titres clairs, de listes et d'espaces suffisants, améliorent la lisibilité et soutiennent le référencement. Ainsi, une bonne forme maximise l'engagement des visiteurs sur une page. L’article Mise en forme SEO : comment structurer vos contenus pour maximiser la lecture est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/13/mise-en-forme-seo-comment-structurer-vos-contenus-pour-maximiser-la-lecture/",
+      "pubDate": "2026-05-13T09:06:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/ux-redaction-article.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "587b111203f7",
+      "title": "8 To de données de Foxconn volées",
+      "description": "Le gang ransomware Nitrogen a balancé Foxconn sur son site de fuite avec 8 To de données et 11 millions de fichiers volés, selon The Register. Schémas hardware, instructions d'assemblage, topologies de datacenters côté client. Et comme Foxconn assemble une bonne partie de ce que vous avez dans votre poche ou sur votre bureau (iPhones pour Apple, GPU pour Nvidia, serveurs pour Google, machines pour Intel et Dell), la liste des marques potentiellement exposées fait peur.",
+      "link": "https://korben.info/8-to-de-donnees-de-foxconn-volees.html",
+      "pubDate": "2026-05-13T07:56:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/8-to-de-donnees-de-foxconn-volees/8-to-de-donnees-de-foxconn-volees-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c1c0c989512e",
+      "title": "TinyStories sur Game Boy Color - Le LLM le plus lent du monde",
+      "description": "La bidouilleuse Maddie Dreese a réussi un sacré exploit les amis ! Elle a fait tourner un vrai modèle IA sur une Game Boy Color tout ce qu'il y a de plus basique.. Pas besoin de PC ni d'appels à un service tiers en ligne, mais simplement avec un peu de code qu'elle a mis sur une cartouche. Le modèle qu'elle utilise s'appelle TinyStories-260K , et c'est un mini-LLM signé Andrej Karpathy (l'ex-Tesla et OpenAI), conçu à l'origine pour générer des petites histoires pour gamins.",
+      "link": "https://korben.info/transformer-game-boy-color.html",
+      "pubDate": "2026-05-13T07:44:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/transformer-game-boy-color/transformer-game-boy-color-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "24cb40e4360e",
       "title": "UnDUNE II - Dune II en entier dans 12 cartouches PICO-8",
       "description": "UnDUNE II , c'est Dune II qui tient en entier dans une PICO-8 , cette fameuse \"fantasy console\" dont je vous ai déjà parlé. Ça a donc pris près de trois ans de boulot pour Paul Nicholas (alias Liquidream) afin de faire tenir le RTS culte de Westwood Studios dans 128x128 pixels et 16 couleurs. 3 factions, 21 unités, 19 bâtiments, neuf missions, et oui, c'est jouable depuis le navigateur. Et si vous préférez faire tourner le binaire en local, des versions Windows, macOS, Linux et même Raspberry…",

@@ -2,6 +2,76 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c757d3c304dc",
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "description": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations. The post mimalloc: A new, high-performance, scalable…",
+      "link": "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/",
+      "pubDate": "2026-05-13T17:19:59.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Mimalloc-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f86ff75c12fa",
+      "title": "GridSFM: A new, small foundation model for the electric grid",
+      "description": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct visibility into congestion, stability, and system health. The post GridSFM: A new, small foundation model for the electric grid appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
+      "pubDate": "2026-05-13T16:00:20.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/GridSFM-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4a3442a5ca8c",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "description": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "link": "https://openai.com/index/building-codex-windows-sandbox",
+      "pubDate": "2026-05-13T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4YUb3Fcl0pX59NNvNBcorz/9d6800e02d977fbde37a34cbc48a49e3/SEO_images.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8939013f174d",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
+      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "pubDate": "2026-05-13T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5sVkleeWkpnumrq0G1UkIW/138a18ce1af4678fc72e12fe691f3ad8/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b205cd86d4ec",
+      "title": "Introducing Claude for Small Business",
+      "description": "Introducing Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "pubDate": "2026-05-13T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ce943383d658",
       "title": "How finance teams use Codex",
       "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
