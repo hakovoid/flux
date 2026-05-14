@@ -11,10 +11,10 @@
     "fetch-feeds": "tsx --env-file-if-exists=.env scripts/fetch-feeds.ts"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.15",
-    "@astrojs/sitemap": "^3.7.0",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/sitemap": "^3.7.2",
     "@tailwindcss/vite": "^4.2.1",
-    "astro": "^5.17.1",
+    "astro": "^6.3.2",
     "fuse.js": "^7.1.0",
     "rss-parser": "^3.13.0",
     "tailwindcss": "^4.2.1",
