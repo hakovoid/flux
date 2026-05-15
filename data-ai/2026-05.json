@@ -2,6 +2,104 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "326607290d21",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "description": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "link": "https://openai.com/index/sea-david-chen",
+      "pubDate": "2026-05-14T20:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "071ef486161e",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "pubDate": "2026-05-14T18:55:01.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ibm-granite/granite-embedding-multilingual-r2.png",
+      "type": "blog"
+    },
+    {
+      "id": "18f13afbd690",
+      "title": "Work with Codex from anywhere",
+      "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere",
+      "pubDate": "2026-05-14T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4i08f39LTE7HOZ0R3EKaKA/74f6008bbde015cfef96a14209f7673b/16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a1312e54bd28",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1dJ8mhpIbtQbsP5wzMfoRe/a1bd2866bd1b5afb6b3e9d4bda5a42c2/SEO_Safety.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "86a2f2277989",
+      "title": "Unlocking asynchronicity in continuous batching",
+      "description": "",
+      "link": "https://huggingface.co/blog/continuous_async",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/continuous_async/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6f6970b3018",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "description": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0dd9fed146f7",
+      "title": "May 14, 2026Policy2028: Two scenarios for global AI leadership",
+      "description": "May 14, 2026Policy2028: Two scenarios for global AI leadership",
+      "link": "https://www.anthropic.com/research/2028-ai-leadership",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c757d3c304dc",
       "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
       "description": "mimalloc is an open-source, modern, scalable memory allocator that is a drop-in replacement for malloc and free. It is relatively small (~12K lines), with clear internal data structures, and is easy to build and integrate into other projects. It provides bounded worst-case allocation times (up to OS primitives), bounded space overhead, low internal fragmentation, and minimal contention by relying almost exclusively on atomic operations. The post mimalloc: A new, high-performance, scalable…",

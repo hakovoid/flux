@@ -2,6 +2,129 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b2261206a8e5",
+      "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
+      "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-340-a6eb0ca89ce1",
+      "pubDate": "2026-05-15T03:00:08.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ce3ee159-9758-4960-af2e-a6eb0ca89ce1.mp3?_=1778760128",
+      "duration": "12:32"
+    },
+    {
+      "id": "f81f5010f4ac",
+      "title": "EasyAdmin : son premier CrudController",
+      "description": "Découvrez comment bien utiliser le CrudController d'EasyAdmin pour gérer vos entités Symfony de manière propre et efficace. Apprenez à générer un CrudController adapté à votre entité RedirectRule, tout en évitant les pièges liés au mélange de configuration et de logique métier.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-son-premier-crudcontroller",
+      "pubDate": "2026-05-14T18:41:22.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d72d461e3278",
+      "title": "A single PR just hijacked the NPM registry...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=gwTQLZSIlsU",
+      "pubDate": "2026-05-14T17:39:11.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f54964a2a763",
+      "title": "Pour activer ce nouveau pilote graphique libre, il faut littéralement réclamer un pilote cassé",
+      "description": "Je ne vous apprends rien, un GPU, c'est la puce qui calcule l'image que vous voyez à l'écran. Pour qu'elle fonctionne, il lui faut un pilote, le logiciel qui fait le lien entre le matériel et le système d'exploitation. Sur les puces Arm Mali, qu'on retrouve dans des tas de smartphones et de cartes type Raspberry Pi, Arm ne fournit pas de pilote libre. Du coup une bande de développeurs a monté Panfrost, un pilote libre reconstruit en grande partie par reverse-engineering, c'est-à-dire en…",
+      "link": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse.html",
+      "pubDate": "2026-05-14T15:01:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse/pour-activer-ce-nouveau-pilote-graphique-libre-il-faut-litteralement-reclamer-un-pilote-casse-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ea78dd7218c5",
+      "title": "Un capteur LiDAR matriciel pour donner la vue en relief à un petit robot",
+      "description": "Le LiDAR, c'est cette techno qui mesure des distances en envoyant des impulsions laser et en chronométrant leur retour, un peu comme un sonar, mais avec de la lumière. On en entend parler surtout pour les voitures autonomes ou les robots aspirateurs. Mellow Labs , une chaîne qui bidouille du hardware, s'est procuré un capteur LiDAR un peu particulier : un modèle matriciel. C'est-à-dire un capteur qui ne mesure pas une seule distance droit devant lui, mais toute une grille de points d'un coup.",
+      "link": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot.html",
+      "pubDate": "2026-05-14T14:30:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot/un-capteur-lidar-matriciel-pour-donner-la-vue-en-relief-a-un-petit-robot-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a8c56789c8fe",
+      "title": "Ces fléchettes incendiaires géantes du XVIe siècle viennent enfin d'être testées",
+      "description": "La Mary Rose, c'était le navire de guerre préféré d'Henri VIII. Il a coulé en 1545 au large de Portsmouth, son épave a été retrouvée en 1971 puis remontée en 1982, et depuis, tout ce qu'elle contenait fascine les historiens. Parmi les objets sortis de la coque, il y avait des armes assez mystérieuses : d'énormes fléchettes qui semblaient conçues pour transporter une charge incendiaire. Personne ne savait vraiment comment elles fonctionnaient. Tod's Workshop, une chaîne YouTube spécialisée dans…",
+      "link": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees.html",
+      "pubDate": "2026-05-14T14:12:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees/ces-flechettes-incendiaires-geantes-du-xvie-siecle-viennent-enfin-detre-testees-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd27cdc4c5bf",
+      "title": "Saracroche - L'app qui bloque le démarchage téléphonique",
+      "description": "J'sais pas vous, mais en ce moment, moi ça n'arrête pas ! De quoi je parle ? Hé bien des putains d'appels commerciaux / arnaques que je reçois sur mon téléphone. C'est simple, je ne décroche plus aucun numéro que je ne connais pas. Je crois qu'on peut tous dire collectivement qu'on en peut plus. Et c'est aussi le cas de Camille Bouvat, un développeur toulousain qui en a eu tellement marre qu'il a pondu Saracroche , une app gratuite et open source qui bloque environ 90% du démarchage…",
+      "link": "https://korben.info/saracroche-bloqueur-appels-indesirables.html",
+      "pubDate": "2026-05-14T07:51:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/saracroche-bloqueur-appels-indesirables/saracroche-bloqueur-appels-indesirables-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f899158c787a",
+      "title": "Ma stack IA pour développer des produits sans me ruiner",
+      "description": "Est-ce qu'on peut bâtir une app avec l'IA pour 20€/mois ? Voici un retour terrain pour optimiser ces usages : optimisation de tokens, specs et workflow agentique.",
+      "link": "https://eventuallycoding.com/p/ma-stack-ia-pour-developper-des-produits-sans-me-ruiner",
+      "pubDate": "2026-05-14T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1778777417711-qfyj55a.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b6ed3bcc3042",
       "title": "Unitree lance son robot mecha à 500 000 dollars",
       "description": "500 000 dollars. C'est le prix d'entrée annoncé pour le GD01 d'Unitree, un robot mecha de 2,7 mètres de haut que vous pouvez littéralement piloter depuis son torse, façon Pacific Rim version chinoise. Unitree, le fabricant chinois déjà connu pour ses chiens-robots quadrupèdes, passe au stade de la production en série pour son engin transformable. Le robot pèse 500 kilos avec son pilote à bord, soit clairement plus qu'un quad de loisir. Sa particularité, et c'est là qu'on bascule dans le délire…",
@@ -223,6 +346,21 @@
       "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
       "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
       "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a515f04fdd83",
+      "title": "PHP 8.6 : ce qui est acté, ce qui se joue encore",
+      "description": "Découvrez l'état d'avancement de PHP 8.6 à mi-parcours vers sa GA fin 2026. Sept RFCs implémentées, cinq acceptées, et des sujets clés comme les generics au centre des discussions.",
+      "link": "https://lecodeestdanslepre.fr/billets/php-8-6-ce-qui-est-dans-le-pot-ce-qui-se-joue-encore",
+      "pubDate": "2026-05-12T19:05:12.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
