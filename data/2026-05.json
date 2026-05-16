@@ -2,6 +2,173 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "43d3633ecb8e",
+      "title": "L'intelligence artificielle et le paradoxe de l'expérience",
+      "description": "Contrairement aux dynamiques économiques habituelles, l'intelligence artificielle semble progressivement inverser la logique traditionnelle de création de valeur : ce ne sont plus nécessairement les profils les plus juniors qui sont valorisés, mais les plus expérimentés.",
+      "link": "https://blog.octo.com/octo-article-de-blog-21",
+      "pubDate": "2026-05-15T20:09:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bb413d4e00d7",
+      "title": "I can’t believe this trial is real...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=3tbB2dffx0s",
+      "pubDate": "2026-05-15T18:51:21.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7d94ef3ef1fa",
+      "title": "Mythos, l'IA d'Anthropic, aide à percer le kernel d'un Mac M5 en cinq jours",
+      "description": "Cinq jours. C'est le temps qu'il a fallu à l'équipe de Calif, une boîte de sécurité informatique, pour faire tourner un exploit fonctionnel sur un Mac équipé de la dernière puce M5 d'Apple. Et pas n'importe quel exploit : c'est la toute première démonstration publique de contournement de MIE, la grande nouveauté sécurité d'Apple sur cette puce. MIE, c'est pour Memory Integrity Enforcement, c'est une protection câblée directement dans le silicium du M5. L'objectif est simple : empêcher qu'un…",
+      "link": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours.html",
+      "pubDate": "2026-05-15T16:45:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ea7085415452",
+      "title": "Wikipedia File Explorer - L'encyclopédie en mode Windows XP",
+      "description": "Wikipedia, vous connaissez ça par cœur j'imagine... Hé bien vous allez redécouvrir la plus connue des encyclopédies grâce à Sami Smith qui a lancé explorer.samismith.com , qui transforme quasiment toute l'encyclopédie en fenêtres d'explorateur de fichiers Windows XP. Les catégories sont présentées comme des dossiers, les articles s'ouvrent dans une fenêtre façon WordPad, et le menu Démarrer est là, fidèle à l'original. Vous double-cliquez sur l'icône Wikipedia du bureau, et vous tombez sur les…",
+      "link": "https://korben.info/wikipedia-explorer-samismith.html",
+      "pubDate": "2026-05-15T13:24:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wikipedia-explorer-samismith/wikipedia-explorer-samismith-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "62ab8abdf5d1",
+      "title": "Rocky - Le pote alien de Projet Dernière Chance débarque sur Raspberry Pi",
+      "description": "J'sais pas si vous avez vu le film ou lu le livre mais Rocky, c'est l'araignée de roche extraterrestre de Projet Dernière Chance (Project Hail Mary) qui communique en chantant. Et Lahiru Maramba, un dev Firebase en poste chez Google, vient de le recréer en vrai avec un Raspberry Pi Zero 2W et un LLM local. Et voilà comme avoir un vrai pote Eridien posé sur votre bureau, qui vous répond en accords polyphoniques au lieu de parler.",
+      "link": "https://korben.info/rocky-lahirumaramba.html",
+      "pubDate": "2026-05-15T12:52:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rocky-lahirumaramba/rocky-lahirumaramba-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d7f699a3e240",
+      "title": "Une faille présente depuis 18 ans découverte dans nginx, le serveur qui fait tourner un tiers du web",
+      "description": "Nginx, c'est ce logiciel discret qui sert les pages d'environ un site populaire sur trois sur la planète. Quand vous chargez une page web, il y a une bonne chance que ce soit lui qui vous l'envoie. La société DepthFirst AI, spécialisée dans la recherche de failles assistée par intelligence artificielle, vient d'y trouver un trou de sécurité, et il est plutôt balèze : présent dans le code depuis 2008. Soit environ 18 ans de service sans que personne ne le remarque.",
+      "link": "https://korben.info/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web.html",
+      "pubDate": "2026-05-15T08:54:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web/une-faille-presente-depuis-18-ans-decouverte-dans-nginx-le-serveur-qui-fait-tourner-un-tiers-du-web-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "12f9a3b28ad4",
+      "title": "Une faille permet d'ouvrir un disque BitLocker avec quelques fichiers sur une clé USB",
+      "description": "BitLocker, c'est le système de chiffrement intégré à Windows qui protège vos disques contre quelqu'un qui mettrait la main sur votre machine. Activé par défaut sur Windows 11 et installé sur des millions d'ordinateurs, il est censé garantir que sans votre mot de passe ou votre code de récupération, personne ne lit ce qu'il y a dessus. Sauf qu'un chercheur en sécurité, Chaotic Eclipse, vient de publier une démonstration qui réduit cette promesse en miettes.",
+      "link": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb.html",
+      "pubDate": "2026-05-15T07:46:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb/une-faille-permet-douvrir-un-disque-bitlocker-avec-quelques-fichiers-sur-une-cle-usb-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3fdbc3252192",
+      "title": "TUIStudio - Pour désigner vos applications terminal",
+      "description": "Vous avez déjà essayé de dessiner une TUI (Interface utilisateur pour le Terminal) à la main dans votre IDE ? Genre, calculer les paddings d'une Box ANSI à la mano et compter les caractères Unicode pour aligner trois colonnes ? Pffff quelle galère !! Hé bien cette mauvaise expérience, Javier Alonso Gómez, Staff Design Technologist chez Docker, vient de la transformer en simple drag-and-drop avec son outil TUIStudio . En gros, c'est comme Figma mais pour vos applis terminal.",
+      "link": "https://korben.info/tuistudio-figma-applications-terminal.html",
+      "pubDate": "2026-05-15T07:35:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tuistudio-figma-applications-terminal/tuistudio-figma-applications-terminal-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b32eb8f9c73f",
+      "title": "Fragnesia - Une nouvelle faille Linux dans la lignée de Dirty Frag",
+      "description": "Bon, accrochez vous les amis, car ça enchaine sec sur le kernel Linux en ce moment... Le chercheur William Bowling de l'équipe V12 security vient de lâcher Fragnesia (CVE-2026-46300, CVSS 7.8), un nouvel exploit kernel Linux qui permet d'obtenir un accès root sur toutes les distros majeures, et ce, 8 jours seulement après le patch de Dirty Frag. Et la mauvaise nouvelle, en fait, c'est que Fragnesia tape dans la même surface d'attaque que Dirty Frag , mais via un bug logique différent qui n'est…",
+      "link": "https://korben.info/fragnesia.html",
+      "pubDate": "2026-05-15T07:33:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fragnesia/fragnesia-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4ef3b9f5b2f2",
+      "title": "Mullvad - Votre clé WireGuard vous trahit malgré le VPN",
+      "description": "Je me sors 5 min de mon weekend en amoureux les amis, pour avertir ceux parmi vous qui sont des utilisateurs de Mullvad, peu importe que vous soyez sur macOS, Windows ou un Linux Ubuntu/Debian... Si vous jonglez entre les serveurs en pensant brouiller votre piste, j'ai une mauvaise nouvelle pour vous. Tmctmt vient de publier une analyse qui montre que vos IPs de sortie sont beaucoup moins aléatoires qu'on ne l'imagine. En fait, votre clé WireGuard agit comme une empreinte qui survit aux…",
+      "link": "https://korben.info/mullvad-exit-ips-fingerprint.html",
+      "pubDate": "2026-05-15T07:19:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/mullvad-exit-ips-fingerprint/mullvad-exit-ips-fingerprint-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cbd17699f19",
+      "title": "Il retrouve 400 000 $ de Bitcoin oubliés depuis 11 ans grâce à Claude",
+      "description": "L'histoire est partie d'un changement de mot de passe fait pendant une cuite en 2014. Onze ans plus tard, le malheureux (\" cprkrn \" sur X) avait toujours ses 5 bitcoins coincés dans un portefeuille numérique dont la clé d'accès s'était totalement évaporée de sa mémoire. À l'époque, ça valait quelques milliers de dollars. Aujourd'hui, c'est environ 400 000 $. De quoi avoir un peu mal au cœur. Pour récupérer un portefeuille Bitcoin chiffré, il existe des outils comme btcrecover, un logiciel libre…",
+      "link": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude.html",
+      "pubDate": "2026-05-15T07:18:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude/il-retrouve-400-000-de-bitcoin-oublies-depuis-11-ans-grace-a-claude-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b2261206a8e5",
       "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
       "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
