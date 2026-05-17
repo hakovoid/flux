@@ -2,6 +2,81 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "d80ed80be5ad",
+      "title": "Le guide SEO IA de Google - Les hacks GEO, c'est du flan",
+      "description": "Si vous avez payé une agence pour \"optimiser votre site pour l'IA\" ces derniers mois, asseyez-vous bien confortablement car Google a publié son guide officiel sur le sujet, et le résumé tient en une phrase, le SEO pour l'IA c'est du SEO. Voilà... Tout ce qui est hacks GEO, c'est direction la poubelle en tout cas pour Google ! Le doc est sorti le 15 mai sur Search Central, et il met les pieds dans le plat direct. Google y explique que ses fonctionnalités IA, les AI Overviews (les fameux résumés…",
+      "link": "https://korben.info/google-guide-optimisation-ia.html",
+      "pubDate": "2026-05-17T05:38:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-guide-optimisation-ia/google-guide-optimisation-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8f27cab0c04e",
+      "title": "Arnaque au bot crypto IA - Comment ils vident votre wallet",
+      "description": "Je me baladais sur les réseaux sociaux (ouais, c'est pas bien, je sais) quand je suis tombé sur un post X en reco avec un tuto Youtube où un mec explique comment gagner un petit peu d'ethers chaque jour. Évidemment, je flaire l'arnaque parce que dans la vie y'a que 3 façons de devenir riche : 1/ Monter sa boite 2/ Être né dans une famille déjà fortunée 3/ Ou se faire adopter par un vieux riche sans enfant afin de faire une magnifique captation d'héritage.",
+      "link": "https://korben.info/arnaque-bot-crypto-ia-ethereum.html",
+      "pubDate": "2026-05-16T09:55:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arnaque-bot-crypto-ia-ethereum/arnaque-bot-crypto-ia-ethereum-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "bbe59109b12c",
+      "title": "La folle histoire de la 3DO Blaster, ressuscitée dans un musée",
+      "description": "En 1994, Creative Labs, le fabricant des fameuses cartes son Sound Blaster, a sorti un truc complètement fou : la 3DO Blaster, une carte ISA (le format d'extension standard des PC de l'époque) qui contenait littéralement une console 3DO entière, prête à être greffée dans un PC 386 ou 486. Tous les composants graphiques et audio de la machine y étaient embarqués. Le PC servait juste d'écran et de boîtier. Le prix à l'époque : 399,95 dollars, soit exactement le tarif d'une vraie console 3DO chez…",
+      "link": "https://korben.info/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee.html",
+      "pubDate": "2026-05-16T09:25:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee/la-folle-histoire-de-la-3do-blaster-ressuscitee-dans-un-musee-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "389a531fb896",
+      "title": "Ne jetez pas votre vieux PC : le noyau Linux s'apprête à booster ses performances en jeu",
+      "description": "Sur un PC, l'ordonnanceur du système (le scheduler en anglais), c'est ce petit bout du noyau qui décide quelle tâche tourne sur quel cœur du processeur, et pendant combien de temps. Plus il est malin, plus la machine est fluide. Peter Zijlstra, l'un des développeurs historiques du noyau Linux, vient de proposer un patch baptisé \"sched: Flatten the pick\" qui réorganise la façon dont l'ordonnanceur attribue les priorités. Et les résultats sur le gaming, surtout sur du vieux matériel, sont…",
+      "link": "https://korben.info/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu.html",
+      "pubDate": "2026-05-16T09:01:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu/ne-jetez-pas-votre-vieux-pc-le-noyau-linux-sapprete-a-booster-ses-performances-en-jeu-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f72297318e00",
+      "title": "GitLike - Le GitHub décentralisé sur IPFS",
+      "description": "Branislav Đalić, un dev serbe basé à Belgrade, vient de balancer un projet plutôt original baptisé GitLike . Il s'agit d'un GitHub décentralisé qui stocke vos repos sur IPFS et remplace le mot de passe par votre clé Ethereum (votre wallet quoi...). Vous connectez votre wallet via SIWE (le standard EIP-4361, signature dans MetaMask ou WalletConnect), vous créez un repo, et hop, chaque commit, chaque fichier, chaque arbre devient un objet IPFS adressé par son CID. Tout pareil que Git côté usage,…",
+      "link": "https://korben.info/gitlike-github-decentralise-ipfs.html",
+      "pubDate": "2026-05-16T07:42:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/gitlike-github-decentralise-ipfs/gitlike-github-decentralise-ipfs-1.png",
+      "type": "blog"
+    },
+    {
       "id": "43d3633ecb8e",
       "title": "L'intelligence artificielle et le paradoxe de l'expérience",
       "description": "Contrairement aux dynamiques économiques habituelles, l'intelligence artificielle semble progressivement inverser la logique traditionnelle de création de valeur : ce ne sont plus nécessairement les profils les plus juniors qui sont valorisés, mais les plus expérimentés.",
@@ -46,6 +121,21 @@
         "Web"
       ],
       "image": "https://korben.info/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours/mythos-lia-danthropic-aide-a-percer-le-kernel-dun-mac-m5-en-cinq-jours-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "127c9d7f8295",
+      "title": "Symfony Scheduler en prod : j'ai attendu d'avoir Redis pour migrer, et j'ai bien fait",
+      "description": "Symfony Scheduler sans worker Messenger ni Redis n'est qu'un cron déguisé. Découvrez les trois briques à avoir sous la main avant #[AsSchedule] et cinq jobs qui tournent aujourd'hui sur ce site.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-scheduler-en-prod-j-ai-attendu-d-avoir-redis-pour-migrer-et-j-ai-bien-fait",
+      "pubDate": "2026-05-15T15:35:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
