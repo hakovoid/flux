@@ -2,6 +2,173 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f08bbddfaa05",
+      "title": "Asimov - Le robot humanoïde open source jusqu'à la dernière vis",
+      "description": "\"Free the robot\" !!! C'est le slogan de Menlo Research, et pour une fois c'est pas du flan. En effet, leur Asimov v1 est un humanoïde de 1,20 m et 35 kg, entièrement open source ! Tout est fourni gratuitement donc, les plans de la mécanique, les schémas électriques, le modèle de simulation, ainsi que le code embarqué. Vous avez donc la CAO complète, la nomenclature des pièces, le modèle MuJoCo pour simuler avant même de souder, et le firmware. Ensuite, y'a 2 façons de l'avoir : Soit le kit DIY…",
+      "link": "https://korben.info/asimov-robot-humanoide-open-source.html",
+      "pubDate": "2026-05-18T07:24:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/asimov-robot-humanoide-open-source/asimov-robot-humanoide-open-source-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "330b2ceb2590",
+      "title": "Veilid - Tor pour les apps signé Cult of the Dead Cow",
+      "description": "Cult of the Dead Cow , un des plus vieux collectifs hacktivistes encore en activité, ne se contente pas que de balancer des manifestes politiques depuis 1984. Ils codent. Et leur dernier bébé en date s'appelle Veilid , et c'est un framework P2P qui veut faire à vos apps ce que Tor a fait à votre navigateur. Histoire de vous expliquer, vous prenez Veilid, vous l'intégrez dans votre app mobile ou web, et d'un coup tout votre trafic passe par un réseau pair-à-pair (P2P) chiffré de bout en bout.…",
+      "link": "https://korben.info/veilid-framework-p2p.html",
+      "pubDate": "2026-05-18T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/veilid-framework-p2p/veilid-framework-p2p-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "af4da8f23fac",
+      "title": "Liens Tech - Mai 2026",
+      "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
+      "link": "https://domopi.eu/liens-tech-mai-2026/",
+      "pubDate": "2026-05-18T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "25b17a738962",
+      "title": "Qu'est-ce qu'un token JWT ?",
+      "description": "Est-ce que le contenu d'un JWT est chiffré ? Est-ce qu'il est public ? Comment est-il sécurisé ? On répond à toutes vos questions dans cet épisode ! Notes de l'épisode : SecretPDF : https://www.secretpdf.io/",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Quest-ce-quun-token-JWT-e3jg9gg",
+      "pubDate": "2026-05-18T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120120272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F40dc8338-7bd3-d3bc-7b88-8a2333cd4bc3.mp3",
+      "duration": "00:10:50"
+    },
+    {
+      "id": "dc92fc4324ad",
+      "title": "Utiliser PHP avec Airflow",
+      "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en PHP, je me suis demandé s’il était possible d’y faire tourner des scripts PHP. 🇻🇬 This blog post is also available in English. En parcourant la documentation d’Airflow, on peut se rendre compte que…",
+      "link": "https://www.jdecool.fr/blog/2026/05/18/utiliser-php-avec-airflow.html",
+      "pubDate": "2026-05-17T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/blog/20260518-utiliser-php-avec-airflow/og.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b18b03322ba0",
+      "title": "Utiliser npm link pour tester un module localement",
+      "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
+      "link": "https://code-garage.com/blog/utiliser-npm-link-pour-tester-un-module-localement",
+      "pubDate": "2026-05-17T16:18:20.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/bas_van_den_eijkhof_a_Jf_Ou_We_Nzko_unsplash_fa60b1506d.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd591ca783af",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Découvrez comment Symfony 8.1 modernise les Commandes Console avec les value resolvers Doctrine côté console, comme #[MapEntity], pour plus de confort et de performances.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller",
+      "pubDate": "2026-05-17T13:22:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3421b21cc412",
+      "title": "Donner une conference tech : les coulisses ",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/donner-une-conference-tech-les-coulisses-03139ca832ae?source=rss-c730ddf97658------2",
+      "pubDate": "2026-05-17T10:54:28.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "78deea30dcfe",
+      "title": "Des cartes perforées imprimées en 3D et lues par une webcam, parfait pour stocker vos mots de passe à vie",
+      "description": "Les cartes perforées, c'est le truc qu'on associe à l'informatique de grand papa. Des bouts de carton avec des trous dedans qui servaient à programmer les ordinateurs des années 1960. Personne n'aurait l'idée d'en utiliser aujourd'hui. Sauf Bitroller , un bidouilleur qui a eu une autre idée : et si on imprimait des cartes perforées en 3D, qu'on les laissait dans un coffre, et qu'on les relisait avec une simple webcam ?",
+      "link": "https://korben.info/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie.html",
+      "pubDate": "2026-05-17T09:47:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie/des-cartes-perforees-imprimees-en-3d-et-lues-par-une-webcam-parfait-pour-stocker-vos-mots-de-passe-a-vie-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0d7f5f4f4ca5",
+      "title": "Il fait tourner Windows CE sur une Nintendo 64, et ça marche pour de vrai",
+      "description": "Un développeur connu sous le pseudo ThroatyMumbo a réussi à porter Windows CE 2.11, un Windows allégé que Microsoft avait sorti à la fin des années 90 pour les petits assistants personnels et certains routeurs, sur une vraie console Nintendo 64 On ne parle pas d'un émulateur ici, mais bien d'une N64 qui démarre sur un vrai bureau Windows, avec sa barre des tâches, son explorateur de fichiers et la possibilité de lancer des programmes CE.",
+      "link": "https://korben.info/il-fait-tourner-windows-ce-sur-une-nintendo-64-et-ca-marche-pour-de-vrai.html",
+      "pubDate": "2026-05-17T09:35:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-fait-tourner-windows-ce-sur-une-nintendo-64-et-ca-marche-pour-de-vrai/il-fait-tourner-windows-ce-sur-une-nintendo-64-et-ca-marche-pour-de-vrai-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5684f3051de9",
+      "title": "Notchi - Une mascotte pixel-art dans l'encoche pour Claude Code",
+      "description": "Vous vous souvenez de l'encoche des MacBook Pro et autres Air d'Apple ? Mais siiii, celle qu'on avait tous trouvée bien moche en 2022, au point que je vous avais pondu un article entier pour la faire disparaître ! Hé bien 4 ans plus tard, sk-ruban a décidé de lui donner une vraie utilité avec notchi qui transforme proprement cette encoche maudite en un compagnon fait de pixel-art et d'amour qui réagit en temps réel à votre Claude Code.",
+      "link": "https://korben.info/notchi-encoche-macbook-claude-code.html",
+      "pubDate": "2026-05-17T07:26:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/notchi-encoche-macbook-claude-code/notchi-encoche-macbook-claude-code-1.png",
+      "type": "blog"
+    },
+    {
       "id": "d80ed80be5ad",
       "title": "Le guide SEO IA de Google - Les hacks GEO, c'est du flan",
       "description": "Si vous avez payé une agence pour \"optimiser votre site pour l'IA\" ces derniers mois, asseyez-vous bien confortablement car Google a publié son guide officiel sur le sujet, et le résumé tient en une phrase, le SEO pour l'IA c'est du SEO. Voilà... Tout ce qui est hacks GEO, c'est direction la poubelle en tout cas pour Google ! Le doc est sorti le 15 mai sur Search Central, et il met les pieds dans le plat direct. Google y explique que ses fonctionnalités IA, les AI Overviews (les fameux résumés…",
@@ -14,6 +181,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-guide-optimisation-ia/google-guide-optimisation-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cbba0ec633d",
+      "title": "FrankenPHP en prod : un binaire, quatre sous-domaines, un seul worker",
+      "description": "Découvrez FrankenPHP, le binaire qui remplace Nginx et PHP-FPM tout en servant plusieurs sous-domaines depuis un seul process. Avec Caddy et Symfony en tant que reverse proxy et application respectively.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-prod-un-binaire-quatre-sous-domaines-un-seul-worker",
+      "pubDate": "2026-05-16T13:14:47.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
