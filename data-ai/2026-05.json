@@ -2,6 +2,76 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "fc4ec187a092",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "pubDate": "2026-05-18T16:00:21.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation.png",
+      "type": "blog"
+    },
+    {
+      "id": "0e90042cc61f",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "description": "",
+      "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "pubDate": "2026-05-18T15:12:46.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/Bl-qDWU9OfuXZ06hNxZE7.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ed2acf02cfe7",
+      "title": "The Open Agent Leaderboard",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "pubDate": "2026-05-18T14:12:58.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/5fc0292de45c5468456e022b/CpwVutMu5EiniBliQ9RXs.png",
+      "type": "blog"
+    },
+    {
+      "id": "6f1209c6c0e0",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "description": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "pubDate": "2026-05-18T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5Vi44l4igoSqwDNd61kcp1/b54c8eba46a2c6ca722c3ec6b8e75498/16_9_Partnerships_Template.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7708d4e1b824",
+      "title": "Anthropic acquires Stainless",
+      "description": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
       "id": "20383a0947db",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",

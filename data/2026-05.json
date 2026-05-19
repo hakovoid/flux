@@ -2,6 +2,295 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c93acdca9c5d",
+      "title": "Ibou Explorer - L'anti-Google Discover français",
+      "description": "Y'a un nouveau projet français qui débarque face à Google, et celui-là va vous plaire, j'en suis sûr ! Ça s'appelle Ibou Explorer, et c'est porté par Sylvain Peyronnet (oui, un des deux frères du SEO français bien connus dans le milieu) et Guillaume Pitel. Leur site vient d'ouvrir en beta publique et pour vous résumer ça rapidement, disons que c'est un équivalent direct de Google Discover, mais en mieux évidement !! Et c'est surtout la première brique d'un ensemble plus large qui inclura à…",
+      "link": "https://korben.info/ibou-peyronnet-moteur-recherche-ia-francais.html",
+      "pubDate": "2026-05-19T06:56:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ibou-peyronnet-moteur-recherche-ia-francais/ibou-peyronnet-moteur-recherche-ia-francais-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e300872f4ffe",
+      "title": "GEO vs SEO en 2026 : Google remet les points sur les i.",
+      "description": "Beaucoup d'entreprises se posent la question de savoir comment être visible dans les moteurs de recherche IA. Cet article est destiné à faire le point sur l'état des lieux dans ce domaine et est fait pour démystifier certaines recommandations qui courent sur le web. L’article GEO vs SEO en 2026 : Google remet les points sur les i. est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/19/geo-vs-seo-en-2026-google-remet-les-points-sur-les-i/",
+      "pubDate": "2026-05-19T06:53:38.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/mise-au-point-google-blog.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "070f3c025856",
+      "title": "AudioHijack - Le son inaudible qui pirate votre assistant IA",
+      "description": "Meng Chen, doctorant à l'université Zhejiang, vient de prouver avec son équipe qu'on pouvait complétement détourner un assistant vocal IA avec un simple son que vous prendriez probablement pour un simple parasite. Avec sa bidouille, il a ainsi réussi à pousser les agents vocaux commerciaux de Microsoft et de Mistral à exécuter des actions que personne ne leur avait demandées. Gloups ! L'attaque s'appelle AudioHijack, et ça consister à planque des ordres dans un fichier audio, une vidéo, un clip…",
+      "link": "https://korben.info/attaque-audio-cachee-ia-vocale.html",
+      "pubDate": "2026-05-19T05:46:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/attaque-audio-cachee-ia-vocale/attaque-audio-cachee-ia-vocale-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "11384fe282b5",
+      "title": "Hydracker / Darkiworld piraté - Le gérant de YGG se serait refait avoir ?",
+      "description": "Vous vous souvenez de YggTorrent qui s'est fait démonter en full 4K en mars dernier ? Eh ben rebelote !! Le mec qui gérait Ygg serait, d'après le leaker, derrière une autre plateforme pirate nommée Hydracker (l'ex-Darkiworld relooké hier) qui elle aussi s'est fait éclater à son tour. Un certain blackspell81 a balancé le catalogue en accès libre sur darkileak.buzz. Le pirate qui pirate le pirate qui s'était déjà fait avoir. C'est un délice ^^!",
+      "link": "https://korben.info/hydracker-piratee-gerant-ygg.html",
+      "pubDate": "2026-05-18T16:51:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hydracker-piratee-gerant-ygg/hydracker-piratee-gerant-ygg-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8d62859ec507",
+      "title": "Technostress et IA générative : le remplacement n’est pas le cœur du problème",
+      "description": "« Je pense effectivement que le secteur va un peu changer. Mais ce n’est pas comme si vous pouviez être remplacé. » Sortis des ronces des études économiques qui prétendent que le travail sera automatisé, il suffit d’une quinzaine d’entretiens Technostress et IA générative : le remplacement n’est pas le cœur du problème first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/technostress-et-ia-generative-le-remplacement-nest-pas-le-coeur-du-probleme/",
+      "pubDate": "2026-05-18T15:45:02.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-17.43.44.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab3f608f2818",
+      "title": "Sortir les modèles 3D d'un jeu PS5 en passant par le mode Photo et un peu de photogrammétrie",
+      "description": "Quand vous voulez récupérer un modèle 3D d'un jeu vidéo, en général il y a deux options. Soit vous fouillez les fichiers du jeu pour en extraire les assets, ce qui demande des outils spécialisés et qui ne marche pas simplement sur console. Soit vous abandonnez. Un bidouilleur connu sous le pseudo Dung3onlord vient de proposer une troisième voie, beaucoup plus rigoloute et qui ne touche pas du tout au jeu lui-même.",
+      "link": "https://korben.info/sortir-les-modeles-3d-dun-jeu-ps5-en-passant-par-le-mode-photo-et-un-peu-de-photogrammetrie.html",
+      "pubDate": "2026-05-18T14:36:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sortir-les-modeles-3d-dun-jeu-ps5-en-passant-par-le-mode-photo-et-un-peu-de-photogrammetrie/sortir-les-modeles-3d-dun-jeu-ps5-en-passant-par-le-mode-photo-et-un-peu-de-photogrammetrie-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "17fef762937e",
+      "title": "Claude a fait tourner Adobe Lightroom CC sous Linux",
+      "description": "Faire tourner les logiciels Adobe sous Linux, c'est la quête éternelle des photographes et graphistes qui voudraient bien quitter Windows ou macOS mais qui n'ont rien de comparable côté Linux. Adobe n'a jamais voulu porter sa suite officiellement. Du coup, depuis des années, des développeurs tentent de la faire fonctionner via Wine, le logiciel libre qui sait exécuter des programmes Windows sur Linux. Avec un succès souvent partiel, et beaucoup de bidouille manuelle.",
+      "link": "https://korben.info/claude-a-fait-tourner-adobe-lightroom-cc-sous-linux.html",
+      "pubDate": "2026-05-18T14:00:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-a-fait-tourner-adobe-lightroom-cc-sous-linux/claude-a-fait-tourner-adobe-lightroom-cc-sous-linux-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "c9356c0febd4",
+      "title": "Devoxx France 2026: retour d'expérience",
+      "description": "Après trois jours à la Devoxx France 2026,, voici mon top 3 des conférences qui m’ont le plus marquée.",
+      "link": "https://blog.octo.com/devoxx-france-2026-retour-d'experience",
+      "pubDate": "2026-05-18T11:51:55.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73eea45a6f62",
+      "title": "Un fan de Linux a transformé son bureau en niveau de Minecraft",
+      "description": "Sur Linux, certains utilisateurs passent des heures à customiser leur bureau pour le rendre joli. Cette pratique a même un nom dans la communauté : le \"ricing\", de l'anglais \"to rice\", qui veut dire bichonner sa machine comme on bichonnerait une voiture tunée. Un utilisateur vient de publier un projet baptisé \"Waylandcraft\" qui pousse le concept assez loin : tout son bureau ressemble à l'intérieur du jeu Minecraft, le célèbre bac à sable où l'on construit avec des blocs cubiques.",
+      "link": "https://korben.info/un-fan-de-linux-a-transforme-son-bureau-en-niveau-de-minecraft.html",
+      "pubDate": "2026-05-18T11:41:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-fan-de-linux-a-transforme-son-bureau-en-niveau-de-minecraft/un-fan-de-linux-a-transforme-son-bureau-en-niveau-de-minecraft-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fde1bf5bdadb",
+      "title": "Lemonade - L'IA locale sur NPU AMD, GPU et Mac",
+      "description": "Vous n'avez pas de Mac Silicon, mais vous avez vu passer mon article de ce matin sur vLLM-MLX et son serveur d'IA local ? Hé bien bonne nouvelle, je suis tombé ce midi sur Lemonade SDK , un serveur d'IA local communautaire sponsorisé par AMD (et largement codé par leurs ingénieurs), qui joue dans la même cour, mais côté PC + Mac ! C'est la même logique qu'avec vLLM-MLX, vous installez le serveur (un paquet clé en main selon votre OS, pas de bidouille pip), et il expose un endpoint compatible…",
+      "link": "https://korben.info/lemonade-sdk-serveur-llm-local-npu-amd.html",
+      "pubDate": "2026-05-18T11:37:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/lemonade-sdk-serveur-llm-local-npu-amd/lemonade-sdk-serveur-llm-local-npu-amd-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ee45b00e0013",
+      "title": "Greg Kroah-Hartman continue de trouver des bugs dans le noyau Linux avec son IA locale",
+      "description": "Greg Kroah-Hartman, le numéro 2 du développement du noyau Linux après Linus Torvalds en personne, s'est offert un nouveau jouet en avril dernier : un assistant IA tournant en local sur son ordinateur, qu'il a appelé gkh_clanker_t1000 en clin d'œil au Terminator. Le but, c'est de faire du fuzzing, c'est-à-dire balancer plein d'entrées bizarres sur du code pour voir ce qui casse. Et clanker, c'est l'argot anglais légèrement méprisant pour désigner les IA. C’est plutôt rigolo.",
+      "link": "https://korben.info/greg-kroah-hartman-continue-de-trouver-des-bugs-dans-le-noyau-linux-avec-son-ia-locale.html",
+      "pubDate": "2026-05-18T11:25:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/greg-kroah-hartman-continue-de-trouver-des-bugs-dans-le-noyau-linux-avec-son-ia-locale/greg-kroah-hartman-continue-de-trouver-des-bugs-dans-le-noyau-linux-avec-son-ia-locale-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b31a175001a7",
+      "title": "Oubliez votre PC portable, et passez au Cyberdeck fait maison",
+      "description": "Si vous avez déjà rêvé d'une machine portable qu'on peut démonter, réparer et améliorer pièce par pièce comme un Lego, l'objet construit par Jankbu va vous parler. Le YouTubeur, spécialisé dans la bidouille électronique, vient de publier la vidéo de son cyberdeck, c'est-à-dire un ordinateur portable maison taillé dans des composants choisis un par un, qui fait franchement penser à l'esthétique cyberpunk des années 80-90. Au cœur de la bête, un Raspberry Pi 5 qui tourne sous Linux. Mais c'est…",
+      "link": "https://korben.info/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison.html",
+      "pubDate": "2026-05-18T11:09:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison/oubliez-votre-pc-portable-et-passez-au-cyberdeck-fait-maison-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5ec09f1aa71",
+      "title": "MiniPlasma - La faille Windows que Microsoft croyait corrigée",
+      "description": "Si vous tournez sur un Windows 11 à jour, sachez qu'il existe une faille qui permet à un programme local spécialement conçu de grimper tranquillou jusqu'au compte SYSTEM. Pour rappel, c'est le compte tout-puissant de la machine, c'est à dire celui qui passe même au-dessus de l'administrateur ! Et cette faille elle s'appelle MiniPlasma, et elle vient d'être balancée en public sur GitHub par un chercheur planqué derrière le pseudo Nightmare-Eclipse.",
+      "link": "https://korben.info/miniplasma-windows-0day-elevation-systeme.html",
+      "pubDate": "2026-05-18T10:51:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/miniplasma-windows-0day-elevation-systeme/miniplasma-windows-0day-elevation-systeme-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "97d42c7edfef",
+      "title": "L'IA va-t-elle tuer nos métiers ? L'histoire dit non : Elle les transforme",
+      "description": "Arrêtons-nous une seconde sur le bruit ambiant. and quot;L'IA va remplacer les développeurs. and quot; and quot;Dans cinq ans, coder sera un métier obsolète. and quot; and quot;ChatGPT fait déjà le travail d'une équipe entière. and quot; Ces phrases, vous les avez lues, entendues, peut-être même prononcées. Elles circulent dans les conférences tech, les threads LinkedIn, les réunions de direction.",
+      "link": "https://blog.octo.com/l'ia-va-t-elle-tuer-nos-metiers-l'histoire-dit-non--elle-les-transforme",
+      "pubDate": "2026-05-18T10:15:37.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3396b938f745",
+      "title": "Computer Vision et Rugby : retour d’expérience sur la construction d’un pipeline d’analyse vidéo avec YOLO et DeepFace",
+      "description": "L’IA dans le sport, tout le monde en parle. Le player tracking en NBA, les analyses xG en football, les capteurs GPS dans les maillots… Mais, quand on creuse un peu, on se rend compte que certains sports restent les grands oubliés de cette r&",
+      "link": "https://blog.ippon.fr/2026/05/18/computer-vision-et-rugby-retour-dexperience-sur-la-construction-dun-pipeline-danalyse-video-avec-yolo-et-deepface/",
+      "pubDate": "2026-05-18T09:52:36.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ei981uei981uei98.png",
+      "type": "blog"
+    },
+    {
+      "id": "22834ce04962",
+      "title": "vLLM-MLX - Pour remplacer l'API d'OpenAI par votre propre Mac",
+      "description": "Si vous avez un Mac avec une puce Silicon et que vous en avez marre de raquer pour des tokens à chaque requête API à un LLM à la con, y'a un projet qui mérite, je trouve, le détour. Ça s'appelle vLLM-MLX , et c'est un serveur d'inférence local qui transforme votre Mac en machine à générer du texte, à analyser des images et vidéos, et même capable de gérer de l'audio... et tout ça sans que l'inférence ne passe par le cloud des zaméricains.",
+      "link": "https://korben.info/vllm-mlx-serveur-inference-apple-silicon.html",
+      "pubDate": "2026-05-18T09:23:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/vllm-mlx-serveur-inference-apple-silicon/vllm-mlx-serveur-inference-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "e5a7bc41d388",
+      "title": "L'histoire géniale du programmeur qui a tout effacé en 1981 à cause d'une astérisque",
+      "description": "Sur The Register, un témoignage improbable d'un lecteur qui raconte la fois où il a effacé toutes les données et tout le code de son entreprise. Voilà qui date pas mal, puisque c,'était en 1981, il avait 21 ans, et il développait tout seul un script de nettoyage pour un mainframe IBM. Le genre de mission qu'on ne devrait pas trop confier à un dev junior sans relecture. C'est précisément ce qui a été fait, et la suite est exactement ce que vous pouvez imaginer.",
+      "link": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque.html",
+      "pubDate": "2026-05-18T08:46:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque/lhistoire-geniale-du-programmeur-qui-a-tout-efface-en-1981-a-cause-dune-asterisque-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "18d5b0451523",
+      "title": "IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI",
+      "description": "Yann Puslecki, consultant en e-commerce et data, discute de l'intégration de l'IA générative dans les entreprises de retail. Avec 25 ans d'expérience, il souligne l'importance d'aligner la stratégie IA sur la vision globale, de prioriser les initiatives, de redéfinir le rôle humain et de mesurer la rentabilité pour réussir cette transformation. L’article IA générative et retail : 5 conseils d’expert pour réussir l’intégration et garantir le ROI est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/18/ia-generative-et-retail-5-conseils-dexpert-pour-reussir-lintegration-et-garantir-le-roi/",
+      "pubDate": "2026-05-18T08:37:27.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/yann-puslecki.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5d2c3568733f",
+      "title": "ModuleJail - Bloquer les modules kernel Linux inutilisés",
+      "description": "Vous ne le savez peut-être pas mais votre serveur Linux embarque plusieurs milliers de modules kernel et pourtant, il n'en utilise que quelques centaines à peine. Tout le reste ça prend la poussière et ça peut vous exposer à des problèmes de sécurité. Hé bien c'est exactement à ces modules inutiles que Jasper Nuyens, le fondateur de Linux Belgium, vient s'attaquer avec son outil ModuleJail . Ce script lit /proc/modules pour savoir ce qui tourne vraiment sur votre machine, et considère ensuite…",
+      "link": "https://korben.info/modulejail-blacklist-modules-kernel-linux-inutilises.html",
+      "pubDate": "2026-05-18T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/modulejail-blacklist-modules-kernel-linux-inutilises/modulejail-blacklist-modules-kernel-linux-inutilises-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f08bbddfaa05",
       "title": "Asimov - Le robot humanoïde open source jusqu'à la dernière vis",
       "description": "\"Free the robot\" !!! C'est le slogan de Menlo Research, et pour une fois c'est pas du flan. En effet, leur Asimov v1 est un humanoïde de 1,20 m et 35 kg, entièrement open source ! Tout est fourni gratuitement donc, les plans de la mécanique, les schémas électriques, le modèle de simulation, ainsi que le code embarqué. Vous avez donc la CAO complète, la nomenclature des pièces, le modèle MuJoCo pour simuler avant même de souder, et le firmware. Ensuite, y'a 2 façons de l'avoir : Soit le kit DIY…",
@@ -62,6 +351,22 @@
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120120272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F40dc8338-7bd3-d3bc-7b88-8a2333cd4bc3.mp3",
       "duration": "00:10:50"
+    },
+    {
+      "id": "24db45e19fba",
+      "title": "Profiler son application Node.js : un profiler pensé pour les agents IA",
+      "description": "Les profilers Node.js mesurent, mais laissent l'analyse à un humain. Lanterna fait le choix inverse : un rapport déjà structuré, catégorisé et corrélé, qu'un agent IA peut exploiter directement. Pourquoi je l'ai construit, et comment il fonctionne.",
+      "link": "https://codeheroes.fr/blog/profiler-son-application-node-js-un-profiler-pour-les-agents-ia/",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Code Heroes",
+      "sourceUrl": "https://codeheroes.fr/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeheroes.fr/_astro/lanterna_banner.CMKvXVUv.png",
+      "type": "blog"
     },
     {
       "id": "dc92fc4324ad",
@@ -181,6 +486,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-guide-optimisation-ia/google-guide-optimisation-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3aaea3375e37",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Découvrez jakzal/phpqa, une image Docker pour exécuter des outils de qualité de code en PHP sans les installer dans votre projet. Finis les conflits de dépendances et les paquets inutiles en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor",
+      "pubDate": "2026-05-16T17:56:11.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
