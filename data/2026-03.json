@@ -274,6 +274,23 @@
       "type": "blog"
     },
     {
+      "id": "4879afc6f2be",
+      "title": "Retour sur la LaraconEU 2026",
+      "description": "Pour la troisième année consécutive, notre coopérative a pris part à la LaraconEU. Avec près de 1 000 participants au Passenger Terminal Amsterdam, cette édition record fut un concentré d’innovations techniques et d’échanges architecturaux. Voici notre récapitulatif de ces deux jours intensifs. Retour sur la Keynote de Taylor Otwell Le créateur de Laravel, Taylor Otwell, […] Cet article, Retour sur la LaraconEU 2026, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/retour-sur-la-laraconeu-2026",
+      "pubDate": "2026-03-31T08:01:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/30951-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "8966b18cd82e",
       "title": "Ton lockfile t'a peut-être sauvé la vie cette nuit",
       "description": "Cette nuit, axios , plus de 100 millions de téléchargements npm par semaine, a été compromis. Un attaquant a pris le contrôle du compte npm du mainteneur principal et a publié deux versions vérolées…",
@@ -405,6 +422,23 @@
       "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
       "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible à travers ce nouveau compagnon. FrankenPHP et Ember avancent […] L’article Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
+      "pubDate": "2026-03-30T08:31:09.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ec-1f1e7.png",
+      "type": "blog"
+    },
+    {
+      "id": "81a530e5b85a",
+      "title": "Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible",
+      "description": "Nous sommes ravis de vous annoncer la sortie de Ember dans sa première version, un outil d’observabilité taillé pour FrankenPHP et Caddy. En tant que mainteneurs de ces différents projets open-source, nous souhaitons proposer à tous la meilleure expérience de monitoring et la plus intégrée possible à travers ce nouveau compagnon. FrankenPHP et Ember avancent […] Cet article, Ember : Le monitoring temps réel pour Caddy et FrankenPHP est disponible, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/ember-le-monitoring-temps-reel-pour-caddy-et-frankenphp-est-disponible",
       "pubDate": "2026-03-30T08:31:09.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -766,6 +800,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3d30573d1517",
+      "title": "TNT",
+      "description": "Les garçons sont à fond dans leur partie en coop de Minecraft en mode survie, ce qui donne des conversations d’initiés comme : – Si on collecte un bâton de Blaze, on le transforme en poudre, comme ça après on fait un oeil de l’End en mélangeant avec une perle. Dans ces moments-là, je suis un peu largué (j’ai du ouvrir un Wiki Minecraft pour réécrire le dialogue ci-dessus sans commettre d’impair). Donc mon cerveau divague. En l’occurence, je me suis rappelé que je n’avais pas exploré les…",
+      "link": "https://boris.schapira.dev/notes/2026-03-tnt/",
+      "pubDate": "2026-03-26T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_132:TNT,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_132:TNT,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -1259,6 +1308,21 @@
       "type": "blog"
     },
     {
+      "id": "989fb1893bb8",
+      "title": "Égapro",
+      "description": "– Papa, j’ai trouvé réussi le brevet blanc d’EMC1 ! La semaine dernière, nous avons discuté de l’index de l’égalité professionnelle, à l’occasion de la publication des résultats de mon entreprise. Forcément, ça aide ! Enseignement Moral et Civique. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-03-egapro/",
+      "pubDate": "2026-03-23T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_129:%C3%89gapro,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_129:%C3%89gapro,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
       "id": "12e1bdd6d219",
       "title": "Café Tech avec Imen ☕ #12 — On connaît YoanDev… mais connaissez vous vraiment l’homme derrière ?",
       "description": "On connaît tous @yoandevco , le créateur de contenu. On est nombreux à suivre ses vidéos sur YouTube. Mais est-ce que vous connaissez vraiment la personne derrière YoanDev ? Son parcours ? Ce qu’il a traversé pour en arriver là ? Parce que dans Café Tech avec Imen, mon objectif est simple : 👉 aller au-delà de la tech 👉 comprendre l’humain derrière le développeur 👉 découvrir les parcours, les doutes, les défis Et pour ça, je choisis mes invités avec une intention : décortiquer les…",
@@ -1561,6 +1625,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d9719de11b3f",
+      "title": "Autonomie",
+      "description": "En tant que parent, on se fait toute une idée de l’autonomie. Comme quoi un jour, nos chers enfants feront les choses seuls, sans notre aide, et que ça sera à la fois génial et un peu triste. Et puis en fait, comme pour la marche, ça vient après une succession de mouvements désordonés. – Mais, t’es allé chez la coiffeuse ? On y était presque 🤏 rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-03-autonomie/",
+      "pubDate": "2026-03-19T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_127:Autonomie,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_127:Autonomie,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -2169,6 +2248,23 @@
       "type": "blog"
     },
     {
+      "id": "f0e9e4b25355",
+      "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de filtrage avancées, des optimisations de sécurité, une meilleure conformité aux […] Cet article, Sortie d’API Platform 4.3 : rencontre avec l’IA, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
+      "pubDate": "2026-03-13T15:46:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/Gemini_Generated_Image_wgyyxbwgyyxbwgyy-1-1024x512.png",
+      "type": "blog"
+    },
+    {
       "id": "8fa539bbe440",
       "title": "Les tests d’architecture logicielle : 4 exemples pour les adopter",
       "description": "Les tests d'architecture sont un outil puissant pour automatiser la vérification des patterns d’architecture, des standards, de valider les choses qu’un linter ne peut pas aisément valider.",
@@ -2677,6 +2773,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49fb43e25651",
+      "title": "Parent pénible",
+      "description": "Réunion parents-profs. Je suis prêt, j’ai bien réservé tous mes créneaux de 5 minutes sur l’application, et j’ai noté les questions que je veux poser. C’est l’heure de mon passage devant le professeur de français. Je m’assois, me présente. Il écrit notre nom de famille sur son petit cahier, avec l’heure. Il me parle de mon fils, de son comportement en classe, de ses résultats. C’est très rapide et parfaitement générique, et je ne peux pas lui en vouloir, l’exercice est difficile. Puis il me…",
+      "link": "https://boris.schapira.dev/notes/2026-03-parent-penible/",
+      "pubDate": "2026-03-10T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_122:Parent%20p%C3%A9nible,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_122:Parent%20p%C3%A9nible,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {

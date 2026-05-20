@@ -943,6 +943,23 @@
       "type": "blog"
     },
     {
+      "id": "110d67bbdd46",
+      "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
+      "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues, PRs, utilisateurs demandant « juste ce petit truc en plus ». Nous avons récemment dépassé les 150 téléchargements par jour, l’annonce […] Cet article, Ember 1.2 / 1.3 : logs, plugins et une plateforme…",
+      "link": "https://les-tilleuls.coop/Blog/ember-1-2-1-3-highlight-des-nouvelles-features",
+      "pubDate": "2026-04-28T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-release-1024x569.webp",
+      "type": "blog"
+    },
+    {
       "id": "0d276a4b6595",
       "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
       "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
@@ -1147,6 +1164,23 @@
       "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
       "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au microscope. L’objectif ? Optimiser l’usage de nos ressources et réduire notre […] L’article 47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks est apparu en…",
       "link": "https://les-tilleuls.coop/blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
+      "pubDate": "2026-04-27T13:07:20.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/cloud-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6c5ba2dff181",
+      "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
+      "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au microscope. L’objectif ? Optimiser l’usage de nos ressources et réduire notre […] Cet article, 47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks, est paru en…",
+      "link": "https://les-tilleuls.coop/Blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
       "pubDate": "2026-04-27T13:07:20.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -3688,6 +3722,23 @@
       "type": "blog"
     },
     {
+      "id": "4417142dbd5a",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux d’annoncer Ember 1.1, une version riche en nouveautés […] Cet article, Ember 1.1: Le dashboard FrankenPHP devient encore meilleur, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "307cfa2442b8",
       "title": "Pensée parasite",
       "description": "Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l’autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n’est plus qu’un tas de pierres, qu’un nuage de poussière, qu’un sifflement. Je me relève, le souffle coupé, les poumons en feu, et je cours. Je cours vers les décombres, les mains nues, le coeur à vif. J’arrache, je soulève, je respire fort, évident de hurler pour…",
@@ -3700,6 +3751,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1887f6a046e",
+      "title": "Pensée parasite",
+      "description": "Je marchais dans la rue, longeant des maisons, pour récupérer mon fils chez un ami. Un pas, puis l’autre, les maisons, alignées sur le côté, et soudain, un éclair dans ma tête : cette maison, là-bas, celle avec les volets bleus, elle n’est plus qu’un tas de pierres, qu’un nuage de poussière, qu’un sifflement. Je me relève, le souffle coupé, les poumons en feu, et je cours. Je cours vers les décombres, les mains nues, le coeur à vif. J’arrache, je soulève, je respire fort, évident de hurler pour…",
+      "link": "https://boris.schapira.dev/notes/2026-04-pensee-parasite/",
+      "pubDate": "2026-04-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_122:Pens%C3%A9e%20parasite,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_122:Pens%C3%A9e%20parasite,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -4014,6 +4080,21 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a372d8c9ff2a",
+      "title": "Craft",
+      "description": "– Maman, c’est cool en vrai que tu écoutes tout le temps de la musique quand tu couds… moi, plus tard, j’espère que mes enfants aimeront écouter de la musique aussi. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-04-craft/",
+      "pubDate": "2026-04-11T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_130:Craft,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_130:Craft,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -4412,6 +4493,23 @@
       "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
       "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce qu’il ne fallait pas rater durant […] L’article SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
+      "pubDate": "2026-04-09T13:07:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/image-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8d701378e50a",
+      "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
+      "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce qu’il ne fallait pas rater durant […] Cet article, SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
       "pubDate": "2026-04-09T13:07:15.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
@@ -5370,6 +5468,23 @@
       "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
       "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que nous avons apportées aux écosystèmes PHP […] L’article Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker est apparu en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/blog/symfony-docker-dx",
+      "pubDate": "2026-04-01T13:27:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/Capture-decran-2026-04-01-a-15.06.40-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c1381082a405",
+      "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
+      "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que nous avons apportées aux écosystèmes PHP […] Cet article, Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/symfony-docker-dx",
       "pubDate": "2026-04-01T13:27:42.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",

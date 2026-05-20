@@ -2,6 +2,202 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "2fd1ae66db94",
+      "title": "Introducing OpenAI for Singapore",
+      "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "link": "https://openai.com/index/introducing-openai-for-singapore",
+      "pubDate": "2026-05-19T20:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7aPpcq7lYKo3JZBg2cAti2/40c003351401ac4d87962c84e8b93f67/release-og-frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "cb1323ba54f8",
+      "title": "OlmoEarth v1.1: A more efficient family of models",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "pubDate": "2026-05-19T18:38:09.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/19ZFgyFbi-kj2Yf0WUPGk.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d08c741602c",
+      "title": "I/O 2026",
+      "description": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Collection-Hero.gif",
+      "type": "blog"
+    },
+    {
+      "id": "029429de97cb",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "description": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_US.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8c39f2130114",
+      "title": "New ways to create and get things done in Google Workspace",
+      "description": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleWorkspace-IO.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f3054c38c05b",
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "description": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+      "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SundarKeynote-hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "64d3b9098e0e",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "description": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bece07265dde",
+      "title": "A new era for AI Search",
+      "description": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+      "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d52ef14a8853",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "description": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+      "link": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "pubDate": "2026-05-19T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/I_O_26_Header_1_AYohnR4.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f80637b40404",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "link": "https://openai.com/index/advancing-content-provenance",
+      "pubDate": "2026-05-19T10:45:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ed1c2193d6b8",
+      "title": "Introducing the Ettin Reranker Family",
+      "description": "",
+      "link": "https://huggingface.co/blog/ettin-reranker",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "5df700a9f389",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "description": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "68c93a2e843d",
+      "title": "Widening the conversation on frontier AI",
+      "description": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "f5a5b06be6d9",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "description": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "pubDate": "2026-05-18T18:21:39.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fc4ec187a092",
       "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
       "description": "",
@@ -72,6 +268,174 @@
       "type": "blog"
     },
     {
+      "id": "31fa40f0efa4",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "description": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "pubDate": "2026-05-17T19:53:18.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/projectgenie-social.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "3381a474afe6",
+      "title": "Introducing Gemini Omni",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "pubDate": "2026-05-17T19:50:57.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiOmni_social.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca0e62e19a60",
+      "title": "Introducing Google Antigravity 2.0",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "pubDate": "2026-05-17T19:43:45.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://antigravity.google/assets/image/sitecards/sitecard-default.png",
+      "type": "blog"
+    },
+    {
+      "id": "dc7439051cc2",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "description": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "pubDate": "2026-05-17T13:50:34.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/science__keyword__blog-header.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7c756297345c",
+      "title": "Making it easier to understand how content was created and edited",
+      "description": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "pubDate": "2026-05-17T13:43:50.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FINAL_SOCIAL_HERO.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "bc2f663b5543",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "pubDate": "2026-05-16T09:13:34.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c28761bd2967",
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "description": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "pubDate": "2026-05-16T08:16:06.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4bb07558bb37",
+      "title": "Opening new paths in aging research",
+      "description": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "pubDate": "2026-05-16T08:08:44.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f5132994aca5",
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "description": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "pubDate": "2026-05-16T08:00:15.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6ce8ca3ce4aa",
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "description": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "pubDate": "2026-05-16T07:53:11.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7807ac298692",
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "description": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "pubDate": "2026-05-16T07:40:27.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1c8f3fa51238",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "description": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa.",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "pubDate": "2026-05-16T03:14:17.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "20383a0947db",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
@@ -83,6 +447,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f53f7bc59698",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "description": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+      "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "pubDate": "2026-05-15T22:50:12.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png",
       "type": "blog"
     },
     {
@@ -363,6 +741,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ff20f1578f69",
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "description": "Introducing Co-Scientist, a collaborative AI partner built with Gemini to help researchers accelerate scientific breakthroughs.",
+      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "pubDate": "2026-05-12T14:40:07.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

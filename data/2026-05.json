@@ -2,6 +2,189 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "657127943413",
+      "title": "GitHub hack - Une extension VS Code piège un employé",
+      "description": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subit un accès non autorisé à ses propres dépôts internes, à cause d'une extension VS Code piégée installée sur l'ordi d'un employé ! L'annonce officielle est tombée sur le compte X de l'entreprise à l'instant et c'est comme ça que je suis tombé dessus.",
+      "link": "https://korben.info/github-hack-vs-code-extension.html",
+      "pubDate": "2026-05-20T05:11:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/github-hack-vs-code-extension/github-hack-vs-code-extension-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a9e46db2bda4",
+      "title": "#357.src - Azure et IA: Dans l'ouragan des modèles, où est la vraie valeur du dev ? avec Antonio Goncalves",
+      "description": "\"Peut-être que notre plus-value aujourd'hui, c'est d'être des devs. Et devs, c'est pas que taper du code\" Le D.E.V. de la semaine est Antonio Goncalves, Principal Software Engineer chez Microsoft et co-organisateur de Devoxx. Dans cet épisode, on plonge dans la complexification du métier avec l'essor de l'IA et des plateformes cloud comme Microsoft Foundry. Antonio raconte comment les développeurs doivent désormais arbitrer entre des milliers de modèles, tout en gérant les attentes métiers, la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-357-1a5e1a045717",
+      "pubDate": "2026-05-20T03:00:07.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/c4cf6951-ebd6-4980-9990-395d538c3924.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/167ee484-efb2-4e34-8870-1a5e1a045717.mp3?_=1779192127",
+      "duration": "01:05:55"
+    },
+    {
+      "id": "a586b9ba51be",
+      "title": "Virtual OS Museum - 1700 OS de 1948 à nos jours dans une VM",
+      "description": "Windows 1.0, le System 6 d'Apple, NeXTSTEP, Multics... Tous ces OS que vous croyiez disparus, hé bien aujourd'hui vous pouvez les rebooter sans avoir à ressortir le moindre vieux matos de votre grenier ! Le bureau de NeXTSTEP 3.3, l'OS de NeXT, la boîte montée par Steve Jobs après Apple",
+      "link": "https://korben.info/virtual-os-museum.html",
+      "pubDate": "2026-05-19T20:05:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/virtual-os-museum/virtual-os-museum-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7c5e96bae916",
+      "title": "Cuivrer une pièce imprimée 3D sans cuve géante, c'est possible en la faisant tourner",
+      "description": "Hendrik s'est attaqué à un problème classique des makers : électroplaquer une pièce imprimée en 3D un peu grosse, ça demande une cuve énorme remplie de produits chimiques pour la submerger entièrement. Sa solution, fabriquée maison, prend le problème dans l'autre sens : si la pièce ne rentre pas dans la cuve, autant la faire tourner doucement dans une cuve plus petite. Le principe est simple. Vous prenez votre pièce 3D, vous la poncez, vous la recouvrez de peinture conductrice (indispensable,…",
+      "link": "https://korben.info/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner.html",
+      "pubDate": "2026-05-19T15:38:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner/cuivrer-une-piece-imprimee-3d-sans-cuve-geante-cest-possible-en-la-faisant-tourner-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "88ff4f0e17ae",
+      "title": "Apprendre Prolog avec des Pokémon, c’est possible",
+      "description": "Alexander Petros, qui tient le blog Unplanned Obsolescence , a publié un tutoriel d'environ 3 500 mots qui explique les bases de Prolog, un langage de programmation logique des années 70 très différent des langages courants comme Python ou JavaScript, en utilisant les combats Pokémon comme support pédagogique. C'est étonnamment efficace. Pour ceux qui n'ont jamais touché Prolog, la grosse différence avec un langage classique style Python ou JavaScript, c'est qu'au lieu de dire à l'ordinateur…",
+      "link": "https://korben.info/apprendre-prolog-avec-des-pokemon-cest-possible.html",
+      "pubDate": "2026-05-19T15:15:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apprendre-prolog-avec-des-pokemon-cest-possible/apprendre-prolog-avec-des-pokemon-cest-possible-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "100b4bb7ec4c",
+      "title": "Voir à 650 mètres dans le noir avec un laser infrarouge et une webcam : c’est faisable",
+      "description": "Project 326, une chaîne YouTube spécialisée dans les bricolages optiques, a montré un système de vision nocturne longue portée monté de A à Z dans un garage. Le résultat tient en quelques composants : un télescope réflecteur imprimé en 3D, une webcam modifiée et un laser infrarouge de deux watts. À l'arrivée, on voit jusqu'à 650 mètres dans l'obscurité totale. Le principe est simple (si on peut dire). Un laser dans une longueur d'onde de 940 nanomètres, totalement invisible à l'œil nu mais…",
+      "link": "https://korben.info/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable.html",
+      "pubDate": "2026-05-19T13:34:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable/voir-a-650-metres-dans-le-noir-avec-un-laser-infrarouge-et-une-webcam-cest-faisable-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b4940969a2c3",
+      "title": "Un essaim de Waymo s'est mis à tourner en boucle dans une rue résidentielle",
+      "description": "Vous vous levez à 6h du matin, et là, surprise : une cinquantaine de SUV autonomes Waymo s'engouffrent l'un après l'autre dans votre impasse, font demi-tour au rond-point, et repartent dans le même sens. C'est ce qui s'est passé sur Battleview Drive, une rue calme du quartier de Buckhead à Atlanta. Un riverain a filmé la scène et publié la vidéo, qui ressemble franchement à une séquence de Stephen King : des robotaxis vides qui glissent silencieusement dans le rond-point, sans personne au…",
+      "link": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle.html",
+      "pubDate": "2026-05-19T13:11:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle/un-essaim-de-waymo-sest-mis-a-tourner-en-boucle-dans-une-rue-residentielle-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "75692345d0ec",
+      "title": "Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ?",
+      "description": "Dynatrust est une plateforme SaaS de gouvernance, risques et conformité (GRC) qui simplifie la gestion de la cybersécurité pour les entreprises. Elle propose des outils d'automatisation, une infrastructure sécurisée en France et un modèle de tarification clair. Dynatrust transforme ainsi les obligations réglementaires en opportunités stratégiques. L’article Solution de cybersécurité et conformité : comment ne plus y passer ses nuits (et ses dimanches) avec Dynatrust ? est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/19/solution-de-cybersecurite-et-conformite-comment-ne-plus-y-passer-ses-nuits-et-ses-dimanches-avec-dynatrust/",
+      "pubDate": "2026-05-19T12:03:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/illustration-dynatrust.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "26ec2b11dba4",
+      "title": "nodes/proxy GET : la permission Kubernetes de trop",
+      "description": "TL;DR Ca date un peu mais j’avais quand même envie de faire un petit REX sur ce sujet. En janvier un chercheur en cybersécurité a remonté une faille de Kubernetes qui a pas mal fait le buzz. Ca faisait un moment qu’on avait plus eu de faille sur Kube qui fasse autant parler, de mémoire de Denis (oui je parle de moi à la 3ème personne). En vrai, c’est assez chaud : la permission RBAC nodes/proxy GET permet à n’importe quel ServiceAccount d’exécuter du code dans n’importe quel Pod du cluster,…",
+      "link": "https://blog.zwindler.fr/2026/05/19/kubernetes-nodes-proxy-rce/",
+      "pubDate": "2026-05-19T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/node_proxy_RCE.webp",
+      "type": "blog"
+    },
+    {
+      "id": "62856a684166",
+      "title": "Linux 7.2 saura enfin gérer les consoles OneXPlayer",
+      "description": "Derek Clark, développeur chez Valve, a fait remonter dans le noyau Linux un nouveau pilote baptisé hid-oxp. Sa fonction : permettre au système de configurer correctement les consoles portables de la marque OneXPlayer, un constructeur chinois qui fabrique des petites consoles PC un peu dans l'esprit du Steam Deck mais livrées sous Windows par défaut. Le code est mis en file dans la branche de développement de Linux 7.2, dont la fenêtre de merge doit s'ouvrir en juin.",
+      "link": "https://korben.info/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer.html",
+      "pubDate": "2026-05-19T09:39:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer/linux-7-2-saura-enfin-gerer-les-consoles-onexplayer-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7c730b1d7017",
+      "title": "Andon FM - Quand les IA gèrent des radios et pètent un plomb",
+      "description": "Vous vous souvenez de Claudius, cette IA qui gérait un distributeur automatique et qui s'était fait arnaquer comme un bleu ? Hé bien c'est reparti, en pire ou en mieux, c'est selon ^^. Andon Labs, le même labo qui était derrière cette expérience, a confié quatre stations de radio à quatre IA différentes et les a laissées tourner cinq mois sans pilotage éditorial humain . Spoiler, ça a viré au grand n'importe quoi.",
+      "link": "https://korben.info/andon-fm-quatre-ia-radios-autonomes.html",
+      "pubDate": "2026-05-19T08:34:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/andon-fm-quatre-ia-radios-autonomes/andon-fm-quatre-ia-radios-autonomes-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "01d3afbcebb4",
+      "title": "ShadowBroker - Une salle de crise OSINT mondiale chez vous",
+      "description": "Les avions en vol, les cargos, les satellites espions, les zones de brouillage GPS... Imaginez tout ce bordel, à l'échelle de la planète, visible sur une seule carte sombre directement chez vous. Ce serait fou non ? Hé bien c'est ce que nous propose BigBodyCobain qui a sorti ShadowBroker , un tableau de bord OSINT gratuit et open source qui agrège plus de 60 flux de renseignement public, rafraîchis en continu.",
+      "link": "https://korben.info/shadowbroker-osint-temps-reel.html",
+      "pubDate": "2026-05-19T08:13:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/shadowbroker-osint-temps-reel/shadowbroker-osint-temps-reel-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c93acdca9c5d",
       "title": "Ibou Explorer - L'anti-Google Discover français",
       "description": "Y'a un nouveau projet français qui débarque face à Google, et celui-là va vous plaire, j'en suis sûr ! Ça s'appelle Ibou Explorer, et c'est porté par Sylvain Peyronnet (oui, un des deux frères du SEO français bien connus dans le milieu) et Guillaume Pitel. Leur site vient d'ouvrir en beta publique et pour vous résumer ça rapidement, disons que c'est un équivalent direct de Google Discover, mais en mieux évidement !! Et c'est surtout la première brique d'un ensemble plus large qui inclura à…",
@@ -43,6 +226,36 @@
         "Web"
       ],
       "image": "https://korben.info/attaque-audio-cachee-ia-vocale/attaque-audio-cachee-ia-vocale-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ba547d043fde",
+      "title": "Inscriptions 2026-2027 au collège/lycée Scholae",
+      "description": "Inscriptions 2026-2027 au collège/lycée Scholae {align=right} Les inscriptions 2026-2027 sont ouvertes au [collège/lycée Scholae][1] ! !!! note \"\" Si vous vous demandez pourquoi j'en parle ici dans mon blog technique, c'est que ça fait seize ans que je travaille dans cet [établissement scolaire 100&nbsp;% sous Linux][2].",
+      "link": "https://www.microlinux.fr/blog/scholae-2026/",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/linux-lycee.png",
+      "type": "blog"
+    },
+    {
+      "id": "b7b96e3bef72",
+      "title": "Lectures complémentaires sur la fatigue liée à l'IA",
+      "description": "En février dernier, j’écrivais sur productivité et qualité : la délégation mal pensée, la charge cognitive des validateurs, l’érosion silencieuse des compétences collectives. Un texte construit depuis une perspective organisationnelle à partir de mes discussions avec mes confrères et consoeurs occupant des rôles finalement périphériques au code lui-même. Ce que j’avais manqué L’une d’entre elles m’a partagé un article de Siddhant Khare qui lui, a vécu la même réalité, de plus près. Il construit…",
+      "link": "https://boris.schapira.dev/notes/2026-05-lectures-fatigue-ia/",
+      "pubDate": "2026-05-18T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:0a69c7,o_20/w_1000,c_fit,l_text:PT%20Sans_91:Lectures%20compl%C3%A9mentaires%20sur%20la%20fatigue%20li%C3%A9e%20%C3%A0%20l%E2%80%99IA,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_91:Lectures%20compl%C3%A9mentaires%20sur%20la%20fatigue%20li%C3%A9e%20%C3%A0%20l%E2%80%99IA,y_-70,co_white/l_text:PT%20Sans_50:@boostmarks@hachyderm.io,g_south_east,x_98,y_65,co_black,o_20/l_text:PT%20Sans_50:@boostmarks@hachyderm.io,g_south_east,x_100,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/web.jpg",
       "type": "blog"
     },
     {
@@ -1253,6 +1466,23 @@
       "duration": "1:31:33"
     },
     {
+      "id": "7b2ff137aa91",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là pour le code pur ou pour l’architecture de haut […] Cet article, API Platform Conference 2026 : les thématiques à ne pas manquer cette année, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
       "id": "ef0115611a53",
       "title": "Termix - L'alternative open source et gratuite à Termius",
       "description": "Si vous cherchez une alternative à Termius qui ne vous coûte pas une petite couille, je crois que j'ai trouvé ce qu'il vous faut ! C'est vrai qu'il y a quelque chose de carrément agréable à pouvoir ouvrir un navigateur depuis n'importe quelle machine et retrouver tous ses serveurs, fichiers et tunnels au même endroit... Et Termius fait ça très bien, sauf que la fonctionnalité la plus utile, à savoir la synchro entre appareils, c'est payant !",
@@ -1682,6 +1912,21 @@
       "type": "blog"
     },
     {
+      "id": "1912a4ddb009",
+      "title": "Le message",
+      "description": "Je suis en train de conduire donc c’est Rocky qui décroche. C’est sa mère : – Rocky, j’ai besoin que tu dises quelque chose à Papa. Entre-temps, j’avais eu le temps de me garer pour prendre l’appel, parce que je ne comprenais rien ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-message/",
+      "pubDate": "2026-05-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_126:Le%20message,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_126:Le%20message,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1c7f7d95a91f",
       "title": "Google Workspace CLI - Pour piloter tous les services Google avec votre IA",
       "description": "Justin Poehnelt, Senior Developer Relations Engineer chez Google, vient de balancer sur Github un outil en ligne de commande (CLI), codé en Rust qui permet de faire un truc trop pratique, à savoir piloter entièrement Workspace depuis le terminal. Ce logiciel nommé GWS est donc capable de gérer Gmail, Drive, Calendar, Sheets et sept autres services Google d'un coup. Et en plus, comme il a été conçu pour les agents IA, donc c'est pas juste pour vous et votre terminal !",
@@ -1900,6 +2145,23 @@
       "type": "blog"
     },
     {
+      "id": "eca5b88e102e",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les gérer à l’extérieur. Le contexte derrière cette […] Cet article, Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/Blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
       "id": "6405ec34f124",
       "title": "GridTV, le guide TV open source pour votre setup IPTV",
       "description": "Bon, maintenant que vous avez vos chaînes IPTV qui tournent via Tunarr ou xTeVe, votre flux XMLTV est super propre. Mais il vous manque un seul truc : Un guide de programme potable. Hé bien GridTV développé par l'ami JohnnyBeGood est là pour ça ! GridTV c'est une interface web en PHP/JS/CSS qui transforme toute source XMLTV compatible en guide TV façon grille horizontale, avec l'indicateur \"maintenant\" visible en permanence, un barre de progression du programme en cours, et les émissions…",
@@ -2012,6 +2274,21 @@
       "title": "Pas le temps",
       "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
       "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/\n",
+      "pubDate": "2026-05-06T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_124:Pas%20le%20temps,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_124:Pas%20le%20temps,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "496af77a6ad3",
+      "title": "Pas le temps",
+      "description": "Non mais vas-y, c’est une dinguerie ! Maman m’a dit hier soir que je pouvais ne pas prendre ma douche hier soir et la prendre “plus tard”. Mais, wesh, gros, si tu décales mon réveil à 7h30 parce que je commence à 9h, tu me demandes pas de prendre ma douche le matin en fait ! Là il est 7h58, et j’ai même pas une demi-heur pour prendre mon petit-déjeuner, remonter, mettre des chaussettes, me brosser les dents, prendre mon sac et partir ! La crise d’adolescence se porte bien. rédigés en français.…",
+      "link": "https://boris.schapira.dev/notes/2026-05-pas-le-temps/",
       "pubDate": "2026-05-06T22:00:00.000Z",
       "source": "Boris Schapira",
       "sourceUrl": "https://boris.schapira.dev/feed.xml",
