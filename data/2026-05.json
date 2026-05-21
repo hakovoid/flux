@@ -2,6 +2,201 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bae14b510e84",
+      "title": "Ce PC contient 13 écrans cachés qui diffusent 15 000 GIF en boucle",
+      "description": "Un internaute connu sous le pseudo Several-Bar-6512 a transformé son PC de jeu en quelque chose qui n'a pas d'équivalent : à l'intérieur du boîtier, treize écrans diffusent en boucle plus de 15 000 GIF animés. Pas de RGB clignotant classique. Des écrans. Partout. Le chiffre derrière le projet donne le vertige. Le bricoleur a d'abord téléchargé plus de 17 000 GIF, puis a passé environ 200 heures à les trier, les recadrer, ajuster leur format, leur vitesse d'animation et leur boucle, pour arriver…",
+      "link": "https://korben.info/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle.html",
+      "pubDate": "2026-05-21T06:43:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle/ce-pc-contient-13-ecrans-caches-qui-diffusent-15-000-gif-en-boucle-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a462885791ef",
+      "title": "Refonte complète de mon infrastructure DNS avec Technitium et AdGuard Home en haute disponibilité",
+      "description": "Un setup DNS sans redondance ni zone locale, c'est un SPOF qui s'ignore. Découvrez comment refondre son infrastructure DNS en haute disponibilité avec Technitium, AdGuard Home et Proxmox HA.",
+      "link": "https://domopi.eu/refonte-complete-de-mon-infrastructure-dns-avec-technitium-et-adguard-home-en-haute-disponibilite/",
+      "pubDate": "2026-05-21T05:45:17.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/05/article_dns.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b6c423ca0572",
+      "title": "Fauxx - Pour noyer les trackers sous du faux trafic",
+      "description": "Fauxx part d'une idée toute simple et un peu vicieuse qui est que plutôt que de cacher ce que vous faites en ligne avec votre smartphone Android, pourquoi ne pas générer en permanence des tas de fausses recherches, des faux trajets GPS et des fausses identités ? Cela permet ainsi de noyer vos vraies données dans un tas d'autres... En tout cas, c'est l'objectif du dev qui veut, je cite, rendre votre signal réel « statistiquement indiscernable du bruit ». Comme ça pendant que votre téléphone vit…",
+      "link": "https://korben.info/fauxx-pollution-donnees-trackers.html",
+      "pubDate": "2026-05-21T05:43:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/fauxx-pollution-donnees-trackers/fauxx-pollution-donnees-trackers-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a37210ebf0b",
+      "title": "Chromium - Google publie l'exploit d'une faille vieille de 2 ans et demi",
+      "description": "Bon, alors là, Google a fait encore trèèèès fort. Mercredi matin, la firme de Mountain View a carrément publié sur son propre bug tracker Chromium le code d'exploitation d'une faille... qui n'est toujours pas corrigée ! Et pas une petite vulnérabilité oubliée dans un coin, hein, mais une vraie faille de la mort qui tue que la chercheuse indépendante Lyra Rebane leur avait remontée gentiment et en privé . Ça fait 29 mois (2 ans et demi, les matheux ^^) et elle attend toujours un patch !",
+      "link": "https://korben.info/google-exploit-chromium-millions-utilisateurs.html",
+      "pubDate": "2026-05-21T05:19:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-exploit-chromium-millions-utilisateurs/google-exploit-chromium-millions-utilisateurs-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6604c35d01df",
+      "title": "Créez une passerelle SMS à partir d'un vieux smartphone",
+      "description": "Votre vieux Galaxy S5 qui prend fort la poussière dans un tiroir, mérite mieux je crois ! Un dev, Capcom6 a mis en ligne SMS Gateway for Android , une app Kotlin sous licence Apache 2.0 qui transforme n'importe quel smartphone (Android 5.0+) en passerelle SMS programmable. Cela vous permet de récupérer une API REST pour ensuite envoyer et recevoir vos SMS avec votre propre téléphone et votre propre SIM et ainsi vous passer de services payants équivalents.",
+      "link": "https://korben.info/android-sms-gateway-smartphone-passerelle-api.html",
+      "pubDate": "2026-05-21T05:01:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/android-sms-gateway-smartphone-passerelle-api/android-sms-gateway-smartphone-passerelle-api-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "015570522fdc",
+      "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
+      "description": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un carré de vinyle transparent d'environ 8 cm de côté, qui liste les raccourcis clavier essentiels de macOS et se colle dans le coin de votre MacBook.",
+      "link": "https://korben.info/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi.html",
+      "pubDate": "2026-05-20T13:30:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi/jai-colle-un-autocollant-de-raccourcis-macos-sur-mon-mac-et-cest-genial-existe-pour-windows-aussi-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b24c122af3ef",
+      "title": "Anthropic rachète Stainless, l'outil qui fabrique aussi les SDK de ses concurrents",
+      "description": "Anthropic, la boîte derrière l'IA Claude, a racheté Stainless pour plus de 300 millions de dollars. Stainless, c'est un nom que le grand public ne connaît pas, mais l'outil est partout : il transforme automatiquement la spécification d'une API, l'interface par laquelle deux logiciels se parlent, en SDK. Pour rappel, un SDK, c'est un ensemble de bibliothèques de code prêtes à l'emploi pour les développeurs, ici dans une dizaine de langages comme Python, TypeScript, Go ou Java.",
+      "link": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents.html",
+      "pubDate": "2026-05-20T13:05:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents/anthropic-rachete-stainless-loutil-qui-fabrique-aussi-les-sdk-de-ses-concurrents-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "632603118963",
+      "title": "Une faille inconnue dans un routeur Huawei a mis tout le Luxembourg hors ligne pendant 3 heures",
+      "description": "Le 23 juillet 2025, le Luxembourg entier s'est retrouvé sans réseau mobile, sans téléphone fixe et sans communications d'urgence pendant plus de trois heures. Dix mois plus tard, on connaît enfin la cause grâce au média The Record : une faille jusque-là inconnue dans le logiciel d'un routeur Huawei. Le mécanisme est presque bête. Du trafic réseau spécialement fabriqué a été envoyé vers des routeurs d'entreprise Huawei, et ce trafic les a fait redémarrer en boucle, sans jamais s'arrêter.",
+      "link": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures.html",
+      "pubDate": "2026-05-20T12:34:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures/une-faille-inconnue-dans-un-routeur-huawei-a-mis-tout-le-luxembourg-hors-ligne-pendant-3-heures-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9320541ccaf",
+      "title": "Google Cloud débranche Railway sans prévenir",
+      "description": "Hier soir, le compte Google Cloud de Railway est passé en statut restreint. Du jour au lendemain, sans préavis et sans la moindre explication. Railway, pour ceux qui ne connaissent pas, c'est un service américain qui permet aux développeurs et aux startups de mettre un site ou une application en ligne en quelques clics, sans avoir à louer ni configurer eux-mêmes des serveurs. Dans le jargon, on appelle ça un PaaS, une plateforme d'hébergement clé en main. Des milliers d'entreprises s'en servent…",
+      "link": "https://korben.info/google-cloud-debranche-railway-sans-prevenir.html",
+      "pubDate": "2026-05-20T12:03:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-cloud-debranche-railway-sans-prevenir/google-cloud-debranche-railway-sans-prevenir-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bbaf04f6b91c",
+      "title": "Il accuse Pizza Hut de lui avoir fait perdre 100 millions à cause d'une IA",
+      "description": "Chaac Pizza Northeast, qui exploite plus de 100 restaurants Pizza Hut sur la côte est des États-Unis, attaque son propre franchiseur en justice. Le motif : un logiciel d'IA imposé par le siège pour gérer les livraisons, et qui aurait fait perdre près de 100 millions de dollars au franchisé. Le logiciel s'appelle Dragontail. Il a été racheté en 2021 par Yum Brands, la maison mère de Pizza Hut, et il sert à orchestrer la production en cuisine et l'attribution des livraisons. Pizza Hut a fini par…",
+      "link": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia.html",
+      "pubDate": "2026-05-20T09:25:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia/il-accuse-pizza-hut-de-lui-avoir-fait-perdre-100-millions-a-cause-dune-ia-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8fe37fc663a0",
+      "title": "WordPress Workspace - L'agent IA d'Automattic",
+      "description": "Si comme moi, vous bloguez encore à l'ancienne, c'est à dire depuis l'interface web de WordPress.com, sachez qu'Automattic vient de balancer une app pour Mac qui s'est donné pour mission de vraiment bousculer votre façon d'écrire. WordPress Workspace est donc un éditeur de site, un agent IA, un outil de prise de note... Bref, un outil fourre-tout qui est en réalité un agent IA branché sur votre contenu et capable aussi d'uploader des médias vers la médiathèque de votre site. Ça se présente donc…",
+      "link": "https://korben.info/wordpress-workspace-app-mac-automattic.html",
+      "pubDate": "2026-05-20T09:13:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/wordpress-workspace-app-mac-automattic/wordpress-workspace-app-mac-automattic-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f90f46ac6f89",
+      "title": "HydroTracker - L'app Android qui vous hydrate",
+      "description": "HydroTracker, c'est une app Android open source pour suivre votre consommation d'eau au quotidien. C'est sans pub, ça fonctionne hors-ligne et ça a été mis au point par Ali Cem Çakmak, physicien et développeur passionné ! L'écran d'accueil d'HydroTracker, sobre et lisible",
+      "link": "https://korben.info/hydrotracker-app-android-open-source-hydratation.html",
+      "pubDate": "2026-05-20T08:04:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/hydrotracker-app-android-open-source-hydratation/hydrotracker-app-android-open-source-hydratation-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ec2c73a1d6c3",
+      "title": "Vim passe à GTK4, et Claude est crédité dans les commits",
+      "description": "gVim, la version avec interface graphique du légendaire éditeur de texte Vim, récupère le support de GTK4. Pour situer, GTK c'est la boîte à outils qui dessine les fenêtres, les boutons et les menus des applications sous Linux. Vim tournait jusqu'ici sur GTK2 et GTK3, deux versions vieillissantes. GTK4 modernise tout ça. Et le détail qui fait causer : le commit indique noir sur blanc que le portage a été co-écrit par Claude, l'IA d'Anthropic.",
+      "link": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits.html",
+      "pubDate": "2026-05-20T07:34:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits/vim-passe-a-gtk4-et-claude-est-credite-dans-les-commits-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "657127943413",
       "title": "GitHub hack - Une extension VS Code piège un employé",
       "description": "Alors celle-là, elle est incroyable les copains ! Le piratage du jour vient d'être confirmé par la plateforme qui héberge une bonne moitié du code de la tech mondiale ! En effet, Github a subit un accès non autorisé à ses propres dépôts internes, à cause d'une extension VS Code piégée installée sur l'ordi d'un employé ! L'annonce officielle est tombée sur le compte X de l'entreprise à l'instant et c'est comme ça que je suis tombé dessus.",
@@ -1470,6 +1665,23 @@
       "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
       "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là pour le code pur ou pour l’architecture de haut […] Cet article, API Platform Conference 2026 : les thématiques à ne pas manquer cette année, est paru en premier sur Les-Tilleuls.coop.",
       "link": "https://les-tilleuls.coop/Blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
+      "id": "96d738a1c140",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là pour le code pur ou pour l’architecture de haut […] Cet article, API Platform Conference 2026 : les thématiques à ne pas manquer cette année, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
       "pubDate": "2026-05-12T09:45:00.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",

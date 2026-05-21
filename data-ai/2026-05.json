@@ -2,6 +2,90 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "3a4b4f193d08",
+      "title": "We’re announcing new community investments in Missouri.",
+      "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "pubDate": "2026-05-20T20:40:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "492f3d281a57",
+      "title": "100 things we announced at I/O 2026",
+      "description": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "pubDate": "2026-05-20T19:30:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_things_Social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "64f0273cfd27",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "description": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "pubDate": "2026-05-20T16:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-05-15_at_4.21.2.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "25e141fd02c9",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "link": "https://openai.com/index/ramp",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1jnbN51vZD5HdojAWKmvvG/332a50f3bf43de6bb168e92303067c4a/oai_Ramp_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1c93d6c1c725",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6WJOhxvdNpC5hDvpiSAqE0/8a11ba6abdabb6a5a674de733cfa710d/SEO-Polynomial-Construction-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "aada05358e56",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3RMce7W9UyNLJaQEOyFQYn/49f35dabd4110cfa4589d82769f0eec2/Art_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "2fd1ae66db94",
       "title": "Introducing OpenAI for Singapore",
       "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
