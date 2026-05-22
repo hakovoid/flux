@@ -2,6 +2,283 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "6e03dae401b5",
+      "title": "Une console rétro \"Lenovo\" à 72 dollars, bourrée de ROMs Nintendo piratées",
+      "description": "Une console de jeu portable estampillée Lenovo est apparue sur AliExpress à environ 72 dollars, et elle a un détail embarrassant : elle est livrée avec des milliers de jeux Nintendo piratés préinstallés. Le genre de produit qu'on prendrait pour une contrefaçon. Sauf que non. Interrogé sur cette G02, Lenovo a confirmé que la console est bien officielle. C'est ce qu'on appelle un produit en marque blanche : Lenovo n'a pas conçu l'appareil, mais a accordé une licence d'utilisation de son nom à un…",
+      "link": "https://korben.info/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees.html",
+      "pubDate": "2026-05-22T07:25:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees/une-console-retro-lenovo-a-72-dollars-bourree-de-roms-nintendo-piratees-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5f28a0d3f4e",
+      "title": "niri - Le compositor Wayland qui scrolle vos fenêtres à l'infini",
+      "description": "niri , c'est un compositor Wayland écrit en Rust par Ivan Molodetskikh, et il a un drôle de kink qui est de ne jamais redimensionner vos fenêtres dans votre dos. Jamais !! Ainsi, quand vous ouvrez une nouvelle appli, elle vient se coller à droite de la précédente sur une bande horizontale qui s'étend à l'infini. Pas de grille rigide, pas d'empilement façon Tetris, vous scrollez simplement vers la droite pour balader votre regard sur vos fenêtres, comme on fait défiler une pellicule photo.",
+      "link": "https://korben.info/niri-compositor-wayland-tiling-scrollable.html",
+      "pubDate": "2026-05-22T07:07:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/niri-compositor-wayland-tiling-scrollable/niri-compositor-wayland-tiling-scrollable-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7feb813e735b",
+      "title": "Web Serial débarque enfin dans Firefox !",
+      "description": "On est vendredi, j'ai un mal de tête carabiné mais je me pose quand même devant l'ordi pour vous annoncer une bonne nouvelle ! Firefox 151 sur desktop vient enfin d'implémenter une fonctionnalité que Mozilla refusait catégoriquement de supporter depuis 6 ans : le support de l'API Web Serial. Alors non, c'est pas un gros mot, hein, ça veut surtout dire qu'un site web ouvert avec Firefox peut maintenant lire et écrire directement sur du matériel que vous branchez en USB, genre un Arduino, un…",
+      "link": "https://korben.info/web-serial-firefox.html",
+      "pubDate": "2026-05-22T06:43:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/web-serial-firefox/web-serial-firefox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "08533b91ac1c",
+      "title": "MACI #159 - Claude Agent, PGbackrest, sécurité et NPM - Avec Antoine Blondeau et Gilles Biannic",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on démarre avec des outils open source créés pour piloter des applications Clever Cloud, avant de parler de Claude Agent View et de ce que ces interfaces changent dans la manière de suivre le travail des agents IA. Et puis, comme souvent dans MACI, la discussion part vite sur l’état de l’écosystème open source : MinIO qui change de modèle, pgBackRest qui reprend vie, SmolVM et l’isolation par défaut, mais aussi les sujets sécurité du…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-159-claude-agent-open-source-et-securite-npm-avec-antoine-blondeau",
+      "pubDate": "2026-05-22T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/4FThA3NDCgNvOA5FdzKIQlMgQ4NSgetkfLnWz1ET_1400x1400.jpeg?t=1779287547",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/b2GmKTYXGqAe.mp3?t=1779282611",
+      "duration": "55:38"
+    },
+    {
+      "id": "ad985d1acb6b",
+      "title": "#343.exe - Sensome: La miniaturisation jusqu'à l'extrême par Yacine Hmito",
+      "description": "Pour l'épisode #343 je recevais Gor Lebedev. On en débrief avec Yacine. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-343-af95e900dbc0",
+      "pubDate": "2026-05-22T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2635543b-67a0-4ef3-ae65-af95e900dbc0.mp3?_=1779364896",
+      "duration": "10:26"
+    },
+    {
+      "id": "2b7943304f72",
+      "title": "🎤 Talks donnés à DevOpsdays Genève 🎤",
+      "description": "Liste de talks donnés lors de la conférence DevOpsdays Genève",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-geneva-2026/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/images/conferences/devopsdays-geneve-2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f7bdea9fb321",
+      "title": "Vous avez reçu un colis que vous n'avez pas commandé ? Attention au brushing",
+      "description": "-- Article en partenariat avec Surfshark -- C'est peut-être arrivé à une de vos connaissances récemment (ou même à vous). Un petit colis anonyme, sans expéditeur clair, avec dedans une coque de téléphone bas de gamme ou un ustensile de cuisine bidon. Elle a haussé les épaules, jeté l'objet, oublié l'incident. Ou elle avait besoin de l'objet en question et s'est dit \"wow quelle chance, enfin une erreur de livraison en ma faveur pour une fois\".",
+      "link": "https://korben.info/brushing-scams.html",
+      "pubDate": "2026-05-21T16:48:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/brushing-scams/brushing-scams-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c5c3557894dd",
+      "title": "Android 17 travaille sur sa version de \"Continuité\" d'Apple",
+      "description": "Android 17 va donc lancer une fonction baptisée \"Continue On\", et l'idée est simple : reprendre une appli exactement là où vous l'avez laissée, mais sur un autre appareil. Vous lisez un document sur votre téléphone, vous attrapez votre tablette, et hop, vous repartez au même endroit sans rien chercher. Les utilisateurs d'iPhone connaissent déjà ça sous le nom de Handoff (Continuité en français). Android s'y met enfin. En pratique, c'est plutôt bien pensé. Quand vous vous approchez d'un autre…",
+      "link": "https://korben.info/android-17-travaille-sur-sa-version-de-continuite-dapple.html",
+      "pubDate": "2026-05-21T16:30:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/android-17-travaille-sur-sa-version-de-continuite-dapple/android-17-travaille-sur-sa-version-de-continuite-dapple-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0dec73e74ef7",
+      "title": "Le bac à sable de Claude Code avait deux failles, et c'est plus gênant qu'il n'y paraît",
+      "description": "Anthropic, l'entreprise derrière l'IA Claude, a corrigé en douce deux failles dans le bac à sable réseau de Claude Code, son assistant de programmation. Un bac à sable, dans le jargon, c'est un enclos de sécurité : il est censé empêcher l'outil de se connecter à des serveurs non autorisés, pour éviter qu'il envoie vos données n'importe où. Sauf que pendant cinq mois et demi, cet enclos avait une porte dérobée.",
+      "link": "https://korben.info/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait.html",
+      "pubDate": "2026-05-21T16:17:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait/le-bac-a-sable-de-claude-code-avait-deux-failles-et-cest-plus-genant-quil-ny-parait-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "324a1dce1632",
+      "title": "Quelqu'un a réussi à faire tourner de vraies fenêtres Linux à l'intérieur de Minecraft",
+      "description": "Un développeur connu sous le pseudo EVVIE a sorti Waylandcraft, un projet qui n'aurait jamais dû exister et c'est tant mieux. Le principe : faire tourner de vrais logiciels Linux directement dans le monde de Minecraft, leurs fenêtres posées comme des objets au milieu du jeu. Votre navigateur, votre éditeur de texte, un terminal, tout ça affiché sur des blocs, en 3D, et utilisable pour de vrai. Pour comprendre le délire, un mot sur Wayland. Sous Linux, c'est le système qui gère l'affichage des…",
+      "link": "https://korben.info/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft.html",
+      "pubDate": "2026-05-21T15:28:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft/quelquun-a-reussi-a-faire-tourner-de-vraies-fenetres-linux-a-linterieur-de-minecraft-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bbc84ddfefd9",
+      "title": "Ces badges LED de festival se synchronisent tout seuls",
+      "description": "Tony Goacher a résolu un petit casse-tête avec élégance. Son projet CrowdClock, ce sont des badges lumineux pour festival qui clignotent tous en rythme, parfaitement synchronisés. Sauf qu'il n'y a aucun badge maître, aucune appli, aucun appairage. Les badges se mettent d'accord tout seuls. Le truc tient en une technique toute bête. Chaque badge fait tourner sa propre horloge interne et diffuse en continu sa valeur tout autour de lui, via ESP-NOW (un protocole sans fil léger, qui permet à de…",
+      "link": "https://korben.info/ces-badges-led-de-festival-se-synchronisent-tout-seuls.html",
+      "pubDate": "2026-05-21T15:18:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ces-badges-led-de-festival-se-synchronisent-tout-seuls/ces-badges-led-de-festival-se-synchronisent-tout-seuls-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "970cffeadf8e",
+      "title": "Flipper One - Le Linux de poche qui terrifie ses propres créateurs",
+      "description": "Flipper Devices, les gens derrière le fameux Flipper Zero , viennent de dévoiler leur prochain joujou, le Flipper One . Et leur annonce démarre par cette phrase de Pavel Zhovner, le co-fondateur : « on est franchement terrifiés, et on a besoin de vous ». Apparemment, ce nouveau projet l'angoisse et faut être honnête, y'a de quoi. Car le Flipper One, ce n'est pas un Flipper Zero en plus gros. C'est carrément un mini-PC Linux ARM de poche, pensé comme un couteau suisse pour le réseau. Et là où le…",
+      "link": "https://korben.info/flipper-one-plateforme-linux-ouverte.html",
+      "pubDate": "2026-05-21T13:16:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/flipper-one-plateforme-linux-ouverte/flipper-one-plateforme-linux-ouverte-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a006c7dbe180",
+      "title": "Switchboard - Le centre de contrôle pour vos sessions Claude Code",
+      "description": "Claude Code, c'est génial pour coder mais alors pour s'organiser... c'est chiant de fouuuu. J'ai genre 200 fichiers .jsonl qui trainent dans ~/.claude/projects, y'a aucun moyen prévu pour savoir ce qui tourne en ce moment, et autant vous dire que reprendre une conversation d'il y a 3 jours relève de l'acrobatie. Alors j'ai d'abord essayé les grep sauvages dans le dossier, les ls -lt pour trier par date...etc et en fait ça marche, mais c'est pas ce qu'on appelle un vrai workflow. Du coup j'ai…",
+      "link": "https://korben.info/switchboard-claude-code-centre-controle.html",
+      "pubDate": "2026-05-21T11:24:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/switchboard-claude-code-centre-controle/switchboard-claude-code-centre-controle-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dae999ce27b8",
+      "title": "Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO !",
+      "description": "Cet article présente les récentes recommandations de Google pour optimiser le contenu à l'ère de l'IA. Google insiste sur l'importance de l'expérience utilisateur, de contenu authentique et structuré, ainsi que de médias de qualité. Les pratiques à éviter incluent la suroptimisation et l'utilisation de fichiers inutiles. L'accent est mis sur la valeur ajoutée humaine. L’article Google publie son guide d’optimisation pour l’IA : spoiler, arrêtez le bullshit SEO ! est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/21/google-publie-son-guide-doptimisation-pour-lia-spoiler-arretez-le-bullshit-seo/",
+      "pubDate": "2026-05-21T11:05:00.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/guide-geo-google.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d7047260eae7",
+      "title": "Le guide provisoire du GEO pour le B2B en 2026",
+      "description": "Ce guide du GEO, destiné aux professionnels du B2B, présente les meilleures pratiques pour optimiser la visibilité dans les moteurs d'IA, face à la montée des LLM. Il souligne l'importance d'être cité par ces outils, tout en continuant à valoriser le SEO traditionnel. Le GEO complète le SEO sans le remplacer, marquant un changement significatif dans le comportement des acheteurs. L’article Le guide provisoire du GEO pour le B2B en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/21/le-guide-provisoire-du-geo-pour-le-b2b-en-2026/",
+      "pubDate": "2026-05-21T10:25:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/guide-provioire-geo-B2B.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b0999c8644d1",
+      "title": "ssh-keysign-pwn - La faille kernel Linux cachée depuis 9 ans",
+      "description": "Une faille planquée pendant 9 ans dans le noyau Linux, voilà ce que les chercheurs de Qualys viennent de déterrer. Son petit nom, c'est ssh-keysign-pwn ou DirtyDecrypt (CVE-2026-46333 pour les intimes), et elle permet à n'importe quel utilisateur local sans privilèges de passer root, de lire votre /etc/shadow et de piquer les clés SSH privées de votre serveur. Et ce bug dormait là depuis novembre 2016, c'est-à-dire depuis la version 4.10 du kernel. Personne ne l'avait jamais vu et autant vous…",
+      "link": "https://korben.info/faille-kernel-linux-ssh-keysign-pwn.html",
+      "pubDate": "2026-05-21T10:21:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-kernel-linux-ssh-keysign-pwn/faille-kernel-linux-ssh-keysign-pwn-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "17e2e478eb8d",
+      "title": "Voilà le MacBook Neo le plus rapide du monde",
+      "description": "Sur les sites de benchmark, une petite course s'est lancée autour du MacBook Neo, le portable le moins cher d'Apple. Le but : trouver qui arrivera à le faire tourner le plus vite possible. Et un bricoleur, Salem Techsperts, a brièvement décroché le titre de MacBook Neo le plus rapide du monde, vidéo à l'appui pour montrer comment il s'y est pris. Le MacBook Neo embarque une puce A18, la même famille que celle qui équipe les iPhone. Et comme tous les appareils mobiles, son ennemi numéro un,…",
+      "link": "https://korben.info/voila-le-macbook-neo-le-plus-rapide-du-monde.html",
+      "pubDate": "2026-05-21T09:10:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/voila-le-macbook-neo-le-plus-rapide-du-monde/voila-le-macbook-neo-le-plus-rapide-du-monde-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cb83caab2821",
+      "title": "Aller plus vite sans aller dans le mur : le cadrage design à l'ère de l'IA (partie 1/2)",
+      "description": "L'IA structure vite, synthétise proprement, et peut embarquer un projet entier dans la mauvaise direction. Retour d'expérience de 3 Product Designers Seniors sur un an de pratique IA en cadrage : ce qui accélère, ce qui dérive, et pourquoi le designer reste le seul filet qui compte.",
+      "link": "https://blog.octo.com/octo-article-de-blog-22",
+      "pubDate": "2026-05-21T08:55:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bae14b510e84",
       "title": "Ce PC contient 13 écrans cachés qui diffusent 15 000 GIF en boucle",
       "description": "Un internaute connu sous le pseudo Several-Bar-6512 a transformé son PC de jeu en quelque chose qui n'a pas d'équivalent : à l'intérieur du boîtier, treize écrans diffusent en boucle plus de 15 000 GIF animés. Pas de RGB clignotant classique. Des écrans. Partout. Le chiffre derrière le projet donne le vertige. Le bricoleur a d'abord téléchargé plus de 17 000 GIF, puis a passé environ 200 heures à les trier, les recadrer, ajuster leur format, leur vitesse d'animation et leur boucle, pour arriver…",
@@ -77,6 +354,22 @@
       "type": "blog"
     },
     {
+      "id": "ad87566f2504",
+      "title": "🖥️ Construire une TUI en Java avec TamboUI",
+      "description": "Tout le monde peut cuisiner ! ©Gusteau",
+      "link": "https://philippart-s.github.io/blog/2026-05-21-tamboui-tui/",
+      "pubDate": "2026-05-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/2026-05-21-tamboui-tui/cover.svg",
+      "type": "blog"
+    },
+    {
       "id": "015570522fdc",
       "title": "J'ai collé un autocollant de raccourcis macOS sur mon Mac, et c’est génial (existe pour Windows aussi !)",
       "description": "– Contient des liens affiliés Amazon – Je suis tombé sur un accessoire à moins de 10 euros qui ne paie pas de mine, et que j'utilise pourtant tous les jours depuis que je l'ai reçu. C'est un simple autocollant. Un carré de vinyle transparent d'environ 8 cm de côté, qui liste les raccourcis clavier essentiels de macOS et se colle dans le coin de votre MacBook.",
@@ -134,6 +427,21 @@
         "Web"
       ],
       "image": "https://korben.info/google-cloud-debranche-railway-sans-prevenir/google-cloud-debranche-railway-sans-prevenir-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0f02b490657f",
+      "title": "FrankenPHP en dev : un worker chaud, trois --watch empilés, et un cert qui ne demande rien",
+      "description": "Découvrez FrankenPHP en développement : un worker chaud, trois mécanismes de hot reload empilés et un certificat automatique. Comprenez comment FrankenPHP fonctionne et ce que ses fonctionnalités offrent côté développement.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-dev-un-worker-chaud-trois-watch-empiles-et-un-cert-qui-ne-demande-rien",
+      "pubDate": "2026-05-20T11:05:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {

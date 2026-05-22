@@ -2,6 +2,62 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "03e0e0ace490",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "description": "",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "pubDate": "2026-05-21T19:46:42.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+      "type": "blog"
+    },
+    {
+      "id": "797a4ffbe777",
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "description": "MagenticLite is an agentic system for small models that works across the browser and local file system in a single workflow. It combines specialized models and orchestration to support efficient agentic performance on everyday tasks. The post MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "pubDate": "2026-05-21T17:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/MagenticLite-Fill-Expenses-Forms-Final-Demo.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "396f8c276945",
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "description": "Vega turns a full credential into a single proof, sharing only what is needed and nothing more, with performance that works in real apps. The post Vega: Zero-knowledge proofs for digital identity in the age of AI appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai/",
+      "pubDate": "2026-05-21T13:48:40.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/VEGA-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "57b488d288c2",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "link": "https://openai.com/index/adventhealth",
+      "pubDate": "2026-05-21T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2SyV42dJu9Qxe9mQyiIkXo/d8eb4d513aea9968e097e85ae7e9dee1/oai_AdventHealth_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "3a4b4f193d08",
       "title": "We’re announcing new community investments in Missouri.",
       "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
