@@ -2,6 +2,90 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cf2c701f4b43",
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "pubDate": "2026-05-23T00:02:03.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png",
+      "type": "blog"
+    },
+    {
+      "id": "b475ea5fd116",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "description": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "pubDate": "2026-05-22T18:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f2dfd449bf42",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "pubDate": "2026-05-22T15:25:59.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/specialization-beats-scale.png",
+      "type": "blog"
+    },
+    {
+      "id": "bc79b84ae366",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fabc6ef2e876",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "link": "https://openai.com/index/virgin-atlantic",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2gCDMlpfyFZVDZ9FjvBEVV/f54b0a2f700b297b86ba435388215932/virgin-atlantic-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9d44573c198f",
+      "title": "May 22, 2026AnnouncementsProject Glasswing: An initial update",
+      "description": "May 22, 2026AnnouncementsProject Glasswing: An initial update",
+      "link": "https://www.anthropic.com/research/glasswing-initial-update",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "03e0e0ace490",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "description": "",

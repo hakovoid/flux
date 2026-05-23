@@ -2,6 +2,204 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b54e4d9286b7",
+      "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
+      "description": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est la boutique alternative qui installe des apps qu'Apple ne veut pas sur son store, sans jailbreak et pour l'utiliser jusqu'ici, il fallait garder un Mac ou un PC allumé avec AltServer pour réinstaller vos apps tous les 7 jours.",
+      "link": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur.html",
+      "pubDate": "2026-05-23T06:22:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/altstore-sideloading-iphone-sans-ordinateur/altstore-sideloading-iphone-sans-ordinateur-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4ae6000f4bc0",
+      "title": "Tomb Raider 1-3 Remastered - gratuit sur Epic jusqu'au 28 mai",
+      "description": "Aspyr et Crystal Dynamics lâchent en ce moment la trilogie Tomb Raider I-III Remastered gratuitement sur l'Epic Games Store , soit 0€ au lieu de 26,99€. Vous pouvez donc récupérer les trois premières aventures de Lara Croft, celles que Core Design a pondues entre 1996 et 1998, remasterisées comme il faut et les garder pour toujours, même quand il repassera payant. Filez sur la page Epic, cliquez sur Obtenir, et hop, c'est réglé. Et ne traînez pas, parce que l'offre s'arrête le 28 mai et après…",
+      "link": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic.html",
+      "pubDate": "2026-05-23T05:50:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tomb-raider-1-3-remastered-gratuit-epic/tomb-raider-1-3-remastered-gratuit-epic-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a9c79c47cb69",
+      "title": "Ce kit de phishing ouvre les comptes Microsoft 365 sans voler le mot de passe",
+      "description": "Voler un mot de passe ? C'est presque devenu accessoire. Le FBI a lancé une alerte sur Kali365, un kit de piratage qui s'introduit dans les comptes Microsoft 365 d'une entreprise sans jamais avoir besoin du mot de passe, ni du fameux code de la double authentification. La protection que beaucoup imaginent solide ne sert plus à grand-chose ici. Hélas. Kali365 n'est pas un virus classique. C'est ce qu'on appelle un kit de phishing en location : un service clé en main, vendu un peu comme un…",
+      "link": "https://korben.info/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe.html",
+      "pubDate": "2026-05-22T13:55:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe/ce-kit-de-phishing-ouvre-les-comptes-microsoft-365-sans-voler-le-mot-de-passe-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "33d415a2eb87",
+      "title": "Arnaque téléphonique - Micode infiltre le réseau d'escrocs",
+      "description": "Micode vient de lâcher une enquête de presque 50 minutes que vous devriez vraiment regarder, et je la relaie parce qu'elle est d'intérêt public. Avec son équipe, il a infiltré pendant des mois le réseau derrière ces appels qui vous harcèlent plusieurs fois par jour, ces numéros en 0162 que l'Arcep réserve au démarchage et que les escrocs détournent allègrement. Genre les faux remboursements de 170 € soi-disant liés à l'inflation ou aux chèques énergie.",
+      "link": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode.html",
+      "pubDate": "2026-05-22T13:19:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arnaque-telephonique-faux-remboursement-enquete-micode/arnaque-telephonique-faux-remboursement-enquete-micode-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4b87b70a376a",
+      "title": "Amazon lâche les vieux Kindle - Comment reprendre la main ?",
+      "description": "Depuis quelques jours, les Kindle sortis en 2012 ou avant ont perdu l'accès à la boutique Amazon : plus d'achat, plus d'emprunt, plus de téléchargement, vous gardez bien sûr les bouquins déjà chargés sur l'appareil, mais c'est tout. Alors est-ce qu'on chiale comme des petits fragiles victimes d'Amazon ?? Bah non parce que la communauté KindleModding documente depuis des années comment reprendre la main sur ces liseuses, et leur wiki tombe à pic !",
+      "link": "https://korben.info/jailbreak-kindle-kindlemodding.html",
+      "pubDate": "2026-05-22T13:10:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jailbreak-kindle-kindlemodding/jailbreak-kindle-kindlemodding-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a09d9490ebfe",
+      "title": "Fabriquer un circuit imprimé sans aucun logiciel, juste avec un marqueur",
+      "description": "Un bricoleur connu sous le pseudo ALTco a fabriqué un circuit imprimé sans toucher au moindre logiciel. Pas de conception sur ordinateur, pas de commande envoyée à une usine. Juste un marqueur, une plaque de cuivre et un bain chimique. Rien d'autre. La méthode date d'avant l'informatique, et elle fonctionne toujours aussi bien. Le circuit imprimé, c'est cette plaque qu'on trouve dans absolument tous les appareils électroniques : sur sa surface courent de fines pistes de cuivre qui relient les…",
+      "link": "https://korben.info/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur.html",
+      "pubDate": "2026-05-22T11:18:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur/fabriquer-un-circuit-imprime-sans-aucun-logiciel-juste-avec-un-marqueur-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "363923d290a2",
+      "title": "Casio F-91W - Comment régler et utiliser la montre culte ?",
+      "description": "Cet article contient des liens affiliés Bon, vous le savez, j'utilise mon site aussi comme un pense-bête. Et comme je viens de me racheter une nouvelle montre, j'en profite pour me faire mon petit mode d'emploi, rien qu'à moi. Donc je suis au regret de vous annoncer que cet article ne vous intéressera pas du tout ^^, sauf si vous avez la même montre évidemment...",
+      "link": "https://korben.info/casio-f-91w-reglage-utilisation.html",
+      "pubDate": "2026-05-22T11:05:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/casio-f-91w-reglage-utilisation/casio-f-91w-reglage-utilisation-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "660f20a45e9b",
+      "title": "Il a recréé la veste à écran de Cyberpunk 2077",
+      "description": "Dans le jeu Cyberpunk 2077, un des vêtements qui marquent l'environnement visuel, c'est cette veste avec un petit écran intégré dans le col, qui diffuse des images en boucle. Un objet purement décoratif du jeu, le genre de détail qui pose l'ambiance futuriste sans qu'on puisse vraiment l'avoir. Sauf qu'un bidouilleur connu sous le pseudo Zibartas a décidé qu'il en voulait une, pour de vrai. Il l'a fabriquée. Et le résultat colle de très près au modèle vu dans le jeu.",
+      "link": "https://korben.info/il-a-recree-la-veste-a-ecran-de-cyberpunk-2077.html",
+      "pubDate": "2026-05-22T11:02:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-a-recree-la-veste-a-ecran-de-cyberpunk-2077/il-a-recree-la-veste-a-ecran-de-cyberpunk-2077-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "06bca7f3eacc",
+      "title": "Refonte de l'UI de GroROTI",
+      "description": "Si vous lisez régulièrement ce blog et mes aventures sur les réseaux sociaux, vous savez que j’aime énormément l’infrastructure, un peu le code backend (surtout en Golang), mais que dès qu’il s’agit de concevoir une interface graphique moderne et agréable, il n’y a plus personne. C’est un fait établi, je n’ai aucune compétence en développement front. Dommage pour les offres FullSteak (jeu de mot pourri, mais plutôt approprié ici). C’est exactement ce qui pénalisait GroROTI, un petit outil web…",
+      "link": "https://blog.zwindler.fr/2026/05/22/refonte-ui-groroti/",
+      "pubDate": "2026-05-22T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/roti-avant-apr%C3%A8s.webp",
+      "type": "blog"
+    },
+    {
+      "id": "21227f70f400",
+      "title": "Redéfinir le \"bien travailler\" dans un monde saturé d’outils",
+      "description": "Efficacité, performance… L’intelligence artificielle et nos outils nous promettent tout. Pourtant, ils créent des paradoxes. Voici 5 pistes pour repenser le ‘bien travailler’ aujourd’hui.",
+      "link": "https://blog.octo.com/redefinir-le-bien-travailler-dans-un-monde-sature-d'outils",
+      "pubDate": "2026-05-22T09:48:13.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3be113a7bd38",
+      "title": "Ce petit gadget DIY vous prédit l'avenir quand vous le secouez",
+      "description": "Le maker connu sous le pseudo gokux a fabriqué un objet aussi inutile que mignon : un fortune cookie électronique. Vous le secouez, et il affiche une prédiction sur son petit écran. Voilà, c'est tout. Et c'est très bien comme ça. Sous le capot, c'est un condensé de composants accessibles. Le cerveau, c'est un Seeed Xiao ESP32-S3 Plus, un microcontrôleur minuscule, autrement dit une puce programmable qui fait tourner le tout.",
+      "link": "https://korben.info/ce-petit-gadget-diy-vous-predit-lavenir-quand-vous-le-secouez.html",
+      "pubDate": "2026-05-22T08:44:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ce-petit-gadget-diy-vous-predit-lavenir-quand-vous-le-secouez/ce-petit-gadget-diy-vous-predit-lavenir-quand-vous-le-secouez-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "5c3d6901ee92",
+      "title": "Boring Notch - L'encoche du MacBook devient enfin utile !",
+      "description": "Depuis 2021, Apple colle une encoche en haut des écrans de MacBook et n'en fait à peu près rien. C'est juste une zone sombre pour cacher la caméra et qui mange la barre des menus. Heureusement, l'équipe TheBoredTeam a décidé que ça suffisait et vient de sortir boring.notch , une app gratuite et open source qui transforme ce trou noir en un vrai centre de contrôle dynamique, dans l'esprit de la Dynamic Island de l'iPhone.",
+      "link": "https://korben.info/boring-notch-encoche-macbook.html",
+      "pubDate": "2026-05-22T07:58:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/boring-notch-encoche-macbook/boring-notch-encoche-macbook-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "53b7615f5486",
+      "title": "Les clés API Google encore en vie même après leur suppression",
+      "description": "Vous supprimez une clé API Google qui a fuité , et l'interface vous confirme que c'est bien réglé, que la clé ne fonctionne plus. Alors vous commencez à vous détendre en vous disant que vous avez bien fait votre boulot. BAH NAN ! Car vous ne le savez pas, mais cette clé va continuer de fonctionner encore durant 23 minutes. C'est en tout cas ce qu'ont mesuré les chercheurs d'Aikido Security en testant ce truc tout bête de révoquer une clé, puis de taper sur l'API en boucle pour voir quand ça…",
+      "link": "https://korben.info/cles-api-google-actives-apres-suppression.html",
+      "pubDate": "2026-05-22T07:43:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/cles-api-google-actives-apres-suppression/cles-api-google-actives-apres-suppression-2.png",
+      "type": "blog"
+    },
+    {
       "id": "6e03dae401b5",
       "title": "Une console rétro \"Lenovo\" à 72 dollars, bourrée de ROMs Nintendo piratées",
       "description": "Une console de jeu portable estampillée Lenovo est apparue sur AliExpress à environ 72 dollars, et elle a un détail embarrassant : elle est livrée avec des milliers de jeux Nintendo piratés préinstallés. Le genre de produit qu'on prendrait pour une contrefaçon. Sauf que non. Interrogé sur cette G02, Lenovo a confirmé que la console est bien officielle. C'est ce qu'on appelle un produit en marque blanche : Lenovo n'a pas conçu l'appareil, mais a accordé une licence d'utilisation de son nom à un…",
@@ -96,6 +294,37 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/images/conferences/devopsdays-geneve-2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e7506c296f54",
+      "title": "Tangled - une alternative à GitHub sur AT Protocol",
+      "description": "Avec la chute progressive de GitHub, on voit de plus en plus de messages d’entreprises ou de projets qui cherchent à en sortir. Au-delà de l’hébergement d’un simple service Git, GitHub, c’était aussi une plateforme de réseau social. Les développeurs partagent leur code, et on y découvre de nouveaux projets. C’est devenu au fur et à mesure des années le lieu où l’Open Source vit (bien que le code source de GitHub lui-même soit fermé, un comble !). Tangled se pose comme une alternative à GitHub :…",
+      "link": "https://codeka.io/2026/05/22/tangled/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
+      "id": "096cd8c42300",
+      "title": "EasyAdmin : quand un seul trait configure quatre CRUDs",
+      "description": "Structurer les champs de quatre entités partagées avec EasyAdmin. Quatre CRUDs pour Post, Page, Category et Series. Mutualisation en trait PHP pour éviter le copier-coller. FormField, tabs et fieldsets au service de la maintenabilité.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-quand-un-seul-trait-configure-quatre-cruds",
+      "pubDate": "2026-05-21T17:38:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
