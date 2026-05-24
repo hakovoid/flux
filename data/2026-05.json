@@ -32,6 +32,21 @@
       "type": "blog"
     },
     {
+      "id": "e27359654531",
+      "title": "La meilleure technologie, c'est celle que l'équipe maîtrise",
+      "description": "Lorsque l’on doit résoudre un problème technique, il est tentant de chercher la solution la plus adaptée. Celle qui répond le mieux aux contraintes identifiées. Pourtant, il peut arriver que la meilleure technologie ne soit pas celle qui colle parfaitement au problème. Choisir une technologie, c’est prendre en compte plusieurs facteurs tels que: les compétences de l’équipe, le temps disponible et la tolérance au risque du projet. Quand les délais sont contraints, le choix doit l’être aussi. La…",
+      "link": "https://www.jdecool.fr/blog/2026/05/23/la-meilleure-technologie-c-est-celle-que-l-equipe-maitrise.html",
+      "pubDate": "2026-05-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "a9c79c47cb69",
       "title": "Ce kit de phishing ouvre les comptes Microsoft 365 sans voler le mot de passe",
       "description": "Voler un mot de passe ? C'est presque devenu accessoire. Le FBI a lancé une alerte sur Kali365, un kit de piratage qui s'introduit dans les comptes Microsoft 365 d'une entreprise sans jamais avoir besoin du mot de passe, ni du fameux code de la double authentification. La protection que beaucoup imaginent solide ne sert plus à grand-chose ici. Hélas. Kali365 n'est pas un virus classique. C'est ce qu'on appelle un kit de phishing en location : un service clé en main, vendu un peu comme un…",

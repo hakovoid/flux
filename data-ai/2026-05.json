@@ -86,6 +86,20 @@
       "type": "blog"
     },
     {
+      "id": "67fdc77c9137",
+      "title": "Emmi joins Mistral to accelerate the AI-native industry",
+      "description": "Emmi joins Mistral to accelerate the AI-native industry",
+      "link": "https://mistral.ai/news/accelerate-ai-native-industry",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
       "id": "03e0e0ace490",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "description": "",
