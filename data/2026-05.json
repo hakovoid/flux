@@ -2,6 +2,86 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "23b31478a720",
+      "title": "#290.exe - Dev interne: L'ombre de la tech par Alexandre Gerlic",
+      "description": "Pour l'épisode #290 je recevais Jean-Baptiste Ronssin. On en débrief avec Alexandre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-290-8491fa5d8907",
+      "pubDate": "2026-05-25T03:00:39.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/786afae6-2d40-42e5-a042-8491fa5d8907.mp3?_=1779624039",
+      "duration": "12:04"
+    },
+    {
+      "id": "1a0a8dafb73e",
+      "title": "Augmentation des performances de la RIB d'Akvorado grâce au sharding",
+      "description": "Pour associer des informations de routage, telles que les chemins d’AS ou les communautés , aux flux, peut importer des routes via le (). Comme la table de routage Internet contient plus d’, Akvorado doit . C’est un défi de longue date, mais je pense que ce problème est désormais résolu grâce au , une méthode qui découpe la base de routage en plusieurs parties afin de permettre les mises à jour concurrentes.BGPBMPAkvorado Monitoring ProtocolBGPun million de routesgérer des dizaines de millions…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-akvorado-rib-sharding",
+      "pubDate": "2026-05-24T19:00:00.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/akvorado/sharding-before.6657877be051e0.svg",
+      "type": "blog"
+    },
+    {
+      "id": "a3183d949bd2",
+      "title": "Test de CKE, le Kubernetes managé chez Clever Cloud (partie 2 - stockage)",
+      "description": "Rappel de la partie 1 Dans la partie 1, on avait vu comment créer un cluster CKE, parcouru son anatomie (Exherbo Linux, Cilium, Materia etcd, konnectivity…), mesuré les temps de boot (~57s pour le control plane, excellent), testé les NodeGroups, et activé le CSI. Dans cette deuxième partie, on va creuser ce qui touche au stockage et à des cas d’usages “un peu” avancés : cycle de vie des volumes, resize online, snapshots, et déploiement de vCluster avec données persistantes. Activer le CSI et…",
+      "link": "https://blog.zwindler.fr/2026/05/24/test-cke-kubernetes-manage-clever-cloud-partie-2/",
+      "pubDate": "2026-05-24T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/logo-cke2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cc8136a55572",
+      "title": "Muxcard - Un ordinateur fin comme une carte bancaire",
+      "description": "L'expert en électronique connu sous le pseudo de Krauseler s'est mis en tête un truc que la plupart des ingénieurs auraient lâché au bout d'une semaine, à savoir fabriquer un vrai ordinateur qui tient dans le format exact d'une carte bancaire. Et pas \"à peu près la taille d'une carte\" comme on dit tous pour un Raspberry Pi, non, non, la vraie norme ISO 7810, 85 mm sur 54, et surtout l'épaisseur, soit moins d'un millimètre. Sa Muxcard, il l'a sorti tout seul, chez lui, après des mois de…",
+      "link": "https://korben.info/muxcard-ordinateur-taille-carte-bancaire.html",
+      "pubDate": "2026-05-24T08:25:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/muxcard-ordinateur-taille-carte-bancaire/muxcard-ordinateur-taille-carte-bancaire-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1473ac5f7e3b",
+      "title": "Déposer une facture sur Chorus Pro",
+      "description": "Déposer une facture sur Chorus Pro {align=right} Si vous êtes une TPE ou une PME et que vous travaillez avec des grosses structures, vous vous êtes très probablement déjà retrouvé face à l'obligation de déposer votre facture sur la plateforme Chorus Pro.",
+      "link": "https://www.microlinux.fr/blog/chorus-pro/",
+      "pubDate": "2026-05-24T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/chorus-logo.png",
+      "type": "blog"
+    },
+    {
       "id": "b54e4d9286b7",
       "title": "AltStore Classic permet enfin de sideloader des apps sur son iPhone sans ordinateur",
       "description": "Riley Testut et Shane Gill viennent de sortir une bêta d' AltStore Classic (la 2.3b1 ), qui supprime enfin le besoin d'avoir un ordinateur pour sideloader des apps sur iPhone. AltStore, pour ceux qui débarquent, c'est la boutique alternative qui installe des apps qu'Apple ne veut pas sur son store, sans jailbreak et pour l'utiliser jusqu'ici, il fallait garder un Mac ou un PC allumé avec AltServer pour réinstaller vos apps tous les 7 jours.",
@@ -44,6 +124,21 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "15df5f404b02",
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "pubDate": "2026-05-22T16:38:42.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -611,6 +706,21 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/2026-05-21-tamboui-tui/cover.svg",
+      "type": "blog"
+    },
+    {
+      "id": "c07f40449882",
+      "title": "Sommes-nous à l'ère du code de merde ?",
+      "description": "Il n’y a pas un jour sans qu’on découvre en ce moment une faille de sécurité majeure ou une fuite de données quelque part.",
+      "link": "https://eventuallycoding.com/p/sommes-nous-a-l-ere-du-code-de-merde",
+      "pubDate": "2026-05-21T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1779385294823-sr0yejx.png",
       "type": "blog"
     },
     {
