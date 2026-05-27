@@ -2,6 +2,284 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ff6a14d83742",
+      "title": "Pax Historia - Le jeu IA qui vous laisse réécrire l'Histoire",
+      "description": "C'est mon plus jeune fils qui m'a fait découvrir ça un soir, et comme j'ai trouvé ça top, bah je vous en parle. C'est un jeu web nommé Pax Historia et ça a été créé par deux colocataires de fac, Eli Bullock-Papa et Ryan Zhang, sur un coin de table durant un hackathon. Et ce n'est ni plus ni moins qu'un bac à sable d'histoire alternative où c'est une IA qui fait vivre le monde autour de vous, un peu comme à son époque, \" Un monde meilleur \" de FibreTigre.",
+      "link": "https://korben.info/paxhistoria-jeu-ia-uchronie-strategie.html",
+      "pubDate": "2026-05-27T07:25:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/paxhistoria-jeu-ia-uchronie-strategie/paxhistoria-jeu-ia-uchronie-strategie-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "dd7ac9019d5a",
+      "title": "#358.src - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu avec Tugdual Grall",
+      "description": "\"La plupart des développeurs ne sont pas des experts en sécurité. On nous demande de développer de plus en plus de choses.\" Le D.E.V. de la semaine est Tugdual Grall, Copilot Specialist chez GitHub. Dans cet épisode, Tug revient sur la façon dont l'IA et l'automatisation bouleversent notre rapport à la sécurité applicative. Il évoque la nécessité de former tous les développeurs à des réflexes DevSecOps, l'importance de l'automatisation pour rester à jour face à la complexité croissante et la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-358-15f4f5b20d70",
+      "pubDate": "2026-05-27T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4a09f082-a3d9-4761-85a5-edfc507af6c1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a1f6ef9d-c10f-41c6-986d-15f4f5b20d70.mp3?_=1779796937",
+      "duration": "56:15"
+    },
+    {
+      "id": "9b3a392244e7",
+      "title": "10 weird OSS projects you need right now...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=qPuzWFvRajk",
+      "pubDate": "2026-05-26T17:53:11.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fded57b2ca96",
+      "title": "256 cœurs et 2 nanomètres - AMD met en production son serveur monstre Epyc Venice",
+      "description": "256 cœurs CPU sur une seule puce. C'est ce que propose le nouvel Epyc Venice d'AMD, sixième génération de son processeur pour serveurs, dont la production de masse vient de démarrer chez le fondeur taïwanais TSMC. Détail technique remarquable, c'est le tout premier processeur destiné au calcul haute performance (HPC, ces machines géantes qui font tourner les simulations climatiques, les modèles d'IA ou les calculs de chimie quantique) à être gravé sur le nœud de fabrication 2 nanomètres de…",
+      "link": "https://korben.info/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice.html",
+      "pubDate": "2026-05-26T16:12:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice/256-coeurs-et-2-nanometres-amd-met-en-production-son-serveur-monstre-epyc-venice-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e028da736188",
+      "title": "L'Italie démantèle Cinemagoal, l'énorme appli de streaming pirate",
+      "description": "Le fisc italien a frappé fort il y a quelques jours. La Guardia di Finanza, sous la direction du parquet de Bologne, vient de démanteler un réseau de piratage de streaming baptisé Cinemagoal, dans une opération nommée \"Tutto Chiaro\" (tout clair, en italien). Plus de 100 perquisitions ont été menées dans 17 régions du pays, plus des saisies coordonnées en France et en Allemagne via Eurojust (l'agence européenne qui coordonne les enquêtes judiciaires entre pays de l'UE). Joli coup de filet.",
+      "link": "https://korben.info/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate.html",
+      "pubDate": "2026-05-26T16:05:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate/litalie-demantele-cinemagoal-lenorme-appli-de-streaming-pirate-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0aa49dbd5dbc",
+      "title": "Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026",
+      "description": "Cet article présente une interview de Sundar Pichai, CEO de Google, qui aborde l'impact croissant de l'IA dans les entreprises et son évolution. Pichai souligne les préoccupations autour de l'acceptation de l'IA, la nécessité d'une réglementation, et l'accélération du codage assisté par IA. Les défis et les opportunités liés à cette transformation technologique sont discutés. L’article Où va Google ? Interview intégrale de Sundar Pichai, CEO de Google – Mai 2026 est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/05/26/ou-va-google-interview-integrale-de-sundar-pichai-ceo-de-google/",
+      "pubDate": "2026-05-26T15:54:33.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/sundar-pichai.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bfd342fd1283",
+      "title": "Le firmware Linux manquant des laptops HP Panther Lake vient enfin d'arriver",
+      "description": "Si vous venez d'acheter un portable HP équipé d'un Intel Core Ultra Series 3 (nom de code Panther Lake) et que vous y faites tourner Linux, vous allez accueillir cette nouvelle avec une certaine satisfaction. Intel et HP ont enfin poussé le firmware nécessaire à l'activation du fameux Integrated Sensor Hub dans linux-firmware.git, le dépôt officiel utilisé par à peu près toutes les distributions Linux du marché. Petite mise en contexte quand même... Vous le savez, le firmware, c'est le tout…",
+      "link": "https://korben.info/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver.html",
+      "pubDate": "2026-05-26T15:50:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver/le-firmware-linux-manquant-des-laptops-hp-panther-lake-vient-enfin-darriver-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "46df5aefdc36",
+      "title": "Outlook se met à perdre les images dans vos mails, Microsoft confirme le bug",
+      "description": "Si vous avez remarqué récemment que les logos de vos correspondants pros sont remplacés par une vilaine croix rouge dans Outlook, ou pire, que certaines pièces visuelles disparaissent purement et simplement de vos mails, ce n'est ni votre antivirus ni votre connexion. The Register a sorti le sujet la semaine dernière, et Microsoft a fini par confirmer un bug introduit dans la version 2604 (Build 19929.20164) de Classic Outlook, qui fait planter l'affichage de certaines images dans les emails.",
+      "link": "https://korben.info/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug.html",
+      "pubDate": "2026-05-26T15:27:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug/outlook-se-met-a-perdre-les-images-dans-vos-mails-microsoft-confirme-le-bug-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5e94c75ffd3",
+      "title": "Découvrir VueUse : la boîte à outils indispensable pour Vue.js",
+      "description": "Découvrez VueUse, une collection de composables ultra pratiques pour Vue.js. Géolocalisation, presse-papiers, gamepads, état du réseau… gagnez du temps avec useClipboard, useGeolocation, useNetwork et useGamepad.",
+      "link": "https://code-garage.com/blog/decouvrir-vueuse-la-boite-a-outils-indispensable-pour-vuejs",
+      "pubDate": "2026-05-26T15:15:39.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Chat_GPT_Image_22_mai_2026_11_47_28_6b049842fe.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ce86c86e41d9",
+      "title": "Bambu Lab épinglé pour violation de licence open source depuis quatre ans",
+      "description": "C'est la Software Freedom Conservancy (SFC), l'ONG américaine qui défend les licences libres, qui a sorti l'affaire. Bambu Lab, l'un des plus gros fabricants d'imprimantes 3D grand public du moment, viole l'AGPLv3 depuis environ quatre ans selon l'organisation. Pas qu'un peu donc. Pour comprendre l'histoire, il faut savoir que Bambu Studio, le slicer maison de la marque (c'est le logiciel qui transforme un modèle 3D en instructions de découpage pour l'imprimante), est en réalité un dérivé de…",
+      "link": "https://korben.info/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans.html",
+      "pubDate": "2026-05-26T15:03:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans/bambu-lab-epingle-pour-violation-de-licence-open-source-depuis-quatre-ans-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a1b6f655ece4",
+      "title": "Philips sort un moniteur avec un écran de chaque côté, et c'est pas idiot",
+      "description": "Un écran de 24 pouces autonome avec une dalle Full HD 120 Hz... des deux côtés. Voilà ce que propose le Philips 24B2D5300, repéré par TechSpot sur la boutique en ligne UK du constructeur, et que la marque revendique comme une première mondiale dans la catégorie des moniteurs. La machine sera disponible en juin pour 359 livres sterling, soit environ 420 euros. Posons d'abord la question évidente : à quoi ça peut bien servir ? L'idée, ce n'est pas de jouer à deux ou de regarder deux films en même…",
+      "link": "https://korben.info/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot.html",
+      "pubDate": "2026-05-26T14:16:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot/philips-sort-un-moniteur-avec-un-ecran-de-chaque-cote-et-pas-idiot-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3feb13ddf0ac",
+      "title": "AFUP Day 2026 Paris, retour sur une journée dans l'écosystème PHP",
+      "description": "Ce vendredi 22 mai 2026, l'équipe JoliCode était présente à l'AFUP Day 2026 Paris à l'ESGI Paris pour une journée de conférences. L'ambiance était conviviale et studieuse, avec un programme axé sur l'IA, l'architecture et la productivité. Nous avons eu l'honneur de présenter deux sujets, Loïck Piera sur Castor 🦫 et Grégoire Pineau sur Symfony IA. Les temps forts techniques Le programme a couvert des thématiques essentielles qui font évoluer nos pratiques au quotidien, et a aussi rappelé…",
+      "link": "https://jolicode.com/blog/afup-day-2026-paris-retour-sur-une-journee-dans-l-ecosysteme-php",
+      "pubDate": "2026-05-26T13:30:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/afup-day/salle-conference.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "be311597cfc2",
+      "title": "Windows 11 distancé par Ubuntu sur le monstrueux Ryzen 9 9950X3D2 d'AMD",
+      "description": "Nos confrères de chez Phoronix ont publié un comparatif des performances du tout nouveau Ryzen 9 9950X3D2 d'AMD sous deux systèmes : Windows 11 et Ubuntu 26.04 LTS. Le verdict est sans appel, Linux prend une avance très nette sur Windows sur la majorité des charges de travail testées. Petit point pour ceux qui décrochent dès qu'on parle de processeur. Le 9950X3D2, c'est une variante Dual Edition du processeur haut de gamme d'AMD pour le grand public. Elle embarque 16 cœurs, 32 threads, et…",
+      "link": "https://korben.info/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd.html",
+      "pubDate": "2026-05-26T11:31:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd/windows-11-distance-par-ubuntu-sur-le-monstrueux-ryzen-9-9950x3d2-damd-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f16b1d3a256",
+      "title": "Zoom sur OpenAI et CODEX avec notre invité surprise !",
+      "description": "Depuis ChatGPT, puis Claude et Codex, la manière même dont nous concevons les applications est en pleine mutation. Avec des modèles qui s'améliorent de façon spectaculaire toutes les 5 semaines, quelle est la véritable place du développeur humain face à la machine? Jusqu’où l’IA va-t-elle augmenter les développeurs? Que manque-t-il pour que les agents codent tout seul? Dans ce nouvel épisode de A La French, on s'attaque à l'impact de l'IA générative et des agents autonomes sur la création de…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a156f8b6ee822cbfbe4fc45",
+      "pubDate": "2026-05-26T10:02:18.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1779788567297-9189e3c6-f46a-40c1-84e4-af656cac6cd3.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a156f8b6ee822cbfbe4fc45/media.mp3",
+      "duration": "1:29:37"
+    },
+    {
+      "id": "f26163a03a9e",
+      "title": "Harnessing des agents : 9 pratiques venant du logiciel",
+      "description": "C’est dans les vieux pots que l’on fait les meilleures soupes, cet article est un plaidoyer pour ne pas oublier les bonnes pratiques du logiciel mais plutôt les utiliser et les adapter pour maximiser l’impact des agents de code.",
+      "link": "https://blog.octo.com/harnessing-des-agents--9-pratiques-venant-du-logiciel",
+      "pubDate": "2026-05-26T09:28:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0105c655b420",
+      "title": "Heretic - Virer la censure d'une IA en une commande",
+      "description": "Y'a des entreprises qui claquent des millions pour bien aligner leurs modèles d'IA afin qu'ils refusent toutes les questions sensibles qui font flipper nos amis puritains d’outre-Atlantique et y'a Heretic , un outil signé Philipp Emanuel Weidmann, qui balaye toute censure sur n'importe quel modèle en moins de 30 minutes avec une simple carte graphique de gamer. Je vous explique... Vous devez avoir Python et une version récente de PyTorch sur votre machine, puis vous tapez pip install…",
+      "link": "https://korben.info/heretic-decensure-modeles-ia.html",
+      "pubDate": "2026-05-26T08:08:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/heretic-decensure-modeles-ia/heretic-decensure-modeles-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "750a09d1b5e5",
+      "title": "L'Event-Driven Architecture chez Octo : épisode 1, le pourquoi",
+      "description": "Un legacy de 13 ans à bichonner, une vingtaine d'applis à faire causer entre elles, et des SaaS externes à intégrer toujours plus vite. Pour sortir de la spaghetti d'APIs, on a misé sur l'Event-Driven Architecture. Premier article d'une série : on pose les bases, et on raconte comment ça nous a changé la vie côté process de recrutement.",
+      "link": "https://blog.octo.com/l-event-driven-architecture-chez-octo--episode-1-le-pourquoi",
+      "pubDate": "2026-05-26T07:50:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3f9120301b5f",
+      "title": "Quand les Motorola prennent une commission sur vos achats Amazon",
+      "description": "J'sais pas si vous avez vu, mais sur les Motorola Razr 2026, l'app maison Smart Feed intercepte le lancement de l'application Amazon pour y glisser en soumsoum un petit code d'affiliation. Comme ça, à chaque fois que vous tapez sur l'icône Amazon, votre clic se met à rapporter une commission à un compte tiers. Vous ne payez pas un centime de plus rassurez-vous, c'est le principe de l'affiliation, mais il me semble que c'est pas très réglo de ne pas le dire. En plus je pense que ça va à…",
+      "link": "https://korben.info/motorola-detourne-amazon-code-affiliation.html",
+      "pubDate": "2026-05-26T07:34:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/motorola-detourne-amazon-code-affiliation/motorola-detourne-amazon-code-affiliation-2.png",
+      "type": "blog"
+    },
+    {
       "id": "33d45a478ca9",
       "title": "Produit  and  IA : nouvelles organisations, et un \"Pourquoi\" plus vital que jamais",
       "description": "L’IA générative s’invite dans les pratiques Produit avec une promesse simple : aller plus vite. Mais derrière ce gain apparent, elle déplace surtout les points de friction de l’organisation. Ce n’est pas seulement notre manière de produire qui change ; c’est la répartition même de la valeur dans les équipes qui commence à bouger.",

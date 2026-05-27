@@ -2,6 +2,20 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "cd97e33f2d57",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "description": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "pubDate": "2026-05-26T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
       "id": "e60fa7207f6a",
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
