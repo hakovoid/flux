@@ -2,6 +2,118 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c6a7b34a0061",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "pubDate": "2026-05-27T17:20:29.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/QzGxABeEDggNYzvgSLQqU.png",
+      "type": "blog"
+    },
+    {
+      "id": "e082b2e7d303",
+      "title": "Extending Human Intelligence Through AI",
+      "description": "Understanding AI as an extension of human intelligence—not a replacement for it—offers a more grounded path for building trustworthy AI systems. The post Extending Human Intelligence Through AI appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai/",
+      "pubDate": "2026-05-27T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/ExtendingHIthroughAI-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c7affab7451e",
+      "title": "Building self-improving tax agents with Codex",
+      "description": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "pubDate": "2026-05-27T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3upo248JfOrgp0fahNLrkt/10f9e23a8be06e38fb21d29faf5e320d/SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "635db8ff3d72",
+      "title": "Election information and safeguards in 2026",
+      "description": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "link": "https://openai.com/index/election-safeguards-2026",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2dvhkO8Np9OWEp2HogwXgV/02e53a0aaad16044ed65fd0d8dc7a981/Election-information-and-safeguards-2026-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ddd2460e2a3b",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "link": "https://openai.com/index/warp",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7H0xxotNq29rPNCbEeOmXP/13f456fbb5b2c39b6cea84ce6647dafc/oai_Warp_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c3c696b5bf6b",
+      "title": "Reachy Mini goes fully local",
+      "description": "",
+      "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/local-reachy-mini-conversation/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "9e899a157ff8",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "description": "",
+      "link": "https://huggingface.co/blog/delta-weight-sync",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/delta-weight-sync/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "efe2b5110c7b",
+      "title": "May 27, 2026Economic ResearchCoding agents in the social sciences",
+      "description": "May 27, 2026Economic ResearchCoding agents in the social sciences",
+      "link": "https://www.anthropic.com/research/coding-agents-social-sciences",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cd97e33f2d57",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
       "description": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
