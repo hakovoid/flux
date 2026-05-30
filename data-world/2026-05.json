@@ -2,6 +2,94 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a83aa36d4b46",
+      "title": "Why Agent Crashes Are Nothing Like Database Crashes",
+      "description": "...and a solution to actually handle them.",
+      "link": "https://blog.dailydoseofds.com/p/why-agent-crashes-are-nothing-like",
+      "pubDate": "2026-05-29T18:27:20.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!eLeG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ae7adb9-c047-478f-889e-4c1f3b53f8c9_960x1016.gif",
+      "type": "blog"
+    },
+    {
+      "id": "43305d751306",
+      "title": "Automate your PHP security updates",
+      "description": "Yoeri shows how to automatically open a pull request when a new PHP security advisory appears. Nice little workflow that combines Laravel Health, Oh Dear, and GitHub Actions to keep apps patched quickly. Read more",
+      "link": "https://freek.dev/3131-automate-your-php-security-updates",
+      "pubDate": "2026-05-29T12:30:30.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/b6383285b5f6a21f2a6e0b16c2181729.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0a8a78b06ed2",
+      "title": "SymfonyOnline June 2026: Hunting Vulnerabilities in Symfony with LLMs",
+      "description": "We are thrilled to welcome the global Symfony community online on June 11-12, 2026, for SymfonyOnline June 2026. Get ready for deep-dive technical tracks! 🎤 Speaker announcement! Join Vincent Amstoutz, Lead Dev, Speaker & OSS Contributor, for…",
+      "link": "https://symfony.com/blog/symfonyonline-june-2026-hunting-vulnerabilities-in-symfony-with-llms?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-29T12:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "2767a645839d",
+      "title": "Open Source Ecosystems",
+      "description": "The following article originally appeared on the Asimov’s Addendum Substack and is being reposted here with the author’s permission. Bill Gurley has an excellent article on what he calls open source strategy, which we recommend reading. There is a lot to debate about his concluding argument in particular: that open-weight models are central to keeping the AI market […]",
+      "link": "https://www.oreilly.com/radar/open-source-ecosystems/",
+      "pubDate": "2026-05-29T11:00:08.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ffc0c4823f0",
+      "title": "Symfony 8.1 curated new features",
+      "description": "Symfony 8.1.0 is about to be released. As for any other Symfony release, our backward compatibility promise applies and this means that you should be able to upgrade easily to 8.1 without changing anything in your code. During the last couple of months, we've…",
+      "link": "https://symfony.com/blog/symfony-8-1-curated-new-features?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-29T09:53:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "fad5c5cb01c0",
+      "title": "Symfony 8.1.0 released",
+      "description": "Symfony 8.1.0 has just been released. Check the New in Symfony 8.1 posts on this blog to learn about the main features of this new stable release; or check the first beta release announcement to get the list of all its new features. Read the Symfony upgrade…",
+      "link": "https://symfony.com/blog/symfony-8-1-0-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-05-29T08:53:59.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
       "id": "5a22c7ae8448",
       "title": "CVE-2026-49212: LiveComponentHydrator HMAC checksum lacks component and slot binding",
       "description": "Affected versions Symfony versions >=2.8.0, =3.0.0, <3.1.0 of the Symfony UX Live Component component are affected by this security issue. The issue has been fixed in Symfony 2.36.0, 3.1.0. Description In symfony/ux-live-component,…",

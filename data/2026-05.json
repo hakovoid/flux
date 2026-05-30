@@ -2,6 +2,140 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "f81e77a2a375",
+      "title": "OpenAI Privacy Filter - Masquez vos données perso en local",
+      "description": "OpenAI vient de sortir un modèle open source qui repère et masque les données perso dans un texte, et le plus marrant, c'est qu'il tourne chez vous, pas chez eux. Ça nous change ^^. Ça s'appelle Privacy Filter , c'est sous licence Apache 2.0, et ce modèle chope les infos sensibles : noms, emails, téléphones, adresses, numéros de compte, dates perso, et même les secrets genre clés d'API ou tokens. Il se compose de 1,5 milliard de paramètres au total, ce qui est tout petit, du coup ça tient sur…",
+      "link": "https://korben.info/openai-privacy-filter-anonymiser-pii-local.html",
+      "pubDate": "2026-05-30T05:46:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-privacy-filter-anonymiser-pii-local/openai-privacy-filter-anonymiser-pii-local-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "cc218dba3655",
+      "title": "The forgotten developer who saved JavaScript...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=JfPWbttemYE",
+      "pubDate": "2026-05-29T17:06:48.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c7d26cd537a",
+      "title": "Utiq - Le pistage pub de votre opérateur et comment l'éviter",
+      "description": "Si vous avez cliqué un peu vite sur \"J'accepte\" ces derniers jours, vous avez peut-être activé Utiq sans le savoir. Si ça ne vous dit rien, c'est normal puisque c'est le nouvel identifiant publicitaire monté comme des grands par les opérateurs télécoms européens, dont Orange, Deutsche Telekom, Vodafone et Telefónica, et qui vous piste via votre connexion à Internet. Plutôt qu'un cookie planqué dans votre navigateur, Utiq s'appuie tout simplement sur votre box ou votre forfait mobile avec un…",
+      "link": "https://korben.info/utiq-identifiant-publicitaire-telcos.html",
+      "pubDate": "2026-05-29T12:29:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/utiq-identifiant-publicitaire-telcos/utiq-identifiant-publicitaire-telcos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d5517bbf0e35",
+      "title": "Ils ont créé des villes gérées par IA",
+      "description": "Une société de recherche baptisée Emergence AI a eu une idée à la fois ludique et un peu vertigineuse : bâtir des petites sociétés virtuelles entièrement gérées par des intelligences artificielles, puis les laisser vivre quinze jours pour voir ce qu'elles deviennent. Le projet, appelé Emergence World, a placé une dizaine d'habitants synthétiques dans chaque ville, tous pilotés par un même modèle, et a confronté les résultats obtenus par cinq IA concurrentes, dont Claude, ChatGPT, Grok et Gemini.",
+      "link": "https://korben.info/ils-ont-cree-des-villes-gerees-par-ia.html",
+      "pubDate": "2026-05-29T11:33:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ils-ont-cree-des-villes-gerees-par-ia/ils-ont-cree-des-villes-gerees-par-ia-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "687df3a79cb9",
+      "title": "Dynamic Workflows - Quand Claude Code orchestre des centaines d'agents",
+      "description": "Faut le reconnaître, malgré toute la bonne volonté qu'elle peut y mettre, y'a encore des tâches trop grosses pour être réalisées en une seule passe avec de l'IA, du genre auditer votre projet de Saas en mousse en intégralité ou traiter les milliers de fichiers que vous récupérez sur le darkweb (ça va, j'rigole mes petits Pablo). Hé bien c'est exactement ce que les dynamic workflows d'Anthropic, sortis hier avec Opus 4.8 dans Claude Code, viennent régler.",
+      "link": "https://korben.info/dynamic-workflows-claude-code.html",
+      "pubDate": "2026-05-29T11:33:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/dynamic-workflows-claude-code/dynamic-workflows-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c9189ff6f1c4",
+      "title": "SixBack - Ressusciter une Bose SoundTouch avec un ESP32",
+      "description": "Si comme moi, vous avez une enceinte Bose SoundTouch , vous savez que ses boutons de radio internet ont cessé de fonctionner début mai. En effet, Bose a coupé le cloud qui tournait derrière, et les six boutons de présélections sont devenus de jolis boutons inutiles. Mais un dev nommé Tostmann, lui, a refusé cette fatalité et a sorti SixBack, un firmware ESP32 qui ramène tout ça à la vie. L'idée, c'est de faire croire à l'enceinte que rien n'a changé puisque l'ESP32 se fait passer pour les…",
+      "link": "https://korben.info/bose-ressuscite-esp32.html",
+      "pubDate": "2026-05-29T09:25:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/bose-ressuscite-esp32/bose-ressuscite-esp32-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a8b7f493fa96",
+      "title": "Linux va enfin faire tourner le GA100 de NVIDIA avec un pilote 100% libre",
+      "description": "Petite victoire pour le logiciel libre. Avec la prochaine version du noyau Linux, la 7.2, le pilote Nouveau va enfin prendre en charge le GA100 de NVIDIA. Pour situer, Nouveau, c'est le pilote graphique libre développé par la communauté pour faire fonctionner les cartes NVIDIA sans dépendre du pilote propriétaire maison. Le GA100, lui, n'est pas une carte de gamer. C'est la puce qui anime l'A100, l'accélérateur que NVIDIA vend par camions entiers aux data centers pour entraîner les IA et faire…",
+      "link": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre.html",
+      "pubDate": "2026-05-29T09:03:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre/linux-va-enfin-faire-tourner-le-ga100-de-nvidia-avec-un-pilote-100-libre-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "006fee57c6f8",
+      "title": "AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ?",
+      "description": "Le 29 mai 2026, Mistral a dévoilé lors de sa première présentation en France de nouvelles offres en intelligence artificielle, visant les grandes entreprises. Bien qu'encore petit face aux géants, Mistral propose des outils similaires à ceux de ses concurrents américains, tout en veillant à la protection des données européennes. L’article AI Now Summit 2026 : le Chat Mistral va-t-il devenir un tigre ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/05/29/ai-now-summit-2026-le-chat-mistral-va-t-il-devenir-un-tigre/",
+      "pubDate": "2026-05-29T09:00:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/05/tigre-mistral.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bb15ac860fa4",
+      "title": "Il transforme deux Xbox One hors service en une clé USB de 10 Go",
+      "description": "En pleine flambée des prix de la mémoire et du stockage, un bricoleur du nom de Chase Fournier a imaginé une façon rigolote de recycler du vieux matériel : récupérer les puces de stockage de deux Xbox One pour les assembler en une seule clé USB de 10 Go, suffisamment compacte pour tenir dans la main. Son astuce repose sur un composant méconnu. La carte mère d'une Xbox One S embarque une puce eMMC, autrement dit de la mémoire flash soudée qui sert de stockage interne, exactement le même type de…",
+      "link": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go.html",
+      "pubDate": "2026-05-29T08:51:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go/il-transforme-deux-xbox-one-hors-service-en-une-cle-usb-de-10-go-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "33e41e7ded79",
       "title": "Apocalypse Early Warning - Quand les riches fuiront",
       "description": "Le pari de Kyle McDonald, le site dont je vais vous parler aujourd'hui c'est que si une catastrophe se prépare, les milliardaires le sauront avant nous et fileront en jet privé. C'est pour cla que cet artiste-programmeur de Los Angeles a construit l' Apocalypse Early Warning System , un site qui surveille en temps réel l'activité des jets privés pour repérer le moment où les riches se barrent. Son truc écoute un réseau de récepteurs radio répartis sur toute la planète, qui captent les signaux…",
@@ -48,6 +182,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/4ba68f80-cf6d-4750-9953-fbcb1b37a123.mp3?_=1779973111",
       "duration": "09:54"
+    },
+    {
+      "id": "519690cd10d7",
+      "title": "La veille de Wittouck - Fin mai 2026",
+      "description": "Entre deux matchs de Roland Garros, et pour prendre un peu l’air, pourquoi ne pas en profiter pour lire quelques articles intéressants (enfin, que J’AI trouvés intéressants 😅). Ce mois-ci dans “La Veille de Wittouck”, plusieurs sujets autours de l’AT Protocol (je m’y intéresse depuis quelques semaines), mais aussi autour de mise, mon outil de dev préf du moment, et autour du drama en cours sur GitHub. Et en toile de fond, toujours aussi quelques articles autour de la souveraineté numérique.",
+      "link": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
     },
     {
       "id": "e2e583e6e140",

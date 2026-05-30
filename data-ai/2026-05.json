@@ -2,6 +2,118 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "45a6a15551be",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "description": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "pubDate": "2026-05-29T19:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b1eb05743ee0",
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "description": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "pubDate": "2026-05-29T17:30:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Omni_and_Gemini_3.5_hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e62972f402e4",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "pubDate": "2026-05-29T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "880638aa77e3",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "link": "https://openai.com/index/braintrust",
+      "pubDate": "2026-05-29T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5RgT3cPhA5Fs0Nm9sjhmwV/bfa31b3a64ed1689da20b7ae1fc8a3d1/oai_Braintrust_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "952e93f8af7b",
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "description": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "pubDate": "2026-05-29T12:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1c9b44953320",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "pubDate": "2026-05-29T03:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4G9yT6eLqfff8i0BP7GP3m/f6fd8c7e07934e3815a0c83239233f3f/16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8c84b8422093",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3iGaglpVIr4csE6CvQuo7Q/61c51a8c408555907d6b0588f8d40172/SEO-shared-playbook-for-trustworthy-third-party-evaluations.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5b02604714f8",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "description": "",
+      "link": "https://huggingface.co/blog/torch-profiler",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/torch-profiler/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "53b129346400",
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
       "description": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights. The post Data Formulator 0.7: AI-powered data analytics for enterprise data appeared first on Microsoft Research.",
