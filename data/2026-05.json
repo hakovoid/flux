@@ -2,6 +2,37 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bb4a6924d5b8",
+      "title": "zeropod v0.12.0 : un an après, le scale-to-zero tient-il ses promesses ?",
+      "description": "Qu’est-ce que zeropod ? Il y a un peu moins d’un an, j’avais publié un premier article sur un projet open source qui s’apelle zeropod. Zeropod is a Kubernetes runtime (more specifically a containerd shim) that automatically checkpoints containers to disk after a certain amount of time of the last TCP connection. While in scaled down state, it will listen on the same port the application inside the container was listening on and will restore the container on the first incoming connection. À…",
+      "link": "https://blog.zwindler.fr/2026/05/30/zeropod-v12-scale-to-zero-checkpointing-retour/",
+      "pubDate": "2026-05-30T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/zeropod.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7700aa121e97",
+      "title": "Il affiche du web moderne sur un Mac vieux de vingt-cinq ans",
+      "description": "Faire s'afficher un site en HTTPS sur une machine qui tournait déjà sous Mac OS 9, le système d'exploitation d'Apple antérieur à Mac OS X, relevait jusqu'ici de l'impossible, et c'est pourtant ce qu'a réussi un développeur connu sous le pseudonyme mplsllc avec un projet baptisé MacSurf. MacSurf est un portage de NetSurf, un navigateur web léger et open-source déjà connu sur d'autres plateformes anciennes, adapté cette fois aux vieux Mac équipés d'un processeur PowerPC, l'architecture qu'Apple a…",
+      "link": "https://korben.info/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans.html",
+      "pubDate": "2026-05-30T08:13:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans/il-affiche-du-web-moderne-sur-un-mac-vieux-de-vingt-cinq-ans-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f81e77a2a375",
       "title": "OpenAI Privacy Filter - Masquez vos données perso en local",
       "description": "OpenAI vient de sortir un modèle open source qui repère et masque les données perso dans un texte, et le plus marrant, c'est qu'il tourne chez vous, pas chez eux. Ça nous change ^^. Ça s'appelle Privacy Filter , c'est sous licence Apache 2.0, et ce modèle chope les infos sensibles : noms, emails, téléphones, adresses, numéros de compte, dates perso, et même les secrets genre clés d'API ou tokens. Il se compose de 1,5 milliard de paramètres au total, ce qui est tout petit, du coup ça tient sur…",
@@ -197,6 +228,21 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2c576ab01bdb",
+      "title": "Charlequint",
+      "description": "Gale (en ce moment il est sur Hunger Games) perd un point à son devoir d’Histoire-Géo parce qu’il a oublié les majuscules. Ce n’est pas comme si c’était une surprise, on lui répète depuis des années. Mais sa mère, qui a révisé la leçon avec lui, découvre qu’il a aussi oublié… comment écrire Charles Quint ! Trois fois rien, juste la personne sur qui porte l’ensemble du devoir ! Il a écrit “charlequint”. Elle s’agace : – Non mais sérieusement, la leçon est sur lui. Normalement tu l’as vu assez de…",
+      "link": "https://boris.schapira.dev/notes/2026-05-charlequint/",
+      "pubDate": "2026-05-28T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_125:Charlequint,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_125:Charlequint,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -679,6 +725,21 @@
       "type": "blog"
     },
     {
+      "id": "44b9b0de74b7",
+      "title": "Le deuxième appel",
+      "description": "J’étais en réunion quand Rocky m’appelle. Je ne décroche pas. Normalement, les appels sont réservés aux urgences mais il a tendance à m’appeler pour dire qu’il fait beau. J’attends le second appel. Je poursuis ma réunion. Nouvel appel : ma Princess de femme. Panique. Il a dû arriver quelque chose à Rocky. Je n’ai pas le temps de décrocher, l’appel s’arrête. Je ne sais plus quoi penser, d’autant que je suis en conversation par ailleurs avec une cliente, sur un cas d’usage très pertinent de notre…",
+      "link": "https://boris.schapira.dev/notes/2026-05-le-deuxieme-appel/",
+      "pubDate": "2026-05-26T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_120:Le%20deuxi%C3%A8me%20appel,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_120:Le%20deuxi%C3%A8me%20appel,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9b3a392244e7",
       "title": "10 weird OSS projects you need right now...",
       "description": "",
@@ -921,6 +982,21 @@
         "Web"
       ],
       "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/motorola-detourne-amazon-code-affiliation/motorola-detourne-amazon-code-affiliation-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "14e5b199a3ed",
+      "title": "La mémoire, par un autre chemin",
+      "description": "Aujourd’hui, c’était l’oral du brevet de Rocky. Le brevet, ou Diplôme National du Brevet, c’est un examen qui a lieu à la fin de la troisième. Il est composé d’épreuves écrites et d’une épreuve orale, elle-même en deux parties : 5 minutes de présentation et 10 minutes de questions. Le sujet ? Un projet interdisciplinaire que l’élève a mené au cours de l’année, s’inscrivant dans un parcours éducatif : citoyen, santé, artistique, etc. L’élève doit expliquer son travail, montrer ce qu’il a appris,…",
+      "link": "https://boris.schapira.dev/notes/2026-05-oral-du-brevet/",
+      "pubDate": "2026-05-25T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_69:La%20m%C3%A9moire%0Apar%20un%20autre%20chemin%0Ades%20outils%20pour%20m%E2%80%99aider%20%C3%A0%20parler%20%C3%A0%20mon%20fils,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_69:La%20m%C3%A9moire%0Apar%20un%20autre%20chemin%0Ades%20outils%20pour%20m%E2%80%99aider%20%C3%A0%20parler%20%C3%A0%20mon%20fils,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -3894,6 +3970,21 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/images/conferences/devoxx-uk-2026.png",
+      "type": "blog"
+    },
+    {
+      "id": "7cb0e35cfc99",
+      "title": "Bah",
+      "description": "– … parce que le 26 mai, j’ai mon oral. Bah, vas-y, vérifie. C’est pas comme si on s’y préparait depuis trois mois… rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-05-bah/",
+      "pubDate": "2026-05-07T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_132:Bah,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_132:Bah,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
