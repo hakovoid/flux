@@ -1,0 +1,19 @@
+{
+  "month": "2026-06",
+  "articles": [
+    {
+      "id": "e13281b420cb",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "pubDate": "2026-06-01T04:44:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6799309995f2227228bc38f3/js_kXqJrfpYZd1hZvwPug.png",
+      "type": "blog"
+    }
+  ]
+}

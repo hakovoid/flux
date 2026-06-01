@@ -1,0 +1,67 @@
+{
+  "month": "2026-06",
+  "articles": [
+    {
+      "id": "cc300d8f743f",
+      "title": "La mémoire subversive de nos systèmes legacy",
+      "description": "On parle souvent de dette technique, de code illisible, de tests manquants. Ces diagnostics sont justes, mais partiels. Ce qui se dégrade en premier dans un système legacy, ce n'est pas le code. C'est la mémoire collective de ceux qui l'ont construit. Et sans elle, même un système propre reste difficile à faire évoluer.",
+      "link": "https://blog.octo.com/la-memoire-subversive-de-nos-systemes-legacy",
+      "pubDate": "2026-06-01T08:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f4710742344a",
+      "title": "Pour sauver la loi de Moore, des chercheurs empilent les transistors au lieu de les rétrécir",
+      "description": "Depuis cinquante ans, on rend les puces plus puissantes en gravant des transistors toujours plus petits, ces minuscules interrupteurs électriques qui font tout le travail. Sauf qu'on approche d'un mur physique : on ne peut plus vraiment les miniaturiser. C'est tout l'enjeu de la fameuse loi de Moore, cette observation selon laquelle le nombre de transistors d'une puce double environ tous les deux ans. Sauf qu'elle s'essouffle. Une équipe de l'université de l'Illinois, menée par le chercheur…",
+      "link": "https://korben.info/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir.html",
+      "pubDate": "2026-06-01T08:12:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir/pour-sauver-la-loi-de-moore-des-chercheurs-empilent-les-transistors-au-lieu-de-les-retrecir-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "de9d2352ef2f",
+      "title": "Sources préférées Google - Reprenez la main sur votre actu",
+      "description": "Après le suivi de profil Google qui vous permet de renforcer la qualité des actualités que vous voyez dans Discover, Google met maintenant à dispo un nouveau truc qui s'appelle les Sources préférées. Et l'idée (à la con) c'est de dire à Google quels sites vous voulez voir remonter en priorité dans vos recherches / A la une . La fonctionnalité se déploie en ce moment en France et en français, donc oui, ça commence à tous nous concerner.",
+      "link": "https://korben.info/google-sources-preferees-site-favori.html",
+      "pubDate": "2026-06-01T07:52:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/google-sources-preferees-site-favori/google-sources-preferees-site-favori-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3a4b9470f7c9",
+      "title": "Il fabrique de l'essence à partir de gaz dans son labo",
+      "description": "Le bricoleur qui anime la chaîne YouTube Marb's Lab a présenté dans sa dernière vidéo un montage de verrerie de laboratoire qui transforme un simple gaz en carburant liquide, reproduisant le procédé Fischer-Tropsch, du nom des deux chimistes allemands Franz Fischer et Hans Tropsch qui l'ont mis au point en 1925. À l'échelle industrielle, cette réaction a longtemps servi aux pays riches en charbon mais privés de pétrole, l'Afrique du Sud de l'apartheid sous embargo international en étant…",
+      "link": "https://korben.info/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo.html",
+      "pubDate": "2026-06-01T07:33:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo/il-fabrique-de-lessence-a-partir-de-gaz-dans-son-labo-2.jpg",
+      "type": "blog"
+    }
+  ]
+}
