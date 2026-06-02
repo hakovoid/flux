@@ -2,6 +2,219 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ade0a90aba51",
+      "title": "Un ingénieur de Netflix crée une appli pour alléger ses factures d'IA, puis l'ouvre à tout le monde",
+      "description": "Tejas Chopra, ingénieur senior chez Netflix, a bricolé un petit logiciel appelé Headroom qui s'attaque à un poste de dépense devenu douloureux dans toutes les boîtes qui carburent à l'IA : la facture en tokens, ces unités que les modèles de langage facturent au passage et qui correspondent en gros à des morceaux de mots. Son constat de départ est sévère. Près de 90% de ce qu'on balance à un grand modèle de langage, le type d'IA qui fait tourner ChatGPT, serait selon lui de la redondance pure,…",
+      "link": "https://korben.info/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde.html",
+      "pubDate": "2026-06-02T07:19:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde/un-ingenieur-de-netflix-cree-une-appli-pour-alleger-ses-factures-dia-puis-louvre-a-tout-le-monde-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "36bb66452c23",
+      "title": "Une bibliothèque Java a tenté de piéger les IA codeuses pour qu'elles effacent vos tests, et ça a failli marcher",
+      "description": "On vous résume. Un mainteneur a glissé dans jqwik, une bibliothèque Java que des milliers de développeurs utilisent pour écrire et lancer leurs tests automatisés, une instruction cachée destinée à faire effacer par les assistants IA de programmation tout le code et tous les tests du projet en cours. Le tout sans que personne ne s'en aperçoive. La version coupable, c'est la 1.10.0, sortie le 25 mai par Johannes Link.",
+      "link": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher.html",
+      "pubDate": "2026-06-02T07:14:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher/une-bibliotheque-java-a-tente-de-pieger-les-ia-codeuses-pour-quelles-effacent-vos-tests-et-ca-a-failli-marcher-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0807b5fef1c2",
+      "title": "Newsletter Mai 2026",
+      "description": "Je déteste le mois de mai. Pas à cause de la météo pourrie (sauf la dernière semaine), mais à cause de ces ponts et jours fériés qui donne l’impression que toute la France est en vacances et qu’il est impossible de faire avancer les projets. Que faire, pendant ce temps là ? Écrire et faire […] L’article Newsletter Mai 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/02/newsletter-mai-2026/",
+      "pubDate": "2026-06-02T07:12:29.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/media-gen-1780383798479-1024x595.png",
+      "type": "blog"
+    },
+    {
+      "id": "488a12795442",
+      "title": "Instagram - Le chatbot de Meta donnait les clés des comptes",
+      "description": "Le support de Meta, quand vous contactez Instagram pour un souci de compte, c'est 100% IA maintenant. Je l'ai fait y'a pas longtemps et c'est assez surprenant, même s'il faut le reconnaitre, ça fonctionne bien. Et si je vous parle de ça ce matin, c'est que pendant des semaines, ce chatbot a refilé l'accès à des comptes à qui savait lui raconter la bonne histoire. Et c'est pas un exploit de génie ni une faille bien planquée mais juste un bot de support trop serviable à qui on explique qu'on…",
+      "link": "https://korben.info/instagram-faille-support-ia-piratage-comptes.html",
+      "pubDate": "2026-06-02T06:44:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/instagram-faille-support-ia-piratage-comptes/instagram-faille-support-ia-piratage-comptes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "df1fac09a75e",
+      "title": "Il a transformé un vieil iPhone 8 en serveur OCR alimenté au soleil",
+      "description": "Un iPhone 8 qui dormait dans un tiroir. Hemant Kumar, ingénieur logiciel basé au Canada, l'a ressorti, branché sur un panneau solaire et transformé en serveur de reconnaissance de texte qui tourne sans la moindre interruption depuis maintenant plus d'un an, sans box, sans prise murale, juste le soleil. L'OCR, c'est la reconnaissance optique de caractères. La techno qui lit une photo et en ressort le texte, brut, copiable. Tout passe par Apple Vision (pas le casque), cette brique d'analyse…",
+      "link": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil.html",
+      "pubDate": "2026-06-01T16:10:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil/il-a-transforme-un-vieil-iphone-8-en-serveur-ocr-alimente-au-soleil-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a3525dcdaf1c",
+      "title": "Ma visseuse de geek préférée a maintenant un écran, et oui, j'ai encore craqué",
+      "description": "– Contient des liens affiliés Amazon – Il y a un peu plus d'un an, je vous parlais ici de ma petite visseuse électrique Hoto, celle qui m'avait réconcilié avec le montage de meubles Ikea, ma grande phobie de toujours, et que je n'avais plus lâchée depuis. Sauf que Hoto a sorti un nouveau modèle baptisé PixelDrive , et cette fois la marque a clairement poussé le curseur plus loin en lui collant carrément un petit écran sur le dessus.",
+      "link": "https://korben.info/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque.html",
+      "pubDate": "2026-06-01T14:00:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque/ma-visseuse-de-geek-preferee-a-maintenant-un-ecran-et-oui-jai-encore-craque-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "41dfe1f76216",
+      "title": "De faux utilitaires PC transforment votre carte graphique en mineur de crypto à votre insu",
+      "description": "Vous installez CrystalDiskInfo pour surveiller l'état de vos disques, FurMark pour pousser votre carte graphique dans ses retranchements, HWMonitor pour garder un oeil sur les températures... Attention ! Sauf que depuis quelques semaines, certains de ces téléchargements sont piégés. Les équipes Microsoft Defender Experts ont repéré, depuis le mois de mars, plus de 150 faux sites qui se font passer pour ces utilitaires et installent en douce un mineur de cryptomonnaie.",
+      "link": "https://korben.info/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu.html",
+      "pubDate": "2026-06-01T13:11:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu/de-faux-utilitaires-pc-transforment-votre-carte-graphique-en-mineur-de-crypto-a-votre-insu-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "072f8eb5f192",
+      "title": "Platform Engineering : le prochain chantier stratégique des DSI à l’ère de l’IA",
+      "description": "Les DSI ont multiplié outils, automatisation et cloud pour accélérer le delivery. Mais le vrai frein n’est plus le code : ce sont les processus autour : validations, sécurité, architecture, production. Le Platform Engineering émerge pour répondre à cette tension, avec une approche produit, organisationnelle et stratégique.",
+      "link": "https://blog.octo.com/platform-engineering--le-prochain-chantier-strategique-des-dsi-a-l'ere-de-l'ia",
+      "pubDate": "2026-06-01T12:38:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "975e36314197",
+      "title": "Ils ont refait la machine qui a cassé le code Enigma, version FPGA",
+      "description": "Trois étudiants de l'université Cornell ont reconstruit, sur une puce moderne, la machine qui a permis aux Alliés de casser le code Enigma pendant la Seconde Guerre mondiale. Erica Jiang, Kelvin Resch et Isabella Frank ont mené ce projet dans le cadre du cours ECE 5760, repéré par le site spécialisé Hackaday. Plutôt qu'une simple simulation logicielle, ils ont gravé toute la logique du déchiffrement directement dans le matériel, en utilisant un FPGA.",
+      "link": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga.html",
+      "pubDate": "2026-06-01T12:31:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga/ils-ont-refait-la-machine-qui-a-casse-le-code-enigma-version-fpga-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bc46687bc6e2",
+      "title": "De l’expérimentation au passage à l’échelle : le grand défi de l’IA en  entreprise",
+      "description": "L’IA agit comme un multiplicateur de vitesse sur les systèmes existants. Elle n’améliore pas mécaniquement les organisations : elle accélère leurs dynamiques, qu’elles soient robustes ou désalignées. Cette accélération révèle les fragilités de l’ingénierie, du produit, du SI et de l’organisation. Le véritable enjeu n’est pas l’adoption de l’IA, mai",
+      "link": "https://blog.octo.com/de-l'experimentation-au-passage-a-l'echelle--le-grand-defi-de-l'ia-en-entreprise-1",
+      "pubDate": "2026-06-01T12:11:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79c85a260e0d",
+      "title": "Il glisse un GPU de datacenter dans son PC gaming pour faire tourner une IA en local",
+      "description": "Oscar Molnar voulait une intelligence artificielle qui tourne entièrement chez lui, sans envoyer la moindre donnée vers le cloud, et il y est arrivé pour environ 200 euros en greffant dans son PC une carte graphique qui n'avait normalement rien à faire dans une machine de salon. L'objectif, c'est de faire tourner en local ce qu'on appelle un grand modèle de langage, le fameux LLM qui se cache derrière les ChatGPT et compagnie, directement sur son propre ordinateur plutôt que sur les serveurs…",
+      "link": "https://korben.info/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local.html",
+      "pubDate": "2026-06-01T12:07:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local/il-glisse-un-gpu-de-datacenter-dans-son-pc-gaming-pour-faire-tourner-une-ia-en-local-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "97bf5a8999fd",
+      "title": "À 81 ans, il termine la suite de Head Over Heels qu'il avait commencée il y a 37 ans",
+      "description": "Il aura fallu trente-sept ans à Colin Porch pour voir son jeu enfin sortir, et cette seule durée suffit à résumer l'histoire un peu folle de ce développeur britannique de 81 ans, ancien d'Ocean, l'un des studios de jeux vidéo les plus réputés de l'époque des micro-ordinateurs 8 et 16 bits. Tout commence en 1989, quand Porch se lance dans une suite à Head Over Heels, un jeu de plateforme et de réflexion en vue isométrique devenu culte sur le ZX Spectrum, ce petit ordinateur familial qui a initié…",
+      "link": "https://korben.info/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans.html",
+      "pubDate": "2026-06-01T11:43:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans/a-81-ans-il-termine-la-suite-de-head-over-heels-quil-avait-commencee-il-y-a-37-ans-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "72a8989df9d5",
+      "title": "VideoLAN prépare déjà dav2d, le décodeur libre du futur codec vidéo AV2",
+      "description": "Jean-Baptiste Kempf, le fondateur de VideoLAN, la communauté derrière le lecteur VLC, vient de lever le voile sur dav2d, un décodeur logiciel taillé pour AV2, le prochain grand codec vidéo libre. Sa devise tient en une phrase qu'il assume complètement : un codec n'existe vraiment que le jour où tout le monde est capable de le décoder. Pour bien comprendre, un codec, c'est la recette qui compresse une vidéo pour qu'elle pèse moins lourd à stocker et à transmettre, puis qui la reconstitue à la…",
+      "link": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2.html",
+      "pubDate": "2026-06-01T11:17:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2/videolan-prepare-deja-dav2d-le-decodeur-libre-du-futur-codec-video-av2-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c7f2b9da76a2",
+      "title": "Charger un jeu Mega Drive depuis un vinyle ? Le pari génial d'un bidouilleur",
+      "description": "Convertir un jeu de console en son, graver ce son sur un disque vinyle, puis le relire sur une platine pour relancer le jeu, c'est le genre de projet inutile et réjouissant dont seul le monde du retrogaming a le secret, et c'est précisément ce que le bidouilleur Throaty Mumbo a voulu tester sur une vieille Sega Mega Drive. Sa chaîne de bricolage repose sur une Mega Everdrive Pro, cette cartouche moderne qui permet de charger n'importe quel jeu sur la console d'origine via une carte mémoire ou,…",
+      "link": "https://korben.info/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur.html",
+      "pubDate": "2026-06-01T09:50:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur/charger-un-jeu-mega-drive-depuis-un-vinyle-le-pari-genial-dun-bidouilleur-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "cc300d8f743f",
       "title": "La mémoire subversive de nos systèmes legacy",
       "description": "On parle souvent de dette technique, de code illisible, de tests manquants. Ces diagnostics sont justes, mais partiels. Ce qui se dégrade en premier dans un système legacy, ce n'est pas le code. C'est la mémoire collective de ceux qui l'ont construit. Et sans elle, même un système propre reste difficile à faire évoluer.",

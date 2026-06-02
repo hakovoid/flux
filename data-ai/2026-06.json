@@ -2,6 +2,90 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4ef2b036d4be",
+      "title": "Our views on AI policy and political advocacy",
+      "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "pubDate": "2026-06-01T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2t7PnZhv9RSkCpyADp8h6J/8e94542c974c268eac270cd244dd6055/Political-advocacy-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "10845ea96e17",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "description": "Learn how Googlers used AI to produce Google I/O 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "pubDate": "2026-06-01T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_IO.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3e72b4f07755",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "description": "",
+      "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "pubDate": "2026-06-01T15:45:17.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/60ef2a438432bc401cd0abbe/tFjSaWUOM_pVsgKjHrAHt.png",
+      "type": "blog"
+    },
+    {
+      "id": "088cdea1352e",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "pubDate": "2026-06-01T13:51:18.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+      "type": "blog"
+    },
+    {
+      "id": "04c1d26ba613",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "pubDate": "2026-06-01T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/31ZX9grNOOF2NspFEFK6t2/a35c75365f4573555cab5a1a1054649b/infrastructure-michigan-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4df8e51cae93",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "pubDate": "2026-06-01T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Tbsus4QAtPDAlsIM3vYO2/87f4c6894832d7937e54ecb3c245fdbe/OAI_AWS_Partnership_16x9_Art_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "e13281b420cb",
       "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
       "description": "",
@@ -13,6 +97,20 @@
         "IA"
       ],
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6799309995f2227228bc38f3/js_kXqJrfpYZd1hZvwPug.png",
+      "type": "blog"
+    },
+    {
+      "id": "bd891e1aa686",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "description": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "pubDate": "2026-06-01T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     }
   ]
