@@ -2,6 +2,198 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "088c6b448b4c",
+      "title": "La vaste blague du macronisme crypto-spatial",
+      "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/la-vaste-blague-du-macronisme-crypto-spatial/",
+      "pubDate": "2026-06-03T08:21:22.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-10.19.16.png",
+      "type": "blog"
+    },
+    {
+      "id": "e7e8fe3ed7fb",
+      "title": "Le monde merveilleux des ADR !",
+      "description": "Les \"Architecture Decision Record\" font partie de la documentation de votre projet, et peuvent vous sauver la vie ! Notes de l'épisode : Le bus factor : https://code-garage.com/podcast/classic/episode-53",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-monde-merveilleux-des-ADR-e3k96p4",
+      "pubDate": "2026-06-03T07:48:10.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/120936676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-3%2Ff7120720-2788-d500-1b9c-f92f6e16de0a.mp3",
+      "duration": "00:05:23"
+    },
+    {
+      "id": "ff6fb0eae21e",
+      "title": "Tout sur Symfony 8.1",
+      "description": "Symfony 8.1 vient de sortir, et fidèle à sa promesse, le framework garantit une rétrocompatibilité totale, permettant une mise à jour transparente. Cette release apporte également des changements de paradigme majeurs : elle pousse encore plus loin l’utilisation des Attributs PHP, simplifie drastiquement le développement d’applications non-HTTP, et prépare l’écosystème aux architectures modernes et haute […] Cet article, Tout sur Symfony 8.1, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/tout-sur-symfony-8-1",
+      "pubDate": "2026-06-03T07:30:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/symfony-8.1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bde389d891df",
+      "title": "Brève histoire du Prompt Engineering au Harness engineering",
+      "description": "Après une consolidation de notre veille sur le sujet, nous vous proposons de survoler l'histoire de quelques termes de ces dernières années, pour ensuite les articuler entre eux.",
+      "link": "https://blog.octo.com/breve-histoire-du-prompt-engineering-au-harness-engineering",
+      "pubDate": "2026-06-03T07:21:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6cda03f6777c",
+      "title": "Sur le serveur X.Org, neuf nouvelles failles de sécurité dont huit débusquées par une IA",
+      "description": "Neuf failles de sécurité viennent d'être corrigées d'un coup sur le serveur X.Org, le vieux logiciel qui dessine les fenêtres, gère la souris et le clavier sur une grande partie des machines Linux. Et le plus marquant, c'est qui les a trouvées. Huit des neuf ont été repérées par une intelligence artificielle. Plus précisément par TrendAI, l'outil maison du programme de chasse aux bugs de l'éditeur de sécurité Trend Micro, la Zero Day Initiative, qui rémunère depuis des années la découverte de…",
+      "link": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia.html",
+      "pubDate": "2026-06-03T06:00:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia/sur-le-serveur-x-org-neuf-nouvelles-failles-de-securite-dont-huit-debusquees-par-une-ia-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "90674bb16372",
+      "title": "#359.src - Devenir tech lead: Ne rien lâcher avec Houleymatou Baldé",
+      "description": "\"J'ai toujours su, quand je veux quelque chose, aller le chercher, mais surtout argumenter\" Le D.E.V. de la semaine est Houleymatou Baldé, ex-Tech Lead et fondatrice de Yeeso. Venue en France sans prérequis informatiques, Houleymatou raconte comment elle est devenue tech lead après un parcours semé d'obstacles, entre autodidaxie, doutes techniques, volonté de légitimer sa place, et surtout capacité à provoquer ses propres opportunités. Elle partage sans filtre ce que veut dire assumer sa…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-359-cb22f11ffcad",
+      "pubDate": "2026-06-03T03:00:09.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e59c7556-bb9c-47ff-9b38-e8592e0567aa.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
+      "duration": "01:14:51"
+    },
+    {
+      "id": "d26542a878e1",
+      "title": "Ableton Extensions SDK - Codez vos propres outils pour Live",
+      "description": "Je suis trop content parce qu'avec son nouveau SDK pour extensions , Ableton nous permet enfin d'écrire nos propres outils pour son DAW Live en JavaScript. L'intérêt c'est que ces extensions peuvent lire et modifier vos Sets : pistes, clips, notes MIDI, paramètres, automations... et comme ça votre projet se transforme en un truc qu'on peut trafiquer avec du code (et donc avec de l'IA car ça repose sur des technos web standard ^^ niark niark).",
+      "link": "https://korben.info/ableton-live-extensions-sdk.html",
+      "pubDate": "2026-06-02T16:37:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/ableton-live-extensions-sdk/ableton-live-extensions-sdk-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e612e2b13237",
+      "title": "Shai-Hulud : un ver vole les identifiants planqué dans des paquets Red Hat",
+      "description": "Du code piégé glissé dans des paquets signés Red Hat, et téléchargé environ 80 000 fois par semaine. C'est le bilan d'une attaque repérée le 1er juin. Pour bien saisir, il faut d'abord savoir ce qu'est npm. C'est l'immense bibliothèque où les développeurs JavaScript piochent des briques de code toutes prêtes plutôt que de tout réécrire. Des millions de projets en dépendent au quotidien. Et c'est exactement là qu'un malware s'est faufilé. Plusieurs dizaines de paquets publiés sous le nom de Red…",
+      "link": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat.html",
+      "pubDate": "2026-06-02T15:14:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat/shai-hulud-un-ver-vole-les-identifiants-planque-dans-des-paquets-red-hat-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ba936945bb85",
+      "title": "Des mathématiciens ont calculé Pi avec des monstres de Minecraft, sans écrire une seule ligne de code",
+      "description": "Molly Lynch, de l'université Hollins, et Michael Weselcouch, du Roanoke College, deux profs de maths américains, ont eu une idée que personne n'avait osé tenter : estimer la valeur de Pi en lâchant des monstres dans Minecraft, sans programmer quoi que ce soit, juste en exploitant les règles du jeu. Tout part d'une vieille technique de probabilités appelée méthode de Monte-Carlo, qu'on surnomme aussi la méthode des fléchettes. Imaginez un carré avec un cercle dessiné dedans, qui touche les…",
+      "link": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code.html",
+      "pubDate": "2026-06-02T12:17:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code/des-mathematiciens-ont-calcule-pi-avec-des-monstres-de-minecraft-sans-ecrire-une-seule-ligne-de-code-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "29ec5fa9463e",
+      "title": "Event-Driven Architecture chez Octo : épisode 2, la théorie",
+      "description": "Deuxième volet de notre série EDA : l'article à la fois chiant et utile. On rentre dans la théorie — patterns (Pub/Sub, Event Sourcing, CQRS), garanties de livraison, gestion des ratés (replay, DLQ) et pièges classiques. Promis, on a essayé de rendre ça digeste.",
+      "link": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-2-la-theorie",
+      "pubDate": "2026-06-02T12:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c3949bf5e025",
+      "title": "We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ?",
+      "description": "À quoi correspond un collectif de digital producers, à quels besoins du marché répond-il, pour quels types de missions ? Cet article fait suite à un entretien avec l’équipe de We Are Digital Producers et fait le point sur ce qu’un collectif d’experts digitaux peut apporter et dans quel contexte. L’éternelle question : comment trouver […] L’article We Are Digital Producers : qu’est-ce qu’un collectif digital efficace et créatif ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/02/we-are-digital-producers-quest-ce-quun-collectif-digital-efficace-et-creatif/",
+      "pubDate": "2026-06-02T10:50:57.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/cover-wadp-blog-oliviersauvage.png",
+      "type": "blog"
+    },
+    {
+      "id": "27aa84df80b8",
+      "title": "L’IA menace le Wikipedia qu'on connaît.",
+      "description": "🇫🇷 L'encyclopédie libre survivra-t-elle au tsunami de l'Intelligence Artificielle ? Depuis 25 ans, Wikipédia est le pilier absolu de la connaissance sur le Web. Mais avec l'essor fulgurant des LLM qui s'abreuvent de son corpus pour répondre directement aux internautes via des interfaces de chat, le trafic vacille et le modèle historique de l'open source et des contributions est remis en question. Mais Wikipédia à beaucoup de ressources pour gagner ! Dans ce nouvel épisode d’À la French, nous…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a1eab60d610a774037013e5",
+      "pubDate": "2026-06-02T10:22:22.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1780395728423-c62dbfee-a7f3-4437-a290-39788776a04b.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a1eab60d610a774037013e5/media.mp3",
+      "duration": "1:26:10"
+    },
+    {
       "id": "ade0a90aba51",
       "title": "Un ingénieur de Netflix crée une appli pour alléger ses factures d'IA, puis l'ouvre à tout le monde",
       "description": "Tejas Chopra, ingénieur senior chez Netflix, a bricolé un petit logiciel appelé Headroom qui s'attaque à un poste de dépense devenu douloureux dans toutes les boîtes qui carburent à l'IA : la facture en tokens, ces unités que les modèles de langage facturent au passage et qui correspondent en gros à des morceaux de mots. Son constat de départ est sévère. Près de 90% de ce qu'on balance à un grand modèle de langage, le type d'IA qui fait tourner ChatGPT, serait selon lui de la redondance pure,…",

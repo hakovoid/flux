@@ -2,6 +2,90 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "42b1adc7739e",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/Hcompany/holo31",
+      "pubDate": "2026-06-02T14:13:23.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Hcompany/holo31.png",
+      "type": "blog"
+    },
+    {
+      "id": "079b6eb163b4",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "link": "https://openai.com/index/travelers",
+      "pubDate": "2026-06-02T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1TKzfygwesdyzOr4VDrizK/11ece0fda61af10b34d4127f7a977eac/oai_Travelers_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b040c6a97600",
+      "title": "Codex for every role, tool, and workflow",
+      "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "pubDate": "2026-06-02T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Dvw4ZQ90swvHAxpe8tf49/b38745978bd83b554ac8e4f5865cee37/16x9_SEO_Preview.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f4e0423d66a1",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "pubDate": "2026-06-02T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2IaU9HljDTpAUcw36nZL4C/d869594af4e3f9bbfbfa9797e393bcd4/oai_16x9__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "473eced4d0d7",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "link": "https://openai.com/index/codex-for-knowledge-work",
+      "pubDate": "2026-06-02T02:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4W7LyNXXbMY32R9h4xxI7L/9bdd4188f7e7c50815df1e5218adc9c0/codex_for_knowledge_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fd9b87df1fe1",
+      "title": "Expanding Project Glasswing",
+      "description": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "pubDate": "2026-06-02T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4ef2b036d4be",
       "title": "Our views on AI policy and political advocacy",
       "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
