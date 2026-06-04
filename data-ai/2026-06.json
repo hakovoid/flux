@@ -2,6 +2,132 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ba562226725d",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "pubDate": "2026-06-03T13:15:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3fieJVeKCR31cbZa1xIuNt/adbb14a236da2942035f43ef7b392ca3/GPT-Rosalind_SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "bb4886b95744",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "description": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "pubDate": "2026-06-03T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Thrifting_Header.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "be3ad97197e4",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "pubDate": "2026-06-03T12:55:11.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots.png",
+      "type": "blog"
+    },
+    {
+      "id": "032a72a6e212",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "link": "https://openai.com/index/wasmer",
+      "pubDate": "2026-06-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4F1wJcjKLMpeQRDFerXS0q/24b7a1f737acdce2b86ea350fd9ebce6/oai_wasmer_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "df48d050ae2c",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "pubDate": "2026-06-03T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/12H0oNoMHSCzsQ7eaQdFnT/7351b082ab1e1639c48c992bc0453cc4/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b90e074e514a",
+      "title": "OpenAI public policy agenda",
+      "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "pubDate": "2026-06-03T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5biIV8BMiZ5j93ClAOEg1T/2a734d5aee55236aba471fc32a7470ba/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c38c4611746a",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "description": "",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/adding-mcp-tools-to-reachy-mini/reachy_mini_remote_spaces_thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "b531a6249412",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "description": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
+      "id": "c265f4d09da6",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "description": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+      "type": "blog"
+    },
+    {
       "id": "42b1adc7739e",
       "title": "Holo3.1: Fast & Local Computer Use Agents",
       "description": "",

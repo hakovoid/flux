@@ -2,6 +2,156 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1d0225350d6a",
+      "title": "HTTP/2 Bomb : une mini-requête suffit pour faire tomber nginx, Apache ou IIS",
+      "description": "Il y a des failles qui réclament un arsenal de hacker chevronné, et puis il y a HTTP/2 Bomb, qui se contente de quelques kilo-octets pour faire vaciller des serveurs parmi les plus utilisés de la planète. Dévoilée le 2 juin sous la référence CVE-2026-49975, elle s'attaque à HTTP/2, le protocole qui transporte une bonne partie des pages que vous consultez chaque jour. Le résultat ressemble à une mauvaise blague. Une poignée d'octets envoyés au bon endroit, et la mémoire vive du serveur se met à…",
+      "link": "https://korben.info/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis.html",
+      "pubDate": "2026-06-03T16:19:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis/http-2-bomb-une-mini-requete-suffit-pour-faire-tomber-nginx-apache-ou-iis-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4eade2e7d729",
+      "title": "ls, grep, cp : Microsoft fait entrer les commandes Linux nativement dans Windows",
+      "description": "À sa conférence Build 2026, le 2 juin, l'éditeur a lancé Coreutils for Windows, un paquet qui amène directement dans Windows les commandes de base bien connues des utilisateurs de Linux. On parle des classiques du terminal, ls pour lister des fichiers, cp pour copier, mv pour déplacer, grep pour chercher du texte, ou encore cat, find et rm. Au total, près de 75 petites commandes que tout bidouilleur tape machinalement sans même y penser.",
+      "link": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows.html",
+      "pubDate": "2026-06-03T16:08:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows/ls-grep-cp-microsoft-fait-entrer-les-commandes-linux-nativement-dans-windows-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f870435ad707",
+      "title": "Le petit écran caché dans le capot des Zenbook fonctionne enfin sous Linux",
+      "description": "Si vous avez un Zenbook récent avec cet écran miniature encastré dans le couvercle, vous étiez jusqu'ici coincé sous Windows pour l'allumer. Un développeur vient de débloquer la situation. Olivier Magnier a fait fonctionner le ZenVision d'ASUS sous Linux, en rétro-concevant de A à Z le protocole de communication que le constructeur n'avait jamais documenté publiquement. Le ZenVision, pour situer, c'est un petit écran OLED monochrome de 3,5 pouces logé dans la coque supérieure de certains…",
+      "link": "https://korben.info/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux.html",
+      "pubDate": "2026-06-03T12:25:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux/le-petit-ecran-cache-dans-le-capot-des-zenbook-fonctionne-enfin-sous-linux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ee4a8c6f2dbb",
+      "title": "Ce mini-PC Linux se pilote entièrement en morse, avec un seul bouton",
+      "description": "Un développeur a réussi à contrôler un ordinateur sous Linux sans clavier, sans souris et sans écran, uniquement en tapant du morse sur un bouton et en lisant les réponses clignotées par une petite diode lumineuse. La machine, c'est la LuckFox Lyra, un ordinateur monocarte vendu autour de 15 dollars, avec 128 Mo de mémoire et un gabarit grand comme une clé USB un peu épaisse, qui fait pourtant tourner un vrai système Linux complet.",
+      "link": "https://korben.info/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton.html",
+      "pubDate": "2026-06-03T11:59:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton/ce-mini-pc-linux-se-pilote-entierement-en-morse-avec-un-seul-bouton-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c59bb5033d3d",
+      "title": "Il cuit des cookies avec son imprimante 3D",
+      "description": "Un bricoleur connu sous le nom de Startup Chuck a eu une idée que personne ne lui avait demandée : fabriquer des cookies de A à Z avec son imprimante 3D. Pas seulement les façonner. Les cuire aussi, dans la machine. Le tout documenté dans une vidéo YouTube, évidemment. Tout commence par l'attirail. Chuck a imprimé en plastique l'ensemble du matériel du pâtissier, comme s'il montait une vraie petite chaîne de production de biscuits.",
+      "link": "https://korben.info/il-cuit-des-cookies-avec-son-imprimante-3d.html",
+      "pubDate": "2026-06-03T11:32:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-cuit-des-cookies-avec-son-imprimante-3d/il-cuit-des-cookies-avec-son-imprimante-3d-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7e87b748da24",
+      "title": "Soft Serve - Le serveur Git auto-hébergé dans le terminal",
+      "description": "Monter son propre serveur Git, ça rime souvent avec déployer une usine à gaz bourrée d'options qu'on n'utilisera jamais. Heureusement, Soft Serve prend le contre-pied total de tout ça ! Ce serveur Git self-hosted de charmbracelet (la bande derrière Bubble Tea, Glow, Freeze et Gum) fait sa vie dans le terminal et se pilote via SSH. Un coup de brew install charmbracelet/tap/soft-serve (ou Docker, ou go install), vous lancez soft serve et hop, vous voilà avec un serveur Git complet qui tourne…",
+      "link": "https://korben.info/soft-serve-serveur-git-self-hosted-ssh.html",
+      "pubDate": "2026-06-03T11:24:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/soft-serve-serveur-git-self-hosted-ssh/soft-serve-serveur-git-self-hosted-ssh-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "8eccd35277a2",
+      "title": "J'ai testé les UGREEN FineTrack 2.0, des traceurs qui ne ressemblent pas à des AirTags (et tant mieux)",
+      "description": "– Contient des liens affiliés Amazon – J'ai reçu et testé pendant quelques jours la nouvelle série FineTrack 2.0 d'UGREEN, trois petits traceurs d'objets pensés pour ne plus jamais perdre ses clés, son sac ou son vélo.",
+      "link": "https://korben.info/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux.html",
+      "pubDate": "2026-06-03T11:15:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux/jai-teste-les-ugreen-finetrack-2-0-des-traceurs-qui-ne-ressemblent-pas-a-des-airtags-et-tant-mieux-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "35b513414655",
+      "title": "Scratch - Des notes markdown que votre IA peut éditer",
+      "description": "Avec Scratch , une app de prise de notes signée Eric Li que je viens de découvrir, vos notes, c'est vos fichiers stockés directement sur votre disque. Pas de cloud, pas de base de données, tout est portable / exportable et c'est ce qui m'a plu. En plus c'est dispo sur Mac, Windows et Linux. Grâce à Scratch, vous écrivez en mode WYSIWYG comme dans Notion, sauf que derrière ça reste du markdown standard et surtout, comme vos notes sont de bêtes fichiers texte, votre agent local peut les lire et…",
+      "link": "https://korben.info/scratch-notes-markdown-offline-first.html",
+      "pubDate": "2026-06-03T10:23:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/scratch-notes-markdown-offline-first/scratch-notes-markdown-offline-first-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "324852bcbebb",
+      "title": "La boulette d'un pirate force tout un gang de rançongiciels à présenter ses excuses",
+      "description": "Un affilié du gang Nova, spécialisé dans les rançongiciels (ces logiciels qui chiffrent vos fichiers pour vous réclamer une rançon), a commis la bourde qui restera probablement dans les annales du milieu. Il a verrouillé les serveurs d'Eriell, une grosse société de forage pétrolier dont le siège se trouve en Ouzbékistan et qui garde un bureau à Moscou. Le souci, c'est la géographie. L'Ouzbékistan fait partie de la CEI, la Communauté des États indépendants, en gros l'ensemble des anciennes…",
+      "link": "https://korben.info/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses.html",
+      "pubDate": "2026-06-03T09:03:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses/la-boulette-dun-pirate-force-tout-un-gang-de-rancongiciels-a-presenter-ses-excuses-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c77a6c235714",
+      "title": "Microsoft lance Intelligent Terminal, un terminal open source qui vous laisse choisir votre IA",
+      "description": "Microsoft a présenté le 2 juin, pendant sa conférence développeurs Build 2026, une version expérimentale de son terminal baptisée Intelligent Terminal 0.1, un logiciel open source publié sous licence MIT qui intègre directement des assistants IA dans la fenêtre où l'on tape des commandes. Pour situer le truc si vous êtes vraiment très noob, le terminal c'est cette interface en texte que les développeurs et les administrateurs système utilisent au quotidien pour lancer des commandes, compiler du…",
+      "link": "https://korben.info/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia.html",
+      "pubDate": "2026-06-03T08:55:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia/microsoft-lance-intelligent-terminal-un-terminal-open-source-qui-vous-laisse-choisir-votre-ia-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "088c6b448b4c",
       "title": "La vaste blague du macronisme crypto-spatial",
       "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first appeared on Mais où va le Web.",
@@ -99,6 +249,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
       "duration": "01:14:51"
+    },
+    {
+      "id": "479449969bfc",
+      "title": "News Juin 2026, Bun passe à Rust, npm verrouille les scripts et SEO pour l'IA",
+      "description": "Nous évoquons le portage de Bun de Zig vers Rust par des agents IA, npm qui bloque par défaut les scripts postinstall non approuvés, Composer 2.10 qui filtre nativement les paquets malveillants, Windsurf absorbé par Devin Desktop, le guide SEO de Google optimisé pour les IA, MCP Chrome DevTools, Kimi WebBridge et quelques outils comme Perry, Osaurus ou Liquid Dom. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/news-jun26/",
+      "link": "https://double-slash.dev/podcasts/news-jun26/",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1780480242/episode/ART_133_tt4h5f.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_133_news-juin26.mp3",
+      "duration": "3603"
     },
     {
       "id": "d26542a878e1",
