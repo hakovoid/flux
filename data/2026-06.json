@@ -2,6 +2,99 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "131d31b182e6",
+      "title": "Vos données de navigation appartiennent-elles encore à quelqu'un ?",
+      "description": "-- Article en partenariat avec Surfshark -- Posez la question à votre fournisseur d'accès internet. Orange, Free, Bouygues, SFR (ah non, RIP petit opérateur partit trop tôt) vous répondront poliment qu'ils respectent la loi. Et c'est vrai. La Loi de programmation militaire (LPM) en France, impose depuis plus de 10 ans aux FAI de conserver certaines métadonnées de connexion pendant un an.",
+      "link": "https://korben.info/surfshark-et-donnees-de-navigation.html",
+      "pubDate": "2026-06-05T05:00:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/surfshark-et-donnees-de-navigation/surfshark-et-donnees-de-navigation-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "161b9ceb75f5",
+      "title": "#344.exe - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs par Tugdual Grall",
+      "description": "Pour l'épisode #344 je recevais Julien Briault. On en débrief avec Tugdual. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-344-e015963107fd",
+      "pubDate": "2026-06-05T03:00:04.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e51413b8-e044-4cda-ae64-e015963107fd.mp3?_=1780574464",
+      "duration": "10:03"
+    },
+    {
+      "id": "f2dec548f504",
+      "title": "Libinput corrige une faille qui transformait une fausse manette en accès root",
+      "description": "La bibliothèque libinput est passée en version 1.31.2, et pas pour ajouter des fonctions, mais pour boucher un trou de sécurité plutôt vilain. C'est elle qui gère vos périphériques d'entrée (clavier, souris, pavé tactile, manette) sur la quasi-totalité des Linux modernes, aussi bien sous Wayland que sous l'ancien serveur graphique X.Org. Autant dire qu'elle tourne sur presque toutes les machines de bureau sous Linux, des plus grand public aux plus pointues.",
+      "link": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root.html",
+      "pubDate": "2026-06-04T12:59:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root/libinput-corrige-une-faille-qui-transformait-une-fausse-manette-en-acces-root-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f0630d1452f1",
+      "title": "Webcamoid, ou comment fabriquer une fausse webcam sous Linux sans toucher à une ligne de commande",
+      "description": "Sur Linux, faire passer une vidéo trafiquée pour un vrai flux de webcam dans Zoom ou Discord, ça se fait depuis longtemps. Le souci, c'est que la méthode classique demande de taper des commandes assez obscures dans un terminal. Webcamoid propose de tout faire plus simplement. Une webcam virtuelle, c'est une fausse caméra logicielle. Votre système et vos applis la voient comme une vraie webcam branchée en USB, sauf qu'à l'autre bout il n'y a aucun capteur : juste une vidéo que vous avez choisie,…",
+      "link": "https://korben.info/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande.html",
+      "pubDate": "2026-06-04T12:24:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande/webcamoid-ou-comment-fabriquer-une-fausse-webcam-sous-linux-sans-toucher-a-une-ligne-de-commande-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "441e13d14578",
+      "title": "Des circuits électroniques cuits dans de l'argile, et ça marche vraiment",
+      "description": "Emily Velasco , bricoleuse et artiste américaine, a fabriqué une carte électronique fonctionnelle à partir d'un simple disque d'argile tourné à la main, sans la moindre plaque de fibre de verre ni le moindre bain d'acide qu'on associe d'habitude à ce genre d'objet. L'idée vient d'ailleurs. Elle raconte avoir été inspirée par un collectif de hackeuses européennes qui fabriquait ses propres circuits à partir d'argile creusée dans le sol et cuite dans un feu de camp, et comme elle développait déjà…",
+      "link": "https://korben.info/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment.html",
+      "pubDate": "2026-06-04T08:40:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment/des-circuits-electroniques-cuits-dans-de-largile-et-ca-marche-vraiment-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "947ed32a46a2",
+      "title": "Il a transformé sa radio CB en station pilotable depuis un navigateur web",
+      "description": "Un bidouilleur connu sous le pseudo ThatCrazyDcGuy a réussi à rendre sa radio CB entièrement pilotable depuis une simple page web, et la prouesse tient surtout à ce qu'il y soit parvenu sans pratiquement ouvrir l'appareil ni modifier le moindre composant d'origine de la machine. L'engin en question est une Albrecht AE-5900 Mini SSB, une petite radio européenne de la fameuse Citizens Band, cette bande publique située autour de 27 MHz que les routiers et les passionnés utilisent depuis des…",
+      "link": "https://korben.info/il-a-transforme-sa-radio-cb-en-station-pilotable-depuis-un-navigateur-web.html",
+      "pubDate": "2026-06-04T08:10:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/il-a-transforme-sa-radio-cb-en-station-pilotable-depuis-un-navigateur-web/il-a-transforme-sa-radio-cb-en-station-pilotable-depuis-un-navigateur-web-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1d0225350d6a",
       "title": "HTTP/2 Bomb : une mini-requête suffit pour faire tomber nginx, Apache ou IIS",
       "description": "Il y a des failles qui réclament un arsenal de hacker chevronné, et puis il y a HTTP/2 Bomb, qui se contente de quelques kilo-octets pour faire vaciller des serveurs parmi les plus utilisés de la planète. Dévoilée le 2 juin sous la référence CVE-2026-49975, elle s'attaque à HTTP/2, le protocole qui transporte une bonne partie des pages que vous consultez chaque jour. Le résultat ressemble à une mauvaise blague. Une poignée d'octets envoyés au bon endroit, et la mémoire vive du serveur se met à…",

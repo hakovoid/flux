@@ -2,6 +2,90 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1b410cadf65e",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "pubDate": "2026-06-04T18:57:45.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-5-content-safety.png",
+      "type": "blog"
+    },
+    {
+      "id": "b29a2f9c2753",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "pubDate": "2026-06-04T12:24:58.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva-bench-data.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e1f29b50d98",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "description": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "link": "https://openai.com/index/endava-frontiers",
+      "pubDate": "2026-06-04T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c3ab33c62226",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "pubDate": "2026-06-04T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/41T8ZOansyDZGCqmwOkuOY/3cdeb6ab147c08fa9b313b677fb5318e/16x9_SEO__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "32a436ff121f",
+      "title": "Biodefense in the Intelligence Age",
+      "description": "An action plan for AI-powered biological resilience",
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "pubDate": "2026-06-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2GYeL7adKwSV57xftkvZT1/c6ae97a29ddc3f9b9406dabbfa41794f/oai_16x9_Biodefense_in_the_Intelligence_Age.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4de8c57f473b",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "description": "",
+      "link": "https://huggingface.co/blog/hf-cli-for-agents",
+      "pubDate": "2026-06-04T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/hf-cli-for-agents/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "ba562226725d",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
