@@ -2,6 +2,96 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e8165d2cf82f",
+      "title": "Test de ce chargeur 65W, avec sa taille ridicule qui n’a aucun sens",
+      "description": "– Contient des liens affiliés Amazon – Tellement de produits UGREEN passent entre mes mains que c'en est devenu une blague. Plus j'en kiffe un, plus ils m'en envoient un autre. Et à chaque fois, je craque pareil. Mais là je dois avouer que sur celui là je suis complètement en phase (mais vous le savez, j'adore les chargeurs ha ha).",
+      "link": "https://korben.info/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens.html",
+      "pubDate": "2026-06-05T15:17:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens/test-de-ce-chargeur-65w-avec-sa-taille-ridicule-qui-na-aucun-sens-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d5a38b7168b4",
+      "title": "Il projette au plafond, en temps réel, tous les avions qui passent au-dessus de sa maison",
+      "description": "Un développeur qui se fait appeler cpaczek a eu une idée un peu folle, celle de transformer le plafond de son salon en fenêtre sur le ciel. Son projet, baptisé Skylight, affiche en temps réel chaque avion qui passe réellement au-dessus de chez lui, à l'endroit exact où il se trouve dans le ciel. Tout part de l'ADS-B (Automatic Dependent Surveillance-Broadcast), la norme par laquelle les avions diffusent en continu leur position, leur altitude et leur identité depuis un transpondeur embarqué,…",
+      "link": "https://korben.info/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison.html",
+      "pubDate": "2026-06-05T14:35:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison/il-projette-au-plafond-en-temps-reel-tous-les-avions-qui-passent-au-dessus-de-sa-maison-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9dec301f6f4b",
+      "title": "Rsync, le logiciel de sauvegarde culte sous Linux, mis à jour avec de l'IA et ça déclenche une vraie colère",
+      "description": "rsync vient de sortir sa version 3.4.3, un correctif censé boucher plusieurs trous de sécurité. Sauf que pour une partie des utilisateurs, leurs sauvegardes incrémentales se sont mises à mal fonctionner juste après la mise à jour. En fouillant le code, certains ont remarqué un détail qui ne leur a pas plu. Depuis la version 3.4.1, des dizaines de modifications (des \"commits\", les unités de changement de code) sont signées \"tridge and claude\". Comprendre Andrew Tridgell, le créateur historique…",
+      "link": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere.html",
+      "pubDate": "2026-06-05T12:16:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere/rsync-le-logiciel-de-sauvegarde-culte-sous-linux-mis-a-jour-avec-de-lia-et-ca-declenche-une-vraie-colere-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f18b58edb230",
+      "title": "Anthropic - L'entreprise éthique qui hacke pour la NSA",
+      "description": "Anthropic, c'est la boite qui nous rabâche le plus les oreilles avec l'importance de l'éthique dans les IA. Sauf que d'après le Financial Times, la société a \"discrètement\" embarqué une demi-douzaine d'ingénieurs environ au cœur de la NSA. Et leur job, c'est d'aider l'agence à manier Mythos, son modèle capable de dénicher et d'exploiter des failles informatiques quasiment tout seul. Voilà... Du 100% en mode offensif quoi... Petit rappel sur Mythos , parce que cette bêbête vaut le détour... Ce…",
+      "link": "https://korben.info/anthropic-nsa-mythos-cyber-offensif.html",
+      "pubDate": "2026-06-05T09:11:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-nsa-mythos-cyber-offensif/anthropic-nsa-mythos-cyber-offensif-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c3dd29f0686a",
+      "title": "Ce clone de Game Boy tournait trop vite, un seul composant a tout réglé",
+      "description": "Il existe une catégorie d'objets qu'on achète sur un coup de tête, qu'on déballe avec enthousiasme, et qu'on range au fond d'un tiroir une demi-heure plus tard parce qu'ils sont tout bonnement inutilisables. La GB Boy de Sharopolis appartenait pile à cette catégorie. Commandée sur AliExpress il y a des années, puis oubliée. Le principe de cette console portable est pourtant séduisant sur le papier, puisqu'elle reprend le design d'une Game Boy Pocket tout en acceptant les vraies cartouches…",
+      "link": "https://korben.info/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle.html",
+      "pubDate": "2026-06-05T08:47:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle/ce-clone-de-game-boy-tournait-trop-vite-un-seul-composant-a-tout-regle-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cba144e28dfa",
+      "title": "Votre voiture peut devenir un objet connecté de plus dans votre maison",
+      "description": "Branchez un petit boîtier dans la prise de diagnostic de votre voiture, et celle-ci se met à remonter son niveau de carburant, sa température moteur ou la pression de ses pneus directement dans votre système domotique, au même titre qu'une ampoule connectée ou un thermostat. C'est la démonstration faite par un vidéaste connu sous le nom de The Stock Pot, repérée par Maya Posch sur Hackaday. L'idée, c'est de faire dialoguer une auto avec Home Assistant, le logiciel open source qui centralise…",
+      "link": "https://korben.info/votre-voiture-peut-devenir-un-objet-connecte-de-plus-dans-votre-maison.html",
+      "pubDate": "2026-06-05T07:58:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/votre-voiture-peut-devenir-un-objet-connecte-de-plus-dans-votre-maison/votre-voiture-peut-devenir-un-objet-connecte-de-plus-dans-votre-maison-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "131d31b182e6",
       "title": "Vos données de navigation appartiennent-elles encore à quelqu'un ?",
       "description": "-- Article en partenariat avec Surfshark -- Posez la question à votre fournisseur d'accès internet. Orange, Free, Bouygues, SFR (ah non, RIP petit opérateur partit trop tôt) vous répondront poliment qu'ils respectent la loi. Et c'est vrai. La Loi de programmation militaire (LPM) en France, impose depuis plus de 10 ans aux FAI de conserver certaines métadonnées de connexion pendant un an.",

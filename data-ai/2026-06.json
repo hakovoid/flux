@@ -2,6 +2,48 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "000fa3d38f6a",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "description": "",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "pubDate": "2026-06-05T22:18:46.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/thousand-token-wood-sim.png",
+      "type": "blog"
+    },
+    {
+      "id": "d8951679a130",
+      "title": "The latest AI news we announced in May 2026",
+      "description": "Here are Google’s latest AI updates from May 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "pubDate": "2026-06-05T14:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/May_AI_Recap_still.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a6e9531697ee",
+      "title": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "description": "Jun 5, 2026ScienceMaking Claude a chemist",
+      "link": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "pubDate": "2026-06-05T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCube&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "1b410cadf65e",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "description": "",
