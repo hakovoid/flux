@@ -2,6 +2,36 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "18a79357b55b",
+      "title": "Shai-Hulud Descends to Hades: Miasma Worm Campaign Spreads with New PyPI Wave",
+      "description": "Socket detected a coordinated PyPI compromise involving 37 malicious wheel artifacts across 19 packages. The compromised releases shipped a *-setup.pth file that attempts to execute automatically during Python startup, download the Bun JavaScript runtime, and run an obfuscated JavaScript payload named _index.js. Socket’s AI malware detection system identified the malicious package cluster minutes after publication. The attack is cross-runtime, and the tradecraft is unmistakably Shai-Hulud /…",
+      "link": "https://socket.dev/blog/shai-hulud-descends-to-hades-miasma-pypi-wave?utm_medium=feed",
+      "pubDate": "2026-06-07T05:30:32.599Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/80f85f1278d4b68075d7edd3617ee427833021b3-2174x1298.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9aa5152c1ce2",
+      "title": "Flare ❤️ Livewire",
+      "description": "We built deep Livewire support into Flare, making component hierarchies, lifecycle phases, method calls, and related queries visible inside traces. It looks like a solid step forward for understanding where Livewire apps spend time and where things go wrong. Read more",
+      "link": "https://freek.dev/3122-flare-livewire",
+      "pubDate": "2026-06-06T12:30:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/3e3229c26f8cea1c6f0455beeda3b1b0.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "35c8681f55ef",
       "title": "micropython-wasm 0.1a2",
       "description": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython",

@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "fa5e63bc3187",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "description": "",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "pubDate": "2026-06-06T19:02:33.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/thousand-token-wood-sim-v2.png",
+      "type": "blog"
+    },
+    {
       "id": "000fa3d38f6a",
       "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
       "description": "",

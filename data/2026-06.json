@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "503a446838ae",
+      "title": "Qu'est-ce qu'un « bon code » à l'ère de l'IA ?",
+      "description": "La semaine dernière, je faisais référence au mantra “code is cheap”. Depuis, j’ai trouvé le projet “Agentic Engineering Patterns” de Simon Willison qui documente les patterns pratiques pour travailler et obtenir les meilleurs résultats possibles avec l’IA. On y retrouve une section “Writing code is cheap now” avec toute fois une nuance que je partage: “Good code still has a cost”. Ce qu’il y explique a pour moi toujours était vrai même avant l’IA. Écrire du code est facile, mais écrire du bon…",
+      "link": "https://www.jdecool.fr/blog/2026/06/06/qu-est-ce-qu-un-bon-code-a-l-ere-de-l-ia.html",
+      "pubDate": "2026-06-05T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e8165d2cf82f",
       "title": "Test de ce chargeur 65W, avec sa taille ridicule qui n’a aucun sens",
       "description": "– Contient des liens affiliés Amazon – Tellement de produits UGREEN passent entre mes mains que c'en est devenu une blague. Plus j'en kiffe un, plus ils m'en envoient un autre. Et à chaque fois, je craque pareil. Mais là je dois avouer que sur celui là je suis complètement en phase (mais vous le savez, j'adore les chargeurs ha ha).",
@@ -123,6 +138,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/e51413b8-e044-4cda-ae64-e015963107fd.mp3?_=1780574464",
       "duration": "10:03"
+    },
+    {
+      "id": "4dde60665677",
+      "title": "Le pattern Transactional Outbox avec Postgresql et Rabbitmq",
+      "description": "Comment sécuriser vos écritures entre Postgresql et RabbitMQ sans pénaliser vos performances ? Découvrez le pattern Transactional Outbox",
+      "link": "https://eventuallycoding.com/p/le-pattern-transactional-outbox-avec-postgresql-et-rabbitmq",
+      "pubDate": "2026-06-05T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1780731744816-woxokv4.png?width=400",
+      "type": "blog"
     },
     {
       "id": "f2dec548f504",
