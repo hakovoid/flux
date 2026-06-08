@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5725beb086e0",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "description": "",
+      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "pubDate": "2026-06-07T19:44:27.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/amazingdigitaldentures.png",
+      "type": "blog"
+    },
+    {
       "id": "fa5e63bc3187",
       "title": "Five labs, five minds: building a multi-model finance drama on small models",
       "description": "",
