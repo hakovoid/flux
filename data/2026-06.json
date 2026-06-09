@@ -2,6 +2,158 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "aa369a19049d",
+      "title": "Music Decoy - Apple Music ne se lancera plus tout seul",
+      "description": "Vous appuyez sur la touche ▶ Play de votre clavier pour mettre en pause une vidéo. Et c'est ce couillon d'Apple Music qui s'ouvre en grand alors que vous n'avez rien demandé. Ou alors vous branchez votre casque Bluetooth, et le revoilà qui débarque comme votre ex à votre anniversaire. Sachez que si ce truc vous rend dingue depuis des années (moi le premier), les Low-Tech Guys (Alin Panaitiu, le dev derrière Lunar) ont pondu Music Decoy , une petite app gratuite qui règle le problème une bonne…",
+      "link": "https://korben.info/music-decoy-bloquer-apple-music.html",
+      "pubDate": "2026-06-09T07:25:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/music-decoy-bloquer-apple-music/music-decoy-bloquer-apple-music-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5c2002a25ac5",
+      "title": "Etat du ecommerce B2B en 2026",
+      "description": "Le rapport de Commerce B2B et Novatize sur le e-commerce B2B révèle que 71% des entreprises génèrent une part significative de leur chiffre d’affaires en ligne, mais 78% critiquent leur technologie actuelle. Les défis incluent la personnalisation, l'intégration des systèmes et le manque de compétences. L'investissement en IA augmente avec un besoin d'approche stratégique. L’article Etat du ecommerce B2B en 2026 est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/09/etat-du-ecommerce-b2b-en-2026/",
+      "pubDate": "2026-06-09T06:14:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/etat-ecommerce-b2b-2026.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7d288d56574f",
+      "title": "FinOps: comment économiser 100 000 $/an en ouvrant simplement AWS Cost Explorer",
+      "description": "REX FinOps : en ouvrant AWS Cost Explorer sur un data lake à 6 500 $/mois, trois anomalies apparaissent. AWS KMS à 4 000 $/mois, des licences fantômes pour des développeurs partis, 10 pipelines CI/CD redondantes. Optimisation des coûts cloud : 100 000 $ d'économies annuelles. Sans outil, sans migration. Juste de la curiosité. Checklist incluse.",
+      "link": "https://blog.octo.com/finops-comment-economiser-100-000-dollaran-en-ouvrant-simplement-aws-cost-explorer",
+      "pubDate": "2026-06-09T05:52:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba13bbe87a59",
+      "title": "Un clone de DOOM en COBOL ça vous dit ?",
+      "description": "Un développeur connu sous le pseudonyme icitry s'est posé une question que personne de sensé ne formule jamais, peut-on coder un jeu de tir à la première personne en COBOL ? La réponse, contre toute attente, est oui, et le résultat est même tout à fait jouable. Pour ceux que ce nom laisse de marbre, COBOL, pour Common Business Oriented Language, est un langage né en 1959 qui fait encore tourner aujourd'hui une partie des mainframes chargés de vos virements bancaires et de la paie. C'est l'outil…",
+      "link": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit.html",
+      "pubDate": "2026-06-08T16:17:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-clone-de-doom-en-cobol-ca-vous-dit/un-clone-de-doom-en-cobol-ca-vous-dit-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8232c7f82cdc",
+      "title": "Test du Leap Nova de chez Strong - Google TV pour réveiller votre vieille téloche",
+      "description": "– Contient des liens affiliés Amazon – Mon problème de départ était tout bête, je voulais lancer GeForce Now, le service de Nvidia qui fait tourner des jeux à distance sans grosse machine, directement sur ma télé LG OLED de 2023. Sauf que cette télé, aussi incroyable soit-elle, ne fonctionne qu'en Wi-Fi 5, et c'était la catastrophe, l'image saccadait dès que l'application GeForce Now tournait dessus.",
+      "link": "https://korben.info/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche.html",
+      "pubDate": "2026-06-08T16:00:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche/test-du-leap-nova-de-chez-strong-google-tv-pour-reveiller-votre-vieille-teloche-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aa499bcf936f",
+      "title": "Signal, DuckDuckGo et NordVPN menacent de quitter le Canada à cause d'une loi sur la surveillance",
+      "description": "Le Canada planche sur un projet de loi, le C-22, qui obligerait les services numériques à conserver pendant un an les métadonnées de leurs utilisateurs, c'est-à-dire pas le contenu de vos messages mais qui vous contactez, à quelle heure et depuis où vous le faites. Plusieurs champions de la vie privée préviennent qu'ils plieront bagage plutôt que de s'y soumettre. Signal, l'application de messagerie chiffrée que recommandent les défenseurs de la confidentialité, l'a dit noir sur blanc devant le…",
+      "link": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance.html",
+      "pubDate": "2026-06-08T15:08:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance/signal-duckduckgo-et-nordvpn-menacent-de-quitter-le-canada-a-cause-dune-loi-sur-la-surveillance-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1f921a168e46",
+      "title": "Mistral AI NOW Summit : Entre ambitions technologiques et réalités d'adoption en entreprise",
+      "description": "Au AI Now Summit 2026, Mistral a présenté une vision ambitieuse de l’IA industrielle : maîtrise de l’infrastructure, modèles spécialisés, agents outillés et souveraineté des données. Derrière la vitrine, une conférence utile pour lire les vrais enjeux d’adoption de l’IA en entreprise.",
+      "link": "https://blog.octo.com/mistral-ai-now-summit--entre-ambitions-technologiques-et-realites-d'adoption-en-entreprise",
+      "pubDate": "2026-06-08T14:44:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a31b7001c006",
+      "title": "Refonte de site en B2B : pourquoi se faire accompagner par un expert du numérique ?",
+      "description": "Engager un consultant pour la refonte de site web assure sécurité et expertise. Grâce à sa connaissance technique et son expérience, il guide efficacement la rédaction des cahiers des charges et facilite les échanges entre prestataires. Cette collaboration réduit les coûts et les risques, garantissant la réussite du projet de refonte. L’article Refonte de site en B2B : pourquoi se faire accompagner par un expert du numérique ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/08/refonte-de-site-en-b2b-pourquoi-se-faire-accompagner-par-un-expert-du-numerique/",
+      "pubDate": "2026-06-08T14:03:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/os-expert-numerique.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "84b8f06edac0",
+      "title": "OpenAI ajoute un \"mode confinement\" à ChatGPT pour bloquer les injections de prompt",
+      "description": "ChatGPT a gagné un réglage qui ne plaira pas à tout le monde. Un \"mode confinement\", Lockdown Mode dans le texte, qui débranche volontairement une partie des fonctions de l'assistant pour réduire le risque de fuite de données vers l'extérieur. L'ennemi, ici, porte un nom : l'injection de prompt. Le principe de cette attaque est plutôt vicieux, puisqu'un pirate planque des instructions dans une page web ou dans un document anodin, et qu'au moment où ChatGPT lit ce contenu pour vous répondre, il…",
+      "link": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt.html",
+      "pubDate": "2026-06-08T09:45:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt/openai-ajoute-un-mode-confinement-a-chatgpt-pour-bloquer-les-injections-de-prompt-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "18ce2e20ed06",
+      "title": "Encore un zero-day chez Cisco, exploité en ce moment même et toujours sans correctif",
+      "description": "Le Catalyst SD-WAN Manager de Cisco, anciennement appelé vManage, c'est la salle de contrôle depuis laquelle une grande entreprise règle, surveille et met à jour à distance le réseau entier qui relie ses dizaines d'agences, usines ou boutiques entre elles, et c'est ce logiciel très sensible qui se retrouve aujourd'hui troué par une faille déjà exploitée dans la nature. Le pire ? Aucun correctif. Référencée CVE-2026-20245 et notée 7,8 sur 10 sur l'échelle CVSS, le barème qui classe la…",
+      "link": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif.html",
+      "pubDate": "2026-06-08T09:35:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif/encore-un-zero-day-chez-cisco-exploite-en-ce-moment-meme-et-toujours-sans-correctif-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "6c099ec77194",
       "title": "Mindwtr - Une app GTD libre qui tourne partout",
       "description": "Des apps de todo qui se réclament de la mouvance GTD , y'en a des centaines ! Mais des apps qui appliquent vraiment la méthode de David Allen de bout en bout, et qui en plus sont libres, locales, et qui tournent sur tous les OS, y'en a beaucoup moins. Le développeur Dongdongbh en a sorti une nommée Mindwtr (prononcez \"mind water\", l'esprit clair comme l'eau... ^^), et je pense que ça va vous intéresser.",
