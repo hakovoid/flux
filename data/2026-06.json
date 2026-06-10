@@ -2,6 +2,299 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "174200356ab7",
+      "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
+      "description": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Container , avec dedans des « container machines » qui ressemblent furieusement à WSL. Et ça nous permet comme ça d'avoir le meilleur des deux mondes : un macOS pour le quotidien, et un vrai Linux pour vos folles bidouilles.",
+      "link": "https://korben.info/apple-container-machines-linux-mac.html",
+      "pubDate": "2026-06-10T07:43:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/apple-container-machines-linux-mac/apple-container-machines-linux-mac-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1a481f60f2cb",
+      "title": "iOS 27 : votre iPhone va se connecter tout seul à vos comptes pour réparer vos mots de passe pourris",
+      "description": "À la WWDC 2026, Apple a survolé la nouveauté en quelques secondes. Dans iOS 27, l'app Mots de passe ne se contente plus de signaler vos identifiants vulnérables, elle les remplace toute seule, en se rendant sur chaque site à votre place. Le déroulé ressemble à de la magie un peu inquiétante. Vous validez une fois, puis Apple Intelligence, le moteur d'intelligence artificielle maison, ouvre le site visé dans Safari, saisit vos identifiants stockés dans le Trousseau iCloud, navigue jusqu'au…",
+      "link": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris.html",
+      "pubDate": "2026-06-10T07:09:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris/ios-27-votre-iphone-va-se-connecter-tout-seul-a-vos-comptes-pour-reparer-vos-mots-de-passe-pourris-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f88fcd1f9e4d",
+      "title": "Goddard, le chien robot de Jimmy Neutron, existe maintenant en vrai",
+      "description": "Une créatrice connue sous le pseudo de Kiara a reconstruit Goddard, le chien mécanique du dessin animé Jimmy Neutron, en taille réelle et en version qui bouge pour de bon. Pour ceux qui n'ont pas grandi avec la série, Goddard est le compagnon canin du petit génie Jimmy Neutron : un chien entièrement robotique, capable de se transformer et de rendre toutes sortes de services improbables à son maître. Le rêve de gosse de pas mal de trentenaires d'aujourd'hui.",
+      "link": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai.html",
+      "pubDate": "2026-06-10T06:52:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai/goddard-le-chien-robot-de-jimmy-neutron-existe-maintenant-en-vrai-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e13ca54318a3",
+      "title": "Claude FM - La radio lofi planquée dans Claude Code",
+      "description": "Vous aimez bosser avec un petit fond sonore ? Et bien sachez qu'Anthropic diffuse désormais sa propre radio lofi sur YouTube, 24h sur 24. Ça s'appelle Claude FM et c'est même planqué dans Claude Code derrière la commande /radio. Le visuel du stream, sobre comme la com' qui va avec",
+      "link": "https://korben.info/claude-fm-radio-lofi-anthropic.html",
+      "pubDate": "2026-06-10T05:34:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/claude-fm-radio-lofi-anthropic/claude-fm-radio-lofi-anthropic-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "68e5b320bb69",
+      "title": "#360.src - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs avec Guillaume Lours",
+      "description": "\"C'est important que je comprenne le code qui a été généré.\" Le D.E.V. de la semaine est Guillaume Lours, Software Engineer chez Docker. Avec lui, on plonge dans les coulisses de Docker Sandbox, cette solution pensée pour sécuriser l'automatisation et l'exécution de code par IA. Guillaume nous explique comment limiter les risques sans sacrifier l'efficacité, et détaille l'architecture technique : micro VM légère, man-in-the-middle pour la gestion des credentials, profils de sécurité…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-360-1ee20cd72937",
+      "pubDate": "2026-06-10T03:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/8cb2bc4e-d44a-4aa3-b153-9decbc558bb1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/110eddef-3813-4e0b-bcb0-1ee20cd72937.mp3?_=1781006488",
+      "duration": "01:02:32"
+    },
+    {
+      "id": "46d3f422d9dd",
+      "title": "Tenir un blog avec l'assistance d'une IA",
+      "description": "L’ inonde le web de contenus insipides. Les articles sur avec une image générée par , remplis d’émojis, publiés par des soi-disant experts sur un sujet auquel ils ne portent pas assez d’intérêt pour écrire eux-mêmes, sont les pires spécimens. Bien que je sois très contrarié de cette situation, je m’appuie sur des pour la , les et la . Je ne trouve pas cela incohérent.IAIALLMsLinkedIngrammairerévisions linguistiquestraduction Ma langue maternelle est le français mais j’écris la plupart des…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-blog-ia",
+      "pubDate": "2026-06-09T20:15:13.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/ai-usage@1x.c55381c0eb5251.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd6cdf5689ae",
+      "title": "Du marécage à l'autonomie : redresser un projet data en tant que Tech Lead",
+      "description": "REX Tech Lead : reprendre un data lake AWS en perdition. Dette technique de 5 ans, pas de tests, pas de monitoring, équipe de 2 juniors sans PO. 4 leviers : assainir (monorepo, Terraform, CI/CD, Python), coaching, pair programming, collective ownership. Résultat : 5 000 tests, datamart Snowflake/dbt, 100 000 $ d'économies FinOps, équipe autonome.",
+      "link": "https://blog.octo.com/du-marecage-a-l'autonomie--redresser-un-projet-data-en-tant-que-tech-lead",
+      "pubDate": "2026-06-09T18:35:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a3c60a2e307f",
+      "title": "Anthropic is starting to panic…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
+      "pubDate": "2026-06-09T17:32:30.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0170ab4a3294",
+      "title": "GitHub désactive 73 dépôts Microsoft en 105 secondes pour stopper le ver Miasma",
+      "description": "GitHub a désactivé 73 dépôts appartenant à Microsoft en l'espace de 105 secondes, le temps de couper la propagation d'un ver baptisé Miasma. Un ver, vous le savez, c'est ce genre de logiciel malveillant qui se recopie tout seul d'un projet à l'autre, sans la moindre intervention humaine. Celui-là s'attaque directement aux développeurs, et plus précisément à leurs outils. Tout est parti du dépôt Azure/durabletask. Un compte de contributeur compromis y a poussé un commit piégé, qui déposait au…",
+      "link": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma.html",
+      "pubDate": "2026-06-09T16:21:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma/github-desactive-73-depots-microsoft-en-105-secondes-pour-stopper-le-ver-miasma-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6f2c2e628f10",
+      "title": "Les tokens, le nouveau pétrole que vous brûlez sans le savoir",
+      "description": "Et si vous brûliez tout votre quota IA en 5 jours ? Vous faites quoi le reste du mois ? Les tokens ne sont ni gratuits, ni renouvelables, ni illimités, même quand votre abonnement se recharge. Il est temps de comprendre ce que vous consommez vraiment.",
+      "link": "https://blog.octo.com/les-tokens-le-nouveau-petrole-que-vous-brulez-sans-le-savoir",
+      "pubDate": "2026-06-09T14:50:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "55c125785508",
+      "title": "Pocket World - Avions, navires, radios et météo sur un globe 3D",
+      "description": "Vous avez déjà tous joué avec Flightradar pour pister un vol, ou cliqué au pif sur un globe terrestre pour écouter une radio FM brésilienne . Hé bien Pocket World , c'est un peu tout ça en même temps, plus la météo, les séismes, les bases militaires, les câbles sous-marins, les volcans en éruption, les indices boursiers et la qualité de l'air. Tout ça, accessible sur un seul globe 3D dans votre navigateur !",
+      "link": "https://korben.info/pocket-world-globe-3d-tracker-temps-reel.html",
+      "pubDate": "2026-06-09T14:42:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/pocket-world-globe-3d-tracker-temps-reel/pocket-world-globe-3d-tracker-temps-reel-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "dfc572b14568",
+      "title": "Let's Encrypt - Les sanctions US s'invitent dans le contrat",
+      "description": "Si vous êtes développeur en Iran, à Cuba ou en Corée du Nord, vous venez officiellement de perdre l'accès à Let's Encrypt ! En effet, la version 1.7 du Subscriber Agreement publiée par l'ISRG (Internet Security Research Group), l'organisation derrière le service, est malheureusement entrée en vigueur le 4 juin dernier. Et sur les 8 pages du document, il n'y a qu'un seul ajout, mais il pèse trèèès lourd : section 3.1, un nouveau bullet point oblige maintenant chaque utilisateur à garantir qu'il…",
+      "link": "https://korben.info/lets-encrypt-v17-subscriber-agreement.html",
+      "pubDate": "2026-06-09T14:32:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lets-encrypt-v17-subscriber-agreement/lets-encrypt-v17-subscriber-agreement-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "811c07849fc8",
+      "title": "Lego Batman - Un easter egg Commodore 64 BASIC caché dedans",
+      "description": "Cabel Sasser, le boss de Panic Inc. (les gars derrière Coda, Nova et la fameuse Playdate ), vient de tomber sur un easter egg complètement génial dans LEGO Batman: Legacy of the Dark Knight, le jeu sorti fin mai 2026. Et ce qu'il a découvert, c'est un petit programme Commodore 64 en BASIC affiché à l'écran sur l'ordi de Batman. Du vrai BASIC qui s'exécute vraiment si vous le retapez sur la vieille bécane de 1982, celle qui a été vendue, je le rappelle, à 17 millions d'unités, avec son CPU MOS…",
+      "link": "https://korben.info/lego-batman-commodore-64-easter-egg.html",
+      "pubDate": "2026-06-09T14:13:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lego-batman-commodore-64-easter-egg/lego-batman-commodore-64-easter-egg-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "56d4a1f89c2b",
+      "title": "Le compilateur JIT de Python est menacé, et pas pour une raison technique",
+      "description": "Le conseil de pilotage de Python, l'instance qui tranche les grandes décisions du langage, a demandé le 5 juin la suspension de tout nouveau développement sur son compilateur JIT. Un JIT (just-in-time), c'est un compilateur à la volée : au lieu d'interpréter votre code ligne par ligne, il traduit les portions les plus sollicitées en instructions machine pendant l'exécution, histoire de gagner en vitesse. Python en a un, expérimental, depuis la version 3.13 sortie début 2024.",
+      "link": "https://korben.info/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique.html",
+      "pubDate": "2026-06-09T13:15:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique/le-compilateur-jit-de-python-est-menace-et-pas-pour-une-raison-technique-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce4bef58d54e",
+      "title": "Spy Tech - la station de nombres cachée dans le GPS",
+      "description": "Pendant la Guerre froide, les services de renseignement diffusaient sur ondes courtes des suites de chiffres récitées par une voix synthétique, à destination de leurs agents sur le terrain. On appelait ça des \"numbers stations\", et personne en dehors du destinataire ne savait décoder le message. Steven Murdoch, professeur de sécurité informatique à l'University College London, vient de montrer que l'armée américaine fait à peu près la même chose depuis presque vingt ans, mais via le GPS que…",
+      "link": "https://korben.info/spy-tech-la-station-de-nombres-cachee-dans-le-gps.html",
+      "pubDate": "2026-06-09T12:11:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/spy-tech-la-station-de-nombres-cachee-dans-le-gps/spy-tech-la-station-de-nombres-cachee-dans-le-gps-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6cb8bf88f698",
+      "title": "OpenCV 5.0 sait maintenant faire tourner des IA façon ChatGPT directement dans son moteur",
+      "description": "OpenCV, vous l'utilisez sans doute déjà sans le savoir. Cette bibliothèque open source de vision par ordinateur, autrement dit une grosse boîte à outils qui apprend aux logiciels à analyser images et vidéos, se cache derrière la reconnaissance de visages de votre téléphone, les caméras d'usine ou les yeux des robots. Née chez Intel à la fin des années 90, elle vient de franchir un cap avec sa version 5.0, dévoilée autour de la conférence CVPR de Denver et rendue installable en un clic.",
+      "link": "https://korben.info/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur.html",
+      "pubDate": "2026-06-09T09:48:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur/opencv-5-0-sait-maintenant-faire-tourner-des-ia-facon-chatgpt-directement-dans-son-moteur-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "39332e5e2eea",
+      "title": "Améliorer la maintenance de vos workflows GitHub",
+      "description": "Les failles de sécurité liées à la supply chain sont de plus en plus courantes. En tant que mainteneur d'un projet open source populaire, l'enjeu est de taille. Votre code est déployé sur de nombreux serveurs de production et postes de développeurs. Il est donc crucial de garder vos pipelines CI à jour et sécurisés. Le projet open source qui nous importe aujourd'hui est Castor 🦫, que nous vous invitons à découvrir. Pour nous aider dans cette tâche, nous avons choisi zizmor. C'est un outil…",
+      "link": "https://jolicode.com/blog/ameliorer-la-maintenance-de-vos-workflows-github",
+      "pubDate": "2026-06-09T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/ameliorer-la-maintenance-de-vos-workflows-github.png",
+      "type": "blog"
+    },
+    {
+      "id": "e8f879ad82b3",
+      "title": "Refroidir à -84°C avec une imprimante 3D et de l'air comprimé",
+      "description": "Un youtubeur qui se fait appeler Hyperspace Pirate a fabriqué chez lui un cryogénérateur, c'est-à-dire une machine capable de produire du froid extrême, en imprimant lui-même la plupart des pièces en plastique. Sur ses deux prototypes, il est descendu jusqu'à -84°C. Ce n'est pas un record, et il le sait très bien, mais réussir ça avec du matériel de garage a quand même de quoi surprendre. La machine qu'il reproduit s'appelle un cryogénérateur Gifford-McMahon, du nom des deux ingénieurs qui ont…",
+      "link": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime.html",
+      "pubDate": "2026-06-09T07:48:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime/refroidir-a-84c-avec-une-imprimante-3d-et-de-lair-comprime-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "afaa15f71cc2",
+      "title": "Faille kernel Linux - Un seul caractère et vous voilà root",
+      "description": "Oliver Sieber, un chercheur de chez Exodus Intelligence, vient de publier l'exploit complet d'une faille qui tient dans un seul caractère. C'est la CVE-2026-23111, planquée dans nf_tables, c'est à dire au bout du noyau Linux qui filtre les paquets réseau. Un bug discret donc, qui transforme un compte tout pourri, sans le moindre privilège, en compte root sur la machine... et qui vous fait sortir d'un conteneur au passage. Le scénario, vous le connaissez si vous traînez ici depuis un moment. Un…",
+      "link": "https://korben.info/faille-kernel-linux-nf-tables-root.html",
+      "pubDate": "2026-06-09T07:35:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/faille-kernel-linux-nf-tables-root/faille-kernel-linux-nf-tables-root-1.png",
+      "type": "blog"
+    },
+    {
       "id": "aa369a19049d",
       "title": "Music Decoy - Apple Music ne se lancera plus tout seul",
       "description": "Vous appuyez sur la touche ▶ Play de votre clavier pour mettre en pause une vidéo. Et c'est ce couillon d'Apple Music qui s'ouvre en grand alors que vous n'avez rien demandé. Ou alors vous branchez votre casque Bluetooth, et le revoilà qui débarque comme votre ex à votre anniversaire. Sachez que si ce truc vous rend dingue depuis des années (moi le premier), les Low-Tech Guys (Alin Panaitiu, le dev derrière Lunar) ont pondu Music Decoy , une petite app gratuite qui règle le problème une bonne…",

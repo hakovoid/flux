@@ -2,6 +2,146 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5ec2963d36a6",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "pubDate": "2026-06-09T19:38:28.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/code-switching.png",
+      "type": "blog"
+    },
+    {
+      "id": "76338580cdcc",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "description": "",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "pubDate": "2026-06-09T15:56:23.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/CohereLabs/introducing-north-mini-code.png",
+      "type": "blog"
+    },
+    {
+      "id": "45b0a390bb94",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "description": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "pubDate": "2026-06-09T15:16:25.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "533d0694cd8a",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "pubDate": "2026-06-09T14:10:19.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "6154bab88f7c",
+      "title": "Powering the future of robotics in Europe",
+      "description": "",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "pubDate": "2026-06-09T14:02:33.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/130.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5b802ccebc3c",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "link": "https://openai.com/index/nextdoor",
+      "pubDate": "2026-06-09T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "459b888b75db",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "",
+      "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "pubDate": "2026-06-09T10:46:19.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/60a551a34ecc5d054c8ad93e/0tamlKpAvO3lZEklNmwHT.png",
+      "type": "blog"
+    },
+    {
+      "id": "58b581b20ce3",
+      "title": "What Codex unlocks for Notion",
+      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "link": "https://openai.com/index/notion",
+      "pubDate": "2026-06-09T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4kuHNpLFWGTJ5PFyZ8ZYKs/f294630773ebdf81c05804a62fed2f00/oai_Notion_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0e6454a49e23",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "",
+      "link": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "pubDate": "2026-06-09T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/github-ci-hf-jobs/thumbnail.gif",
+      "type": "blog"
+    },
+    {
+      "id": "e11fcea9cd94",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "description": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "pubDate": "2026-06-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+      "type": "blog"
+    },
+    {
       "id": "98916af90b99",
       "title": "Confidential submission of draft S-1 to the SEC",
       "description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -13,6 +153,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/1kKjVqt4LdJo6DAWO4rklb/93d7ae2d6a5cb70b17fd5ff440552291/confidential-submission-of-draft-s-1-to-the-sec-16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3d5aa39d0e80",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "description": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "pubDate": "2026-06-08T13:04:59.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
