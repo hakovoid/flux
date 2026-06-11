@@ -2,6 +2,219 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "1fc5f14e46f5",
+      "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
+      "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations significatives plutôt que sur la quantité. L’article Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/11/entretien-avec-yann-gourvennec-comment-labm-concilie-commerce-et-marketing-pour-les-pme-en-b2b/",
+      "pubDate": "2026-06-11T07:56:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/media-gen-1781163554618.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5451db01738",
+      "title": "Software development  and  IA : qu'est ce que l'IA générative peut apporter à un PO au sein d’une équipe agile ?",
+      "description": "L'AI pour un PO accéléré : l’IA joue un rôle d’assistant (optimisation) et facilite son travail qu’il a l’habitude de faire Le PO augmenté : le PO profite de nouvelles possibilités auparavant impossibles car trop complexes ou trop lourdes à mettre en oeuvre.",
+      "link": "https://blog.octo.com/software-development-and-ia--qu'est-ce-que-l'ia-generative-peut-apporter-a-un-po-au-sein-d'une-equipe-agile",
+      "pubDate": "2026-06-11T07:22:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a091a74c43c3",
+      "title": "Let’s Encrypt c’est cool, mais il est seul au monde",
+      "description": "Ça fait plusieurs fois que je vois passer voire que je participe à des discussions sur les alternatives au service ultra-populaire maintenu par l’Internet Security [...]",
+      "link": "https://blog.seboss666.info/2026/06/lets-encrypt-cest-cool-mais-il-est-seul-au-monde/",
+      "pubDate": "2026-06-10T16:09:45.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2015/12/letsencrypt-logo-horizontal.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1246b42205f",
+      "title": "Artemis III a son équipage, sa date et un petit problème, la mission n'ira pas sur la Lune",
+      "description": "La NASA a présenté les quatre astronautes d'Artemis III, la fameuse mission censée ramener des humains sur la Lune. Sauf que celle-là n'y posera pas le pied. Cap sur l'été 2027 pour deux semaines en orbite autour de la Terre, et non autour de la Lune. L'idée, c'est une répétition générale : tester les atterrisseurs lunaires en conditions réelles avant d'y risquer un équipage pour de bon. L'alunissage, lui, est repoussé à la mission suivante, Artemis IV, visée pour 2028.",
+      "link": "https://korben.info/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune.html",
+      "pubDate": "2026-06-10T15:54:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "23908d12049c",
+      "title": "Un ver informatique qui raisonne tout seul",
+      "description": "La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de ServiceNow a dévoilé un logiciel malveillant capable de raisonner et de s'adapter seul à mesure qu'il progresse dans un réseau, là où les attaques automatisées classiques se bornaient à dérouler un scénario écrit à l'avance. Le mot choisi par les chercheurs est parlant. Un ver, en informatique, désigne un…",
+      "link": "https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html",
+      "pubDate": "2026-06-10T15:50:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-ver-informatique-qui-raisonne-tout-seul/un-ver-informatique-qui-raisonne-tout-seul-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "721321680dc0",
+      "title": "Siri IA bloqué en Europe : Bruxelles renvoie Apple à ses responsabilités",
+      "description": "La Commission européenne vient de couper l'herbe sous le pied d'Apple en affirmant que la décision de ne pas lancer le nouveau Siri dopé à l'intelligence artificielle dans l'Union est le choix d'Apple, et de personne d'autre. La veille, Cupertino avait pourtant désigné un coupable tout trouvé, le DMA (Digital Markets Act, cette loi européenne qui force les géants du numérique à ouvrir leurs plateformes à la concurrence), en expliquant que cette réglementation l'empêchait de proposer son…",
+      "link": "https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html",
+      "pubDate": "2026-06-10T15:38:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76df3f45005c",
+      "title": "L'IOCCC 2025 couronne le code C le plus illisible du monde",
+      "description": "Faire tourner Tetris sur un émulateur Game Boy dont le code source tient dans moins de 5 ko de C volontairement incompréhensible, voilà le genre de prouesse que célèbre l'IOCCC, le concours international de code C obfusqué, dont le palmarès 2025 mérite vraiment le détour. Le principe de ce concours créé en 1984 n'a pas bougé : écrire un programme en C (un des plus vieux langages de programmation encore massivement utilisés) qui fonctionne parfaitement, mais dont le code est si tordu que…",
+      "link": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde.html",
+      "pubDate": "2026-06-10T15:23:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde/lioccc-2025-couronne-le-code-c-le-plus-illisible-du-monde-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "73d24d4e00aa",
+      "title": "Chrome débranche les dernières combines qui faisaient survivre uBlock Origin",
+      "description": "Google ferme les dernières portes. À partir de fin juin, avec Chrome 150 ou 151, les combines qui permettaient encore de garder uBlock Origin en vie dans le navigateur vont sauter une à une, et avec elles à peu près tous les bloqueurs de publicité qui reposaient sur l'ancienne plomberie de Chrome. Petit retour en arrière. Une extension obéit à un cadre technique imposé par Google, le Manifest. Dans sa version 2, dite MV2, ce cadre laissait l'extension inspecter et modifier en direct chaque…",
+      "link": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin.html",
+      "pubDate": "2026-06-10T15:03:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin/chrome-debranche-les-dernieres-combines-qui-faisaient-survivre-ublock-origin-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "118fa1d2c975",
+      "title": "Anthropic met entre toutes les mains un modèle qu'elle jugeait trop dangereux à publier il y a deux mois",
+      "description": "Voilà autre chose dites donc. En avril, Anthropic, le concurrent direct d'OpenAI et créateur de l'assistant Claude, dévoilait Mythos, un modèle d'intelligence artificielle tellement doué pour dénicher et exploiter des failles informatiques que l'entreprise avait préféré ne pas le diffuser. Il restait réservé à une poignée d'organisations de cyberdéfense triées sur le volet. Deux mois plus tard, ce même moteur arrive chez le grand public sous le nom de Claude Fable 5.",
+      "link": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois.html",
+      "pubDate": "2026-06-10T14:25:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois/anthropic-met-entre-toutes-les-mains-un-modele-quelle-jugeait-trop-dangereux-a-publier-il-y-a-deux-mois-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9383550fcdc9",
+      "title": "Vente complexe en B2B : quel content marketing pour alimenter le commercial ?",
+      "description": "Cet article souligne l'importance d'une collaboration étroite entre le content marketing et les équipes commerciales. Souvent désalignés, ces deux domaines devraient travailler ensemble pour optimiser les outils de vente et répondre aux besoins des clients. Les contenus courts, vidéos et webinaires sont privilégiés pour susciter l'engagement et soutenir les commerciaux dans leur processus de vente. L’article Vente complexe en B2B : quel content marketing pour alimenter le commercial ? est…",
+      "link": "https://oliviersauvage.com/2026/06/10/vente-complexe-en-b2b-quel-content-marketing-pour-alimenter-le-commercial/",
+      "pubDate": "2026-06-10T13:07:05.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/boymeetsgirl.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b61b5db27e9e",
+      "title": "Comment utiliser les attributs PHP sur un contrôleur Symfony ?",
+      "description": "PHP 8.0 a introduit les attributs, et c'est une excellente fonctionnalité ! Le code devient plus lisible, plus simple à écrire, et bénéficie pleinement de la coloration syntaxique et du linting de notre IDE. Symfony a très vite adopté cette nouveauté. On les utilise aujourd'hui partout : pour configurer les routes, ajouter des contraintes de validation ou déclarer des listeners. Dans cet article, nous allons voir comment créer et ajouter un attribut PHP personnalisé sur un contrôleur pour lui…",
+      "link": "https://jolicode.com/blog/comment-utiliser-les-attributs-php-sur-un-controleur-symfony",
+      "pubDate": "2026-06-10T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/comment-utiliser-les-attributs-php-sur-un-controleur-symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "3ff0fdedac64",
+      "title": "Green Bank - La ville « sans ondes » qui écoute l'univers",
+      "description": "ue d'une vraie cause électromagnétique.\"] is_partnership: false Aujourd'hui je suis tombé sur une story Instagram d' Artisan de demain qui parlait d'un truc qui m'a plutôt intrigué. En fait, quelque part en Virginie-Occidentale, il existerait une ville qui vit « sans ondes électromagnétiques ». Pas de WiFi, pas de 5G, pas de four à micro-ondes qui ronronne tranquille dans la cuisine alors forcément, ça m'interroge... Et la Artisan de demain le dit elle-même face caméra, «* la raison, elle est…",
+      "link": "https://korben.info/green-bank-zone-sans-ondes-radio.html",
+      "pubDate": "2026-06-10T12:09:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/green-bank-zone-sans-ondes-radio/green-bank-zone-sans-ondes-radio-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6197946fdbc1",
+      "title": "Bulle IA ou Révolution industrielle",
+      "description": "L'année 2026 s'impose déjà comme un jalon historique. Elle marque le moment où l'intelligence artificielle a définitivement quitté le statut de simple innovation technologique pour devenir l'un des principaux moteurs de transformation de nos sociétés, de nos économies et de nos organisations.",
+      "link": "https://blog.octo.com/octo-article-de-blog-24",
+      "pubDate": "2026-06-10T11:43:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2386dcacfd30",
+      "title": "eSpectre - Quand votre Wi-Fi détecte les mouvements sans caméra",
+      "description": "C'est toujours un peu magique, ces histoires d'ondes radio. On sait par exemple que notre box Wi-Fi \"voit\" déjà quand on traverse le salon, sauf que jusqu'ici, personne ne l'écoutait vraiment. Mais j'ai découvert qu'on pouvait aller encore plus loin avec un simple ESP32 à 10 balles et le projet eSpectre de Francesco Pace. Pas de caméra ni de micro mais juste des ondes Wi-Fi qui rebondissent dans la pièce, et un capteur qui les écoute.",
+      "link": "https://korben.info/espectre-detection-mouvement-wifi-esp32.html",
+      "pubDate": "2026-06-10T08:01:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/espectre-detection-mouvement-wifi-esp32/espectre-detection-mouvement-wifi-esp32-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "174200356ab7",
       "title": "Apple Container 1.0 - Le WSL du Mac est enfin là",
       "description": "Quand on est habitué à Linux et qu'on se retrouve avec un Mac, même si c'est une base unix, c'est déroutant. Heureusement, Apple est de plus en plus ouvert au monde du libre et vient de publier la version 1.0 de Container , avec dedans des « container machines » qui ressemblent furieusement à WSL. Et ça nous permet comme ça d'avoir le meilleur des deux mondes : un macOS pour le quotidien, et un vrai Linux pour vos folles bidouilles.",
@@ -78,6 +291,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/110eddef-3813-4e0b-bcb0-1ee20cd72937.mp3?_=1781006488",
       "duration": "01:02:32"
+    },
+    {
+      "id": "7c7467dc06c5",
+      "title": "L'IA pollue. L'IA optimise. Et si la vraie question était ailleurs ?",
+      "description": "En une seule matinée, une IA nous a aidés à économiser l'équivalent du tour de la Terre en trajets de camions. On répète partout que l'IA pollue. C'est vrai. Mais alors, comment on tient les deux bouts ?",
+      "link": "https://yoandev.co/ia-pollue-ia-optimise",
+      "pubDate": "2026-06-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/algo-camion-ia.webp",
+      "type": "blog"
     },
     {
       "id": "46d3f422d9dd",

@@ -2,6 +2,90 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "0fda1a1b5a24",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "pubDate": "2026-06-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2werzLSxuGbJH8PlE7OUjI/e2b93554902c5d96ef2550b4fd3579d6/Frame__5_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d38f7a49e86d",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "pubDate": "2026-06-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2nHP3xnASZcBNZlIiE1QsM/c7de0b335c1c6a7c5c6bad6813fcf355/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c17e7186c890",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "pubDate": "2026-06-10T20:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5YxRwes6xIOtUirJPj9Tqq/2897a1a8061bf93e016c0c12385b3f55/OAI_Oracle_Partnership_16x9_Art_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e424724a1fa2",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "description": "",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "pubDate": "2026-06-10T16:24:11.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "278708794349",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "pubDate": "2026-06-10T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2QCspAgfjkdGeWDut7k5MN/030874503264f486120aaa1b1e623b3e/Threat-Intelligence-Repart-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c7866bf4d080",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "link": "https://openai.com/index/lseg",
+      "pubDate": "2026-06-10T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2uwYKnB7Eqqm2quyXgRaVR/032ee88f3f3c95b5502cbf42e1d2c600/oai_LSEG_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "5ec2963d36a6",
       "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
       "description": "",
