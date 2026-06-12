@@ -2,6 +2,122 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "00ef61babc41",
+      "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
+      "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic plus qualifié, basé sur l'intention. L’article Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/12/pourquoi-moins-de-trafic-renvoye-par-google-nest-pas-une-mauvaise-nouvelle/",
+      "pubDate": "2026-06-12T08:01:03.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/media-gen-1781250622081.png",
+      "type": "blog"
+    },
+    {
+      "id": "95a0904623cf",
+      "title": "Souveraineté numérique : ce qu’en disent les experts OCTO.",
+      "description": "La souveraineté numérique n’est plus un concept abstrait. Elle s’impose désormais comme une préoccupation stratégique pour les organisations, dans un contexte où les tensions géopolitiques, les dépendances technologiques et les risques systémiques se multiplient.Pour comprendre comment ce sujet est vécu sur le terrain, j’ai posé quatre questions.",
+      "link": "https://blog.octo.com/octo-souverainete-numerique--ce-qu'en-disent-les-experts-octo.",
+      "pubDate": "2026-06-12T07:40:39.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97d6c493ce32",
+      "title": "MACI #160 - Asynconf, Nostr et open source - Avec Graven",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on accueille Lorenzo Cacciato, alias Graven, pour parler d’Asynconf, de création de contenu tech, de transmission et de ce que signifie organiser une conférence pour développeurs aujourd’hui. L’occasion de revenir sur son parcours, sur la place des communautés dans l’écosystème logiciel, et sur les formats qui permettent de rendre la tech plus accessible. Et puis, comme à notre habitude, la discussion va vite s’étendre… de Nostr aux…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-160-asynconf-nostr-et-open-source-avec-graven",
+      "pubDate": "2026-06-12T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/7JyRStZqLR7tTQ9MFodxvTpWyTN0BtysmdCOLQAq_1400x1400.jpeg?t=1780930047",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/blL81uqxE6qb.mp3?t=1780929321",
+      "duration": "1:05:55"
+    },
+    {
+      "id": "0cfc04bf5d19",
+      "title": "#311.exe - IA Agentique: IAutonomie numérique par Thomas Pierrain",
+      "description": "Pour l'épisode #311 je recevais Samy Lastmann. On en débrief avec Thomas. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-311-d17e66dbd229",
+      "pubDate": "2026-06-12T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
+      "duration": "13:21"
+    },
+    {
+      "id": "95ee2a89b82e",
+      "title": "Anthropic begged the world to stop AI… then shipped this",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+      "pubDate": "2026-06-11T17:17:48.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fdf9201b7223",
+      "title": "Notre journée au FLUPA UX Days 2026 : le métier de designer a encore de l'avenir !",
+      "description": "Nous étions aux Flupa UX Days 2026, la conférence à ne pas manquer pour les designers français ! Cette année, le fil conducteur de l'édition parisienne était : « Concevoir, c'est choisir en conscience ». Une question à la hauteur des enjeux que rencontre notre profession actuellement, bousculée par l’irruption de l’IA générative.",
+      "link": "https://blog.octo.com/notre-journee-au-flupa-ux-days-2026--le-metier-de-designer-a-encore-de-l'avenir-!",
+      "pubDate": "2026-06-11T16:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6b1d9cd1b54",
+      "title": "DAT4 : une machine à voyager dans le temps pour l'ingénieur data",
+      "description": "Présentation d'un framework de data engineering d'un client d'Octo démontrant des principes intéressants ( and quot;Window-aware pipeline and quot;) pour faciliter leur gestion et leur monitoring",
+      "link": "https://blog.octo.com/octo-dat4--une-machine-a-voyager-dans-le-temps-pour-l'ingenieur-data",
+      "pubDate": "2026-06-11T14:31:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1fc5f14e46f5",
       "title": "Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B",
       "description": "Le marketing B2B est confronté à un besoin urgent de réévaluation. Yann Gourvennec souligne que l'ancien modèle de l'entonnoir de vente est obsolète et que l'Account-Based Marketing (ABM) est indispensable. L'accent doit être mis sur la qualité des leads et le développement de relations significatives plutôt que sur la quantité. L’article Entretien avec Yann Gourvennec : comment l’ABM concilie commerce et marketing pour les PME en B2B est apparu en premier sur OlivierSauvage.com.",
@@ -30,6 +146,21 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67bf41b715eb",
+      "title": "RAID 1 avec deux disques sous Debian 13",
+      "description": "RAID 1 avec deux disques sous Debian 13 {align=right} Le RAID 1 ou mirroring fait partie des solutions qui augmentent considérablement la sécurité des données. Avec une telle configuration, tous les fichiers sont automatiquement dupliqués sur plusieurs disques durs. Cette opération se fait de manière complètement transparente sous le capot. Si jamais l'un des disques lâche, le système reste fonctionnel avec le disque restant.",
+      "link": "https://www.microlinux.fr/blog/debian-13-raid1/",
+      "pubDate": "2026-06-11T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/raid.png",
       "type": "blog"
     },
     {
