@@ -2,6 +2,40 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e2f745a16878",
+      "title": "Tech Ready 2026 : l’IA en production, vue de l’intérieur",
+      "description": "Tech Ready 2026 _ l'IA en production, vue de l'intérieur",
+      "link": "https://blog.zenika.com/2026/06/12/tech-ready-2026-lia-en-production-vue-de-linterieur/",
+      "pubDate": "2026-06-12T15:27:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/06/1-survey.jpg?resize=800%2C600&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "14befaba115d",
+      "title": "Retour sur le Google Cloud Summit 2026 ⛅",
+      "description": "Le jeudi 4 juin, l’Accor Arena de Bercy recevait le Google Cloud Summit Paris. Près de 4 000 personnes, des",
+      "link": "https://blog.zenika.com/2026/06/12/retour-sur-le-google-cloud-summit-2026-%e2%9b%85/",
+      "pubDate": "2026-06-12T14:18:38.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/jeanphi-baconnais.gitlab.io/img/26-cloud-summit/2-stand-zenika.png?w=800&#038;ssl=1",
+      "type": "blog"
+    },
+    {
       "id": "00ef61babc41",
       "title": "Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle",
       "description": "Depuis dix ans, Google réduit le trafic vers les sites web pour garder les utilisateurs sur ses services. Cette tendance, accentuée par l'IA, modifie les stratégies de communication et de SEO. Les entreprises doivent offrir des services en ligne et produire un contenu unique pour attirer un trafic plus qualifié, basé sur l'intention. L’article Pourquoi moins de trafic renvoyé par Google n’est pas une mauvaise nouvelle est apparu en premier sur OlivierSauvage.com.",
@@ -67,6 +101,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
       "duration": "13:21"
+    },
+    {
+      "id": "62aaa3fd0cea",
+      "title": "L'IA génère, mais les fondamentaux restent",
+      "description": "Nous sommes à l’ère de la génération de code. L’IA génère dorénavant du code à une vitesse impressionnante. Avec elle, apparaissent des revues de code parfois massives, à plusieurs centaines, voire plusieurs milliers de changements. Puisque générer du code est dorénavant rapide, nombreux sont ceux qui produisent des fonctionnalités entières d’un seul coup. Pour suivre la cadence, les revues commencent à être effectuées et validées par d’autres IA. Il est effectivement humainement difficile,…",
+      "link": "https://www.jdecool.fr/blog/2026/06/12/l-ia-genere-mais-les-fondamentaux-restent.html",
+      "pubDate": "2026-06-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "95ee2a89b82e",

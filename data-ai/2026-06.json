@@ -2,6 +2,104 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "a19c5546e1d5",
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "description": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+      "pubDate": "2026-06-12T20:30:48.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/ProjectIre-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8f76e67ad854",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "pubDate": "2026-06-12T15:56:10.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/gacAOFYwPkpxu7cC4eeey.png",
+      "type": "blog"
+    },
+    {
+      "id": "dd73139d2e3d",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "pubDate": "2026-06-12T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ddc7b24a91dc",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "link": "https://openai.com/index/preply",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4TlUSJyvzcUk3f3wPzVmtY/e69435b271f2e2c44c1fe621dae9d24f/oai_Preply_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7f42ae0d5b44",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "description": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "40b973fa5524",
+      "title": "Results from the first Anthropic Public Record",
+      "description": "Results from the first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "001317287cdd",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "description": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png",
+      "type": "blog"
+    },
+    {
       "id": "d20d2186d5e0",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
