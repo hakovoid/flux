@@ -2,6 +2,81 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e5b72c4c2c30",
+      "title": "A Week of Symfony #1015 (June 8–14, 2026)",
+      "description": "This week, we celebrated the SymfonyOnline June 2026 conference. In addition, we published a new case study showcasing how Symfony helps power the rental real estate market. Lastly, we continued publishing articles about new features in Symfony and Twig.…",
+      "link": "https://symfony.com/blog/a-week-of-symfony-1015-june-8-14-2026?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-06-14T07:48:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "cce4f131d23b",
+      "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+      "description": "The Pyodide 314.0 release announcement (via Hacker News) includes news I've been looking forward to for a long time: You can now publish Python packages built for Pyodide (or any Python runtime compatible with the PyEmscripten platform defined in PEP 783) directly to PyPI and install them at runtime. Previously, the Pyodide maintainers had to maintain, build, and host over 300 packages ourselves. This created a significant burden on our maintainers and became a major bottleneck for the…",
+      "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+      "pubDate": "2026-06-13T23:55:18.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://static.simonwillison.net/static/2026/luau-wasm.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "eb9346b83df4",
+      "title": "luau-wasm 0.1a0",
+      "description": "Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details. Tags: lua, webassembly, pyodide",
+      "link": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "pubDate": "2026-06-13T23:14:30.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5798876d9661",
+      "title": "Mapping SQLite result columns back to their source `table.column`",
+      "description": "Research: Mapping SQLite result columns back to their source `table.column` It would be neat if arbitrary SQL queries in Datasette could be rendered with additional information based on which columns from which tables were included in the results. To build that, we would need to be able to look at a SQL query like select users.name, orders.total from users join orders on orders.user_id = users.id and programmatically identify the table.column for each result - navigating not just joins but also…",
+      "link": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "pubDate": "2026-06-13T23:05:00.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c5978351e2b3",
+      "title": "Multi-Agent Orchestration in Laravel: When You Actually Need It",
+      "description": "A practical take on multi-agent setups in Laravel: another agent only earns its place when it needs its own model, tools, or instructions. Good piece on delegation tradeoffs, context handoff, and how to test routing before it becomes an expensive latency tax. Read more",
+      "link": "https://freek.dev/3138-multi-agent-orchestration-in-laravel-when-you-actually-need-it",
+      "pubDate": "2026-06-13T12:30:26.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/ca5bf90d8060eff7285b128c1bc5339f.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "c9302f257d14",
       "title": "US Government Forces Anthropic to Pull Claude Fable Days After Launch",
       "description": "For three days, Claude Fable 5 had users around the world one-shotting work they expected to take days or weeks: major code reviews, migrations, long-running builds, and projects some described as career-changing. Then access disappeared. If you were waiting for the weekend to try Claude Fable 5, you’re out of luck. Anthropic suspended access to Claude Fable 5 and Claude Mythos 5 on Friday night after receiving a US government export control directive blocking access by foreign nationals,…",
