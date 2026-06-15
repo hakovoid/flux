@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4a1a2edfc53f",
+      "title": "Introducing the OpenAI Partner Network",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "pubDate": "2026-06-14T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Mmo10RLJ6HIoEmbRe3QPf/4dd23942812b8e483d345607db7bc551/Introducing_OAI_Partner_Network_seo_card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "a19c5546e1d5",
       "title": "Ire identifies another LOTUSLITE specimen",
       "description": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it. The post Ire identifies another LOTUSLITE specimen appeared first on Microsoft Research.",

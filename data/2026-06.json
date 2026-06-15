@@ -2,6 +2,83 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3535e094ee89",
+      "title": "Comprendre (enfin) les TTY et PTY avec le composant Process de Symfony",
+      "description": "Vous est-il déjà arrivé de lancer une commande (composer, rsync ou une commande Symfony) directement dans votre terminal pour y admirer de jolies barres de progression colorées, mais de constater que cette même commande, une fois exécutée via un script PHP, perdait soudainement tout son formatage ? C’est un grand classique lorsque l'on utilise le composant Process de Symfony. Pour comprendre l'origine de ce comportement (et surtout comment y remédier), il faut plonger un instant dans la façon…",
+      "link": "https://jolicode.com/blog/comprendre-enfin-les-tty-et-pty-avec-le-composant-process-de-symfony",
+      "pubDate": "2026-06-15T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/tty/tty-pty-none.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f60a27b3f23",
+      "title": "Interagir avec une boîte mail en Node.js avec ImapFlow et MailParser",
+      "description": "Découvrez comment lire et traiter les emails d’une boîte mail en Node.js avec ImapFlow et MailParser, en utilisant IMAP pour récupérer les messages.",
+      "link": "https://code-garage.com/blog/interagir-avec-une boite-mail-en-nodejs-avec-imapflow-et-mailparser",
+      "pubDate": "2026-06-15T07:46:04.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Chat_GPT_Image_15_juin_2026_08_58_04_f06146f568.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "92503fa01845",
+      "title": "TechReady 2026 : l'IA rebat les cartes du software engineering",
+      "description": "Retour d'expérience collectif Ippon sur TechReady 2026 (Nantes) : l'AI-Driven Development face à la réalité du delivery. Cinq enseignements sur les agents de code, le context engineering, le coût des tokens et la responsabilité humaine.",
+      "link": "https://blog.ippon.fr/2026/06/15/techready-2026-ia-software-engineering/",
+      "pubDate": "2026-06-15T07:12:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/20260605_164002.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "08f82545b289",
+      "title": "Liens Tech - Juin 2026",
+      "description": "La sélection du mois : 2FA auto-hébergé, WAF open source, gestion de photos, bibliothèque d'ISO, monitoring de ports et une plateforme de challenges cybersécurité de l'ANSSI.",
+      "link": "https://domopi.eu/liens-tech-juin-2026/",
+      "pubDate": "2026-06-15T05:45:08.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5d39f251abbc",
+      "title": "Une IA a trouvé les failles que ma QA ne voyait plus",
+      "description": "Une IA a trouvé sur mon site les failles que ma QA ne voyait plus : des garde-fous bien présents, mais qui ne s'exécutaient jamais.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-ia-a-trouve-les-failles-que-ma-qa-ne-voyait-plus",
+      "pubDate": "2026-06-14T13:23:36.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2d0e2a071f47",
       "title": "Comment je fais du design en tant que dev backend ?",
       "description": "De Bootstrap en 2011 à Claude Design en 2026, retour sur 15 ans d’évolution du design web et des design systems, vus à travers les yeux d'un dev backend.",
