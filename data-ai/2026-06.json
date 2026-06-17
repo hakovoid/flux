@@ -2,6 +2,48 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "334cabed9c98",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "pubDate": "2026-06-16T21:29:50.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c000018ba1f0",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "link": "https://openai.com/index/deployment-simulation",
+      "pubDate": "2026-06-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4nRyRNS5bPvePGSTz5xlQE/ea4b18c80061d14d480d6a20d57a14eb/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a6ebb163a6c3",
+      "title": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "description": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "link": "https://www.anthropic.com/research/claude-code-expertise",
+      "pubDate": "2026-06-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "08b81d0f1eb9",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "description": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
