@@ -2,6 +2,148 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "adf81f64af45",
+      "title": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
+      "description": "-- Article en partenariat avec Tapo -- La Tapo C675D KIT de TP-Link est une caméra de surveillance solaire qui vient de sortie, avec un truc qu'on voit rarement à ce tarif : 2 objectifs 4K.",
+      "link": "https://korben.info/tapo-c675d-kit-camera-solaire-dual-4k.html",
+      "pubDate": "2026-06-18T07:54:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tapo-c675d-kit-camera-solaire-dual-4k/tapo-c675d-kit-camera-solaire-dual-4k-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "490916eb64ee",
+      "title": "GemPlus, où quand la CIA infiltre une entreprise française",
+      "description": "Découvrez l'histoire de GemPlus, ancien leader mondial de la carte à puce, et la polémique qui a éclaté lorsque son PDG fut accusé d'entretenir des liens avec la CIA.",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/GemPlus--o-quand-la-CIA-infiltre-une-entreprise-franaise-e3kuvqm",
+      "pubDate": "2026-06-18T07:43:08.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/121650454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-18%2F68ed9a61-c69a-0bb1-ad57-4d7c80b958d3.mp3",
+      "duration": "00:10:16"
+    },
+    {
+      "id": "c93fef0974c0",
+      "title": "75 000 pare-feu Fortinet siphonnés : l'attaque FortiBleed touche la moitié du parc mondial",
+      "description": "Environ 75 000 pare-feu Fortinet ont vu leurs identifiants de connexion volés puis vérifiés un par un, des FortiGate, ces boîtiers qui filtrent l'accès au réseau des entreprises et servent très souvent de porte d'entrée VPN pour les salariés en télétravail. Baptisée FortiBleed par les chercheurs qui l'ont mise au jour, la campagne couvre 194 pays et plus de 21 000 domaines, soit à peu près la moitié des pare-feu Fortinet exposés sur Internet à l'heure actuelle.",
+      "link": "https://korben.info/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial.html",
+      "pubDate": "2026-06-18T07:21:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial/75-000-pare-feu-fortinet-siphonnes-lattaque-fortibleed-touche-la-moitie-du-parc-mondial-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a74d9402d91e",
+      "title": "Qwen-Robot Suite - Alibaba donne un corps à son IA",
+      "description": "Voici une news concernant l'intelligence artificielle, qui je pense devrait vous plaire si vous vous intéressez à la robotique. Alibaba qu'on ne présente plus, vient de sortir sa Qwen-Robot Suite, 3 modèles IA signés Tongyi Lab (les gens derrière Qwen ) imaginé pour donner un corps à l'IA. Parce qu'une machine capable de décrire votre cuisine au millimètre près mais complétement infoutue d'y attraper une tasse, voilà un peu ce qu'on a en robotique en ce moment...",
+      "link": "https://korben.info/qwen-robot-suite-ia-robotique.html",
+      "pubDate": "2026-06-18T06:56:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/qwen-robot-suite-ia-robotique/qwen-robot-suite-ia-robotique-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "cafcdf733f54",
+      "title": "MACI #161 - Open source, IA et business model - Avec Graven",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on retrouve Lorenzo Cacciato, alias Graven, pour prolonger la discussion ouverte dans le MACI #161 autour de l’open source, de ses usages concrets et de ses modèles économiques. L’occasion de poser une question très actuelle : comment ouvrir son code, construire de la confiance, et réussir malgré tout à financer un produit, une communauté ou une activité dans la durée ? Et puis, comme à notre habitude, la discussion va vite s’étendre……",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-161-open-source-ia-et-business-model-avec-graven",
+      "pubDate": "2026-06-18T05:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/DJ9mfcrgEMxXWrBx5UblYBjvjZe1uQavrFiB1zMt_1400x1400.jpeg?t=1781764224",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/b33V8sleMMZd.mp3?t=1781686065",
+      "duration": "1:03:20"
+    },
+    {
+      "id": "982366c0b855",
+      "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
+      "description": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du son, c'est étonnant, et pourtant... Normalement, dès qu'un avion dépasse la vitesse du son, il comprime l'air devant lui en une onde de choc qui claque au sol comme un mega coup de tonnerre. C'est ça, le bang supersonique.",
+      "link": "https://korben.info/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec.html",
+      "pubDate": "2026-06-17T17:10:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec/le-x-59-de-la-nasa-vole-plus-vite-que-le-son-mais-sans-le-bang-qui-va-avec-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "55f6e3c38fc2",
+      "title": "I read every major CS paper of the last 100 years...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=ML3q7Ok4hJg",
+      "pubDate": "2026-06-17T16:29:01.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e8b7e976e714",
+      "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
+      "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les dynamiques du moment et prendre de la hauteur",
+      "link": "https://blog.octo.com/software-development-and-ia-de-l'artisan-du-code-au-superviseur-de-l'ia-une-histoire-deja-vecue-dans-l'aviation-civile",
+      "pubDate": "2026-06-17T13:25:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d1fc76fb0ddd",
+      "title": "Un Yoshi tout n'œuf",
+      "description": "— Article rédigé par l’ami Remouk (DansTonChat) – Merci à lui — Sûrement un des dinosaures les plus connus de toute la planète, il est vert mais ce n'est pas Denver... Je parle de Yoshi bien sûr ! Fidèle ami et destrier de Mario. Un de nos personnages favoris de chez Nintendo. Le voilà de retour dans un jeu bien à lui, dans lequel il est le personnage principal mais partage la vedette avec toutes les créatures propres à son univers. C'est Yoshi and the Mysterious Book !",
+      "link": "https://korben.info/avis-yoshi-et-le-livre-mysterieux-test.html",
+      "pubDate": "2026-06-17T10:17:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/avis-yoshi-et-le-livre-mysterieux-test/avis-yoshi-et-le-livre-mysterieux-test-2.webp",
+      "type": "blog"
+    },
+    {
       "id": "e302555c1b67",
       "title": "Skapánê : l’hyper-automatisation intelligente qui transforme vos processus métiers grâce à l’IA",
       "description": "Skapánê est une solution SaaS d’hyper-automatisation dédiée aux entreprises, notamment dans les secteurs de la banque et de l’assurance. Elle vise à optimiser les processus métiers en réduisant les coûts et les délais de traitement, tout en garantissant la conformité réglementaire et en luttant contre la fraude. L’article Skapánê : l’hyper-automatisation intelligente qui transforme vos processus métiers grâce à l’IA est apparu en premier sur OlivierSauvage.com.",
@@ -79,6 +221,38 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/images/conferences/paris-jug-logo.png",
+      "type": "blog"
+    },
+    {
+      "id": "aaf7e076959d",
+      "title": "News Juin 2026 RC2, React quitte Meta, VoidZero rejoint Cloudflare et IA locale",
+      "description": "Nous évoquons React qui passe sous la Linux Foundation avec la React Foundation, VoidZero et Vite qui rejoignent Cloudflare, l'initiative Protect The Shire pour sécuriser les 78 000 plugins WordPress, TanStack AI en beta, Maizzle 6 et sa refonte Tailwind CSS 4, les nouveaux modèles open-weight de Mistral, Mellum2 qui passe en open source, le Ryzen AI Halo d'AMD avec 128 Go de RAM pour faire tourner 200 milliards de paramètres en local, et les nouveautés Chrome comme WebMCP et les Declarative…",
+      "link": "https://double-slash.dev/podcasts/news-juin26-rc2/",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1781689392/episode/ART_134_dmbb8r.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_134_news-juin26-rc2.mp3",
+      "duration": "3532"
+    },
+    {
+      "id": "778c30c13d82",
+      "title": "L'IA pousse à faire soi-même, au détriment de l'équipe",
+      "description": "Je commence à voir de plus en plus d’équipes où le lead tech est devenu plus rapide à implémenter une fonctionnalité via l’IA qu’à l’expliquer, la déléguer et attendre que quelqu’un la prenne en charge. Pourquoi cadrer un ticket, répondre aux questions et relire du code quand on peut obtenir le résultat directement en utilisant une IA ? C’est un pattern organisationnel que je vois de plus en plus souvent. C’est un problème mis en avant avec l’IA, mais qui était déjà présent bien avant: une…",
+      "link": "https://www.jdecool.fr/blog/2026/06/17/l-ia-pousse-a-faire-soi-meme-au-detriment-de-l-equipe.html",
+      "pubDate": "2026-06-16T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
       "type": "blog"
     },
     {

@@ -2,6 +2,118 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "ece735789829",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/molmomotion",
+      "pubDate": "2026-06-17T15:26:44.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/wdq3AFZcDZAekGTb16VDy.png",
+      "type": "blog"
+    },
+    {
+      "id": "866972b9be74",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "description": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "pubDate": "2026-06-17T15:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "270262b34266",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "description": "",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "pubDate": "2026-06-17T10:18:05.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/qvSGZ0tZsgr4U4BCx_bVX.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ff2f715f1e6",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "description": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "pubDate": "2026-06-17T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4NBFdbusKgYSDZQu73MAR9/2f84206eba72f43384d4bb005b97f8c3/molecule-one-SEO-Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9e3636b0b034",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "description": "",
+      "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "pubDate": "2026-06-17T09:01:25.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/67066ea38a79951d7b8d4195/iaTHtYOBgeY0C3Xx3vymr.png",
+      "type": "blog"
+    },
+    {
+      "id": "381e7f583722",
+      "title": "Introducing LifeSciBench",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "link": "https://openai.com/index/introducing-life-sci-bench",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1trh6KslZ4XaGmEYHQVoDP/e4a6d9910ef9025bfbe5bed00cf0ae42/LifeSciBench_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b59b3271b775",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "description": "",
+      "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/agentic-resource-discovery-launch/thumbnail_.png",
+      "type": "blog"
+    },
+    {
+      "id": "47e96fb85bcb",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "description": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "334cabed9c98",
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
@@ -576,6 +688,20 @@
       "type": "blog"
     },
     {
+      "id": "823aee61729c",
+      "title": "Jun 8, 2026Frontier Red TeamMeasuring LLMs’ impact on N-day exploits",
+      "description": "Jun 8, 2026Frontier Red TeamMeasuring LLMs’ impact on N-day exploits",
+      "link": "https://www.anthropic.com/research/n-days",
+      "pubDate": "2026-06-08T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5725beb086e0",
       "title": "Amazing Digital Dentures (a failed project)",
       "description": "",
@@ -853,6 +979,20 @@
         "IA"
       ],
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=fig",
+      "type": "blog"
+    },
+    {
+      "id": "21e96d4f9b19",
+      "title": "Jun 3, 2026Frontier Red TeamMapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "description": "Jun 3, 2026Frontier Red TeamMapping AI-enabled cyber threats: Insights from the LLM ATT&CK Navigator",
+      "link": "https://www.anthropic.com/research/attack-navigator",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

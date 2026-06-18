@@ -492,6 +492,20 @@
       "type": "blog"
     },
     {
+      "id": "0fc33b995b40",
+      "title": "May 22, 2026Frontier Red TeamMeasuring LLMs’ ability to develop exploits",
+      "description": "May 22, 2026Frontier Red TeamMeasuring LLMs’ ability to develop exploits",
+      "link": "https://www.anthropic.com/research/exploit-evals",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "03e0e0ace490",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
       "description": "",
