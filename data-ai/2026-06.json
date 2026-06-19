@@ -2,6 +2,104 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "2eb5bcc3ad88",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "pubDate": "2026-06-18T18:13:13.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp",
+      "type": "blog"
+    },
+    {
+      "id": "450d5ccfb160",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "pubDate": "2026-06-18T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ehSOdp5G7FxMMtynCUoLV/c5d7539672c8a3dd93a3c058f70e7661/Spend_Controls_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9f4dbdd37bfa",
+      "title": "Improving health intelligence in ChatGPT",
+      "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "pubDate": "2026-06-18T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4yWq9ysTsvnlOm2FZUVYQ1/bec481613bb7762c6afbd6bec2edbdae/16x9_Health_SEO_1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "edcdc2401b35",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "pubDate": "2026-06-18T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/42SsGr6pOo6F7fcF0VZGGV/25583b98cb667d103adb7bf0476cafc5/SEO_Card_new.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "26cac6709021",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "",
+      "link": "https://huggingface.co/blog/peft-beyond-lora",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/peft-beyond-lora/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "432c23c0dd1c",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "",
+      "link": "https://huggingface.co/blog/is-it-agentic-enough",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/is-it-agentic-enough/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "17e0c5a039fd",
+      "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "description": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Knobs&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "ece735789829",
       "title": "MolmoMotion: Language-guided 3D motion forecasting",
       "description": "",
@@ -119,6 +217,20 @@
       "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
       "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "pubDate": "2026-06-16T21:29:50.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "45bc33c734d0",
+      "title": "Securing the future of AI agents",
+      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "pubDate": "2026-06-16T15:46:31.000Z",
       "source": "Google DeepMind",
       "sourceUrl": "https://deepmind.google/blog/rss.xml",
       "categories": [

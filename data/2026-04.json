@@ -3565,6 +3565,21 @@
       "type": "blog"
     },
     {
+      "id": "7c44d01ce73c",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/nr/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics-bretons",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2025-10/Copyright-Martin-Boudier_RB_0088239-700x467.jpg.webp",
+      "type": "blog"
+    },
+    {
       "id": "830e1419bda0",
       "title": "Linux 7.0 débarque avec un XFS qui se répare tout seul",
       "description": "Linus Torvalds a officialisé Linux 7.0 le 12 avril, et le passage à la version 7 a d’ailleurs été expliquée. Torvalds a dit dans son mail de release qu'il préférait simplement incrémenter le numéro majeur quand les mineures dépassaient la dizaine, histoire de ne pas se retrouver avec un Linux 6.23. Pas de révolution philosophique, juste du bon sens de mainteneur donc. Derrière cette numérotation, le noyau embarque quand même un paquet de nouveautés qui vont directement impacter les utilisateurs…",

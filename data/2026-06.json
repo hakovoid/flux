@@ -2,6 +2,132 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "43b5b7fa4fb8",
+      "title": "Un mini radar à avions open source à poser sur son bureau",
+      "description": "Un petit boîtier rond, un écran circulaire de 240 pixels de côté, et une seule chose affichée dessus : les avions qui passent au-dessus de votre tête en temps réel. C'est Micro Radar, un projet open source signé Anthony Sturdy, un développeur basé à Londres qui l'a bricolé comme cadeau de mariage pour un ami passionné d'aviation. L'objet tient dans la paume de la main. Au cœur du montage, un module ESP32-C3, une puce minuscule à WiFi intégré qu'on trouve pour quelques euros, soudée d'usine à un…",
+      "link": "https://korben.info/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau.html",
+      "pubDate": "2026-06-19T08:01:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau/un-mini-radar-a-avions-open-source-a-poser-sur-son-bureau-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "96bf4aaa1cbf",
+      "title": "Windows NT sur GameCube - Parce que pourquoi pas",
+      "description": "La GameCube, on la connaît pour avoir fait tourner la meilleure version de Smash Bros et pour son look de petit cube vaguement \"rectangulaire\". Mais on ne la connait pas vraiment pour faire tourner un système d'exploitation de bureau du milieu des années 90. Et pourtant, une bande de bidouilleurs emmenée par Rairii (alias Wack0), épaulé par NTx86 et stonedDiscord, s'est amusée à virer les jeux pour loger un vrai Windows NT là-dedans. Oui, le vrai NT de Microsoft.",
+      "link": "https://korben.info/windows-nt-nintendo-gamecube.html",
+      "pubDate": "2026-06-19T07:29:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/windows-nt-nintendo-gamecube/windows-nt-nintendo-gamecube-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "86411a213f60",
+      "title": "Skills IA : le guide complet pour comprendre leur cycle de vie",
+      "description": "Skills IA mal testées, mises à jour silencieuses, régressions invisibles : ce guide couvre le cycle de vie complet d'un SKILL.md — du design à l'archivage — avec des evals reproductibles en 3 couches.",
+      "link": "https://blog.ippon.fr/2026/06/19/cycle-de-vie-skill-ia-guide-complet/",
+      "pubDate": "2026-06-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/HEADER.png",
+      "type": "blog"
+    },
+    {
+      "id": "b7e0161b6715",
+      "title": "Super Mario 64 enfin sur Nintendo DS avec un mode coop",
+      "description": "À tous les nostalgiques de la Nintendo 64 et notamment de Super Mario 64, j'ai un petit truc cool à vous montrer. Tobi Friedly vient de sortir un portage du jeu sur Nintendo DS, et pas n'importe lequel, puisque celui-ci tourne sur la vraie console de 2004, et pas seulement sur la DSi qui embarquait quatre fois plus de mémoire vive. Et comme si ça suffisait pas, il y a même mis un mode deux joueurs.",
+      "link": "https://korben.info/nintendo-ds-port-super-mario-64-multijoueur.html",
+      "pubDate": "2026-06-19T06:51:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/nintendo-ds-port-super-mario-64-multijoueur/nintendo-ds-port-super-mario-64-multijoueur-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "18c55d2ab27d",
+      "title": "#346.exe - IA & DevX: Code assisté, valeur humaine préservée par Julien Lepine",
+      "description": "Pour l'épisode #346 je recevais Jocelyn N'takpe. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-346-c0a1a3b44aff",
+      "pubDate": "2026-06-19T03:00:22.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/5ff8b9d8-26cc-43e1-9488-c0a1a3b44aff.mp3?_=1781794162",
+      "duration": "17:04"
+    },
+    {
+      "id": "632f7f2868e8",
+      "title": "Entreprises B2B : comment apparaître dans les moteurs de recherche IA ?",
+      "description": "L'utilisation croissante des IA pour informer les acheteurs B2B souligne l'importance de la gestion de l'image de marque en ligne. Les entreprises doivent optimiser leur contenu pour être visibles et crédibles auprès des IA, en tenant compte des informations provenant de leurs sites, réseaux sociaux et activités offline. Une stratégie bien pensée est essentielle. L’article Entreprises B2B : comment apparaître dans les moteurs de recherche IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/18/entreprises-b2b-comment-apparaitre-dans-les-moteurs-de-recherche-ia/",
+      "pubDate": "2026-06-18T10:41:36.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/sources-donnees-ia-B2B.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "939f2134a585",
+      "title": "Linux tire un trait sur AppleTalk",
+      "description": "C'est la fin d'une époque. Le noyau Linux, le cœur du système qui pilote le matériel et les communications, s'apprête à supprimer le support d'AppleTalk, ce vieux protocole réseau qu'Apple utilisait dans les années 80 et 90 pour faire dialoguer ses Mac entre eux avant que TCP/IP, le langage commun d'internet, ne s'impose partout. À l'époque, c'était plutôt malin: vous branchiez deux machines et une imprimante, et elles se trouvaient toutes seules, sans la moindre configuration, du plug-and-play…",
+      "link": "https://korben.info/linux-tire-un-trait-sur-appletalk.html",
+      "pubDate": "2026-06-18T10:12:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/linux-tire-un-trait-sur-appletalk/linux-tire-un-trait-sur-appletalk-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b9fdf144b20b",
+      "title": "100 ans de métier face à l’IA",
+      "description": "Peut-on transformer un groupe centenaire du retail traditionnel de plusieurs dizaines de milliards de chiffre d'affaires en une véritable entreprise technologique à l'ère de l'IA? Face à la déferlante des agents autonomes et des géants de la tech, l’avènement du commerce agentique, la réponse n'est plus une option, c'est une question existentielle. Dans ce nouvel épisode d'À la French, exceptionnellement enregistré en live et en public au DevSummit, nous recevons le taulier d’un grand groupe…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a33bf71b5bd2ede10c9bef5",
+      "pubDate": "2026-06-18T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1781776221255-b18933fe-825a-4808-9f82-ba5f19b9f182.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a33bf71b5bd2ede10c9bef5/media.mp3",
+      "duration": "52:29"
+    },
+    {
       "id": "adf81f64af45",
       "title": "Tapo C675D KIT - 2 objectifs 4K et zéro angle mort",
       "description": "-- Article en partenariat avec Tapo -- La Tapo C675D KIT de TP-Link est une caméra de surveillance solaire qui vient de sortie, avec un truc qu'on voit rarement à ce tarif : 2 objectifs 4K.",
