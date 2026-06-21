@@ -2,6 +2,38 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "8c5217c9c8c4",
+      "title": "AGO 2026 : une croissance historique et une expertise IA confirmée",
+      "description": "Hier s’est tenue notre Assemblée Générale Ordinaire 2026, un temps fort de notre coopérative où nous avons fait l’état des lieux de notre activité, validé nos résultats, l’entrée au sociétariat de nos nouveaux associés ou encore renouvelé les membres de notre conseil de surveillance. Nous clôturons une année 2025 marquée par une performance robuste, qui […] Cet article, AGO 2026 : une croissance historique et une expertise IA confirmée, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ago-2026-une-croissance-historique-et-une-expertise-ia-confirmee",
+      "pubDate": "2026-06-20T11:34:05.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/TILLEULS15-NCLSPROD-06936-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "85825023a86c",
+      "title": "SAMDUO propose une batterie domestique ultra fine",
+      "description": "D'habitude, une batterie domestique, c'est un gros bloc qu'on planque à la cave ou au garage. SAMDUO prend le contre-pied avec sa gamme Nex, présentée cette semaine à Amsterdam, et veut en faire un objet qu'on assume de laisser à la vue de tous. Le modèle E6000 ressemble à un grand cadre fixé au mur, 11,9 cm d'épaisseur seulement, soit la plus fine du monde d'après la marque. Sa variante E6000H abandonne le mur pour un cube de la taille d'un micro-ondes, à glisser dans un coin. Même capacité.…",
+      "link": "https://korben.info/samduo-propose-une-batterie-domestique-ultra-fine.html",
+      "pubDate": "2026-06-20T09:47:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/samduo-propose-une-batterie-domestique-ultra-fine/samduo-propose-une-batterie-domestique-ultra-fine-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ab1a6f9ea651",
       "title": "The most trusted code on Earth is being rewritten in Rust",
       "description": "",
