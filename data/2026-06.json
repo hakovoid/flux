@@ -34,6 +34,21 @@
       "type": "blog"
     },
     {
+      "id": "1fe7d95390b4",
+      "title": "Dog at Work : comment on a transformé une belle idée en démarche sérieuse",
+      "description": "À l'occasion de la Journée Dog at Work, retour sur 4 ans de cohabitation chez Elao : une mise à jour du DUERP, une enquête d'équipe et une charte dog friendly co-construite qui changent tout.",
+      "link": "https://www.elao.com/blog/elao/dog-at-work",
+      "pubDate": "2026-06-20T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/elao/dog-at-work/thumbnail.jpg/de18cde4f921cfc7402f5e98026c9957.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ab1a6f9ea651",
       "title": "The most trusted code on Earth is being rewritten in Rust",
       "description": "",

@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "4a975b89e4a0",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "pubDate": "2026-06-21T23:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/18IGXqgYieQfH2AcUiYbua/4975e902fc7b1eb55f0863da06f82c92/samsung-electronics-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "2eb5bcc3ad88",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "description": "",
