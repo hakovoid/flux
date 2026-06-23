@@ -2,6 +2,76 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "b497f30634e4",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "",
+      "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "pubDate": "2026-06-22T13:18:56.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/l156KP0e5PRyDrE4woHoM.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "b63e5cb33bb0",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "description": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "link": "https://openai.com/index/daybreak-securing-the-world",
+      "pubDate": "2026-06-22T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6cfZttLA6PlFuCVypDeSh/5a3deeb70010cdf58dd7b78547850092/SEO_Card__4_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3696e67c2c9e",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "description": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "link": "https://openai.com/index/patch-the-planet",
+      "pubDate": "2026-06-22T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/28CORR4fvsUacNtm39ZFFM/f57721baa5b429689844d619a4f1e5dd/SEO_Card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e2330fefe7e2",
+      "title": "Codex-maxxing for long-running work",
+      "description": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "link": "https://openai.com/index/codex-maxxing-long-running-work",
+      "pubDate": "2026-06-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5wPjFVJwFZxBbh88EPcZIm/cd0e0689bc0c9120db4775b6c4a40ea9/Codex_Maxxing_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "965bb4d2ca17",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "description": "",
+      "link": "https://huggingface.co/blog/local-models-pr-triage",
+      "pubDate": "2026-06-22T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/local-models-pr-triage/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "4a975b89e4a0",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",

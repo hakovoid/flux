@@ -2,6 +2,143 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3769e5a2ff9c",
+      "title": "Relay attack - Ils volent une voiture avec un babyphone",
+      "description": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine mesure, c'était vrai ! Et le voleur, c'était Mark Rober en personne, l'ex-ingénieur de la NASA devenu YouTubeur, qui a inventé toute cette mise en scène pour démontrer une bonne fois pour toutes comment on vole une voiture récente sans même toucher à la serrure.",
+      "link": "https://korben.info/relay-attack-vol-voiture.html",
+      "pubDate": "2026-06-22T18:36:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/relay-attack-vol-voiture/relay-attack-vol-voiture-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e73ab695d87b",
+      "title": "Test des Eufy Indoor Cam E30, qui ont remplacé toutes mes vieilles caméras",
+      "description": "– Contient des liens affiliés Amazon – Cela faisait des années que je tournais avec de très anciennes caméras Eufy, et je me suis dit récemment qu'il était temps de les remplacer. J'ai donc pris l' Indoor Cam E30 , le modèle 4K de la marque qui pivote sur 360 degrés.",
+      "link": "https://korben.info/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras.html",
+      "pubDate": "2026-06-22T13:47:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras/test-des-eufy-indoor-cam-e30-qui-ont-remplace-toutes-mes-vielles-cameras-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "50faab457b22",
+      "title": "Doom tourne désormais sur un bracelet Xiaomi Mi Band 10",
+      "description": "Il y a des gens qui se détendent en regardant une petite série. Aaron Christophel, lui, se détend en désossant des bracelets connectés Xiaomi pour leur faire cracher du code qu'aucun ingénieur de la marque n'avait prévu. Ce bidouilleur allemand, plus connu sous le pseudo atc1441, vient de s'attaquer au Mi Band 10, et il en a tiré ce que la communauté du hack matériel considère comme le sacre suprême depuis trente ans : un portage de Doom, le jeu de tir sorti en 1993.",
+      "link": "https://korben.info/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10.html",
+      "pubDate": "2026-06-22T13:06:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10/doom-tourne-desormais-sur-un-bracelet-xiaomi-mi-band-10-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "919c7cfddcd7",
+      "title": "Déclaré mort, toujours vivant : ce que le vinyle apprend à nos équipes tech",
+      "description": "On a déclaré le vinyle mort. Le COBOL aussi. Les tests de mutation dormaient dans les bonnes pratiques oubliées. Ils sont tous revenus ou n'ont jamais vraiment disparu. Parce que nouveau ne veut pas dire meilleur. Et que certains outils font quelque chose que rien d'autre ne fait aussi bien.",
+      "link": "https://blog.octo.com/declare-mort-toujours-vivant--ce-que-le-vinyle-apprend-a-nos-equipes-tech",
+      "pubDate": "2026-06-22T12:36:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5c52a27c9bb",
+      "title": "Tanko - Lire des mangas dans le terminal en scred",
+      "description": "Si vous passez votre vie dans un terminal et que vous avez réussi un jour à quitter tout seul Vi / Vim, voici une application qui va vous intéresser. Il s'agit de Tanko , signé Alexandro Mendez, un outil en ligne de commande qui permet de lire et télécharger vos mangas préférés directement depuis un terminal. C'est, en gros, le même concept que youtube-dl mais pour les scans japonais. Pour installer Tanko, ouvrez un terminal et entrez la commande suivante : pnpm install -g tanko (npm marche…",
+      "link": "https://korben.info/tanko-lecteur-manga-terminal.html",
+      "pubDate": "2026-06-22T09:34:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/tanko-lecteur-manga-terminal/tanko-lecteur-manga-terminal-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3a63dbf3aac1",
+      "title": "Une ampoule connectée transformée en bibliothèque clandestine de livres interdits",
+      "description": "Aux États-Unis, la guerre contre les livres ne se joue plus seulement dans les conseils d'administration des écoles, mais désormais aussi à l'intérieur d'une ampoule connectée vissée au plafond. La performance est signée Rick Osgood , un bidouilleur qui a transformé un objet du quotidien le plus banal qui soit en cachette numérique pour des ouvrages bannis des établissements scolaires, et l'idée a quelque chose de réjouissant. Ces dernières années, des milliers de titres ont été retirés des…",
+      "link": "https://korben.info/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits.html",
+      "pubDate": "2026-06-22T08:11:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits/une-ampoule-connectee-transformee-en-bibliotheque-clandestine-de-livres-interdits-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "28d7e3b27e43",
+      "title": "Fatigue informationnelle - Quand fuir l'actu n'est pas une faiblesse",
+      "description": "Je ne lis pas les médias d'actu, et je ne vais quasiment plus sur les réseaux sociaux. Pas par flemme, mais parce qu'à force, je ne voyais plus le monde QUE par le prisme des mauvaises nouvelles et de la négativité (sans parler de la connerie humaine omniprésente mais ça c'est un autre sujet... lol). Et il se trouve qu'un psychologue de l'université Wilfrid Laurier, Ali Jasemi, vient justement de mettre un peu de science sur ce ras-le-bol que je ressens depuis longtemps. Car si je sature, c'est…",
+      "link": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles.html",
+      "pubDate": "2026-06-21T16:45:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fatigue-informationnelle-eviter-mauvaises-nouvelles/fatigue-informationnelle-eviter-mauvaises-nouvelles-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bd00369a122d",
+      "title": "Robots humanoïdes - On attend vraiment qu'il y ait un mort ?",
+      "description": "Je sais pas si vous vous intéressez un petit peu à la robotique, mais cette semaine il y a eu deux vidéos qui sont sorties et je voudrais réagir par rapport à ça. La première, c'est lors d'une démonstration dans la rue d'un robot qui à un moment lève la jambe et éclate le ventre d'un enfant qui se trouvait à côté. Et la seconde c'est à Vivatech lors d'une chorégraphie débile où deux robots ont arraché des télés.",
+      "link": "https://korben.info/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort.html",
+      "pubDate": "2026-06-21T14:16:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort/robots-humanoides-on-attend-vraiment-quil-y-ait-un-mort-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b6a077e63afd",
+      "title": "F-15 Strike Eagle II - Le simulateur de 1989 cherche des pilotes d'essai",
+      "description": "Je ne me lasse jamais de tous ces projets qui ressuscitent des vieux jeux. Et celui dont je vais vous parler aujourd'hui, c'est à neuviemeporte qu'on le doit. Celui-ci s'est donné pour mission de reconstruire ligne de code par ligne de code, ce bon vieux F-15 Strike Eagle II, le simulateur de vol de combat sorti chez MicroProse en 1989. Et hier, le 20 juin dernier, le projet a passé un cap important puisque le portage est enfin jouable. Et son dev cherche maintenant des pilotes d'essai pour le…",
+      "link": "https://korben.info/f15-strike-eagle-2-reverse-engineering.html",
+      "pubDate": "2026-06-21T10:27:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1200,fit=scale-down,quality=90,f=avif/f15-strike-eagle-2-reverse-engineering/f15-strike-eagle-2-reverse-engineering-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8c5217c9c8c4",
       "title": "AGO 2026 : une croissance historique et une expertise IA confirmée",
       "description": "Hier s’est tenue notre Assemblée Générale Ordinaire 2026, un temps fort de notre coopérative où nous avons fait l’état des lieux de notre activité, validé nos résultats, l’entrée au sociétariat de nos nouveaux associés ou encore renouvelé les membres de notre conseil de surveillance. Nous clôturons une année 2025 marquée par une performance robuste, qui […] Cet article, AGO 2026 : une croissance historique et une expertise IA confirmée, est paru en premier sur Les-Tilleuls.coop.",
