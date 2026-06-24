@@ -2,6 +2,174 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3e6a28047f65",
+      "title": "USB4STREAM - Le transfert direct entre 2 machines sous Linux",
+      "description": "Admettons que vous ayez besoin de transmettre des fichiers d'une machine A à une machine B, le plus vite possible et sans vous prendre la tête ? Et bien j'ai ce qu'il vous faut et ça s'appelle USB4STREAM, qui vient d'être fraîchement mergé dans Linux 7.2. C'est Intel qui a pondu ce protocole « super simple » (c'est leur expression) pour balancer des paquets bruts d'une machine à une autre, directement par le câble USB4 ou Thunderbolt sans serveur intermédiaire... Juste deux bécanes et un fil.",
+      "link": "https://korben.info/usb4stream-linux-transfert-direct-usb4.html",
+      "pubDate": "2026-06-24T07:15:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/usb4stream-linux-transfert-direct-usb4/usb4stream-linux-transfert-direct-usb4-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8c321435c606",
+      "title": "Favicon - Un site web planqué dans 212 octets",
+      "description": "Si vous ne connaissez pas, un favicon, c'est cette mini icône pixelisée que vous pouvez voir dans l'onglet de votre navigateur qui en général est le logo du site que vous visitez. Hé bien le dev Tim Wehrle a réussi à y faire tenir un site web entier en stockant tout son HTML dans les 212 octets de l'image. L'astuce est toute con vous allez voir... Une image, c'est des pixels. Et chaque pixel a 3 valeurs : rouge, vert, bleu, soit 3 octets. Du coup il prend son HTML, le découpe octet par octet,…",
+      "link": "https://korben.info/favicon-site-web-complet.html",
+      "pubDate": "2026-06-24T06:58:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/favicon-site-web-complet/favicon-site-web-complet-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5f3747d5ea9e",
+      "title": "#362.src - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA avec Yacine Hmito",
+      "description": "\"Les meilleures personnes pour résoudre un problème sont celles qui le voient, qui le palpent, voire qui le causent.\" Le D.E.V. de la semaine est Yacine Hmito, VP of Technology chez Fabriq. Ensemble, on explore comment le Lean, conçu à l'origine pour les usines automobiles, nous offre les clés pour mieux utiliser nos agents IA de codage. Yacine partage sa vision : le Lean n'est pas une simple méthode mais un état d'esprit qui place l'apprentissage et la satisfaction client au c&oeligur de toute…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-362-9c6fd0a77b77",
+      "pubDate": "2026-06-24T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38cf2ebd-96b7-498d-9097-9b72351cabd6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/61e55340-6c5b-451d-b8d4-9c6fd0a77b77.mp3?_=1782216083",
+      "duration": "58:02"
+    },
+    {
+      "id": "06608c8ffa8c",
+      "title": "Midjourney wants to delete 30% of all death...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
+      "pubDate": "2026-06-23T16:46:50.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1529b431ca6a",
+      "title": "Une tablette de prison américaine ouverte à la scie",
+      "description": "Le réparateur australien Hugh Jeffreys, connu pour ses vidéos de démontage et ses collaborations avec le site de réparation iFixit, a mis la main sur l'un de ces appareils que les prisons américaines louent à leurs détenus pour accéder à une poignée de services autorisés, et il a voulu savoir ce qu'on avait bien pu cacher à l'intérieur d'un objet aussi verrouillé. Le résultat ne paie pas de mine, avec son boîtier en plastique opaque scellé hermétiquement, sa mousse de calage glissée à…",
+      "link": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie.html",
+      "pubDate": "2026-06-23T16:22:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-tablette-de-prison-americaine-ouverte-a-la-scie/une-tablette-de-prison-americaine-ouverte-a-la-scie-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ab64a6874655",
+      "title": "LightComposer, la lampe qui se règle au cadran comme un vieux téléphone",
+      "description": "Le bidouilleur allemand John Engeln en avait assez. Il voulait une petite lampe de bureau qui change de couleur, point, sans dégainer son smartphone pour télécharger une appli et appairer le moindre objet, et plutôt que de suivre la mode du tout-connecté il est allé piocher du côté des années cinquante, dans le cadran rotatif des bons vieux téléphones à roulette. La chose tient dans la main, à peine plus grosse qu'un palet de hockey, et mélange du rouge, du vert et du bleu pour composer la…",
+      "link": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone.html",
+      "pubDate": "2026-06-23T15:13:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone/lightcomposer-la-lampe-qui-se-regle-au-cadran-comme-un-vieux-telephone-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ff4339758d54",
+      "title": "Cet outil open source traque les conseils de sécurité que l'IA vous a refilés et qui ne valent plus rien",
+      "description": "Quand vous demandez à un assistant IA de corriger une faille dans une de vos dépendances, il vous propose presque toujours la même chose : ajouter ce qu'on appelle un \"override\", une ligne de configuration qui force votre projet à utiliser une version saine d'une brique logicielle. Le conseil semble bon sur le moment. Mais voilà, personne ne vous dit jamais de revenir vérifier, six mois plus tard, que cette ligne sert encore à quelque chose.",
+      "link": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien.html",
+      "pubDate": "2026-06-23T11:56:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien/cet-outil-open-source-traque-les-conseils-de-securite-que-lia-vous-a-refiles-et-qui-ne-valent-plus-rien-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "6480b3817377",
+      "title": "RawGraphs - Et vos données moches deviennent de beaux graphiques sans coder",
+      "description": "Je ne sais pas si vous manipulez souvent des fichiers CSV, mais sans savoir coder, en tirer un graphique correct, c'est souvent la croix et la bannière ! Excel nous sort en général un camembert tristoune qui pue comme un vrai, et les outils de dataviz exigent que vous sachiez bidouiller du D3.js. Heureusement, RawGraphs se glisse pile dans ce trou, et propose une appli web gratuite et open source développée par le DensityDesign Lab du Politecnico di Milano, épaulé par les studios Calibro et…",
+      "link": "https://korben.info/rawgraphs-data-visualisation-open-source.html",
+      "pubDate": "2026-06-23T09:07:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rawgraphs-data-visualisation-open-source/rawgraphs-data-visualisation-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3ba9d5a3f484",
+      "title": "Codex d'OpenAI bouffait votre SSD - 640 To de logs par an",
+      "description": "Si vous utilisez Codex , le CLI de dev d'OpenAI, allez vite jeter un œil à votre SSD avant qu'il ne rende l'âme ! Si je vous dis ça, c'est parce qu'un utilisateur a remarqué que l'outil écrivait en douce des quantités hallucinantes de logs sur son disque, et son calcul fait un peu peur. En 21 jours, environ 37 To sont passés sur son SSD. Rapporté à l'année, ça grimpe à 640 To. Sur un disque d'1 To, ça revient donc à le remplir entièrement 640 fois. Et le problème avec ça, c'est que pas mal de…",
+      "link": "https://korben.info/codex-logs-sqlite-ssd-usure.html",
+      "pubDate": "2026-06-23T08:45:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/codex-logs-sqlite-ssd-usure/codex-logs-sqlite-ssd-usure-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c01f04b2c2b0",
+      "title": "Générer un App Password pour utiliser Gmail en IMAP/SMTP ",
+      "description": "Découvrez comment utiliser une adresse Gmail avec IMAP et SMTP grâce aux App Passwords de Google. Une solution simple pour connecter Gmail à vos applications, serveurs et outils d'envoi d'emails.",
+      "link": "https://code-garage.com/blog/generer-un-app-password-pour-utiliser-gmail-en-imap-smtp",
+      "pubDate": "2026-06-23T08:29:07.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Chat_GPT_Image_22_juin_2026_14_07_22_b54d98bf3f.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "92d147bde0b6",
+      "title": "Vivre sans État - Le doc ARTE qui titille l'anarchiste en vous",
+      "description": "J'sais pas si vous saviez mais l'État, ce truc qui organise et contrôle toute notre vie, sans que nous l'ayons jamais vraiment choisi, n'a que 4 siècles au compteur... C'est comme ça que débute Vivre sans État, un doc qu'ARTE qui vient de sortir dans sa collection Tracks, et que je vous recommande chaudement. Durant 51 minutes vous découvrirez de vrais gens qui ont décidé de se passer de gouvernement !",
+      "link": "https://korben.info/vivre-sans-etat-documentaire-arte.html",
+      "pubDate": "2026-06-23T07:37:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vivre-sans-etat-documentaire-arte/vivre-sans-etat-documentaire-arte-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3769e5a2ff9c",
       "title": "Relay attack - Ils volent une voiture avec un babyphone",
       "description": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine mesure, c'était vrai ! Et le voleur, c'était Mark Rober en personne, l'ex-ingénieur de la NASA devenu YouTubeur, qui a inventé toute cette mise en scène pour démontrer une bonne fois pour toutes comment on vole une voiture récente sans même toucher à la serrure.",

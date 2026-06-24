@@ -2,6 +2,104 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "072c0c397337",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "pubDate": "2026-06-23T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2qNRrOyIX7qjpdePUIObdS/9307a1d928c8b0167cd85e22b39c5132/derya_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "aec47bf76556",
+      "title": "Helping build shared standards for advanced AI",
+      "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "pubDate": "2026-06-23T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0b690c5df303",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "pubDate": "2026-06-23T12:51:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/649d9ad1500fd8d51a675a93/p9JwFYkZS7fB9g2PMFMft.png",
+      "type": "blog"
+    },
+    {
+      "id": "480508a9ca16",
+      "title": "How Omio is building the future of conversational travel",
+      "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "link": "https://openai.com/index/omio",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6wFIgOcT1xK5IvZQIDJ2xQ/edf82561f00cdb27cf3ffcfcad7cd215/oai_Omio_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b0d7df1028b0",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "",
+      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/huggingface-hub-release-ci/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e297cf400e7",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "description": "",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/cross-origin-storage/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "64748ac32663",
+      "title": "Introducing Claude Tag",
+      "description": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b497f30634e4",
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "description": "",
