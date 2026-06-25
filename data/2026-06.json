@@ -2,6 +2,219 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "13108ad06c61",
+      "title": "Distillation - Comment Alibaba aurait aspiré l'IA Claude",
+      "description": "Anthropic vient d'accuser frontalement Alibaba d'avoir siphonné les capacités de son IA Claude. Et le plus dingue dans cette histoire, c'est la méthode qui aurait été employée. Car non, rassurez-vous, personne n'a piraté les serveurs d'Anthropic, personne n'a volé le code source de Claude, et personne n'a mis la main sur les fameux \"poids\" du modèle. En fait, les opérateurs (les bots quoi) liés à Alibaba ont juste discuté avec Claude. Et pas qu'un peu puisqu'ils ont effectué 28,8 millions…",
+      "link": "https://korben.info/distillation-modele-ia-alibaba-claude.html",
+      "pubDate": "2026-06-25T07:24:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/distillation-modele-ia-alibaba-claude/distillation-modele-ia-alibaba-claude-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "41d952895e7c",
+      "title": "Rpilocator ferme - Adieu au traqueur de stock Raspberry Pi",
+      "description": "Putain, j'sais pas si vous vous souvenez de cette galère que c'était de mettre la main sur un Raspberry Pi neuf y'a pas si longtemps. Et triste nouvelle, le site qui nous a tous sauvés pendant cette galère, rpilocator.com , fermera ses portes en juillet. Apparemment, faire tourner ce service est devenu trop galère pour André Costa son créateur. Mais avant de vous expliquer tout ça, petit rappel pour ceux qui ont la mémoire courte. Entre 2021 et 2022, à cause d'une pénurie mondiale de composants…",
+      "link": "https://korben.info/comment-trouver-un-raspberry-pi-facilement.html",
+      "pubDate": "2026-06-24T20:35:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/comment-trouver-un-raspberry-pi-facilement/comment-trouver-un-raspberry-pi-facilement-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "32f2e5298d75",
+      "title": "Orion - Le navigateur Mac qui ne carbure pas à Chromium",
+      "description": "Quand je regarde la liste des navigateurs divers et variés qu'on a à notre disposition, franchement, je déprime... Chrome, Edge, Brave, Opera, Vivaldi, et même feu Arc... tous tournent sur Chromium, donc sur le moteur de Google. C'est naze pour la diversité de l'écosystème, vous ne trouvez pas ? Alors on a toujours notre bon vieux Firefox évidemment mais il en existe un autre dont on parle très peu qui s'appelle Orion. C'est Kagi (la boîte derrière le moteur de recherche payant du même nom,…",
+      "link": "https://korben.info/orion-navigateur-webkit-mac.html",
+      "pubDate": "2026-06-24T20:16:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/orion-navigateur-webkit-mac/orion-navigateur-webkit-mac-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f2abcef457a2",
+      "title": "Claviers ASUS ROG et Linux : fuyez ! (ou bricolez dur)",
+      "description": "Il y a plusieurs années maintenant, j’ai craqué pour un gros clavier gamer avec triple connexion : USB-C, Bluetooth, Dongle 2.4GHz. L’objectif : pouvoir basculer [...]",
+      "link": "https://blog.seboss666.info/2026/06/claviers-asus-rog-et-linux-fuyez-ou-bricolez-dur/",
+      "pubDate": "2026-06-24T17:28:40.000Z",
+      "source": "Seboss666",
+      "sourceUrl": "https://blog.seboss666.info/feed",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.seboss666.info/wp-content/uploads/2018/05/computer-madness.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e860e469a5c2",
+      "title": "The Dark Side of AI : Épisode 1",
+      "description": "Derrière l'euphorie de l'IA générative : des travailleurs invisibles à 1€ de l'heure, des chatbots qui nous flattent plutôt que de nous informer, et une bulle que ses propres artisans n'osent plus nier.",
+      "link": "https://blog.ippon.fr/2026/06/24/the-dark-side-of-ai-episode-1/",
+      "pubDate": "2026-06-24T14:21:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/illustration.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "e70f86a9cee8",
+      "title": "PACT - Le token Cloudflare qui veut remplacer les CAPTCHA",
+      "description": "Je viens d'apprendre que Cloudflare s'était associé à Chrome, Firefox et Edge pour régler un truc qui nous pourrit tous la vie sans que nous y pensions vraiment, à savoir prouver qu'on est des humains. Leur projet s'appelle PACT pour Private Access Control Tokens, et l'idée c'est de remplacer les affreux CAPTCHA par un titi jeton cryptographique anonyme que votre browser baladera de sites en sites. Alors comment ça fonctionne cette nouvelle connerie ?",
+      "link": "https://korben.info/pact-cloudflare-navigateurs-anti-bots.html",
+      "pubDate": "2026-06-24T14:04:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pact-cloudflare-navigateurs-anti-bots/pact-cloudflare-navigateurs-anti-bots-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4a2ae5058d72",
+      "title": "Test du mini chargeur Anker avec son écran tout mignon qui en sait beaucoup sur vous",
+      "description": "– Contient des liens affiliés Amazon – Anker a eu une idée bien sympatoche, que je n'avais jamais vue sur un chargeur de cette taille, à savoir coller un petit écran sur la face avant du bloc pour afficher en direct la puissance envoyée, la température du bloc et, plus rigolo encore, le modèle précis d'appareil qu'on vient de connecter, dans mon cas mon iPhone 17 Pro.",
+      "link": "https://korben.info/test-du-mini-chargeur-anker-avec-son-ecran-tout-mignon-qui-en-sait-beaucoup-sur-vous.html",
+      "pubDate": "2026-06-24T13:21:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-mini-chargeur-anker-avec-son-ecran-tout-mignon-qui-en-sait-beaucoup-sur-vous/test-du-mini-chargeur-anker-avec-son-ecran-tout-mignon-qui-en-sait-beaucoup-sur-vous-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "682a12bbf7d2",
+      "title": "Jetpack et son IA imposée - Comment tout débrancher",
+      "description": "Si vous tournez sous WordPress avec Jetpack, vous avez sûrement vu débarquer l'AI Assistant d'Automattic sans rien demander à personne. Un bouton IA qui se pointe dans l'éditeur, des suggestions générées un peu partout, un machin pour générer des vidéos à partir d'articles et le tout activé d'office, même sur les comptes gratuits. Le pire, c'est que ça reste à moitié verrouillé derrière un abonnement payant qu'on vous colle sous le nez, avec seulement 20 malheureuses requêtes gratuites avant de…",
+      "link": "https://korben.info/desactiver-ia-jetpack-wordpress.html",
+      "pubDate": "2026-06-24T13:18:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/desactiver-ia-jetpack-wordpress/desactiver-ia-jetpack-wordpress-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "223cd42bd037",
+      "title": "IoToS - Le prof qui a codé un OS de zéro pour ses élèves",
+      "description": "Jean-Marc Biechy est prof d'électronique et d'informatique à l'Institution Saint-Jean de Colmar et il vient de m'envoyer un truc qui m'a scotché. Avec ses élèves, il bidouille des projets Arduino, et plutôt que d'empiler des bouts de code à chaque nouveau montage, il a fait un choix un peu fou : écrire son propre système d'exploitation en partant de zéro pour un microcontrôleur. Ça s'appelle IoToS, pour Internet of Things micro Operating System, et ça transforme un Arduino UNO R4 ou un…",
+      "link": "https://korben.info/iotos-micro-os-arduino-esp32.html",
+      "pubDate": "2026-06-24T11:28:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/iotos-micro-os-arduino-esp32/iotos-micro-os-arduino-esp32-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a07cce4a124",
+      "title": "UX Days 2026 : Design, IA et conscience, ce que cette journée nous a appris sur notre métier",
+      "description": "L'intelligence artificielle redessine nos métiers. C'est le constat que partagent aujourd'hui designers, développeurs et product managers. Les UX Days 2026 n'ont pas échappé à cette réalité. Parmi les nombreuses conférences de la journée, six nous ont particulièrement marqués et partageaient un fil rouge : comment concevoir avec conscience à l'ère de l'IA ? Keynote d'ouverture avec Pablo Ruiz-Múzquiz : L'avenir du design UX est-il l’open source ? La matinée s'est ouverte avec Pablo…",
+      "link": "https://jolicode.com/blog/ux-days-2026-design-ia-et-conscience-ce-que-cette-journee-nous-a-appris-sur-notre-metier",
+      "pubDate": "2026-06-24T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ux-days-2026/uxdays01.png",
+      "type": "blog"
+    },
+    {
+      "id": "e1b2bd63fc1d",
+      "title": "Tesladeaths - Le compteur des morts de l'Autopilot TESLA (FSD)",
+      "description": "Vendredi soir à Katy, au Texas, une Tesla Model 3 a défoncé la façade d'une maison et tué Martha Avila, 76 ans, installée devant la Coupe du Monde. Evidemment, comme d'hab, le constructeur et le conducteur se renvoient déjà la faute mais on se pose tous cette question : Combien de gens sont morts comme ça bêtement, dans un crash où l'Autopilot était actif ? Pour le savoir, oubliez Tesla et son service de presse dissous en 2020 (lol), et filez sur tesladeaths.com , un compteur tenu par la…",
+      "link": "https://korben.info/tesladeaths-compteur-morts-autopilot.html",
+      "pubDate": "2026-06-24T09:32:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tesladeaths-compteur-morts-autopilot/tesladeaths-compteur-morts-autopilot-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "763a238541ba",
+      "title": "Une machine à glaçons de cuisine pour refroidir votre carte graphique ?",
+      "description": "22°C en plein Cyberpunk 2077. C'est la température qu'a relevée le YouTubeur TrashBench sur sa RTX 3060, une carte graphique milieu de gamme de Nvidia comme on en trouve dans énormément de PC de joueurs, après l'avoir branchée sur une machine à glaçons de comptoir. Oui oui, on parle bien de l'appareil qui produit des glaçons sur votre plan de travail. Avec son ventirad d'origine, cette carte tournait autour de 60°C en charge, avec un point chaud (le hotspot, l'endroit le plus brûlant de la…",
+      "link": "https://korben.info/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique.html",
+      "pubDate": "2026-06-24T09:26:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique/une-machine-a-glacons-de-cuisine-pour-refroidir-votre-carte-graphique-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ff1883b447d6",
+      "title": "Le gestionnaire de mots de passe qui vous donne des alias email natifs",
+      "description": "-- Article en partenariat avec Proton -- Si vous avez encore un mot de passe identique sur trois sites, ou que vous vous dites « le 2FA c'est bien, mais je ferai ça plus tard », ce billet est pour vous. Proton Pass, c'est le gestionnaire de mots de passe de Proton, l'éditeur suisse derrière Proton Mail, Proton VPN, Calendar et Drive. On va voir ensemble quels sont les points forts, les limites et la vraie valeur ajoutée côté vie privée par rapport à d'autres outils du même genre.",
+      "link": "https://korben.info/proton-pass.html",
+      "pubDate": "2026-06-24T07:57:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/proton-pass/proton-pass-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ce6404d62cc",
+      "title": "Samsung KNOX - Le bouclier qui ouvrait le kernel des Galaxy",
+      "description": "Samsung nous vend KNOX comme le gros cadenas de nos smartphones Galaxy mais il semblerait que ce soit un gros fail. Si vous ne connaissez pas encore KNOX, c'est la couche maison de Samsung qui garde un oeil sur tout ce qui tourne dans le téléphone afin de nous PROTÉGER (retenez bien ce mot c’est important...lol). Et bien je vous le donne dans le mille mes petits Emile, des chercheurs de LucidBit Labs viennent de prouver l'exact inverse à cause d'une faille logée dans KNOX lui-même, qui est…",
+      "link": "https://korben.info/samsung-knox-faille-kernel-galaxy.html",
+      "pubDate": "2026-06-24T07:33:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/samsung-knox-faille-kernel-galaxy/samsung-knox-faille-kernel-galaxy-1.avif",
+      "type": "blog"
+    },
+    {
       "id": "3e6a28047f65",
       "title": "USB4STREAM - Le transfert direct entre 2 machines sous Linux",
       "description": "Admettons que vous ayez besoin de transmettre des fichiers d'une machine A à une machine B, le plus vite possible et sans vous prendre la tête ? Et bien j'ai ce qu'il vous faut et ça s'appelle USB4STREAM, qui vient d'être fraîchement mergé dans Linux 7.2. C'est Intel qui a pondu ce protocole « super simple » (c'est leur expression) pour balancer des paquets bruts d'une machine à une autre, directement par le câble USB4 ou Thunderbolt sans serveur intermédiaire... Juste deux bécanes et un fil.",
