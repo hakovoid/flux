@@ -2,6 +2,294 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "33313ec94a88",
+      "title": "Le Casio VL-1 de 1981 modernisée pour quelques euros",
+      "description": "En 1981, Casio sortait le VL-1, un drôle d'objet vendu autour de 70 dollars, à mi-chemin entre la calculatrice de poche et le synthétiseur monophonique, avec un séquenceur de cent notes planqué dedans et un afficheur à huit caractères. Un jouet, en apparence. Sauf qu'il s'en est vendu près d'un million entre 1979 et 1984, ce qui pour un machin pareil reste assez dingue. Vous l'avez déjà entendu, c'est sûr. C'est lui qui balance la rythmique du tube \"Da Da Da\" du groupe allemand Trio, en 1982,…",
+      "link": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros.html",
+      "pubDate": "2026-06-26T07:33:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros/le-casio-vl-1-de-1981-modernisee-pour-quelques-euros-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "76b97ee47784",
+      "title": "GB-Link USB - Faites jouer vos vraies Game Boy en ligne",
+      "description": "Le bidouilleur Starlarkus vient de sortir son nouveau projet, le GB-Link USB V2 qui n'est ni plus ni moins qu'un petit adaptateur permettant de brancher une VRAIE Game Boy sur le net. Le truc se fait passer pour un câble link tout ce qu'il y a de plus normal, et la console n'y voit que du feu. D'un côté y'a le port link de la Game Boy, de l'autre un port USB-C que vous branchez sur un ordi ou un smartphone Android. Et là, tout passe ensuite par le navigateur en WebUSB. Vous ouvrez une page web…",
+      "link": "https://korben.info/gb-link-usb-game-boy-online-multijoueur.html",
+      "pubDate": "2026-06-26T07:25:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gb-link-usb-game-boy-online-multijoueur/gb-link-usb-game-boy-online-multijoueur-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b060f74f0fb0",
+      "title": "OS9Map - OpenStreetMap sur votre Mac de 1999",
+      "description": "Un dev prénommé Yllan vient de sortir OS9Map , une application qui affiche OpenStreetMap directement sur Mac OS 9. Oui, je parle bien du système d'exploitation de 1999 qui ronronnait sur nos vieux PowerPC. Pour l'installer, c'est un bon vieux fichier .sit à décompresser (StuffIt Expander sur la machine d'époque, The Unarchiver si vous passez par un Mac moderne), et il vous faudra un PowerPC sous OS 9 avec 16 Mo de RAM (32 recommandés) et une connexion qui passe par Open Transport. Une fois…",
+      "link": "https://korben.info/os9map-openstreetmap-mac-os-9.html",
+      "pubDate": "2026-06-26T06:14:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/os9map-openstreetmap-mac-os-9/os9map-openstreetmap-mac-os-9-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "96aa53a971fc",
+      "title": "#317.exe - SQL: Turing complete et toujours incompris par Léa Buendé",
+      "description": "Pour l'épisode #317 je recevais Cédric Miachon. On en débrief avec Léa. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-317-a2f165b9b8ab",
+      "pubDate": "2026-06-26T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/248e3b11-3514-45c3-a17f-a2f165b9b8ab.mp3?_=1782388877",
+      "duration": "11:08"
+    },
+    {
+      "id": "b3a8fd0373b6",
+      "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
+      "description": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigateur, gratuitement, sans avoir à installer Steam ni à télécharger le moindre gros paquet. Ça se passe sur hl2.slqnt.dev , c'est en ligne depuis le hier, et le jeu tourne tout en fluidité, largement au-dessus des 60 images par seconde directement sous Chrome.",
+      "link": "https://korben.info/half-life-2-navigateur-webassembly-slqnt.html",
+      "pubDate": "2026-06-25T22:34:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/half-life-2-navigateur-webassembly-slqnt/half-life-2-navigateur-webassembly-slqnt-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e1f7380b002b",
+      "title": "Adblock for YouTube - 10 millions d'installs et un piège dormant",
+      "description": "Si vous avez installé une extension qui s'appelle \"Adblock for YouTube\" pour virer les pubs de vos vidéos, prenez deux minutes pour lire mon article. Les chercheurs Oleg Zaytsev et Shachar Gritzman, de la boîte de sécurité Island, viennent de passer au peigne fin une de ces extensions installée par plus de 10 millions de personnes, et ce qu'ils ont trouvé dedans n'est pas très joli joli. Le truc affiche fièrement un badge \"Featured\" sur le Chrome Web Store, fait bien le boulot promis (il bloque…",
+      "link": "https://korben.info/adblock-youtube-extension-injection-script.html",
+      "pubDate": "2026-06-25T22:20:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/adblock-youtube-extension-injection-script/adblock-youtube-extension-injection-script-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "997a6d2f043e",
+      "title": "Pannes d'IA - Les coupures ont été multipliées par 8 en un an",
+      "description": "Vous vous souvenez quand ChatGPT tombait trop souvent en rade et que ça vous faisait juste lever les yeux au ciel avant d'aller vous chercher un café en trainant de la pantoufle ?? Bah cette époque est en train de se terminer mes amis. Les analystes d'Ookla viennent d'éplucher 471 jours de données Downdetector aux États-Unis, ce qui représente environ 3,7 millions de signalements sur les grandes plateformes IA (ChatGPT, Claude, Gemini, Copilot) + les deux géants du cloud qui les font tourner,…",
+      "link": "https://korben.info/fiabilite-ia-pannes-downdetector-2026.html",
+      "pubDate": "2026-06-25T20:41:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fiabilite-ia-pannes-downdetector-2026/fiabilite-ia-pannes-downdetector-2026-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3f11d4718246",
+      "title": "Cache-aware scheduling - Le patch Linux qui vise +360% de perf sur MySQL",
+      "description": "L' ordonnanceur du noyau Linux vient de recevoir une proposition de mise à jour qui fait grimper les perfs de façon assez spectaculaire sur certaines charges. Hygon, le fondeur chinois qui fabrique des x86 sous licence de l'architecture Zen d'AMD, a envoyé une série de patches pour étendre le cache-aware scheduling, et les chiffres annoncés montent jusqu'à 360% de mieux en termes de transactions par seconde sur MySQL. Pour comprendre le délire, faut revenir au cache-aware scheduling de base, le…",
+      "link": "https://korben.info/cache-aware-scheduling-linux-hygon.html",
+      "pubDate": "2026-06-25T16:22:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cache-aware-scheduling-linux-hygon/cache-aware-scheduling-linux-hygon-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6bb63808236f",
+      "title": "Clash of Clans 2012 - La version disparue est rejouable en ligne",
+      "description": "C'est triste mais la toute première version de Clash of Clans, celle de 2012, n'était plus jouable nulle part depuis longtemps. En effet, les serveurs officiels rejettent ses vieilles connexions depuis des années, et donc plus personne ne pouvait y remettre les pieds. Mais c'était sans compter sur Mike, le dev derrière Atrasis Retro et fidèle lecteur de Korben.info, qui vient de ressusciter l'app ! Et, oh magie de l'internet, vous pouvez y rejouer direct depuis votre navigateur, maintenant là…",
+      "link": "https://korben.info/clash-of-clans-2012-navigateur.html",
+      "pubDate": "2026-06-25T15:32:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/clash-of-clans-2012-navigateur/clash-of-clans-2012-navigateur-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "84b7048a5283",
+      "title": "Snake sur un switch Ubiquiti - Parfaitement inutile, donc génial",
+      "description": "Si vous cherchez la définition exacte du mot bidouille, la voilà : Prendre un switch réseau à plusieurs centaines d'euros et s'en servir pour jouer à Snake. C'est en tout cas comme cela qu'Adam Jezek voit les choses puisqu'il a eu l'idée de détourner les LEDs RGB des switches Ubiquiti pour y faire ramper le serpent de votre vieux Nokia 3310. Son code traîne sur GitHub depuis plus de deux ans, et il vient de refaire surface grâce à une vidéo de Julien Metayer qui tourne en ce moment sur LinkedIn…",
+      "link": "https://korben.info/snake-switch-ubiquiti-etherlighting.html",
+      "pubDate": "2026-06-25T15:16:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/snake-switch-ubiquiti-etherlighting/snake-switch-ubiquiti-etherlighting-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "2fa594ae03d4",
+      "title": "Firefox - Personnalisez (enfin) vos raccourcis clavier !",
+      "description": "Ça fait des années et des années, je dirais pas loin de 20 ans, que nous, pauvres utilisateurs de Firefox, réclamons un truc tout bête : Pouvoir enfin changer les raccourcis clavier du navigateur. Hé bien croyez le ou non, Mozilla a fini par céder et depuis Firefox 147 , sorti le 13 janvier 2026, il y a une petite page de config planquée qui vous permet de faire ça. Vous tapez simplement about:keyboard dans la barre d'adresse, et hop, vous tombez sur toute la liste des raccourcis…",
+      "link": "https://korben.info/firefox-raccourcis-clavier-about-keyboard.html",
+      "pubDate": "2026-06-25T15:09:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-raccourcis-clavier-about-keyboard/firefox-raccourcis-clavier-about-keyboard-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "663d4590adac",
+      "title": "L'app de la Maison Blanche s'incruste sur les tel des fonctionnaires",
+      "description": "J'sais pas si vous avez vu encore ce truc de dingue qui est arrivé aux Etats-Unis mais des employés de l'USDA, du Département d'État et du Département du Travail, qui ont parlé à WIRED sous anonymat par peur de représailles, ont vu apparaître sur l'écran de leur smartphone pro, l'app officielle de la Maison Blanche, et cela du jour au lendemain. Certains ont alors essayé de la supprimer pour voir, mais elle est revenue immédiatement. C'est fou !",
+      "link": "https://korben.info/app-maison-blanche-telephones-gouvernement.html",
+      "pubDate": "2026-06-25T14:53:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/app-maison-blanche-telephones-gouvernement/app-maison-blanche-telephones-gouvernement-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "89747a7d5d87",
+      "title": "TenMatch - Trouver son tournoi de tennis sans galérer",
+      "description": "Tarek, fidèle lecteur de Korben.info m'a envoyé un mail pour me présenter TenMatch , un site web qu'il a codé qui permet de trouver un tournoi de tennis près de chez vous. Vous le savez, le sport et moi, ça fait 2, alors peu de risque que j'utilise son site. Mais je sais que parmi vous, y'en a qui pratiquent cette forme étrange de ping pong où on est sur la table, comme disait l'autre, alors ça va surement venir se rajouter à vos bookmarks.",
+      "link": "https://korben.info/tenmatch-trouver-tournoi-tennis.html",
+      "pubDate": "2026-06-25T13:51:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tenmatch-trouver-tournoi-tennis/tenmatch-trouver-tournoi-tennis-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "662de0565ef4",
+      "title": "Deno veut transformer vos sites web en applications de bureau",
+      "description": "Deno, le moteur d'exécution JavaScript et TypeScript créé par Ryan Dahl (le développeur qui avait déjà lancé Node.js il y a une quinzaine d'années), s'apprête à faire un sacré pas de côté avec sa prochaine version majeure, qui permettra de fabriquer des applications de bureau pour macOS, Windows et Linux à partir du même code, et même depuis une seule et unique machine. La fonction, baptisée Deno Desktop, a déjà débarqué discrètement dans la version 2.9.0 distribuée en canal canary,…",
+      "link": "https://korben.info/deno-veut-transformer-vos-sites-web-en-applications-de-bureau.html",
+      "pubDate": "2026-06-25T12:52:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/deno-veut-transformer-vos-sites-web-en-applications-de-bureau/deno-veut-transformer-vos-sites-web-en-applications-de-bureau-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "891f868c7fce",
+      "title": "Squidbleed : une fuite mémoire passée inaperçue pendant 30 ans",
+      "description": "Une faille très bien planquée dans le code depuis 1997, vient seulement d'être corrigée. Elle s'appelle Squidbleed, référencée comme CVE-2026-47729, et elle touche Squid, un serveur proxy open source que des entreprises, des écoles et des fournisseurs d'accès utilisent depuis des lustres pour mettre en cache, filtrer et surveiller le trafic réseau qui transite chez chez eux. Et ça fuite fort en fait. Un individu malveillant, qui serait déjà autorisé à passer par le même proxy, peut récupérer la…",
+      "link": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans.html",
+      "pubDate": "2026-06-25T12:15:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans/squidbleed-une-fuite-memoire-passee-inapercue-pendant-30-ans-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f61290067ef7",
+      "title": "Umihi Music - Lecteur YouTube Music libre",
+      "description": "Ça vous dirait de streamer l'ensemble de YouTube Music sur votre smartphone Android avec une appli entièrement libre ??? Hé bien c'est faisable grâce à l'excellent travail de Iliano Kokoro qui a développé Umihi Music. Derrière ce nom à coucher dehors se cache un player de moins de 5 Mo qui vous permettra d'écouter vos artistes préférés sans être otage de Google. Et ça c'est beau ! Une fois l'app installée, vous cherchez un morceau, vous le lancez, et voilà. Pas de compte à créer, pas de…",
+      "link": "https://korben.info/umihi-music-lecteur-youtube-android.html",
+      "pubDate": "2026-06-25T11:16:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/umihi-music-lecteur-youtube-android/umihi-music-lecteur-youtube-android-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d5229c4e26ef",
+      "title": "Le premier protocole VPN conçu pour vous, pas pour les admins d'entreprise",
+      "description": "-- Article en partenariat avec Surfshark -- Vous vous souvenez de l'époque où choisir un VPN, c'était comme choisir entre la peste et le choléra ? Soit ça ramait, soit on galérait sur des réseaux bloqués, ou encore ça coupait dès que vous passiez du WiFi à la 4G. Hé bien Surfshark a décidé de ne plus subir. Ils ont carrément construit leur propre protocole, et pas en recollant des morceaux d'anciennes techno d'entreprise. Non, ils sont partis d'une feuille blanche. Le résultat s'appelle Dausos,…",
+      "link": "https://korben.info/protocole-vpn-concu-pour-vous.html",
+      "pubDate": "2026-06-25T10:56:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/protocole-vpn-concu-pour-vous/protocole-vpn-concu-pour-vous-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "65720259d9c9",
+      "title": "Fwupd 2.0.21 corrige plus de 250 failles de sécurité repérées grâce à l'IA",
+      "description": "On savait que les modèles d'IA savaient écrire du code, on découvre cette année, de plus en plus qu'ils savent aussi le casser à une échelle qui dépasse l'entendement, et le projet fwupd vient d'en faire les frais d'une manière assez spectaculaire avec sa version 2.0.21, qui rattrape à elle seule plus de 250 problèmes de sécurité potentiels détectés sur les trois derniers mois, par des scanners de vulnérabilités pilotés par l'intelligence artificielle.",
+      "link": "https://korben.info/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia.html",
+      "pubDate": "2026-06-25T09:58:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia/fwupd-2-0-21-corrige-plus-de-250-failles-de-securite-reperees-grace-a-lia-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fdac8c9108e2",
+      "title": "Le i-Buddy de MSN Messenger ressuscité",
+      "description": "Le i-Buddy de MSN Messenger ressuscité en accessoire USB Pendant que des nostalgiques s'acharnent depuis des années à ranimer MSN Messenger, la messagerie instantanée de Microsoft débranchée pour de bon depuis longtemps, l'un d'eux connu sous le pseudo Rayly Retro a poussé l'exercice jusqu'à exhumer l'accessoire le plus improbable de cette période, un i-Buddy resté neuf dans sa boîte qu'il a rebranché à un PC tournant fièrement sous Windows 7 pour le voir clignoter.",
+      "link": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite.html",
+      "pubDate": "2026-06-25T09:06:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/le-i-buddy-de-msn-messenger-ressuscite/le-i-buddy-de-msn-messenger-ressuscite-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "13108ad06c61",
       "title": "Distillation - Comment Alibaba aurait aspiré l'IA Claude",
       "description": "Anthropic vient d'accuser frontalement Alibaba d'avoir siphonné les capacités de son IA Claude. Et le plus dingue dans cette histoire, c'est la méthode qui aurait été employée. Car non, rassurez-vous, personne n'a piraté les serveurs d'Anthropic, personne n'a volé le code source de Claude, et personne n'a mis la main sur les fameux \"poids\" du modèle. En fait, les opérateurs (les bots quoi) liés à Alibaba ont juste discuté avec Claude. Et pas qu'un peu puisqu'ils ont effectué 28,8 millions…",

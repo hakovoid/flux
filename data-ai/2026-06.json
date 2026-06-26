@@ -2,6 +2,76 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5d2de9152522",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "6a95b493803e",
+      "title": "Which tokens does a hybrid model predict better?",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "pubDate": "2026-06-25T16:11:42.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F1-AlOdxpdaxe6a5BXuU7.png",
+      "type": "blog"
+    },
+    {
+      "id": "14531ebca9f8",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "description": "The new Google Finance is coming out of beta and launching a new Android app.",
+      "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "pubDate": "2026-06-25T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2a4d45eceb80",
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "description": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language. The post Understanding the brain with AI-driven explanations and experiments appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "pubDate": "2026-06-25T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/UnderstandingtheBrain-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3d99cf87d464",
+      "title": "How agents are transforming work",
+      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "link": "https://openai.com/index/how-agents-are-transforming-work",
+      "pubDate": "2026-06-25T02:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "172fd12b4fe6",
       "title": "Introducing computer use in Gemini 3.5 Flash",
       "description": "",
