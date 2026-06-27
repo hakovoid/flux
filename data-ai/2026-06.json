@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "30f48121decc",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "pubDate": "2026-06-26T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/48XpR5dxhE6jJQ03HTUnWZ/ac68fbfb7761fa72ac7442c6744dba56/_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "5d2de9152522",
       "title": "Run a vLLM Server on HF Jobs in One Command",
       "description": "",
@@ -13,6 +27,20 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "41879d61cf67",
+      "title": "Jun 26, 2026Economic ResearchAnthropic Economic Index report: Cadences",
+      "description": "Jun 26, 2026Economic ResearchAnthropic Economic Index report: Cadences",
+      "link": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeMagnifier&amp;backgroundColor=coral",
       "type": "blog"
     },
     {

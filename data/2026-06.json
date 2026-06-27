@@ -2,6 +2,235 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e36b5d9cdbd3",
+      "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
+      "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, designers et coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
+      "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit",
+      "pubDate": "2026-06-26T16:37:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "67732f51ee0d",
+      "title": "Steam Machine - Il passe à 64 Go de RAM et 4 To de SSD avec un simple tournevis",
+      "description": "*-- Contient des liens affiliés -- * La Steam Machine de Valve vient à peine d'arriver dans les salons que le youtubeur ETA Prime l'a déjà éventrée sur son établi. Et je sais pas vous, mais moi j'ai bien envie de voir ça avant de lâcher les 1039 euros qu'elle va couter. Ce petit cube vient de sortir d'usine avec ses 16 Go de mémoire et un SSD de 512 Go ou 2 To, et la vraie question que tous les geeks se posent c'est ... roulements de tambour ... : Est-ce qu'on peut l'ouvrir et bidouiller dedans…",
+      "link": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to.html",
+      "pubDate": "2026-06-26T16:30:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/steam-machine-teardown-ram-64go-ssd-4to/steam-machine-teardown-ram-64go-ssd-4to-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7b00ac0a1258",
+      "title": "Dropbox se branche à Claude Code et lui permet de lire vos fichiers",
+      "description": "Dropbox vient de sortir un plugin pour Claude Code , et leur idée c'est de pouvoir brancher vos fichiers Dropbox directement dans vos sessions de dev Claude Code / Cowork. Alors je me suis demandé à quoi ça pouvait bien servir et voici ce que j'ai compris. Une fois que le plugin est en place, ça permet à Claude Code d'aller piocher dans votre Dropbox vos docs techniques, vos cahiers des charges, votre code...etc pour s'en faire du contexte. Tout devient de la matière fraiche pour corriger ou…",
+      "link": "https://korben.info/dropbox-plugin-claude-code.html",
+      "pubDate": "2026-06-26T16:22:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dropbox-plugin-claude-code/dropbox-plugin-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1c3754b21292",
+      "title": "Dolphin - Le Game Boy Player émulé, et c'était pas une blague",
+      "description": "Les développeurs de Dolphin viennent de mettre un point final à un truc qu'ils se traînaient depuis 16 ans : leur émulateur GameCube et Wii sait maintenant émuler le Game Boy Player. Pour tester ça, faut charger une ROM Game Boy via le réglage \"Game Boy Player ROM\" planqué dans les paramètres GameCube de Dolphin, puis vous lancez le Start-Up disc officiel du Game Boy Player ou le homebrew Game Boy Interface, et c'est parti ! L'émulateur attache alors automatiquement le matériel quand il le…",
+      "link": "https://korben.info/dolphin-emulator-2606-game-boy-player.html",
+      "pubDate": "2026-06-26T15:03:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dolphin-emulator-2606-game-boy-player/dolphin-emulator-2606-game-boy-player-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b00c94a2d483",
+      "title": "Dream Server - Un serveur IA complet chez vous en une commande",
+      "description": "Monter une vraie IA à la maison, c'est vite une galère. Vous achetez une super machine puis vous collez dessus toute votre liste au père Noël (Chat local, reco vocale, génération d'image, RAG et compagnie) et vous voilà à empiler des dockers à n'en plus finir. Eh bien Light Heart Labs en a eu marre de ces bricolages et nous a pondu Dream Server, un outil qui câble tout ce petit monde à votre place !",
+      "link": "https://korben.info/dream-server-ia-locale-auto-hebergee.html",
+      "pubDate": "2026-06-26T14:41:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dream-server-ia-locale-auto-hebergee/dream-server-ia-locale-auto-hebergee-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "09fe067607ce",
+      "title": "À l'ère de l'IA, comment valoriser les actifs digitaux d'une entreprise ?  Quand la Due Diligence technique change ses red flags ! ",
+      "description": "À l’ère de l’IA, la valeur d’un actif digital ne dépend plus de son coût de construction, mais de sa facilité de reproduction et de la capacité de l’entreprise à garder une avance durable. La due diligence technique devient stratégique : elle évalue la défendabilité du logiciel, la qualité des équipes encore plus et l’excellence opérationnelle.",
+      "link": "https://blog.octo.com/a-l'ere-de-l'ia-comment-valoriser-les-actifs-digitaux-d'une-entreprise-une-due-diligence-technique-classique-ne-suffit-plus.",
+      "pubDate": "2026-06-26T14:32:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "097d0deef0be",
+      "title": "Communautés tech toxiques, faudrait en parler à un moment",
+      "description": "Y'a un truc dont on parle pas assez dans le milieu tech je trouve, et pourtant tout le monde le constate : Une grande partie des communautés autour du logiciel libre, de Linux, du dev...etc sont devenues des endroits franchement hostiles. Des clubs fermés, peuplés quasi exclusivement de mecs, qui passent leur temps à expliquer aux autres qu'ils sont de gros nuls, qu'ils posent des questions de noobs, ou encore qu'ils ne tapent pas sur leur clavier comme il faut et j'en passe... Oui je parle…",
+      "link": "https://korben.info/communautes-tech-toxiques-boys-club.html",
+      "pubDate": "2026-06-26T14:16:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/communautes-tech-toxiques-boys-club/communautes-tech-toxiques-boys-club-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5df318dccec8",
+      "title": "Game Porting Toolkit 4 - Les jeux Windows enfin fluides sur Mac",
+      "description": "Il y a deux ans, Apple lâchait le Game Porting Toolkit en jurant ses grands dieux qu'on pourrait faire tourner des jeux Windows sur un Mac Apple Silicon. À l'époque je vous disais que le gaming Windows sur Mac, c'était donc plié. Hé bien la version 4.0 vient de sortir en bêta, et cette fois les chiffres donnent raison à cette promesse ! La nouvelle version du traducteur maison de GPTK (baptisé D3DMetal 4) transforme dorénavant le DirectX 12 des jeux en Metal 4, le moteur graphique d'Apple.",
+      "link": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac.html",
+      "pubDate": "2026-06-26T12:22:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/game-porting-toolkit-4-jeux-windows-mac/game-porting-toolkit-4-jeux-windows-mac-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d5743b8ae69f",
+      "title": "ANES - Il greffe une seconde puce graphique dans sa NES",
+      "description": "Decrazyo vient de sortir ANES , un mod hardware qui transforme votre vieille NES en lui collant un deuxième PPU, la puce graphique de la console. Résultat, plus de couleurs à l'écran, plus de sprites, et même du parallax scrolling, ces décors qui défilent sur plusieurs plans comme sur les bornes d'arcade. Que des trucs que la petite Nintendo de 1985 n'a jamais su faire, la miskine. Le hic, c'est qu'il vous faut deux NES pour ça. Une qu'on garde, et une qu'on démonte pour lui piquer son PPU (le…",
+      "link": "https://korben.info/anes-nes-double-ppu.html",
+      "pubDate": "2026-06-26T09:15:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anes-nes-double-ppu/anes-nes-double-ppu-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "844e05d09347",
+      "title": "BioPass - Déverrouiller son Linux avec sa tronche et son doigt",
+      "description": "Contrairement à ce que dit Yann Barthès, on n'est pas tous égaux face à la canicule. Et l'autre truc face auquel on n'est pas tous égaux non plus, c'est le déverrouillage biométrique de son ordi. On les connaît les Linuxiens qui regardent avec jalousie leur collègue sous Windows qui déverrouille sa machine d'un simple coup d’œil à la webcam. Eux, ils sont obligés de taper leur mot de passe de 56 caractères et ça leur fout la rage, alors ils vont sur Reddit pour dire du mal de tous ceux qui…",
+      "link": "https://korben.info/biopass-login-biometrique-linux.html",
+      "pubDate": "2026-06-26T09:08:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/biopass-login-biometrique-linux/biopass-login-biometrique-linux-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4c89b1a7ce7f",
+      "title": "macUSB - Créer une clé USB macOS sans toucher au Terminal",
+      "description": "Krystian Pierz, un développeur polonais qui se planque derrière le pseudo Kruszoneq, en a eu marre de se galérer à chaque fois pour faire des clés USB bootable pour Mac, alors il a sorti macUSB , une app Mac native (du vrai Swift, pas un machin Electron quoi) qui fait tout le sale boulot à votre place. C'est gratuit, le code est ouvert, et surtout c'est notarisé par Apple, donc pas besoin de bidouiller la sécurité de votre Mac avec Sentinel pour la lancer.",
+      "link": "https://korben.info/macusb-cle-usb-bootable-macos.html",
+      "pubDate": "2026-06-26T08:52:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/macusb-cle-usb-bootable-macos/macusb-cle-usb-bootable-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f33bf07d1116",
+      "title": "Une IA a lu un rouleau carbonisé par le Vésuve il y a près de 2 000 ans",
+      "description": "Pour la première fois, on connaît le titre exact d'un livre antique sans avoir ouvert le livre. Les chercheurs de la Vesuvius Challenge ont lu, écrit en plein milieu d'un papyrus carbonisé, la mention \"Sur les vices, livre 1\", un traité de philosophie grecque signé Philodème, un penseur épicurien actif au Ier siècle avant notre ère, dont le rouleau était resté soudé sur lui-même depuis l'éruption du Vésuve en l'an 79.",
+      "link": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans.html",
+      "pubDate": "2026-06-26T08:38:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans/une-ia-a-lu-un-rouleau-carbonise-par-le-vesuve-il-y-a-pres-de-2-000-ans-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6fe9b095e43f",
+      "title": "New 3D Golf - Il greffe du Virtual Boy dans une Mega Drive",
+      "description": "Matt Sephton, alias gingerbeardman, a passé une nuit d'avril à arracher un parcours de golf des entrailles d'un vieux jeu, et il en est ressorti avec une idée bien plus tordue. Vous connaissez New 3D Golf Simulation, la série de T&E Soft qui tournait sur PC-9801 dès 1989 ? La Mega Drive en avait déjà eu quatre épisodes japonais à l'époque. Sauf que Matt a trouvé le moyen d'y faire entrer des parcours qui n'y avaient jamais mis les pieds puisqu'il a reverse-engineeré le format des données de…",
+      "link": "https://korben.info/portage-golf-3d-virtual-boy-megadrive.html",
+      "pubDate": "2026-06-26T08:29:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/portage-golf-3d-virtual-boy-megadrive/portage-golf-3d-virtual-boy-megadrive-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4bd5f7408b26",
+      "title": "Un disque ressuscite le CD+G, ce format graphique oublié des CD audio",
+      "description": "Sur un disque audio classique, il restait depuis toujours quelques canaux de données inutilisés, glissés juste à côté des informations qui affichent le numéro de piste ou le temps écoulé, et c'est précisément dans ces recoins que Philips et Sony avaient logé en 1985 le CD+G, une extension capable d'afficher des images en 288 sur 192 pixels avec une maigre palette de 16 couleurs. Vous l'avez forcément croisé sans le savoir, puisque ce format a surtout servi à faire défiler les paroles…",
+      "link": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio.html",
+      "pubDate": "2026-06-26T08:28:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio/un-disque-ressuscite-le-cdg-ce-format-graphique-oublie-des-cd-audio-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4ddd1ae83f61",
+      "title": "EmuDevz - Le jeu où vous codez votre émulateur NES",
+      "description": "Afska, le développeur derrière une flopée d'outils pour Game Boy Advance, a eu avec son studio [r]labs une idée géniale ! Ça s'appelle EmuDevz, et c'est un jeu vidéo dans lequel vous devez coder votre propre émulateur NES. Et pas en cliquant sur des boutons comme un loser, hein mais en pissant du vrai code pour le processeur, la puce graphique et la puce audio de la console de Nintendo.",
+      "link": "https://korben.info/emudevz-jeu-coder-emulateur-nes.html",
+      "pubDate": "2026-06-26T07:39:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/emudevz-jeu-coder-emulateur-nes/emudevz-jeu-coder-emulateur-nes-1.png",
+      "type": "blog"
+    },
+    {
       "id": "33313ec94a88",
       "title": "Le Casio VL-1 de 1981 modernisée pour quelques euros",
       "description": "En 1981, Casio sortait le VL-1, un drôle d'objet vendu autour de 70 dollars, à mi-chemin entre la calculatrice de poche et le synthétiseur monophonique, avec un séquenceur de cent notes planqué dedans et un afficheur à huit caractères. Un jouet, en apparence. Sauf qu'il s'en est vendu près d'un million entre 1979 et 1984, ce qui pour un machin pareil reste assez dingue. Vous l'avez déjà entendu, c'est sûr. C'est lui qui balance la rythmique du tube \"Da Da Da\" du groupe allemand Trio, en 1982,…",
@@ -44,6 +273,21 @@
         "Web"
       ],
       "image": "https://korben.info/os9map-openstreetmap-mac-os-9/os9map-openstreetmap-mac-os-9-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ae43da0e350c",
+      "title": "La sobriété, c'est un métier du « ne pas »",
+      "description": "Empreinte carbone du numérique : 3 actions concrètes pour réduire l'impact écologique du code. Découvrez les leviers du développeur.",
+      "link": "https://lecodeestdanslepre.fr/billets/sobriete-numerique-developpeur",
+      "pubDate": "2026-06-26T06:07:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
