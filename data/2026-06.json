@@ -2,6 +2,158 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3eaef1819e4e",
+      "title": "Modos Flow - L'écran e-ink open source qui pousse le refresh à fond",
+      "description": "Wenting Zhang, le développeur derrière Modos Labs, s'est attaqué depuis des années à un truc qui faisait rire tout le monde, jusqu'à ce qu'il y parvienne. Son but dans la vie c'était de faire tourner un écran e-ink assez vite pour s'en servir comme écran de PC. Un vrai moniteur, branché en USB-C, sur lequel vous codez, écrivez et naviguez. Son projet est open source, s'appelle Glider , et le produit grand public qui en découle, le Modos Flow, est actuellement en pleine campagne de crowd funding…",
+      "link": "https://korben.info/glider-moniteur-e-ink-open-source.html",
+      "pubDate": "2026-06-29T06:59:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/glider-moniteur-e-ink-open-source/glider-moniteur-e-ink-open-source-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e08e1d9eae11",
+      "title": "Le marché du dev en 2026 : catastrophe ou illusion ?",
+      "description": "On entend partout que le marché de l'emploi pour les devs est en train de mourir. Pourtant les offres d'emplois sont en hausse de 15%. Alors quoi croire ? Notes de l'épisode : WorkMachine : https://www.workmachine.io/fr",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Le-march-du-dev-en-2026--catastrophe-ou-illusion-e3lcr5f",
+      "pubDate": "2026-06-29T05:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122104431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F2b3c924d-99cc-6908-4474-3cdc22fa70e0.mp3",
+      "duration": "00:07:45"
+    },
+    {
+      "id": "4cdee0c39792",
+      "title": "Fingerprint Defender - Brouiller son empreinte sur Firefox",
+      "description": "Si vous me lisez depuis longtemps, vous savez forcément que le Fingerprinting est une technique de pistage qui permet de vous identifier en mesurant les petites particularités de votre navigateur telles que les polices installées, votre carte graphique, la résolution de votre écran et j'en passe. Toutes ces petites choses mises bout à bout forment ainsi une empreinte quasi unique. Hé c'est exactement contre ça que Digital Fracture, un petit studio anglais situé dans la ville de Poole, vient de…",
+      "link": "https://korben.info/fingerprint-defender-extension-firefox.html",
+      "pubDate": "2026-06-28T12:17:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fingerprint-defender-extension-firefox/fingerprint-defender-extension-firefox-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6d7bb8bbefa",
+      "title": "QR Font - La police qui transforme du texte en QR code",
+      "description": "Tapez [hello] dans votre éditeur, appliquez une police, et le mot se change en QR code scannable. Pas de générateur en ligne, pas d'image à exporter mais juste une police de caractères. C'est l'idée complètement barrée de qr-font , le projet de Jim Paris, et quand j'ai testé la démo, j'avoue, ça m'a plu. Vous installez une des polices TrueType du projet, vous écrivez votre contenu destiné à devenir un QR code entre crochets, et le texte autour s'affichera tout à fait normalement.",
+      "link": "https://korben.info/qr-code-police-truetype.html",
+      "pubDate": "2026-06-28T10:56:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/qr-code-police-truetype/qr-code-police-truetype-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e16cf6e7aff",
+      "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
+      "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
+      "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5fb91b9e4ec5",
+      "title": "Les flux RSS c'est la vie !",
+      "description": "J'aime bien lire les articles de l'EFF (l'Electronic Frontier Foundation, la Quadrature du Net des américains quoi...) et là ils viennent de publier un truc qui m'a fait plaisir : un vrai plaidoyer pour la défense du RSS . Vous connaissez mon avis là-dessus et c'est vrai que depuis que Google a signé l'arrêt de mort de cette techno au profit d'algo à la con type Discover , y'a énormément moins de monde qui l'utilise. Et je trouve ça triste.",
+      "link": "https://korben.info/flux-rss-korben-feedfull.html",
+      "pubDate": "2026-06-28T08:37:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/flux-rss-korben-feedfull/flux-rss-korben-feedfull-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "76afab452804",
+      "title": "JaiLIP - L'image piégée qui débride les IA qui voient",
+      "description": "Md Jueal Mia et Hadi Amini, deux chercheurs de Florida International University , ont mis au point une méthode qu'ils ont baptisée JaiLIP qui permet de forger une image capable de contourner les garde-fous des LLM pour les jailbreaker. Pour cela, ils utilisent 2 techniques en simultanée. La première dit à l'image « reste identique à l'originale, qu'aucun humain ne voie la moindre différence » et la seconde dit « pousse le modèle à cracher la réponse interdite ». Ainsi, en poussant ces 2…",
+      "link": "https://korben.info/image-piegee-jailbreak-ia-vision-langage.html",
+      "pubDate": "2026-06-28T06:19:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/image-piegee-jailbreak-ia-vision-langage/image-piegee-jailbreak-ia-vision-langage-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dfbf9f509b8d",
+      "title": "GBCYouTube - YouTube en direct sur une Game Boy Color",
+      "description": "Un bidouilleur du nom de Throaty Mumbo a décidé de s'attaquer à la Game Boy Color (sortie en 1998, ça ne nous rajeunit pas) pour y faire tourner YouTube ! Et du vrai YouTube hein, en streaming, sur 160x144 pixels. Ça s'appelle GBCYoutube et je vous explique tout en détail... Ce qu'il a fait en fait, c'est se bricoler une cartouche maison avec dedans, un microcontrôleur RP2350B (le cerveau du Raspberry Pi Pico 2) qui fait tourner le lecteur, et une puce ESP32-C6 qui sert juste de pont WiFi. Vous…",
+      "link": "https://korben.info/youtube-game-boy-color-cartouche.html",
+      "pubDate": "2026-06-28T06:04:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "11ef8c549049",
+      "title": "Steam Controller - elle rampe toute seule vers son chargeur",
+      "description": "Il y a des problèmes qui n'existent pas, et des gens qui les résolvent quand même... Ray Foss en fait partie. Ce dernier a fait en sorte que sa Steam Controller flambant neuve rampe toute seule jusqu'à son chargeur, sans qu'il ait à lever le petit doigt. Et pour cela, il a codé son Triton Auto-Charge Vision Tracker qui tourne entièrement dans le navigateur et qui est utilisable par tous ! Le principe est bien tordu... Vous collez une webcam au-dessus de votre bureau, vous ouvrez la page, et…",
+      "link": "https://korben.info/steam-controller-retour-chargeur-autonome.html",
+      "pubDate": "2026-06-28T05:55:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/steam-controller-retour-chargeur-autonome/steam-controller-retour-chargeur-autonome-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d2e669ec1b0b",
+      "title": "Beam Universe Splitter - Le hasard quantique fait maison",
+      "description": "David Noel Ng, un chercheur installé à Munich, en avait marre du pile ou face et des tirages de dés truqués par les ordinateurs, alors il a construit une machine qui pose directement la question à l'univers. Son engin, le Beam Universe Splitter, fabrique alors du hasard pur en laissant une particule de lumière choisir à votre place. Et la réponse n'est pas 42 ! ^^ Le principe c'est qu'un photon, un simple grain de lumière, fonce vers un miroir semi-réfléchissant. Au moment où il y parvient, il…",
+      "link": "https://korben.info/beam-universe-splitter-hasard-quantique.html",
+      "pubDate": "2026-06-28T05:36:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/beam-universe-splitter-hasard-quantique/beam-universe-splitter-hasard-quantique-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "312cf7796e2d",
       "title": "Vibe coding : le crash dont vous êtes le héros",
       "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
@@ -14,6 +166,36 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "83f718ae9e7b",
+      "title": "DNS4EU refuse de bloquer les sites pirates de la BREIN",
+      "description": "DNS4EU dont je vous ai causé y'a pas longtemps, c'est le service de DNS co-financé par l'UE et opéré par une société tchèque nommée Whalebone. Et bizarrement, depuis des mois, cette société récupère auprès de l'organisation anti-piratage néerlandaise (la BREIN) des listes de sites pirates. Du coup, les utilisateurs commencent à se poser des questions... Pourquoi faire ? Et bien d'après les dernières nouvelles, ils ne s'en servent pas. La BREIN envoie automatiquement sa liste contenant +300…",
+      "link": "https://korben.info/dns4eu-blocklist-sites-pirates.html",
+      "pubDate": "2026-06-27T15:19:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dns4eu-blocklist-sites-pirates/dns4eu-blocklist-sites-pirates-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "59d863b9e140",
+      "title": "La faille d'Amazon Q : ouvrir un projet suffisait à se faire voler ses accès au cloud",
+      "description": "Amazon Q, l'assistant de programmation dopé à l'IA que propose Amazon, pouvait se faire piéger d'une manière aussi simple qu'embarrassante. Petit rappel pour situer. Amazon Q se greffe dans Visual Studio Code, l'éditeur de code de Microsoft que les développeurs utilisent au quotidien, et sert à écrire ou corriger du code à votre place. Des chercheurs de Wiz, une société spécialisée dans la sécurité du cloud, ont découvert que cet assistant exécutait des commandes cachées à la simple ouverture…",
+      "link": "https://korben.info/la-faille-damazon-q-ouvrir-un-projet-suffisait-a-se-faire-voler-ses-acces-au-cloud.html",
+      "pubDate": "2026-06-27T10:52:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
       "type": "blog"
     },
     {
@@ -44,6 +226,23 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1dd2c53abcb1",
+      "title": "Retours sur le Breizhcamp 2026",
+      "description": "Logo officiel du Breizhcamp — La conférence à l'Ouest Retours sur le Breizhcamp 2026 Depuis plusieurs années, le Breizhcamp est une conférence incontournable pour la communauté technologique rennaise. Cette année, j’ai pu y présenter un talk qui me tient à cœur à savoir « Comment je fais ma veille technologique » issu de mon article de blog. Bien que je n’aie pas pu assister aux trois jours complets de l’évènement, j’ai eu le plaisir de participer à plusieurs conférences le mercredi après-midi…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/banner.avif",
       "type": "blog"
     },
     {

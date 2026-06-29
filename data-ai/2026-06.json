@@ -2,6 +2,20 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5f8ae94d3d52",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "description": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "pubDate": "2026-06-28T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/27SeSwGzXJ8BQXlEobHQIG/6cd70adfdfd93e9ba1b41bc38e0f01be/HP-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "30f48121decc",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
