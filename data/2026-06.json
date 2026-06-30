@@ -2,6 +2,263 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "27434a87b2f3",
+      "title": "Un dépôt GitHub trop propre suffit à pirater Claude Code",
+      "description": "Les chercheurs Andre Hall et Miller Engelbrecht, du Zero Day Investigative Network de Mozilla (0DIN), viennent de montrer comment prendre le contrôle complet d'une machine avec un dépôt GitHub qui ne contient aucun code malveillant. Vous clonez le repo, vous demandez à Claude Code de \"faire tourner le projet\", et trente secondes plus tard un inconnu obtient un accès shell sur votre poste, avec vos clés API et tous vos secrets en cadeau Bonux !",
+      "link": "https://korben.info/claude-code-depot-malveillant-prompt-injection.html",
+      "pubDate": "2026-06-30T07:18:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "34d5d4c2e28c",
+      "title": "Arma Cold War Assault - Code source ouvert pour ses 25 ans",
+      "description": "Il y a 25 ans, le studio tchèque Bohemia Interactive sortait Operation Flashpoint : Cold War Crisis, un shooter tactique qui a marqué toute une génération de joueurs PC. Eh bien, pour l'anniversaire du jeu, ils n'ont pas fait les choses à moitié puisqu'un remaster est en route, une démo gratuite est dispo sur Steam , et surtout, ils ouvrent le code source du moteur. Tout ça d'un coup et c'est trop cool !",
+      "link": "https://korben.info/arma-cold-war-assault-remaster-open-source.html",
+      "pubDate": "2026-06-30T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "f46749184e12",
+      "title": "Cet écran e-ink fait tourner la Game Boy à 60 FPS",
+      "description": "Je vous parlais de ces écrans e-ink hier qui sont capables de se rafraichir beaucoup plus rapidement que les écrans tout pâle de nos liseuses. Et v'la ti pas que je tombe sur ce projet de Wenting Channel où le gars a décidé de faire tourner un Pokemon Bleu en 60 fps sur un écran e-ink. Avant j'aurais pensé que c'était impossible mais avec un M5Stack PapierS3 qui est un petit kit de dev à base d'ESP32-S3 et d'un écran e-ink tactile de 4,7 pouces en 960×540, il est parvenu !",
+      "link": "https://korben.info/gameboy-emulateur-liseuse-eink-esp32.html",
+      "pubDate": "2026-06-30T05:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "aa12eaefa89d",
+      "title": "WSL Containers - des conteneurs Linux sans Docker Desktop",
+      "description": "Microsoft vient de lâcher un truc qui va faire plaisir à tous ceux qui bidouillent fort des conteneurs Linux depuis leur machine Windows. Ça s'appelle WSL Containers (WSLC pour les intimes, et pas WSL 3) et l'objectif c'est de faire tourner des conteneurs Linux nativement sous Windows sans avoir à passer par des outils tiers du genre Docker. Pour en profiter, tapez la commande suivante : wsl --update --pre-release Cela mettra à jour votre WSL en version 2.9.3 ou supérieure et vous obtiendrez…",
+      "link": "https://korben.info/wsl-containers-conteneurs-linux-windows.html",
+      "pubDate": "2026-06-29T21:07:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "337004316f72",
+      "title": "Un bateau à ballon à imprimer en 3D",
+      "description": "Alors cette imprimante 3D ? Vous en êtes content ? Non, ne me mentez pas ! Je sais que comme 90% des gens qui en ont une, elle prend grave la poussière !! Mais voici que voilà de quoi la remettre au boulot pour les vacances ! En effet, le designer jp.studio a partagé sur MakerWorld un petit modèle gratuit baptisé Balloon Boat, un bateau-jouet qui se propulse tout seul avec, tout simplement, un ballon de baudruche.",
+      "link": "https://korben.info/bateau-ballon-stl-impression-3d.html",
+      "pubDate": "2026-06-29T19:38:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bateau-ballon-stl-impression-3d/bateau-ballon-stl-impression-3d-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5ea62648c9dc",
+      "title": "SB-mini-II - Il reconstruit un Apple II Plus de zéro",
+      "description": "L'Apple II, ce vieux bouzin de 1977, n'a jamais eu le moindre secret pour personne. C'est d'autant plus vrai qu'Apple livrait carrément les schémas électronique de sa machine dans le manuel d'origine et à l'époque, des bouquins entier décortiquant chaque circuit étaient vendus dans le commerce. C'était fou et ça a bien changé depuis ! Mais surtout c'est grâce à ça que Simon Boak s'est dit qu'il pouvait en refaire un de zéro !",
+      "link": "https://korben.info/apple-ii-clone-maison-sb-mini-ii.html",
+      "pubDate": "2026-06-29T17:21:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-ii-clone-maison-sb-mini-ii/apple-ii-clone-maison-sb-mini-ii-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5a7e9fd28d11",
+      "title": "La fin de l'encoche ? Des chercheurs suisses ont créé un pixel qui voit et qui s'affiche",
+      "description": "Depuis dix ans, toute l'industrie du smartphone se galère avec le même problème, à savoir caser la caméra frontale sans bouffer de la place sur l'écran, ce qui nous a valu la tristement célèbre encoche, puis le poinçon, puis ces capteurs cachés sous la dalle qui rendent les selfies un peu flous. Une équipe de l'ETH Zurich, la grande école polytechnique suisse, vient de proposer une sortie de route radicale en concevant un pixel unique qui sait à la fois émettre et capter la lumière.",
+      "link": "https://korben.info/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche.html",
+      "pubDate": "2026-06-29T16:48:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche/la-fin-de-lencoche-des-chercheurs-suisses-ont-cree-un-pixel-qui-voit-et-qui-saffiche-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bc3de24f1264",
+      "title": "Alexandria - Vos ebooks en livres audio multi-voix, en local",
+      "description": "Je ne suis pas très client des livres audio parce que mon cerveau, en général, part faire des trucs dans son coin et je me retrouve à rien écouter du tout. Je préfère un petit podcast où ça rigole qu'une œuvre littéraire qui demande de la concentration. Mais je sais que vous appréciez beaucoup les livres audio et il arrive très souvent qu'un bouquin n'ait pas sa version audio. Un vieux roman qui n'est plus édité, un PDF technique, une fanfiction de 800 pages, un article de korben.info ou juste…",
+      "link": "https://korben.info/alexandria-ebook-livre-audio-multivoix.html",
+      "pubDate": "2026-06-29T16:18:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/alexandria-ebook-livre-audio-multivoix/alexandria-ebook-livre-audio-multivoix-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1527308d92f1",
+      "title": "Arthur Mensch fait le point sur Mistral",
+      "description": "Mistral, l'IA française, se positionne comme une alternative aux solutions américaines et chinoises, offrant respect des réglementations et sécurité des données. Son PDG, Arthur Mensch, souligne ses services adaptés aux PME et sa volonté de démocratiser l'IA. Mistral vise à devenir un acteur majeur en Europe, en investissant dans la recherche et les infrastructures. L’article Arthur Mensch fait le point sur Mistral est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/29/arthur-mensch-fait-le-point-sur-mistral/",
+      "pubDate": "2026-06-29T15:14:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/mistralcontrelerestedumonde.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "779623c89656",
+      "title": "Un développeur a fait tourner Swift sur un Apple II de 1977",
+      "description": "Swift, le langage maison qu'Apple a sorti en 2014 pour remplacer le vieillissant Objective-C, vient de débarquer sur une machine qui a quarante-neuf ans de plus que lui. Yeo Kheng Meng, un bidouilleur basé à Singapour, a restauré un Apple II Plus puis s'est demandé jusqu'où il pouvait pousser ce vieux tromblon, ce qui a donné SwiftII, un petit environnement Swift qui tourne aussi bien sur l'Apple II d'origine de 1977 que sur les IIe qui ont suivi.",
+      "link": "https://korben.info/un-developpeur-a-fait-tourner-swift-sur-un-apple-ii-de-1977.html",
+      "pubDate": "2026-06-29T13:54:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "a03d793a3bfd",
+      "title": "REX - Tout ce que vous avez voulu savoir sur la migration d'une exploitation sans jamais oser le demander",
+      "description": "La migration d’un ensemble d’applications et à fortiori d’un SI complet n’est jamais un long fleuve tranquille. Chaque cas présente des particularités mais au travers de ce REX, nous souhaitons avec mon collègue Yannig Perré vous présentez ce que nous avons vécu au sein d'une banque.",
+      "link": "https://blog.octo.com/rex-tout-ce-que-vous-avez-voulu-savoir-sur-la-migration-d'une-exploitation-sans-jamais-oser-le-demander",
+      "pubDate": "2026-06-29T13:45:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c77153625f1",
+      "title": "LinuxMD - du Linux sur la Sega Megadrive",
+      "description": "Une Megadrive qui fait tourner du bon gros Linux qui tâche, vous en avez rêvé ? Hé bien Daniel Palmer l'a fait !! Le souci, c'est que le processeur 68000 de la console n'a pas de MMU, ce petit composant que Linux réclame normalement pour gérer la mémoire. Du coup Daniel a compilé le kernel dans un mode spécial qui s'en passe, ce qui est déjà un joli exploit. Autre problème, une Megadrive toute seule n'a pas assez de mémoire pour un kernel. L'astuce, c'est donc de passer par une cartouche. Un…",
+      "link": "https://korben.info/linux-sega-megadrive.html",
+      "pubDate": "2026-06-29T13:13:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-sega-megadrive/linux-sega-megadrive-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1c2acf00a48d",
+      "title": "Jamstack : du static-first au web composable.",
+      "description": "Entre 2017 et 2019, la Jamstack était partout. La communauté bouillonnait sous l’impulsion de Netlify et de Mathias Biilmann, son",
+      "link": "https://blog.zenika.com/2026/06/29/jamstack-du-static-first-au-web-composable/",
+      "pubDate": "2026-06-29T13:02:46.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/06/image-6.png?resize=800%2C450&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "5ea34c7f6296",
+      "title": "Un budget de poids de page : la sobriété qui ne tient plus à la chance",
+      "description": "Poser un budget de poids sur un blog Symfony : pourquoi, comment calibrer le seuil sans se tromper de chiffre, et où l'imposer sans saturer la CI.",
+      "link": "https://lecodeestdanslepre.fr/billets/budget-poids-page",
+      "pubDate": "2026-06-29T12:46:07.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2569a8605292",
+      "title": "B2B Companies: How to Appear in AI Search Engines?",
+      "description": "The increasing use of AI to inform B2B buyers highlights the importance of online brand image management. Companies must optimize their content to be visible and credible to AIs, taking into account information from their websites, social networks, and offline activities. A well-thought-out strategy is essential. L’article B2B Companies: How to Appear in AI Search Engines? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/06/29/b2b-companies-how-to-appear-in-ai-search-engines/",
+      "pubDate": "2026-06-29T11:51:36.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/06/sources-donnees-ia-B2B.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "288f9221ee43",
+      "title": "True First Person Camera 2.0 - Votre vrai corps en vue FPS sur Cyberpunk",
+      "description": "Alors oui, je sais, Cyberpunk 2077 vous montre déjà votre corps quand vous baissez les yeux en plein Night City, jambes comprises. C'est d'ailleurs suffisamment rare en vue FPS pour être souligné. Sauf que cette caméra à la première personne reste raide comme un piquet. La tête de votre personnage ne tourne pas toute seule, les reflets sont absents, les armes passent à travers le décor et la moto ne se penche jamais dans les virages. Ce sont tous ces petits détails qui chiffonnaient…",
+      "link": "https://korben.info/cyberpunk-2077-mod-vue-ego-immersive.html",
+      "pubDate": "2026-06-29T11:39:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "7c7a596fc3fe",
+      "title": "En vrac de juin 2026",
+      "description": "Des nouvelles de l’IA L’excellent James Martin a publié un Tableau de choix de l’IA frugale qui permet de voir que les petits modèles consomment jusqu’à 100 fois moins d’énergie que le gros modèle Claude Opus en étant à peine moins bon. Et en plus, ils sont considérablement moins chers, voire gratuits ! Je cite HalluWorld : “Un récent rapport de l’ONU estime que d’ici 2030, les data centers utiliseront autant d’énergie que 1,9 milliards de personnes, et consommeront autant d’eau que 1,3…",
+      "link": "https://standblog.org/blog/post/2026/06/29/En-vrac-de-juin-2026",
+      "pubDate": "2026-06-29T09:24:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/blog/?pf=wink.svg",
+      "type": "blog"
+    },
+    {
       "id": "3eaef1819e4e",
       "title": "Modos Flow - L'écran e-ink open source qui pousse le refresh à fond",
       "description": "Wenting Zhang, le développeur derrière Modos Labs, s'est attaqué depuis des années à un truc qui faisait rire tout le monde, jusqu'à ce qu'il y parvienne. Son but dans la vie c'était de faire tourner un écran e-ink assez vite pour s'en servir comme écran de PC. Un vrai moniteur, branché en USB-C, sur lequel vous codez, écrivez et naviguez. Son projet est open source, s'appelle Glider , et le produit grand public qui en découle, le Modos Flow, est actuellement en pleine campagne de crowd funding…",
@@ -32,6 +289,22 @@
       "type": "podcast",
       "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122104431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F2b3c924d-99cc-6908-4474-3cdc22fa70e0.mp3",
       "duration": "00:07:45"
+    },
+    {
+      "id": "b60439c6506c",
+      "title": "🎤 Talks donnés à BreizhCamp 🎤",
+      "description": "Liste de talks donnés lors de la conférence BreizhCamp",
+      "link": "https://philippart-s.github.io/blog/talks/breizhcamp-2026/",
+      "pubDate": "2026-06-29T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/images/conferences/breizhcamp-logo-2024.svg",
+      "type": "blog"
     },
     {
       "id": "4cdee0c39792",
@@ -69,6 +342,21 @@
       "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
       "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
       "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7bd4d0bc6e34",
+      "title": "Créer un serveur MCP avec Symfony",
+      "description": "Monter un serveur MCP sur un projet Symfony (mcp-bundle) : déclarer un outil #[McpTool], l'exposer en HTTP, et quelques pièges à déjouer.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-mcp",
+      "pubDate": "2026-06-28T09:56:13.000Z",
       "source": "Le Code est dans le Pré",
       "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
       "categories": [
@@ -265,6 +553,23 @@
       "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
       "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, designers et coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
       "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit",
+      "pubDate": "2026-06-26T16:37:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7c5fb7a80eb6",
+      "title": "Une semaine pour appréhender l'IA générative dans les métiers du produit",
+      "description": "Pendant cinq jours, une communauté de Product Managers, Product Owners, Designers et Coachs d'OCTO a mis l'IA générative au centre de son travail : de la théorie le matin à des prototypes fonctionnels en deux jours. Récit d'un format, de ses enseignements, et mode d'emploi pour le rejouer dans votre équipe.",
+      "link": "https://blog.octo.com/une-semaine-pour-apprehender-l'ia-generative-dans-les-metiers-du-produit-1",
       "pubDate": "2026-06-26T16:37:10.000Z",
       "source": "OCTO Talks",
       "sourceUrl": "https://blog.octo.com/feed",
