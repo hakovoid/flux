@@ -2,6 +2,76 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "d2b47e5ca2b1",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "pubDate": "2026-06-30T18:32:50.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/649c1276a83f996b4191a8f1/iYCwB2Hl8qPTA8DCgDilB.png",
+      "type": "blog"
+    },
+    {
+      "id": "446ed339b8f7",
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "description": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights. The post SkillOpt: Agent skills as trainable parameters appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "pubDate": "2026-06-30T16:50:02.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/skillopt_teaser-1.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "270bf5aff18a",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "description": "",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "pubDate": "2026-06-30T16:02:40.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "9f340727232d",
+      "title": "Why Specialization Is Inevitable",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "pubDate": "2026-06-30T14:39:11.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Av4v9_l94sEUj-etRFOLb.png",
+      "type": "blog"
+    },
+    {
+      "id": "068c9bc43551",
+      "title": "How ChatGPT adoption has expanded",
+      "description": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "pubDate": "2026-06-30T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "2987e3b3c79a",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "description": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
@@ -13,6 +83,104 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0b8dc2473cab",
+      "title": "Introducing GeneBench-Pro",
+      "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "link": "https://openai.com/index/introducing-genebench-pro",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ISCsbFZAwfE8rca32ZXSt/7958029f06d5bf872217476430f12549/GenebenchPro_Blog_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f1f7d4f8001b",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "description": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6q0IdzKwG7IjuMl4cLWzIy/7e4d7c42d2961b1432fc3909cb2c68d2/Rockset___SEO_card__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "617f45738c65",
+      "title": "Inside Genebench-Pro",
+      "description": "",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/52cfbwUnYDFSiv7g3Zs9jE/ccf49dcadd4ee534b51cbd43b4973918/GenebenchPro_LP_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "326b5d51b877",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "description": "",
+      "link": "https://huggingface.co/blog/eee-community-evals",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/eee_commevals/eee_commevals_banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "fdd9745edc3a",
+      "title": "Redeploying Fable 5",
+      "description": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a577f205a73b",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "description": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4307222bc7e5",
+      "title": "Introducing Claude Sonnet 5",
+      "description": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "pubDate": "2026-06-30T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
       "type": "blog"
     },
     {

@@ -1,0 +1,68 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "b506c73b742b",
+      "title": "Banjo-Kazooie - 20 musiques inédites découvertes 28 ans plus tard",
+      "description": "Banjo-Kazooie est un jeu du studio Rare sorti sur Nintendo 64 en 1998, qui dernièrement revient un peu sur le devant de la scène . La communauté des fans le dissèque sous tous les angles depuis des années et pourtant, il en sort encore des surprises ! En effet, le dernier portage sur console de poche vient de cracher 20 pistes musicales inédites, qui étaient apparemment bien planquées dans les fichiers depuis un quart de siècle.",
+      "link": "https://korben.info/banjo-kazooie-musiques-inedites-decouvertes.html",
+      "pubDate": "2026-07-01T06:35:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "70b8b511a3af",
+      "title": "FaceGate - Verrouiller ses apps macOS en FaceID",
+      "description": "J'sais pas si vous avez remarqué mais autant sous iOS on peut mettre une authentification Face ID sur n'importe quel app, autant sous MacOS, on peut certes verrouiller tout son ordi, mais on ne peut pas locker une app en particulier. Et c'est chiant parce que parfois, on doit laisser son ordi à un collègue, un enfant ou PIRE sa mère, et ils ont alors accès sans restriction à vos Messages, vos Photos, votre gestionnaire de mots de passe , votre boîte mail et j'en passe des vertes et des pas…",
+      "link": "https://korben.info/facegate-verrouiller-applications-mac.html",
+      "pubDate": "2026-07-01T06:20:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/facegate-verrouiller-applications-mac/facegate-verrouiller-applications-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b252bf46d44f",
+      "title": "Mythos et Fable 5 - Anthropic sort du rayon tracteur de Trump",
+      "description": "Bonne nouvelle pour tous les drogués de l'IA que vous êtes ! L'administration Trump a enfin fini par lâcher du lest. Hier soir, le Département du Commerce américain a finalement levé les restrictions d'exportation stupides qui pesaient sur Mythos et Fable 5 , les deux modèles les plus puissants d'Anthropic, après 18 jours (!) de blocage pur et simple ! Et dans la foulée, Anthropic a sorti Sonnet 5, juste après et vous allez voir que les deux sont liés.",
+      "link": "https://korben.info/trump-anthropic-mythos-fable-restrictions.html",
+      "pubDate": "2026-07-01T06:00:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trump-anthropic-mythos-fable-restrictions/trump-anthropic-mythos-fable-restrictions-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fd1394b6fe25",
+      "title": "#363.src - Kestra: Comment orchestrer sans usiner à gaz ? avec Loïc Mathieu",
+      "description": "\"On va essayer d'être présent un peu partout, tu vois, comme on est universel.\" Le D.E.V. de la semaine est Loïc Mathieu, Lead Software Engineer chez Kestra Technologies qui vient de lever $25M dans une série A menée par RTP Global. Avec plus de vingt ans de dev derrière lui, Loïc raconte comment Kestra vise à devenir l'orchestrateur universel, capable de piloter aussi bien de la donnée en giga qu'en tera, de l'infra ou du business. On parle migration de workflows sans big bang, adaptation aux…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-363-9972a29a43ff",
+      "pubDate": "2026-07-01T03:00:49.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/cd40b1aa-7269-42a5-a787-85ca8b4b3442.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/515f3062-15e6-4cd0-b9c4-9972a29a43ff.mp3?_=1782820909",
+      "duration": "50:36"
+    }
+  ]
+}
