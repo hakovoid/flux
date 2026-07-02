@@ -1,0 +1,47 @@
+{
+  "month": "2026-07",
+  "articles": [
+    {
+      "id": "0be6913362ae",
+      "title": "The latest AI news we announced in June 2026",
+      "description": "Here are Google’s latest AI updates from June 2026.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "pubDate": "2026-07-01T18:15:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "94c768ce3675",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "description": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "pubDate": "2026-07-01T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Summit_Photo_1.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e4a022908747",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "pubDate": "2026-07-01T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/cerebras-gemma4-voice-ai/thumbnail.png",
+      "type": "blog"
+    }
+  ]
+}
