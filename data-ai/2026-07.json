@@ -2,6 +2,20 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "aaef033dfabe",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "description": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "pubDate": "2026-07-02T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "0be6913362ae",
       "title": "The latest AI news we announced in June 2026",
       "description": "Here are Google’s latest AI updates from June 2026.",

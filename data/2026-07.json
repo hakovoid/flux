@@ -2,6 +2,173 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f6bb9674889a",
+      "title": "#342.exe - Agilité destructrice: Pourquoi l'agilité ne vous rendra pas plus rapide par Patrick Szymkowiak",
+      "description": "Pour l'épisode #342 je recevais Denis Migot. On en débrief avec Patrick. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-342-5961604616c3",
+      "pubDate": "2026-07-03T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/127d9e41-309c-48be-bef6-5961604616c3.mp3?_=1782993696",
+      "duration": "09:05"
+    },
+    {
+      "id": "732ecf163bb1",
+      "title": "Juillet 2027 - La date de péremption des jeux PS3",
+      "description": "Vous avez encore une PS3 qui prend la poussière avec des jeux achetés en dématérialisé dessus ? Alors va falloir vite vous bouger le cul parce que ces sacripants de Sony viennent d'annoncer la fermeture du PlayStation Store sur la PS3 et la PS Vita pour juillet 2027. Et dans la foulée, ils viennent également d'annoncer qu'ils arrêteraient totalement la production de disques physiques en 2028 pour les nouveaux jeux. Du coup, une bande de joyeux archivistes s'est mise en ordre de bataille pour…",
+      "link": "https://korben.info/preservation-jeux-ps3-store-sony-2027.html",
+      "pubDate": "2026-07-02T22:12:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/preservation-jeux-ps3-store-sony-2027/preservation-jeux-ps3-store-sony-2027-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "15ed43ed671a",
+      "title": "Isaac 1 - Un Baymax à 8000$ qui plie votre linge",
+      "description": "Isaac 1, c'est le nouveau robot domestique de Weave Robotics , et sa spécialité c'est de plier le linge, faire les lits et ranger le bazar qui traîne chez vous. Il a l'air rigolo, il est mignon, il a des grands bras et me fait penser un peu à ce robot de dessin animé qui s'appelle Baymax. La bête se déplace sur une base motorisée, se replie à 90cm pour se faire oublier dans un coin et se déploie jusqu'à 1,75 m quand il faut bosser, avec ses grands bras terminés par des pinces à 2 doigts.",
+      "link": "https://korben.info/robot-plie-linge-isaac-1-weave.html",
+      "pubDate": "2026-07-02T21:21:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/robot-plie-linge-isaac-1-weave/robot-plie-linge-isaac-1-weave-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7e796bdc30cb",
+      "title": "Un boîtier Wi-Fi qui détecte les gens à travers les murs",
+      "description": "Ce serait marrant de détecter quelqu'un dans une pièce voisine, sans utiliser de caméra ou de capteur infrarouge. En fait, c'est possible avec juste du Wifi et c'est ce que nous prouve Talking Sasquach qui vient de se bricoler un petit boitier capable de faire ça. Je vous rassure, l'idée n'a rien de neuf. Notre corps est plein d'eau, et l'eau ça renvoie et ça absorbe les ondes radio. Du coup, dès que vous bougez un peu votre popotin, bah ça perturbe les signaux Wi-Fi qui traversent la pièce.",
+      "link": "https://korben.info/radar-wifi-esp32-detection-personnes.html",
+      "pubDate": "2026-07-02T21:05:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/radar-wifi-esp32-detection-personnes/radar-wifi-esp32-detection-personnes-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1bf5f1be7647",
+      "title": "Google veut scanner votre main pour prouver que vous êtes humain",
+      "description": "Google en a marre que les IA passent ses CAPTCHA les doigts dans le nez, alors sa nouvelle idée de génie à la con pour vérifier que vous êtes bien humain, ça va bientôt être de vous faire agiter la main devant votre webcam. \"Hé COUCOU le CAPTCHA !\" Vous autorisez la caméra, vous faites un petit geste la paume grande ouverte, et Google extrait de la vidéo ce qui s'appelle des hand landmark data, soit 21 points de repère sur les articulations de vos doigts. En gros c'est la carte de votre…",
+      "link": "https://korben.info/google-recaptcha-scan-main.html",
+      "pubDate": "2026-07-02T17:01:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-recaptcha-scan-main/google-recaptcha-scan-main-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5b97b81b2fdf",
+      "title": "Par quoi remplacer TV Time avant sa fermeture ?",
+      "description": "Triste nouvelle, TV Time tire sa révérence le 15 juillet prochain, et je vous avoue que ça me fait un petit quelque chose. Cette appli, vous la connaissez peut-être sous son nom d'origine, TV Show Time, une petite pépite française dont je vous parlais déjà en 2014 en l'appelant même le PopcornTime des séries parce qu'à l'époque, on pouvait même mater en streaming des séries dessus. Mais bon, elle est vite rentrée dans le rang. À l'époque elle cochait vos épisodes, vous prévenait des nouvelles…",
+      "link": "https://korben.info/remplacer-tv-time-alternatives-suivi-series.html",
+      "pubDate": "2026-07-02T16:09:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/remplacer-tv-time-alternatives-suivi-series/remplacer-tv-time-alternatives-suivi-series-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4547626112b1",
+      "title": "NanoKVM-Go - Le KVM USB-C qui garde vos écrans en mémoire",
+      "description": "La société Sipeed vient d'annoncer la sortie d'un nouveau KVM USB-C qui je pense va vous intéresser. Il s'appelle le NanoKVM-GO, il fait la taille d'une grosse boite d'allumettes et permet de prendre le contrôle de n'importe quel appareil capable de cracher de la vidéo via son port USB-C. Donc y'a juste besoin d'un câble, et pi c'est tout. Que ce soit un iPhone 15 ou supérieur, un MacBook, un Steam Deck, un mini PC Windows, un smartphone Android, no problemo, le boîtier s'intercale entre vous…",
+      "link": "https://korben.info/sipeed-nanokvm-go.html",
+      "pubDate": "2026-07-02T09:53:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sipeed-nanokvm-go/sipeed-nanokvm-go-2.avif",
+      "type": "blog"
+    },
+    {
+      "id": "7b08ec16e73b",
+      "title": "Profiler un consumer avec Blackfire",
+      "description": "Quand on parle de profiling PHP avec Blackfire, on pense généralement à une requête HTTP : un clic sur l'extension navigateur, et hop, le profil apparaît. Mais que faire quand le code à profiler tourne dans un consumer ou un worker ; une commande Symfony qui boucle indéfiniment, consommant une queue ou traitant des tâches en background ? La bonne nouvelle : Blackfire peut fonctionner dans ce contexte. La moins bonne : on ne peut pas déclencher le profiling au moment où ça nous arrange... sauf…",
+      "link": "https://jolicode.com/blog/profiler-un-consumer-avec-blackfire",
+      "pubDate": "2026-07-02T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/profiler-un-consumer-avec-blackfire.png",
+      "type": "blog"
+    },
+    {
+      "id": "bad2a3429fc0",
+      "title": "La Russie réclame 52 millions à Apple alors qu'ils n'y vendent plus rien",
+      "description": "4 milliards de roubles, c'est ce que réclame Moscou à Apple. Si vous n'êtes pas fortiche en roubles, c'est environ 52 millions de dollars. Mais alors pourquoi la Russie réclame-t-elle une telle somme à Apple ? Eh bien c'est parce que Max , la messagerie du Kremlin ainsi que RuStore, sa boutique d'app et un moteur de recherche local ne sont pas pré-installés sur les iPhones vendus en Russie alors que c'était obligatoire depuis le 15 juillet.",
+      "link": "https://korben.info/apple-amende-russie-apps-obligatoires.html",
+      "pubDate": "2026-07-02T09:35:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-amende-russie-apps-obligatoires/apple-amende-russie-apps-obligatoires-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "df06ab78dc5c",
+      "title": "2026 : les blogs sont morts, vivent les blogs !",
+      "description": "Une étude menée par Daniel Stanica montre qu'au sein des 100 blogs américains influents, plus de 60 ont perdu jusqu'à 85% de leur trafic en quatre ans. Cette baisse est due à des algorithmes de Google et à une conception erronée du contenu. Seuls 21 blogs réussissent à croître, en proposant des contenus uniques et authentiques. L’article 2026 : les blogs sont morts, vivent les blogs ! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/02/2026-les-blogs-sont-morts-vivent-les-blogs/",
+      "pubDate": "2026-07-02T08:41:34.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/07/DANIEL-STANICA.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ac44b025ef63",
+      "title": "Core Web Vitals : mécanique de mesure et pièges à éviter",
+      "description": "D'où viennent les chiffres des Core Web Vitals : ce que CrUX voit (et rate), pourquoi Lighthouse ne prédit rien, et les pièges LCP, INP, CLS à éviter.",
+      "link": "https://lecodeestdanslepre.fr/billets/core-web-vitals-mecanique-pieges",
+      "pubDate": "2026-07-02T06:42:15.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5bf9999a52d6",
       "title": "SpudCell - La première cellule artificielle complète",
       "description": "Les humains font vraiment des trucs de dingues. Surtout les scientifiques !! On a 2 biochimistes de l'Université du Minnesota (Kate Adamala et Aaron Engelhart) qui viennent de créer SpudCell, la première cellule artificielle capable de boucler un cycle de vie complet comme une vraie. Je vais simplifier mais en gros, ils ont mélangé 150 ingrédients comme des lipides, des ribosomes, des enzymes et quelques brins d'ADN, et ont fini par obtenir une cellule artificielle, qui peut grandir, recopier…",
