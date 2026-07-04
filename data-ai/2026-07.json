@@ -2,6 +2,20 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f6b3f809726c",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "description": "",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "pubDate": "2026-07-03T14:25:43.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
+      "type": "blog"
+    },
+    {
       "id": "aaef033dfabe",
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
       "description": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
