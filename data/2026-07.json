@@ -2,6 +2,51 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "42e4e3d1812d",
+      "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
+      "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-securiser-un-admin-sans-toucher-a-setpermission",
+      "pubDate": "2026-07-05T05:40:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-securiser-un-admin-sans-toucher-a-setpermission.png?v=5746c43661cf45ac",
+      "type": "blog"
+    },
+    {
+      "id": "c150e3bb29aa",
+      "title": "EasyAdmin : écrire un filtre custom du FilterInterface au FilterType",
+      "description": "Apprenez à créer un filtre custom EasyAdmin Symfony, de FilterInterface à FilterType. Idéal pour des besoins spécifiques au-delà des filtres natifs.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype",
+      "pubDate": "2026-07-05T05:38:38.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype.png?v=003c7a298b89b66f",
+      "type": "blog"
+    },
+    {
+      "id": "ad565f2f6dcd",
+      "title": "wacli - Archivez tout WhatsApp en local et faites-y des recherches hors ligne",
+      "description": "Peter Steinberger, le papa de PSPDFKit , s'est mis en tête de faire sortir WhatsApp de sa prison dorée. Et pour cela, il a mis au point wacli, un client WhatsApp qui tourne exclusivement dans votre terminal. Ça se compose donc de commandes que vous pouvez scripter dans la joie et la bonne humeur pour enchaîner et automatiser toutes vos idées folles sur Whatsapp comme avec n'importe quel outil Unix. Wacli se connecte à votre compte comme un appareil lié, exactement comme WhatsApp Web, vous…",
+      "link": "https://korben.info/wacli-whatsapp-cli-steipete.html",
+      "pubDate": "2026-07-04T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wacli-whatsapp-cli-steipete/wacli-whatsapp-cli-steipete-1.png",
+      "type": "blog"
+    },
+    {
       "id": "fca17b3d69ff",
       "title": "Mars Attack à l'envers ?",
       "description": "Depuis plus d'un siècle, des scientifiques sérieux (en général, ce sont ceux avec du poil sur le nez) se demandent si la vie sur Terre ne serait pas tombée du ciel, portée par un astéroïde. Ce serait fou, non ? C'est cette fameuse théorie de la panspermie (Arrêtez de rigoler les fans de Rick et Morty, on vous voit), signée Arrhenius en 1903, puis Crick lui-même (oui, le prix Nobel de l'ADN) en 1973 avec son \"directed panspermia\" (la panspermie dirigée - Gloire à Rick Sanchez !).",
