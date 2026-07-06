@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "95fd2132f28e",
+      "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
+      "description": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans la RAM on trouve des mots de passe, des clés de chiffrement et tout ce qui traîne. De quoi choper de sérieux indices ! Parce que oui, si vous pensiez être bien tranquille avec votre disque chiffré grâce à BitLocker, FileVault ou LUKS, sachez que la clé de déchiffrement se balade…",
+      "link": "https://korben.info/baremetal-ram-dumper-cold-boot-attack.html",
+      "pubDate": "2026-07-06T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "636ada7c2569",
+      "title": "Command & Conquer Generals débarque sur iOS / macOS - Merci l'IA !",
+      "description": "Il y a six mois, je vous parlais de Command & Conquer Generals, un jeu mort depuis 12 ans qu’un ver s’amusait à attaquer. Hé bien Ammaar Reshi, un designer connu pour ses projets IA (dont un livre pour enfants généré full IA qui a fait le tour des médias) vient de le ressusciter grâce à l'IA pour le faire tourner nativement sur iPhone, iPad et même Mac. Je dis nativement puisque c'est le moteur original de 2003 qui a été recompilé en ARM64 pour Apple Silicon. Niveau dev, c'est donc Claude Code…",
+      "link": "https://korben.info/command-conquer-generals-zero-hour-ios-mac.html",
+      "pubDate": "2026-07-05T14:41:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/command-conquer-generals-zero-hour-ios-mac/command-conquer-generals-zero-hour-ios-mac-1.png",
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
@@ -29,6 +59,23 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/og/billets/easyadmin-ecrire-un-filtre-custom-du-filterinterface-au-filtertype.png?v=003c7a298b89b66f",
+      "type": "blog"
+    },
+    {
+      "id": "fcebac50334e",
+      "title": "Pourquoi je fais du DevRel et pourquoi je compte continuer",
+      "description": "Thierry s'est demandé, publiquement, si le métier de DevRel était encore une bonne situation. Je me pose la même question, par intermittence, depuis 2018. J'ai lu aussi le billet de Salma Alam-Naylor, celui où elle annonce qu'elle quitte le DevRel et la vie publique, pour de bon, probablement. Le burnout, les conséquences physiques, le fait de devoir justifier son travail sans arrêt, l'IA qui tue en silence les canaux de découverte qui amenaient autrefois les gens vers ce qu'on produit. J'ai…",
+      "link": "https://lostinbrittany.dev/fr/pourquoi-je-fais-du-devrel-et-pourquoi-je-compte-continuer/",
+      "pubDate": "2026-07-05T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-07-05-why-i-do-devrel-and-why-i-intend-to-keep-doing-it-social.jpg",
       "type": "blog"
     },
     {
