@@ -2,6 +2,83 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "47f71ccaf392",
+      "title": "Zéro nouveau matériel : une boussole EROOM pour une solution numérique adaptée au besoin",
+      "description": "Et si la solution matérielle à votre besoin numérique existait déjà? Pour informatiser un suivi médical, au lieu d’un nouveau service cloud, nous avons détourné l’existant : Mac, Android et enceintes connectées. EROOM, c’est ça : avant de construire, inventoriez. Résultat : une solution frugale, utile, et surtout zéro nouveau matériel acheté.",
+      "link": "https://blog.octo.com/zero-nouveau-materiel--une-boussole-eroom-pour-une-solution-numerique-adaptee-au-besoin",
+      "pubDate": "2026-07-06T15:42:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97dbfb8a0cf1",
+      "title": "Nomlings - Le Tamagotchi affamé qui dévore vos tokens Claude Code",
+      "description": "Nomlings, c'est un Tamagotchi qui vit à côté de votre terminal, et dont la seule nourriture, ce sont les tokens que crament vos sessions Claude Code. Vous bossez, il mange. Vous glandez, il patiente. Et pendant que vous regardez votre usage fondre comme neige au soleil, bah lui il se régale !! La bestiole s'appelle un Munchling, un « tokivore » quoi, qui s'affiche sur un écran de 64 pixels et chaque tâche terminée lui rapporte +10 XP et un snack.",
+      "link": "https://korben.info/nomlings-tamagotchi-claude-code.html",
+      "pubDate": "2026-07-06T13:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/nomlings-tamagotchi-claude-code/nomlings-tamagotchi-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "eaa16bf3e403",
+      "title": "Kordle - Le jeu tech de l'été",
+      "description": "Histoire de m'amuser un peu ce weekend, et de vous proposer un truc fun pour vous occuper 30 secondes cet été, je vous ai mis en ligne un petit jeu qui reprend le concept de Wordle (où il faut deviner des mots) mais en version tech. Cela s'appelle Kordle et chaque jour, vous devez trouver un nouvel outil, en 5 indices maximum. Moins vous en utilisez, meilleur est votre score ! Et en bonus à la fin, je vous mets un vieil article de l'époque qui parlait de ce sujet. Parfois l'article a plus de 15…",
+      "link": "https://korben.info/kordle-le-jeu-tech-de-lete.html",
+      "pubDate": "2026-07-06T12:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kordle-le-jeu-tech-de-lete/kordle-le-jeu-tech-de-lete-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb635cfc00ce",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump",
+      "pubDate": "2026-07-06T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
+      "id": "087227b4e636",
+      "title": "Comment j'ai fait mon catalogue de vide-maison sans toucher à Figma",
+      "description": "Je déménage bientôt, et comme je quitte ma jolie campagne pour aller dans un endroit plus petit et sans nature (ouin), je dois me débarrasser de pas mal de matériel... Ponceuse, débroussailleuse, taille-haie, tronçonneuse, canapé, tracteur tondeuse.... la totale quoi. Et Le Bon Coin, même si à un moment, je vais devoir y passer, ça me stresse. Je me suis déjà fait menacer par un connard, quand je vendais ma Clio y'a longtemps et entre les acheteurs fantômes et les négociateurs relous, je trouve…",
+      "link": "https://korben.info/figma-mcp-claude-code-retour-experience.html",
+      "pubDate": "2026-07-06T09:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/figma-mcp-claude-code-retour-experience/figma-mcp-claude-code-retour-experience-1.png",
+      "type": "blog"
+    },
+    {
       "id": "95fd2132f28e",
       "title": "Cold boot attack - Dumper la RAM d'un PC avec 5 Ko d'assembleur",
       "description": "Vous branchez une clé USB sur un PC, vous démarrez dessus, et le temps de vous servir un petit café, hop, tout le contenu de la mémoire vive est recopié sur la clé. Le rêve pour les gens qui font du forensic, car dans la RAM on trouve des mots de passe, des clés de chiffrement et tout ce qui traîne. De quoi choper de sérieux indices ! Parce que oui, si vous pensiez être bien tranquille avec votre disque chiffré grâce à BitLocker, FileVault ou LUKS, sachez que la clé de déchiffrement se balade…",

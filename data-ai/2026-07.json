@@ -2,6 +2,34 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "bf55a61637b6",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "description": "",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/lerobot-release-v060/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "1dc582402725",
+      "title": "PRX Part 4: Our Data Strategy",
+      "description": "",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "pubDate": "2026-07-06T15:30:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/680a58121b2c7c159d2bd481/hJldzOsDg5kYWJC_vyj09.png",
+      "type": "blog"
+    },
+    {
       "id": "e998906a376b",
       "title": "🤗 Kernels: Major Updates",
       "description": "",
@@ -13,6 +41,34 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/revamped-kernels/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "33ff9177ca69",
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "description": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "pubDate": "2026-07-06T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b36169a44d2e",
+      "title": "A global workspace in language models",
+      "description": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "2026-07-06T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
       "type": "blog"
     },
     {
