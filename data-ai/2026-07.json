@@ -2,6 +2,48 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "77d64de25479",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "pubDate": "2026-07-07T21:15:33.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/68abb71b13d7773ad97e9035/f1nX3dXVmvJcQzJfgfpnJ.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1ec294ada9f4",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "pubDate": "2026-07-07T15:20:06.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/688797c1629e0ef013c2556c/Dn2wmfWGM83ZhuQ-C5jPo.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a44ce948b87",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "description": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "pubDate": "2026-07-07T08:54:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
       "id": "bf55a61637b6",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
       "description": "",
@@ -13,6 +55,34 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/lerobot-release-v060/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab9ea62ec59e",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8125b5dd69d0",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/skypilot-hf-storage/thumbnail.png",
       "type": "blog"
     },
     {

@@ -2,6 +2,161 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9b98dcfeebb2",
+      "title": "#364.src - Strapi: Du JavaScript partout au content agent, la mutation continue avec Pierre Burgy",
+      "description": "\"Strapi est sûrement le CMS le plus personnalisable\" Le D.E.V. de la semaine est Pierre Burgy, CEO chez Strapi. Pierre revient sur l'évolution de Strapi, né à l'époque où les devs rêvaient de tout faire en JavaScript, jusqu'à son passage à l'échelle dans l'ère de l'AI et des coding agents. Il partage comment la vision open source et la personnalisation extrême sont devenues des atouts stratégiques, sans négliger la stabilité technique. On explore l'impact des LLM sur la notion même de CMS et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-364-b0831d7d02ea",
+      "pubDate": "2026-07-08T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/56b2bc8b-71f2-49b2-a7ff-a6b32cff17ef.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7706ffa5-4576-4764-9db5-b0831d7d02ea.mp3?_=1783425710",
+      "duration": "57:21"
+    },
+    {
+      "id": "0e20c323bcc5",
+      "title": "Newsletter juillet 2026 : Comment devenir une entreprise incontournable ?",
+      "description": "Les entreprises incontournables seront celles qui maîtriseront les moteurs de recherche IA Être une entreprise incontournable, c’est quoi ? C’est être celle à laquelle tout le monde pense quand on a un besoin en tête. Dans le B2C, ce sont les marques connues. Dans le B2B, c’est un peu différent. Être incontournable, c’est être l’entreprise […] L’article Newsletter juillet 2026 : Comment devenir une entreprise incontournable ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/07/newsletter-juillet-2026-comment-devenir-une-entreprise-incontournable/",
+      "pubDate": "2026-07-07T14:45:12.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/07/course-de-chevaux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "212697abd436",
+      "title": "Anthropic a repéré la petite zone où Claude pense en douce",
+      "description": "Oulala, Anthropic vient de publier une jolie page de recherche qui fait beaucoup causer. En effet, son équipe d'interprétabilité a repéré, à l'intérieur de ses modèles Claude, une toute petite zone où le modèle rassemble ses pensées intermédiaires, c'est-à-dire celles qu'il est capable de nommer et de manipuler. Ils l'appellent le J-space, et c'est leur version du fameux espace de travail global qu'on décrit dans le cerveau humain. Pour aller le fouiller, ils ont bricolé une technique baptisée…",
+      "link": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache.html",
+      "pubDate": "2026-07-07T14:04:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache/anthropic-global-workspace-claude-raisonnement-cache-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ed26af635f9b",
+      "title": "Wealthfolio - Suivez vos investissements sans les filer au cloud",
+      "description": "Si vous êtes une grosse feignasse et que votre seul plan pour gratter un peu de thunes, c'est pas juste de bosser, mais de vous faire adopter par un vieux en espérant qu'il y passe très vite, cet article ne va pas vous intéresser, désolé. Par contre, si vous économisez, que vous avez mis un petit peu d'argent en bourse, si vous avez investi dans les cryptos ou que sais-je encore, je pense que cet outil va vous être utile.",
+      "link": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto.html",
+      "pubDate": "2026-07-07T13:41:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wealthfolio-suivi-portefeuille-bourse-crypto/wealthfolio-suivi-portefeuille-bourse-crypto-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "d1e9cc5131c0",
+      "title": "TrojPix - Et votre câble vidéo devient une radio qui balance vos secrets",
+      "description": "En matière de sécurité, quand on parle de air gap, en général, on ne peut pas faire mieux. Si vous ne connaissez pas le concept, l'idée c'est d'empêcher un ordinateur d'avoir accès à tout type de réseau, que ce soit du wi-fi, de l'Ethernet, etc. etc. C'est un peu le Graal en matière de sécurité. Et pourtant, des chercheurs de l'université de Shandong viennent de trouver un moyen de transmettre quand même des datas, même si la machine n'a pas accès au réseau. Leur technique s'appelle TrojPix et…",
+      "link": "https://korben.info/trojpix-exfiltration-air-gap-cable-video.html",
+      "pubDate": "2026-07-07T12:50:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trojpix-exfiltration-air-gap-cable-video/trojpix-exfiltration-air-gap-cable-video-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "235dbcda5bcb",
+      "title": "Ce fichier fantôme de Windows 11 gonfle tout seul et avale tout votre disque",
+      "description": "Bon, j'avoue que j'ai un petit peu lâché l'affaire pour mon summer body. Avec cette canicule, je suis à deux doigts de me faire une raclette. Par contre, s'il y a un truc dont je ne supporte pas qu'il grossisse, c'est bien mon système d'exploitation. Et pourtant, si vous êtes sous Windows 11, eh bien c'est le cas ! Celui-ci se remplit tout seul sans explication, en tout cas jusqu'à maintenant, parce qu'on tient enfin le coupable !! C'est un fichier caché qui grossit dans son coin depuis des…",
+      "link": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque.html",
+      "pubDate": "2026-07-07T12:09:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-capabilityaccessmanager-espace-disque/windows-11-capabilityaccessmanager-espace-disque-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d4620b6b9c30",
+      "title": "Les modèles du monde: l’IA post LLM",
+      "description": "L'avenir de l'IA selon Yann LeCun : World Models, LLM, Open Source et Souveraineté L’IA générative (LLM) a-t-elle déjà atteint ses limites ? Pourquoi ChatGPT ne comprendra jamais vraiment la physique du monde réel ? 🚨 Pour ce dernier épisode de la saison 1 d'À la French, Jean-Baptiste Kempf, Steeve Morin et Mehdi Medjaoui reçoivent le \"taulier\" absolu de l'Intelligence Artificielle : Yann LeCun, Prix Turing 2018,déclaré l’un 3 des Pères de l’IA, ex-Chief AI Scientist chez Meta et inventeur des…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6a4ccb132c7bd0af20d47e7e",
+      "pubDate": "2026-07-07T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1783417331180-d6d379ad-2c52-4a6c-ad1e-ca0ef47bfa37.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6a4ccb132c7bd0af20d47e7e/media.mp3",
+      "duration": "1:32:02"
+    },
+    {
+      "id": "98c75123d8e2",
+      "title": "Januscape - La faille KVM qui dormait depuis 16 ans dans le cloud",
+      "description": "Depuis 16 ans, il y a une énorme faille qui fait dodo dans le coeur de tout ce qui gère la virtualisation sous Linux et personne ne l'avait remarqué, jusqu'à ce que Hyunwoo Kim, un chercheur en sécurité connu sous le pseudo @v4bel débarque. Ce dernier vient de dénicher un use-after-free dans le shadow MMU de KVM, ce bout de code que KVM partage entre les processeurs Intel et AMD. Il a baptisé sa trouvaille Januscape (CVE-2026-53359), et croyez-moi, le scénario a de quoi filer des sueurs froides…",
+      "link": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud.html",
+      "pubDate": "2026-07-07T09:55:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-kvm-januscape-evasion-vm-cloud/faille-kvm-januscape-evasion-vm-cloud-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a818f59100ff",
+      "title": "Un ESP32 à quelques euros pour éviter le clavier Touch ID d'Apple",
+      "description": "Posez votre doigt sur un capteur et hop, votre session s'ouvre. Sur un Mac, ce petit confort passe par exemple par le Magic Keyboard avec Touch ID (lien affilié) parce qu'Apple réserve la biométrie à son propre matériel. Mais le bidouilleur Zimeng Xiong a trouvé ça un peu chéros, alors il a bricolé la même chose avec un ESP32-S3 à quelques euros . Le tout tient dans un boîtier imprimé en 3D contenant un capteur d'empreinte ZW101 qui lit votre doigt, et une carte ESP32-S3 (une Seeed Studio XIAO…",
+      "link": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage.html",
+      "pubDate": "2026-07-07T08:51:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tinytouch-esp32-empreinte-deverrouillage/tinytouch-esp32-empreinte-deverrouillage-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "fc5f773586f2",
+      "title": "🎤 Talks donnés à Riviera Dev 🎤",
+      "description": "Liste de talks donnés lors de la conférence Riviera Dev",
+      "link": "https://philippart-s.github.io/blog/talks/riviera-2026/",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/images/conferences/Riviera-Dev-2026.png",
+      "type": "blog"
+    },
+    {
       "id": "47f71ccaf392",
       "title": "Zéro nouveau matériel : une boussole EROOM pour une solution numérique adaptée au besoin",
       "description": "Et si la solution matérielle à votre besoin numérique existait déjà? Pour informatiser un suivi médical, au lieu d’un nouveau service cloud, nous avons détourné l’existant : Mac, Android et enceintes connectées. EROOM, c’est ça : avant de construire, inventoriez. Résultat : une solution frugale, utile, et surtout zéro nouveau matériel acheté.",
