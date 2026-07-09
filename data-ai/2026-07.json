@@ -2,6 +2,132 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "c191c2da58c8",
+      "title": "Data for Agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "pubDate": "2026-07-08T17:16:05.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
+      "type": "blog"
+    },
+    {
+      "id": "84fb3d732a5c",
+      "title": "Flint: A visualization language for the AI era",
+      "description": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications. The post Flint: A visualization language for the AI era appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "pubDate": "2026-07-08T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/Flint-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "07610e55de6c",
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "description": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "link": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "pubDate": "2026-07-08T15:00:27.000Z",
+      "source": "NVIDIA AI",
+      "sourceUrl": "https://blogs.nvidia.com/blog/category/deep-learning/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Nemotron_LangChain-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e00d55023af7",
+      "title": "Our approach to government and national security partnerships",
+      "description": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "pubDate": "2026-07-08T13:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2h3zDXkAt00qFTGsCqrLuV/f4b2ed4ee96f72220d4f6ddc9924a01a/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e9167e656930",
+      "title": "Separating signal from noise in coding evaluations",
+      "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "pubDate": "2026-07-08T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5f0Xf4wOuXVsX7TZUM4tjl/4672bf7bf93bad67ade28dce57f62638/Seperating-signal-from-noise-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3447f8d32f7e",
+      "title": "Helping K–12 educators build practical AI skills",
+      "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "pubDate": "2026-07-08T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5zmUIk02ah3xYC8TQ6RR59/fa597b63e8bff26e7e6011cae4542f7b/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3fb14968493d",
+      "title": "Introducing GPT-Live",
+      "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+      "link": "https://openai.com/index/introducing-gpt-live",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3ce97f6a8c6c",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "",
+      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/native-speed-vllm-transformers-backend/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "ae0ec71fdcb4",
+      "title": "Jul 8, 2026AlignmentAn off switch for dual use knowledge in AI models",
+      "description": "Jul 8, 2026AlignmentAn off switch for dual use knowledge in AI models",
+      "link": "https://www.anthropic.com/research/off-switch-dual-use",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand-BuildingBricks&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
       "id": "77d64de25479",
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "description": "",

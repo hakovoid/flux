@@ -2,6 +2,295 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f2a522340225",
+      "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
+      "description": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un truc super pour ça. Il s'agit tout simplement d'une instance de Firefox qui tourne dans un conteneur Docker et qui est totalement pilotable depuis votre navigateur habituel. Comme ça, quand vous recevez un lien louche que vous voulez ouvrir, vous le mettez là-dedans, dans une…",
+      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html",
+      "pubDate": "2026-07-09T06:42:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-docker-conteneur-isole-surf-securise/firefox-docker-conteneur-isole-surf-securise-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c58bbe38d6e",
+      "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
+      "description": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la moitié des smartphones vendus en Afrique. Et si je vous parle de ça aujourd'hui, c'est parce qu'un chercheur en sécu, Buchodi, vient de décortiquer ce que ces appareils racontent dans votre dos et c'est pas joli, joli.",
+      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html",
+      "pubDate": "2026-07-09T06:10:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/transsion-smartphones-telemetrie-afrique/transsion-smartphones-telemetrie-afrique-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3d7c27c1416d",
+      "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
+      "description": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémoire de fac ou une sauvegarde Time Machine chiffrée de l'ancienne époque, bah c'est grave le moment de vous en occuper. Pas de panique cela dit, seul le chiffrement dégage. Un volume HFS+ non chiffré restera donc lisible sous macOS 28 et après. Ce qui part à la benne, c'est surtout…",
+      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html",
+      "pubDate": "2026-07-08T20:17:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2d4c5cf07d2b",
+      "title": "Claude is definitely not conscious…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=KGtko3y2RXQ",
+      "pubDate": "2026-07-08T17:53:47.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d5484a89ab74",
+      "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
+      "description": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n'est pas une fausse manip qui l'a balancé mais un identifiant que votre Windows se trimballe H24 et que Microsoft refile aux autorités quand elles le demandent : le GDID. Je vous en ai déjà causé dans cet article , et après avoir écrit l'article, je me suis demandé si on pouvait le…",
+      "link": "https://korben.info/desactiver-gdid-windows.html",
+      "pubDate": "2026-07-08T15:59:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4cef4aca6557",
+      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
+      "description": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah bravo, Doctolib\", sauf qu'en le lisant en entier, j'ai vite compris qu'ils venaient de décider à ma place que mes données de santé allaient nourrir des trucs, des bidules et des machins pour de la recherche en intelligence artificielle.",
+      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "pubDate": "2026-07-08T15:23:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante/doctolib-recherche-ia-opposition-donnees-sante-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "bda382d01817",
+      "title": "Windows cache un identifiant secret que Microsoft file au FBI",
+      "description": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous savez grâce à quoi ? Hé bien grâce à un petit numéro planqué dans son Windows. C'est Microsoft qui l'a mouchardé aux enquêteurs et ça a suffi pour le relier à une intrusion malgré tous ses VPN.",
+      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html",
+      "pubDate": "2026-07-08T12:55:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ffa55ee1676d",
+      "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
+      "description": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine 11, donc il y a pas mal de \"nouveaux\" vieux jeux qui sont maintenant jouables. Parmi ces nouveautés, on retrouve donc Resident Evil premier du nom, celui de 1996, Resident Evil 2, Dino Crisis et Dino Crisis 2, SHOGUN: Total War, Gothic 1 Classic, Breath of Fire IV, Deadly…",
+      "link": "https://korben.info/proton-11-jeux-windows-linux.html",
+      "pubDate": "2026-07-08T12:42:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/proton-11-jeux-windows-linux/proton-11-jeux-windows-linux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "23f99840b366",
+      "title": "Cette Atari Jaguar de 1993 boote sous Linux avec 2 Mo de RAM",
+      "description": "Une Atari Jaguar, la console de 1993 qu'Atari vendait comme la première machine 64 bits et que le marché a snobée, vient de booter sous Linux pour la première fois ! Derrière ce hack, un développeur connu sous le pseudo de Cakehonolulu , qui a collé un vrai noyau sur le Motorola 68000 de la bécane. Le 68000 n'a pas de MMU , ce circuit qui gère la mémoire virtuelle et dont dépend le Linux que vous faites tourner sur votre PC. Sauf que le noyau embarque depuis toujours une branche pour les puces…",
+      "link": "https://korben.info/linux-atari-jaguar-68000.html",
+      "pubDate": "2026-07-08T12:12:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-atari-jaguar-68000/linux-atari-jaguar-68000-1.avif",
+      "type": "blog"
+    },
+    {
+      "id": "a5b129d2c4b5",
+      "title": "Ça c'est ma veille tech",
+      "description": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'est vrai que c'est un peu le nerf de la guerre pour moi et avoir un outil pour vous les afficher en direct sur le site, je me suis dit que ça allait vous plaire !",
+      "link": "https://korben.info/veille-tech-direct-flux-rss.html",
+      "pubDate": "2026-07-08T12:05:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/veille-tech-direct-flux-rss/veille-tech-direct-flux-rss-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4fe401e981b8",
+      "title": "Le retour de Movie Maker montre la lourdeur de Clipchamp",
+      "description": "Vous vous souvenez de Windows Movie Maker ? Mais siiii, ce petit logiciel de montage livré avec les Windows depuis l'époque de Windows ME ? C'est celui sur lequel vous avez bricolé vos premiers diaporamas de vacances avec des transitions en forme d'étoile. Aaah, ça vous parle maintenant, hein ? Eh bien, ces gros méchants de Microsoft l'ont laissé mourir en janvier 2017. Mais heureusement, SkylerDaGirl vient de le remettre au goût du jour et vous pouvez maintenant télécharger un installer…",
+      "link": "https://korben.info/windows-movie-maker-clipchamp-ram-2026.html",
+      "pubDate": "2026-07-08T11:32:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-movie-maker-clipchamp-ram-2026/windows-movie-maker-clipchamp-ram-2026-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9f4606b13c98",
+      "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
+      "description": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré apporter l’objet chez une personne de mon entourage qui avait un jardin plus grand, plus compliqué, meilleur terrain de test.",
+      "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html",
+      "pubDate": "2026-07-08T11:21:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "5840519c4b39",
+      "title": "JSON-LD et schema.org : baliser pour l'ère des agents",
+      "description": "Découvrez comment le JSON-LD et schema.org redéfinissent le balisage pour les agents IA. Ce billet analyse ce qui compte encore en 2026 pour votre SEO.",
+      "link": "https://lecodeestdanslepre.fr/billets/json-ld-ere-agentique",
+      "pubDate": "2026-07-08T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/json-ld-ere-agentique.png?v=cca4e0ea0ee37e39",
+      "type": "blog"
+    },
+    {
+      "id": "941fdbbae5e0",
+      "title": "Votre prochaine barrette de RAM sera-t-elle un champignon ?",
+      "description": "Un champignon shiitake qui fait office de mémoire informatique genre RAM, c'est la trouvaille d'une équipe de l'Ohio State University. Et l'idée a l'air bien plus sérieuse qu'elle n'en a l'air... John LaRocco et Qudsia Tahmina ont pris du mycélium de shiitake, l'ont cultivé sur des graines de farro, du germe de blé et du foin, puis l'ont déshydraté. Après une brève réhydratation, ils ont ensuite branché le tout à un oscilloscope et un microcontrôleur Arduino et là, le champignon s'est mis à…",
+      "link": "https://korben.info/ram-champignon-shiitake-memristor.html",
+      "pubDate": "2026-07-08T10:18:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ram-champignon-shiitake-memristor/ram-champignon-shiitake-memristor-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0f921970ec1b",
+      "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
+      "description": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. Ce serait ouf non ? Hé bien c'est le tour de passe-passe que Sasi Levi, de chez Noma Security, vient de réussir grâce à l'agent IA de GitHub. Et vous allez voir, c'est tout con, donc c'est hyper flippant.",
+      "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html",
+      "pubDate": "2026-07-08T09:04:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives/gitlost-github-agent-ia-fuite-depots-prives-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3387dabbdcd5",
+      "title": "On ne vivrait pas dans une simulation, et ça m'embête",
+      "description": "Vous pouvez ranger la pilule rouge tout de suite les amis car une équipe de physiciens menée par Mir Faizal vient d'affirmer, calculs à l'appui, que notre univers ne peut pas être une simulation informatique. Et il n'annonce pas ça en mode \"On n'a pas encore trouvé LA preuve\", non... Apparemment, ce serait ferme et définitif. Et du coup ça me rend un petit peu tristoune et je vais vous expliquer pourquoi.",
+      "link": "https://korben.info/univers-simulation-etude-ubc.html",
+      "pubDate": "2026-07-08T08:39:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/univers-simulation-etude-ubc/univers-simulation-etude-ubc-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8f375413a4b9",
+      "title": "Une recompilation PC d'Animal Crossing",
+      "description": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous avez usé votre GameCube dessus au début des années 2000, votre cœur de rétrogamer va adorer. Derrière, y'a ac-decomp , la décompilation quasi complète du jeu par l'équipe ACreTeam : un boulot de fourmi pour reconstruire le code source C d'origine à partir du binaire, vérifié octet par…",
+      "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html",
+      "pubDate": "2026-07-08T08:18:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/animal-crossing-gamecube-port-pc-natif/animal-crossing-gamecube-port-pc-natif-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f724cacdccff",
+      "title": "Compiler du code ne le rend pas secret, la preuve par Age of Empires et une dose d'IA",
+      "description": "Bienvenue dans les années 90 : les LAN entre potes, les magazines de jeux, les cheat codes recopiés à la main. 29 ans plus tard, on retrouve ceux d'Age of Empires sans rien d'autre que le jeu… et une bonne dose d'IA. Une plongée rétro bluffante, qui cache une vraie leçon de sécurité. Tapez and quot;Food and quot;, c'est parti. 🎮",
+      "link": "https://blog.octo.com/compiler-du-code-ne-le-rend-pas-secret-la-preuve-par-age-of-empires-et-une-dose-d'ia",
+      "pubDate": "2026-07-08T07:42:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f3f620c67f80",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part I",
+      "description": "Depuis l'arrivée de l'IA agentique dans les équipes de développement, de nombreuses interrogations émergent quant à l'évolution des organisations de travail. Les modèles d'équipe qui se sont imposés ces vingt dernières années, largement influencés par les approches agiles, sont désormais remis en question par la capacité des agents.",
+      "link": "https://blog.octo.com/comment-organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-partie-i",
+      "pubDate": "2026-07-08T06:36:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "9b98dcfeebb2",
       "title": "#364.src - Strapi: Du JavaScript partout au content agent, la mutation continue avec Pierre Burgy",
       "description": "\"Strapi est sûrement le CMS le plus personnalisable\" Le D.E.V. de la semaine est Pierre Burgy, CEO chez Strapi. Pierre revient sur l'évolution de Strapi, né à l'époque où les devs rêvaient de tout faire en JavaScript, jusqu'à son passage à l'échelle dans l'ère de l'AI et des coding agents. Il partage comment la vision open source et la personnalisation extrême sont devenues des atouts stratégiques, sans négliger la stabilité technique. On explore l'impact des LLM sur la notion même de CMS et…",
@@ -18,6 +307,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7706ffa5-4576-4764-9db5-b0831d7d02ea.mp3?_=1783425710",
       "duration": "57:21"
+    },
+    {
+      "id": "7025393163b1",
+      "title": "Quels sont les bénéfices d’une RH en TPE ? Témoignage d’Océane, notre RH",
+      "description": "Comment on a construit la fonction RH d'une boîte de 10 personnes : le point de départ",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-oceane",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/elao/rh-tpe-oceane/oceane.jpg/8e1e5b73fa9c9311fed31cfd4f6c6762.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8b6692bdbe80",
+      "title": "Courir après la fonctionnalité n'est pas un objectif",
+      "description": "L’IA permet à de nombreux éditeurs logiciels de livrer de nouvelles fonctionnalités toujours plus rapidement. Elle a augmenté la vitesse de production logicielle. La tentation de toujours aller plus vite est alors grande. Les nouvelles fonctionnalités d’un logiciel étant souvent perçu comme un avantage concurrentiel. Plus il en propose, plus il semble riche et plus il paraît compétitif. Le problème, c’est que livrer des fonctionnalités rapidement et fréquemment est compliqué. Cela se fait…",
+      "link": "https://www.jdecool.fr/blog/2026/07/08/courir-apres-la-fonctionnalite-n-est-pas-un-objectif.html",
+      "pubDate": "2026-07-07T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "0e20c323bcc5",

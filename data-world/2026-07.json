@@ -2,6 +2,139 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "f159d9ad3657",
+      "title": "Rewriting Bun in Rust",
+      "description": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic engineering, featuring dynamic workflows, trial runs, adversarial review and all sorts of other interesting tricks. Jarred spends the first half of the post praising Zig for getting Bun this far. Then…",
+      "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "pubDate": "2026-07-08T23:57:21.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "66b741ba9c91",
+      "title": "Introducing GPT‑Live",
+      "description": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or more complex work, it delegates to our latest frontier model behind the scenes and brings the result back into the conversation when it’s ready. While it works, GPT‑Live can keep talking with you…",
+      "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "pubDate": "2026-07-08T23:20:48.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f924e38b3bd0",
+      "title": "npm v12 Ships With Install Scripts Off by Default, Begins Deprecating 2FA-Bypass Tokens",
+      "description": "npm v12 is now generally available and tagged latest. The release turns on the install-time security defaults GitHub announced in June and starts winding down the most sensitive uses of 2FA-bypass granular access tokens (GATs). Both changes landed in today's changelog. The direction will be familiar to anyone who followed the past year of npm supply chain attacks. Almost every worm and credential stealer that hit the registry since late 2025 ran at install time, before any application code…",
+      "link": "https://socket.dev/blog/npm-12?utm_medium=feed",
+      "pubDate": "2026-07-08T21:44:31.725Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/0c3ee8b3f443c792d2c817886377477e3819f28a-1672x941.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "d566cc7c32d4",
+      "title": "Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories",
+      "description": "Our investigation began with a malicious Go module, github[.]com/kaleidora/dnsub-scanning-tool, that posed as a DNS/subdomain scanner. The module did more than impersonate a developer utility: it exposed a Windows malware-staging chain that used hidden PowerShell execution, public dead-drop resolution, protected archive delivery, and RAT/infostealer deployment. Pivoting from that module revealed the larger finding: a GitHub-based lure network of 222 confirmed repositories across 190 accounts,…",
+      "link": "https://socket.dev/blog/malicious-go-module-exposes-github-malware-lure-network?utm_medium=feed",
+      "pubDate": "2026-07-08T20:23:41.691Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/7d327723f8795b3ca9afcc264a1a0fc40edfbf38-1082x1281.png?w=1600&q=95&fit=max&auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "f4006669ac44",
+      "title": "Quoting Kenton Varda",
+      "description": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at the code, but omitting the higher-level framing needed to understand broadly what the code is doing. &mdash; Kenton Varda Tags: kenton-varda, ai-assisted-programming, generative-ai, ai, llms",
+      "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "pubDate": "2026-07-08T20:03:34.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0aefe23b2fcb",
+      "title": "Build Your Own 100% Local AI Second Brain",
+      "description": "How the best builders in tech are all converging on AI second brains",
+      "link": "https://blog.dailydoseofds.com/p/build-your-own-100-local-ai-second-01b",
+      "pubDate": "2026-07-08T17:10:10.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DoKq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc602df15-278f-48d1-8cda-9d3c82ea596b_1190x740.png",
+      "type": "blog"
+    },
+    {
+      "id": "f6ba9a274876",
+      "title": "Charging AI Agents Per Request: A Practical Guide to the Machine Payments Protocol",
+      "description": "Agentic commerce is a buzzy term, but is still pretty abstract for developers asking what they can actually build today. This post explains MPP through a working Laravel example, and introduces the new square1/laravel-mpp package. Read more",
+      "link": "https://freek.dev/3157-charging-ai-agents-per-request-a-practical-guide-to-the-machine-payments-protocol",
+      "pubDate": "2026-07-08T12:30:28.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/1b49f8d1ecdfb6abedba8501dc057c19.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3211dc6a50f7",
+      "title": "Why AI Coding Agents Still Need Clear Specs",
+      "description": "The following article originally appeared on Markus Eisele’s newsletter, The Main Thread, and is being republished here with the author’s permission. There’s a mental model spreading through the developer community right now that goes something like this: Agents are smart enough to figure things out, so heavy upfront specification is bureaucratic overhead you don’t need […]",
+      "link": "https://www.oreilly.com/radar/why-ai-coding-agents-still-need-clear-specs/",
+      "pubDate": "2026-07-08T11:03:27.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/07/image-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ab40b7a40bf7",
+      "title": "pnpm 11.10 Hardens Registry Authentication to Block Token Redirection",
+      "description": "pnpm 11.10 was released over the weekend as a small update that includes several supply chain hardening changes. The main change is a new way to configure registry authentication that keeps a repository's own files from redirecting your registry token to a different host. The release also tightens a few build and packaging commands and adds an install path for pnpm v12, the Rust rewrite. The new _auth setting ties each token to its registry # pnpm 11.10 adds an _auth setting that stores…",
+      "link": "https://socket.dev/blog/pnpm-11-1-hardens-registry-authentication?utm_medium=feed",
+      "pubDate": "2026-07-08T05:01:39.304Z",
+      "source": "Socket",
+      "sourceUrl": "https://socket.dev/api/blog/feed.atom",
+      "categories": [
+        "Cybersécurité",
+        "Programmation"
+      ],
+      "image": "https://cdn.sanity.io/images/cgdhsj6q/production/86c5cb6f6611cf88251939003009383095a1d6eb-1600x900.png?w=1000&amp;q=95&amp;fit=max&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "baab745c8278",
       "title": "sqlite-utils 4.0, now with database schema migrations",
       "description": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide), this version introduces three major features: database migrations, nested transactions (via a new db.atomic() method), and support for compound foreign keys. Database schema migrations using sqlite-utils Schema migrations define a sequence of changes to be made to a…",
