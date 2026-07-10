@@ -2,10 +2,171 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "5fd293b4b075",
+      "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Jeremy Cohen",
+      "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Jeremy. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-335-79e43969a8f8",
+      "pubDate": "2026-07-10T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c95e3498-e1e5-49a2-b113-79e43969a8f8.mp3?_=1783598508",
+      "duration": "16:11"
+    },
+    {
+      "id": "dfb308e07b4d",
+      "title": "Let's code: implementing drift detection in Python (River, MD3, HDDDM)",
+      "description": "Hands-on guide to coding drift detection in Python: concept drift example, River package, MD3 and HDDDM multivariate detectors with code.",
+      "link": "https://blog.octo.com/let's-code-drift-and-detect!",
+      "pubDate": "2026-07-09T15:13:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "74c355270c8a",
+      "title": "Event-Driven Architecture chez Octo : épisode 4, robustesse et industrialisation",
+      "description": "Un système événementiel qui marche en démo, c'est facile. Un qui tient en prod, c'est une autre histoire. Épisode 4 (et final) de la série EDA : idempotence pour de vrai (avec Redis), observabilité event-driven, alerting sur Mattermost, industrialisation Terraform… et nos vraies galères.",
+      "link": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-4-robustesse-et-industrialisation",
+      "pubDate": "2026-07-09T15:01:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "784ef03c0fcc",
+      "title": "OWA Light - Le webmail de secours Exchange passe l'arme à gauche",
+      "description": "OWA Light vit ses derniers mois. Microsoft l'a annoncé le 8 juillet, la déclinaison allégée du webmail d'Exchange Server sera coupée dans une prochaine mise à jour, attendue pour août 2026. Presque 20 ans de service, c'est beau. Il est maintenant temps de prendre sa retraite (Qui a dit : \"Toi aussi\". Ah vous le connaissez pas OWA Light ? J'ai envie de dire tant mieux pour vous ! OWA (Outlook Web App), c'est le webmail livré avec Exchange, le serveur de messagerie que votre boîte héberge…",
+      "link": "https://korben.info/owa-light-fin-exchange-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-09T13:05:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/owa-light-fin-exchange-server/owa-light-fin-exchange-server-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bbbbc00ea7f5",
+      "title": "DuckDuckGo zappe les pubs YouTube",
+      "description": "Alors ça, Google va adorer ! En effet, depuis hier (le 8 juillet), le navigateur DuckDuckGo bloque les pubs YouTube tout seul comme un grand. Le pre-roll interminable avant votre tuto Docker , la double coupure en plein milieu d'un unboxing, ou encore la pub pour une appli de casino que vous n'avez jamais demandée... tout dégage, en mode par défaut sans avoir besoin d'ajouter une extension. iOS, Windows et Mac sont servis d'office, et sur Android ça s'active à la main dans Settings > Ad…",
+      "link": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-09T11:27:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/duckduckgo-navigateur-bloque-pubs-youtube/duckduckgo-navigateur-bloque-pubs-youtube-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "719584d2b29c",
+      "title": "Tuta veut déménager vos 22 ans de Gmail sans rien perdre",
+      "description": "Quitter Gmail, c'est vrai, tout le monde y pense. Pour ma part, c'est fait depuis très longtemps, mais c'est vrai qu'abandonner des années et des années de mails, de factures, de photos, etc., tout ce qu'on a reçu, il n'y a personne qui est très motivé pour ça. Alors il y a bien sûr des possibilités de transférer, mais c'est toujours un peu la galère. Toutefois, j'ai une bonne nouvelle pour vous. Il y a Tuta qui vient de dégainer One-Click Migration , un outil de migration automatique de votre…",
+      "link": "https://korben.info/tuta-mail-import-emails.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-09T11:05:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/tuta-mail-import-emails/tuta-mail-import-emails-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7f168013d450",
+      "title": "IBM a-t'il vraiment inventé le papier bulle ?",
+      "description": "Une petite histoire qui montre encore à quel point des pans entiers de l'industrie ont été révolutionnés par la tech. WorkMachine : https://www.workmachine.io",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/IBM-a-til-vraiment-invent-le-papier-bulle-e3lrp61",
+      "pubDate": "2026-07-09T08:31:17.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122593921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-9%2F570d9779-4efa-4746-c1ba-1857e3e72096.mp3",
+      "duration": "00:05:25"
+    },
+    {
+      "id": "806f37c52e12",
+      "title": "Le rapport d’étonnement : le premier livrable d'un designer stratégique",
+      "description": "Ou comment j'ai convaincu ma cliente de retravailler sa vision produit, avant d'avoir maquetté quoi que ce soit !J’ai commencé une mission en tant que product designer. Je n’ai pas produit de maquette dans les trois premières semaines. À la place, j’ai produit un rapport d’étonnement. Spoiler alerte : nous venons de finir un atelier vision produit",
+      "link": "https://blog.octo.com/le-rapport-d'etonnement--le-premier-livrable-d'un-designer-strategique",
+      "pubDate": "2026-07-09T08:07:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3dd13fc696f",
+      "title": "Hoodik - Le cloud perso qui n'a jamais vu vos fichiers en clair",
+      "description": "Votre Nextcloud sait tout de vous. L'admin du serveur (vous, ou pire, quelqu'un d'autre) peut ouvrir n'importe quel fichier stocké dessus, parce que le chiffrement de bout en bout reste une option planquée dans un plugin. C'est pourquoi Hoodik , un projet de Tibor Hudik, prend le problème à l'envers. Parce que chez lui, le chiffrement, ce n'est pas une case à cocher, c'est l'architecture au complet. Grâce à sa solution, vos fichiers sont chiffrés dans votre navigateur, avant même de partir sur…",
+      "link": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-09T08:04:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hoodik-cloud-e2ee-auto-heberge-rust/hoodik-cloud-e2ee-auto-heberge-rust-2.png",
+      "type": "blog"
+    },
+    {
       "id": "f2a522340225",
       "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
       "description": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un truc super pour ça. Il s'agit tout simplement d'une instance de Firefox qui tourne dans un conteneur Docker et qui est totalement pilotable depuis votre navigateur habituel. Comme ça, quand vous recevez un lien louche que vous voulez ouvrir, vous le mettez là-dedans, dans une…",
       "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html",
+      "pubDate": "2026-07-09T06:42:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-docker-conteneur-isole-surf-securise/firefox-docker-conteneur-isole-surf-securise-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "06474f1dd3e2",
+      "title": "Firefox dans Docker - Le navigateur jetable pour surfer sans flipper",
+      "description": "On reçoit tous des mails un peu bizarres avec des liens qu'on n'ose pas ouvrir, et pourtant on est curieux, on est tenté parfois... C'est difficile de résister mais heureusement l'équipe de Linuxserver.io a pondu un truc super pour ça. Il s'agit tout simplement d'une instance de Firefox qui tourne dans un conteneur Docker et qui est totalement pilotable depuis votre navigateur habituel. Comme ça, quand vous recevez un lien louche que vous voulez ouvrir, vous le mettez là-dedans, dans une…",
+      "link": "https://korben.info/firefox-docker-conteneur-isole-surf-securise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-09T06:42:14.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -32,10 +193,40 @@
       "type": "blog"
     },
     {
+      "id": "b1b341e2afc9",
+      "title": "Tecno, itel et Infinix cachent un mouchard système impossible à virer",
+      "description": "Si vous lisez ça depuis Abidjan, Dakar, Douala ou Kinshasa, y'a une chance sur deux que votre téléphone soit un Tecno, un Infinix ou un itel. Trois marques, mais un seul patron : Transsion, qui trône sur près de la moitié des smartphones vendus en Afrique. Et si je vous parle de ça aujourd'hui, c'est parce qu'un chercheur en sécu, Buchodi, vient de décortiquer ce que ces appareils racontent dans votre dos et c'est pas joli, joli.",
+      "link": "https://korben.info/transsion-smartphones-telemetrie-afrique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-09T06:10:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/transsion-smartphones-telemetrie-afrique/transsion-smartphones-telemetrie-afrique-1.png",
+      "type": "blog"
+    },
+    {
       "id": "3d7c27c1416d",
       "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
       "description": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu. C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémoire de fac ou une sauvegarde Time Machine chiffrée de l'ancienne époque, bah c'est grave le moment de vous en occuper. Pas de panique cela dit, seul le chiffrement dégage. Un volume HFS+ non chiffré restera donc lisible sous macOS 28 et après. Ce qui part à la benne, c'est surtout…",
       "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html",
+      "pubDate": "2026-07-08T20:17:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-fin-hfs-plus-chiffre/apple-fin-hfs-plus-chiffre-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "40af5526b5da",
+      "title": "Vos vieux disques Mac chiffrés ont une date de péremption",
+      "description": "Snif, snif, macOS 28 ne lira plus vos disques chiffrés en Mac OS Étendu . C'est écrit dans un document de support Apple publié le 7 juillet, alors si vous stockiez là-dessus vos photos de 2014, vos factures, votre mémoire de fac ou une sauvegarde Time Machine chiffrée de l'ancienne époque, bah c'est grave le moment de vous en occuper. Pas de panique cela dit, seul le chiffrement dégage. Un volume HFS+ non chiffré restera donc lisible sous macOS 28 et après. Ce qui part à la benne, c'est surtout…",
+      "link": "https://korben.info/apple-fin-hfs-plus-chiffre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T20:17:46.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -77,10 +268,40 @@
       "type": "blog"
     },
     {
+      "id": "ac546fb7d0cb",
+      "title": "GDID Windows - Coupez le mouchard qui vous traque même sous VPN",
+      "description": "Comme je vous le disais tout à l'heure, en avril 2026, le FBI a coincé un membre présumé de Scattered Spider. Le mec planquait son trafic derrière un VPN, avec des IP dans trois pays différents. Et devinez quoi ? Ce n'est pas une fausse manip qui l'a balancé mais un identifiant que votre Windows se trimballe H24 et que Microsoft refile aux autorités quand elles le demandent : le GDID. Je vous en ai déjà causé dans cet article , et après avoir écrit l'article, je me suis demandé si on pouvait le…",
+      "link": "https://korben.info/desactiver-gdid-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T15:59:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.png",
+      "type": "blog"
+    },
+    {
       "id": "4cef4aca6557",
       "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
       "description": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah bravo, Doctolib\", sauf qu'en le lisant en entier, j'ai vite compris qu'ils venaient de décider à ma place que mes données de santé allaient nourrir des trucs, des bidules et des machins pour de la recherche en intelligence artificielle.",
       "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html",
+      "pubDate": "2026-07-08T15:23:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante/doctolib-recherche-ia-opposition-donnees-sante-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "65784ce37684",
+      "title": "Données de santé Doctolib - Comment vous opposer à leur usage IA ?",
+      "description": "Cet aprem, je bossais tranquillou quand j'ai reçu un mail de DoctoLib qui m'a bien énervé avec pour titre : \"Doctolib s'engage dans la recherche pour améliorer la santé\". Bon, si on s'arrête au titre, on se dit \"Ah bravo, Doctolib\", sauf qu'en le lisant en entier, j'ai vite compris qu'ils venaient de décider à ma place que mes données de santé allaient nourrir des trucs, des bidules et des machins pour de la recherche en intelligence artificielle.",
+      "link": "https://korben.info/doctolib-recherche-ia-opposition-donnees-sante.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T15:23:01.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -107,10 +328,40 @@
       "type": "blog"
     },
     {
+      "id": "fb350ea15ee1",
+      "title": "Windows cache un identifiant secret que Microsoft file au FBI",
+      "description": "Putain, c'est abusé, vous allez voir ! Peter Stokes, 19 ans, accusé d'appartenir au groupe Scattered Spider, enchaînait les VPN et changeait de pays pour brouiller les pistes mais le FBI l'a quand même coincé. Et vous savez grâce à quoi ? Hé bien grâce à un petit numéro planqué dans son Windows. C'est Microsoft qui l'a mouchardé aux enquêteurs et ça a suffi pour le relier à une intrusion malgré tous ses VPN.",
+      "link": "https://korben.info/windows-gdid-identifiant-mouchard-vpn.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T12:55:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-gdid-identifiant-mouchard-vpn/windows-gdid-identifiant-mouchard-vpn-1.png",
+      "type": "blog"
+    },
+    {
       "id": "ffa55ee1676d",
       "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
       "description": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine 11, donc il y a pas mal de \"nouveaux\" vieux jeux qui sont maintenant jouables. Parmi ces nouveautés, on retrouve donc Resident Evil premier du nom, celui de 1996, Resident Evil 2, Dino Crisis et Dino Crisis 2, SHOGUN: Total War, Gothic 1 Classic, Breath of Fire IV, Deadly…",
       "link": "https://korben.info/proton-11-jeux-windows-linux.html",
+      "pubDate": "2026-07-08T12:42:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/proton-11-jeux-windows-linux/proton-11-jeux-windows-linux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "429775f15cee",
+      "title": "Proton 11 ressuscite Dino Crisis et Resident Evil sur Linux",
+      "description": "Je sais pas si vous avez vu mais Valve vient de sortir Proton 11, la nouvelle version stable de sa couche de compatibilité qui fait tourner les jeux Windows sur Linux via Steam Play. Et cette fois, c'est basé sur Wine 11, donc il y a pas mal de \"nouveaux\" vieux jeux qui sont maintenant jouables. Parmi ces nouveautés, on retrouve donc Resident Evil premier du nom, celui de 1996, Resident Evil 2, Dino Crisis et Dino Crisis 2, SHOGUN: Total War, Gothic 1 Classic, Breath of Fire IV, Deadly…",
+      "link": "https://korben.info/proton-11-jeux-windows-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T12:42:43.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -137,10 +388,40 @@
       "type": "blog"
     },
     {
+      "id": "719b5e632976",
+      "title": "Cette Atari Jaguar de 1993 boote sous Linux avec 2 Mo de RAM",
+      "description": "Une Atari Jaguar, la console de 1993 qu'Atari vendait comme la première machine 64 bits et que le marché a snobée, vient de booter sous Linux pour la première fois ! Derrière ce hack, un développeur connu sous le pseudo de Cakehonolulu , qui a collé un vrai noyau sur le Motorola 68000 de la bécane. Le 68000 n'a pas de MMU , ce circuit qui gère la mémoire virtuelle et dont dépend le Linux que vous faites tourner sur votre PC. Sauf que le noyau embarque depuis toujours une branche pour les puces…",
+      "link": "https://korben.info/linux-atari-jaguar-68000.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T12:12:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-atari-jaguar-68000/linux-atari-jaguar-68000-1.avif",
+      "type": "blog"
+    },
+    {
       "id": "a5b129d2c4b5",
       "title": "Ça c'est ma veille tech",
       "description": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'est vrai que c'est un peu le nerf de la guerre pour moi et avoir un outil pour vous les afficher en direct sur le site, je me suis dit que ça allait vous plaire !",
       "link": "https://korben.info/veille-tech-direct-flux-rss.html",
+      "pubDate": "2026-07-08T12:05:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/veille-tech-direct-flux-rss/veille-tech-direct-flux-rss-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "340d95f8c4ac",
+      "title": "Ça c'est ma veille tech",
+      "description": "Ça fait un moment que ça me trotte dans la tête et vous êtes plusieurs à me réclamer régulièrement ma veille, comme dans la chanson, en mode \"Allez Korben, montre-nous tes RSS, allez Korben montre-nous tes flux !\". C'est vrai que c'est un peu le nerf de la guerre pour moi et avoir un outil pour vous les afficher en direct sur le site, je me suis dit que ça allait vous plaire !",
+      "link": "https://korben.info/veille-tech-direct-flux-rss.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T12:05:22.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -167,10 +448,40 @@
       "type": "blog"
     },
     {
+      "id": "5a7b4400b2f1",
+      "title": "Le retour de Movie Maker montre la lourdeur de Clipchamp",
+      "description": "Vous vous souvenez de Windows Movie Maker ? Mais siiii, ce petit logiciel de montage livré avec les Windows depuis l'époque de Windows ME ? C'est celui sur lequel vous avez bricolé vos premiers diaporamas de vacances avec des transitions en forme d'étoile. Aaah, ça vous parle maintenant, hein ? Eh bien, ces gros méchants de Microsoft l'ont laissé mourir en janvier 2017. Mais heureusement, SkylerDaGirl vient de le remettre au goût du jour et vous pouvez maintenant télécharger un installer…",
+      "link": "https://korben.info/windows-movie-maker-clipchamp-ram-2026.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T11:32:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-movie-maker-clipchamp-ram-2026/windows-movie-maker-clipchamp-ram-2026-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9f4606b13c98",
       "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
       "description": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré apporter l’objet chez une personne de mon entourage qui avait un jardin plus grand, plus compliqué, meilleur terrain de test.",
       "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html",
+      "pubDate": "2026-07-08T11:21:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin-2.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "9daed315ed6f",
+      "title": "Test du MOVA ViAX 500 : cette tondeuse a converti un jardinier qui ne voulait pas de robot dans son jardin",
+      "description": "– Contient des liens affiliés Amazon – J’ai reçu en test ce robot tondeuse d’une gamme grand public accessible pour le tester en conditions réelles. J’ai moi-même un petit jardin, mais pour le tester, j’ai préféré apporter l’objet chez une personne de mon entourage qui avait un jardin plus grand, plus compliqué, meilleur terrain de test.",
+      "link": "https://korben.info/test-du-mova-viax-500-cette-tondeuse-a-converti-un-jardinier-qui-ne-voulait-pas-de-robot-dans-son-jardin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T11:21:31.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -212,10 +523,40 @@
       "type": "blog"
     },
     {
+      "id": "bd49b32f2cb5",
+      "title": "Votre prochaine barrette de RAM sera-t-elle un champignon ?",
+      "description": "Un champignon shiitake qui fait office de mémoire informatique genre RAM, c'est la trouvaille d'une équipe de l'Ohio State University. Et l'idée a l'air bien plus sérieuse qu'elle n'en a l'air... John LaRocco et Qudsia Tahmina ont pris du mycélium de shiitake, l'ont cultivé sur des graines de farro, du germe de blé et du foin, puis l'ont déshydraté. Après une brève réhydratation, ils ont ensuite branché le tout à un oscilloscope et un microcontrôleur Arduino et là, le champignon s'est mis à…",
+      "link": "https://korben.info/ram-champignon-shiitake-memristor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T10:18:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ram-champignon-shiitake-memristor/ram-champignon-shiitake-memristor-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0f921970ec1b",
       "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
       "description": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visiblement publiquement par tout le monde. Ce serait ouf non ? Hé bien c'est le tour de passe-passe que Sasi Levi, de chez Noma Security, vient de réussir grâce à l'agent IA de GitHub. Et vous allez voir, c'est tout con, donc c'est hyper flippant.",
       "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html",
+      "pubDate": "2026-07-08T09:04:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives/gitlost-github-agent-ia-fuite-depots-prives-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "77f31e9172be",
+      "title": "GitLost - Un seul mot suffit pour faire cracher ses dépôts privés à l'IA de GitHub",
+      "description": "Et c'est reparti pour un tour ! Qu'est-ce que vous pensez d'un dépôt privé sur Github qui serait capable d'exfiltrer tout seul son propre code dans une section commentaire visible publiquement par tout le monde. Ce serait ouf non ? Hé bien c'est le tour de passe-passe que Sasi Levi, de chez Noma Security, vient de réussir grâce à l'agent IA de GitHub. Et vous allez voir, c'est tout con, donc c'est hyper flippant.",
+      "link": "https://korben.info/gitlost-github-agent-ia-fuite-depots-prives.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T09:04:42.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -242,10 +583,40 @@
       "type": "blog"
     },
     {
+      "id": "6142ba3b792f",
+      "title": "On ne vivrait pas dans une simulation, et ça m'embête",
+      "description": "Vous pouvez ranger la pilule rouge tout de suite les amis car une équipe de physiciens menée par Mir Faizal vient d'affirmer, calculs à l'appui, que notre univers ne peut pas être une simulation informatique. Et il n'annonce pas ça en mode \"On n'a pas encore trouvé LA preuve\", non... Apparemment, ce serait ferme et définitif. Et du coup ça me rend un petit peu tristoune et je vais vous expliquer pourquoi.",
+      "link": "https://korben.info/univers-simulation-etude-ubc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-08T08:39:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/univers-simulation-etude-ubc/univers-simulation-etude-ubc-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8f375413a4b9",
       "title": "Une recompilation PC d'Animal Crossing",
       "description": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous avez usé votre GameCube dessus au début des années 2000, votre cœur de rétrogamer va adorer. Derrière, y'a ac-decomp , la décompilation quasi complète du jeu par l'équipe ACreTeam : un boulot de fourmi pour reconstruire le code source C d'origine à partir du binaire, vérifié octet par…",
       "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html",
+      "pubDate": "2026-07-08T08:18:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/animal-crossing-gamecube-port-pc-natif/animal-crossing-gamecube-port-pc-natif-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4fcfd271f4de",
+      "title": "Une recompilation PC d'Animal Crossing",
+      "description": "Un dev anonyme sous le pseudo flyngmt vient de sortir ACGC-PC-Port , un portage PC natif d'Animal Crossing sur GameCube. Pas un émulateur hein, le vrai code du jeu qui tourne directement sur votre machine. Si vous avez usé votre GameCube dessus au début des années 2000, votre cœur de rétrogamer va adorer. Derrière, y'a ac-decomp , la décompilation quasi complète du jeu par l'équipe ACreTeam : un boulot de fourmi pour reconstruire le code source C d'origine à partir du binaire, vérifié octet par…",
+      "link": "https://korben.info/animal-crossing-gamecube-port-pc-natif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-08T08:18:22.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -357,6 +728,21 @@
       "title": "Anthropic a repéré la petite zone où Claude pense en douce",
       "description": "Oulala, Anthropic vient de publier une jolie page de recherche qui fait beaucoup causer. En effet, son équipe d'interprétabilité a repéré, à l'intérieur de ses modèles Claude, une toute petite zone où le modèle rassemble ses pensées intermédiaires, c'est-à-dire celles qu'il est capable de nommer et de manipuler. Ils l'appellent le J-space, et c'est leur version du fameux espace de travail global qu'on décrit dans le cerveau humain. Pour aller le fouiller, ils ont bricolé une technique baptisée…",
       "link": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache.html",
+      "pubDate": "2026-07-07T14:04:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache/anthropic-global-workspace-claude-raisonnement-cache-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "4d6c1029a9ad",
+      "title": "Anthropic a repéré la petite zone où Claude pense en douce",
+      "description": "Oulala, Anthropic vient de publier une jolie page de recherche qui fait beaucoup causer. En effet, son équipe d'interprétabilité a repéré, à l'intérieur de ses modèles Claude, une toute petite zone où le modèle rassemble ses pensées intermédiaires, c'est-à-dire celles qu'il est capable de nommer et de manipuler. Ils l'appellent le J-space, et c'est leur version du fameux espace de travail global qu'on décrit dans le cerveau humain. Pour aller le fouiller, ils ont bricolé une technique baptisée…",
+      "link": "https://korben.info/anthropic-global-workspace-claude-raisonnement-cache.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
       "pubDate": "2026-07-07T14:04:27.000Z",
       "source": "Korben",
       "sourceUrl": "https://korben.info/feed",
@@ -565,6 +951,21 @@
         "Web"
       ],
       "image": "https://korben.info/baremetal-ram-dumper-cold-boot-attack/baremetal-ram-dumper-cold-boot-attack-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "872befec2152",
+      "title": "Colo",
+      "description": "Nous sommes en voiture. Je les amène au point de rendez-vous. Aujourd’hui, c’est le départ pour la colo. Je suis un peu stressé depuis quelques jours. Je ne sais pas comment ça va se passer pour eux et je ne sais pas si moi, je vais réussir à gérer la séparation. – Et toi, Papa, t’es jamais parti en colo ? Il marque un temps de réfléxion. Il a envie de me poser une question mais il n’ose pas. Finalement, il se lance. – Ma maman ou ta maman ? Je suis pris de cours. C’est pas banal. – Attends, tu…",
+      "link": "https://boris.schapira.dev/notes/2026-07-colo/",
+      "pubDate": "2026-07-05T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_131:Colo,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_131:Colo,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {

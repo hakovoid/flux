@@ -2095,6 +2095,22 @@
       "duration": "1:03:20"
     },
     {
+      "id": "eb858f3baff3",
+      "title": "Talk - Pimp My Shell",
+      "description": "Travailler dans un shell n’a pas besoin d’être ennuyeux, ni moche. Ce qui constitue une stack shell moderne : un émulateur de terminal, une nerd-font pleine d’icônes, un joli prompt starship et un outillage fou : mise pour gérer vos outils, tâches et alias, fnox pour les secrets et chezmoi pour une gestion propre de vos dotfiles. Je vous partage ma stack et mes astuces et trucs rigolos pour mettre des paillettes dans mon bash, et être efficace en ligne de commande.",
+      "link": "https://codeka.io/talks/talk-pimp-my-shell/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "982366c0b855",
       "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
       "description": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du son, c'est étonnant, et pourtant... Normalement, dès qu'un avion dépasse la vitesse du son, il comprime l'air devant lui en une onde de choc qui claque au sol comme un mega coup de tonnerre. C'est ça, le bang supersonique.",

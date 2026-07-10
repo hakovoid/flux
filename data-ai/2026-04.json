@@ -380,6 +380,20 @@
       "type": "blog"
     },
     {
+      "id": "f1840e69e1e6",
+      "title": "Modeling an AI jobs transition",
+      "description": "A new framework analyzes 921 occupations and 148 million U.S. jobs to identify which roles face automation risk, reorganization, growth, or minimal AI disruption.",
+      "link": "https://openai.com/index/modeling-ai-jobs-transition",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6O8KhcfAGpLjw7WfJWfR5c/1ad83abf4cae7c2ea944a1ce0fa9b6cb/SEO_Card__3_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "caecb50726ec",
       "title": "8 Gemini tips for organizing your space (and life)",
       "description": "Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
@@ -580,6 +594,20 @@
       "title": "How to use Codex for everyday work",
       "description": "Explore 10 practical ChatGPT Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
       "link": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+      "pubDate": "2026-04-23T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7v5h6Z00V6Tt9XQW2AVW62/4ec32f6ad895b9fb038c46ab27b10067/Academy-SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ac90ade86eae",
+      "title": "How to use ChatGPT Work for everyday tasks",
+      "description": "Explore practical ChatGPT Work use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "link": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
       "pubDate": "2026-04-23T10:00:00.000Z",
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/news/rss.xml",

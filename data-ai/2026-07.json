@@ -2,6 +2,132 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "df26bd70c115",
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "pubDate": "2026-07-09T16:46:22.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/AuroraUpdate-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b98a594ec40e",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "pubDate": "2026-07-09T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2015b07b78a1",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "description": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "pubDate": "2026-07-09T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "07aa5a8a45a2",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "description": "Details about the OpenAI Bio Bounty program",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "pubDate": "2026-07-09T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3dibW4TSEOQpjByxBjnpr2/6ba1a2ed9346620e8788b3e013594469/bug_bounty_16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e19fbb75eb44",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "description": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "link": "https://openai.com/index/gpt-5-6",
+      "pubDate": "2026-07-09T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "96abb9058987",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "description": "Introducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
+      "id": "5a81a35f0189",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "description": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/ben-bernanke",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2421a78a2bf8",
+      "title": "UST is bringing Claude to physical AI",
+      "description": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=coral",
+      "type": "blog"
+    },
+    {
+      "id": "8dbb2238c30b",
+      "title": "Inviting hard questions",
+      "description": "Inviting hard questions",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/b3ddb82292e92030f4677d004bf0d7d795be7bd1-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c191c2da58c8",
       "title": "Data for Agents",
       "description": "",
