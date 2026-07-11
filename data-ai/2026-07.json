@@ -2,6 +2,34 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "521cb8f57272",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "pubDate": "2026-07-10T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2e4pj37nFOyJzOAIMC10VM/2d7a76659ae8bb37e21d3d7e838a8bd8/oai_Deutsche_Telekom_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9dd06ff2acc7",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "description": "",
+      "link": "https://huggingface.co/blog/torch-attention-profile",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "df26bd70c115",
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.",
