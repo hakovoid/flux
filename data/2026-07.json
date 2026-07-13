@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "36612f4cd034",
+      "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
+      "description": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment sur des connexions pourries et la vidéo, c'était un truc très américain. Mais à l'époque, moi de ce que je me souviens de YouTube, c'est que c'était très brut ça. On pouvait mettre des étoiles sur les vidéos pour les noter. Il y avait des catégories vraiment fourre-tout. Et puis…",
+      "link": "https://korben.info/kamtape-clone-youtube-2005.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-12T18:31:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kamtape-clone-youtube-2005/kamtape-clone-youtube-2005-1.png",
+      "type": "blog"
+    },
+    {
       "id": "01be9d2e9b3e",
       "title": "Un compteur de visiteurs sur votre site, sans payer un centime",
       "description": "Vous avez peut-être remarqué un petit point rouge tout en bas de mon site, avec un nombre à côté. Il s'agit du nombre de personnes passées sur le site durant la dernière heure. Je voulais remettre ce truc depuis un bail, bien à l'ancienne comme dans les années 2000 mais sur un site statique, qui plus est sans tracker de stats JS type Google Analytics ou Matomo, et sans cookies de tracking, c'était pas franchement une option... jusqu'à maintenant !",
@@ -44,6 +59,22 @@
         "Web"
       ],
       "image": "https://korben.info/inpainting-image-navigateur-local/inpainting-image-navigateur-local-1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "12acdc466b3b",
+      "title": "Karpenter + Cluster API",
+      "description": "Mon cheminement pour autoscaler un cluster OVH déployé via la Cluster API, en utilisant Karpenter et son provider cluster-api, avec MKS comme cluster de management.",
+      "link": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+      "pubDate": "2026-07-12T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/cover.png",
       "type": "blog"
     },
     {
