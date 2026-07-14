@@ -2,6 +2,126 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3ef75d91c338",
+      "title": "Apple rachète SigLens, l'outil open source de surveillance d'applications",
+      "description": "Apple vient donc de mettre la main sur SigLens, un logiciel open source de surveillance d'applications, en rachetant les actifs de la petite société américaine qui le développe, SigScalr. L'annonce est tombée ce 13 juillet, même si le dossier avait été notifié à l'Union européenne dès le mois de mars. Le montant reste secret. De quoi parle-t-on au juste ? SigLens fait de l'observabilité, un mot barbare pour désigner l'art de surveiller ce qui se passe à l'intérieur d'une application ou d'un…",
+      "link": "https://korben.info/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T14:55:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications/apple-rachete-siglens-loutil-open-source-de-surveillance-dapplications-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7ad392e26219",
+      "title": "L'émulation de la PS5 fait ses premiers pas, alors que la console est encore en rayon",
+      "description": "Faire tourner des jeux PS5 sur un simple PC, c'est encore de la science-fiction, mais quelques développeurs viennent de franchir un petit cap. Deux émulateurs, ces logiciels qui imitent une console pour lancer ses jeux ailleurs, commencent à montrer les premiers signes de vie. Le plus avancé s'appelle SharpEMU , développé par un certain iExplosiveRage. Il arrive déjà à faire tourner un vrai jeu du commerce, Dreaming Sarah, un petit titre de plateforme et de réflexion en 2D.",
+      "link": "https://korben.info/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T14:34:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon/lemulation-de-la-ps5-fait-ses-premiers-pas-alors-que-la-console-est-encore-en-rayon-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "85bd2eae6863",
+      "title": "Inky Bird Frame - Les piafs du jardin en planches naturalistes",
+      "description": "Vous vous souvenez de BirdNet-Pi ? Ce montage dont je vous avais parlé, qui collait un micro sur un Raspberry Pi pour reconnaître les piafs du jardin à l'oreille ? Et bien Henry Sowell, un maker qui signe sous le pseudo de veteranbv, vient de pousser le délire un cran plus loin avec Inky Bird Frame. Il s'agit d'un cadre e-ink accroché au mur qui affiche les oiseaux repérés autour de chez vous, façon planches naturalistes de carnet de terrain du 19e siècle.",
+      "link": "https://korben.info/inky-bird-frame-raspberry-pi-eink-oiseaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T14:16:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/inky-bird-frame-raspberry-pi-eink-oiseaux/inky-bird-frame-raspberry-pi-eink-oiseaux-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8da7163d6886",
+      "title": "claude-seo : la skill pour faire des audits SEO directement dans Claude Code",
+      "description": "J'utilise beaucoup le plugin claude-seo pour Claude Code car elle me permet d'enchaîner rapidement audit SEO, corrections et vérification. Je lance un audit, je récupère des problèmes priorisés, je demande des",
+      "link": "https://www.camilleroux.com/claude-seo-skill/",
+      "pubDate": "2026-07-13T13:37:52.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---14.35.25.png",
+      "type": "blog"
+    },
+    {
+      "id": "a31ef7b3aedf",
+      "title": "Un RAG sur son propre blog : pour me relire, pas pour écrire",
+      "description": "Optimisez votre blog : découvrez le RAG pour retrouver vos infos sans jargon. Bénéfices pour les auteurs.",
+      "link": "https://lecodeestdanslepre.fr/billets/rag-editorial-relire-corpus",
+      "pubDate": "2026-07-13T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/rag-editorial-relire-corpus.png?v=f737061f515873b6",
+      "type": "blog"
+    },
+    {
+      "id": "8c6bbab500b5",
+      "title": "Le blocage DNS casse tout sauf le piratage (dixit Google)",
+      "description": "Google est allé raconter à la Commission européenne ce que les gens qui s'y connaissent un peu en réseau répètent depuis 15 ans : Bloquer les résolveurs DNS, les VPN et les adresses IP pour lutter contre le piratage, ça ne marche pas. Dans un document envoyé pour la consultation sur la révision de la directive copyright, Mountain View écrit que « bloquer les résolveurs DNS, les IP ou les VPN est inefficace, car cela ne supprime pas du tout le contenu et se contourne facilement en utilisant des…",
+      "link": "https://korben.info/google-blocage-dns-vpn-ip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T09:26:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-blocage-dns-vpn-ip/google-blocage-dns-vpn-ip-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "30c2430195a2",
+      "title": "Swival – Le papa de libsodium se met aux agents de codage locaux",
+      "description": "Frank Denis , c'est le monsieur qui fait tourner un bon morceau d'Internet sans que personne le sache : libsodium, dnscrypt-proxy, Pure-FTPd, c'est lui. Et dernièrement, il s'est attaqué aux agents de codage IA avec Swival , un outil pensé pour les petits modèles qui tournent en local sur votre machine. Le truc de Frank c'est d'écrire du logiciel réputé incassable depuis 25 ans. Si vous chiffrez vos requêtes DNS, y'a des chances que ça passe par son dnscrypt-proxy , et si vous utilisez du…",
+      "link": "https://korben.info/swival-agent-ia-codage-modeles-locaux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-13T09:03:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/swival-agent-ia-codage-modeles-locaux/swival-agent-ia-codage-modeles-locaux-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "33927d9db05a",
+      "title": "Cyber Resilience Act : mainteneur, steward ou simple passant ?",
+      "description": "Le 11 septembre 2026, les obligations de signalement du CRA s'activent. Fabricant, steward ou hors champ : ce qui tombe (ou pas) sur un dev PHP.",
+      "link": "https://lecodeestdanslepre.fr/billets/cyber-resilience-act-mainteneur-steward-dev-php",
+      "pubDate": "2026-07-13T07:41:21.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/cyber-resilience-act-mainteneur-steward-dev-php.png?v=1adf8d491074eadb",
+      "type": "blog"
+    },
+    {
       "id": "36612f4cd034",
       "title": "KamTape - Le site qui ressuscite le YouTube de 2005",
       "description": "Moi je me suis lancé en 2004 et un an plus tard il y a YouTube qui débarquait. C'était bien avant de se faire racheter par Google. Et j'avoue que j'en attendais pas grand-chose. Parce qu'à l'époque, on était vraiment sur des connexions pourries et la vidéo, c'était un truc très américain. Mais à l'époque, moi de ce que je me souviens de YouTube, c'est que c'était très brut ça. On pouvait mettre des étoiles sur les vidéos pour les noter. Il y avait des catégories vraiment fourre-tout. Et puis…",

@@ -2,6 +2,48 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "b45a9ea535ca",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "description": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
+      "pubDate": "2026-07-13T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/07/RustSymCrypt-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "13f77bbb5cb9",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "description": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "pubDate": "2026-07-13T12:37:28.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbe42569b9ca",
+      "title": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "description": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "pubDate": "2026-07-13T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Flower&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "521cb8f57272",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
@@ -153,6 +195,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/b3ddb82292e92030f4677d004bf0d7d795be7bd1-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "527fa4738dcd",
+      "title": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "description": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "link": "https://www.anthropic.com/research/claude-plays-robotics",
+      "pubDate": "2026-07-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "type": "blog"
     },
     {
