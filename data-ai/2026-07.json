@@ -2,6 +2,76 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d836dcfc4e0b",
+      "title": "Celebrating 25 years of visual search innovation",
+      "description": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "pubDate": "2026-07-14T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0a5ca4c5b523",
+      "title": "How to manage AI investments in the agentic era",
+      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "pubDate": "2026-07-14T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1f3fCCk8KKldaYmrCqQ6tt/3193a26fa6ff6423b4235b0661de239f/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0221b1d0649e",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "description": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
+      "id": "ad504bbdb221",
+      "title": "Introducing Claude for Teachers",
+      "description": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0e537c3c4d4b",
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "description": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "b45a9ea535ca",
       "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
       "description": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
