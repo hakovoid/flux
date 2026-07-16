@@ -2,10 +2,132 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "549b08d2a83a",
+      "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
+      "description": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne pour 2 SMS mais s'essouffle sur un vrai document, et la plupart des services actuels envoient votre voix mouliner sur un serveur à l'autre bout du monde. Et quand vous êtes avocat, médecin, journaliste ou juste quelqu'un qui dicte des trucs confidentiels, bah ça pique un peu.",
+      "link": "https://korben.info/transcription-audio-texte-dictee-vocale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T19:16:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "85cbf193ca5d",
+      "title": "La Neo Geo fait enfin tourner DOOM",
+      "description": "DOOM tourne aujourd'hui sur presque tout, d'un frigo connecté à une calculatrice, et chaque année quelqu'un ajoute une machine encore plus improbable à la liste. Il restait pourtant une exception qui résistait, la Neo Geo, la console d'arcade de SNK des années 90. Elle coûtait le prix d'un petit salaire à l'époque, et elle passait quand même pour incapable de faire tourner le jeu de tir culte de id Software.",
+      "link": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T15:43:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-neo-geo-fait-enfin-tourner-doom/la-neo-geo-fait-enfin-tourner-doom-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1e5be6e8ff2d",
+      "title": "Microsoft bat son record avec 570 failles corrigées en un mois, et c'est son IA qui les déterre",
+      "description": "Il y a des chiffres qui en disent long sur l'état d'un logiciel, et celui-ci en fait clairement partie. Microsoft vient de corriger 570 failles de sécurité d'un seul coup lors de son dernier Patch Tuesday, ce rendez-vous mensuel où l'éditeur rebouche les trous de ses programmes, et jamais encore il n'avait sorti un paquet de correctifs aussi monstrueux, presque le triple d'un mois précédent qui battait pourtant déjà tous les records.",
+      "link": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T14:22:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre/microsoft-bat-son-record-avec-570-failles-corrigees-en-un-mois-et-cest-son-ia-qui-les-deterre-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8cae8fecb1e0",
+      "title": "La vérif d'âge de l'Europe ridiculisée par une extension Chrome",
+      "description": "Bon, vous le savez, l'Europe tient absolument à savoir votre âge, avant de vous laisser scroller librement sur le net. Alors pour cela, ils ont mis au point une application qui permet de prouver votre âge et qui nous est proposée comme simple à utiliser et respectueuse de notre vie privée. Mais ça c'était sans compter sur Paul Moore , chercheur en sécurité, qui vient à nouveau de l'éclater à l'aide d'une simple extension Chrome...",
+      "link": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-15T10:39:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/verification-age-ue-reseaux-sociaux-contournee/verification-age-ue-reseaux-sociaux-contournee-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4a0f933d5b9",
+      "title": "Les macros Twig : des fonctions qui ne voient rien",
+      "description": "Maîtrisez les macros Twig : syntaxe, importations multiples, portée et quand les remplacer par des Twig Components pour optimiser vos templates Symfony.",
+      "link": "https://lecodeestdanslepre.fr/billets/macros-twig",
+      "pubDate": "2026-07-15T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/macros-twig.png?v=d9d784e99c09412a",
+      "type": "blog"
+    },
+    {
+      "id": "22bca019a014",
+      "title": "Comprendre l’authentification avec Github (OAuth) ",
+      "description": "Découvrez comment fonctionne la connexion avec GitHub grâce à OAuth et apprenez à implémenter simplement un bouton \"Se connecter avec GitHub\" dans votre application.",
+      "link": "https://code-garage.com/blog/comprendre-l-authentification-avec-github-oauth ",
+      "pubDate": "2026-07-15T09:44:13.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_07_15_105702_94b38518f3.png",
+      "type": "blog"
+    },
+    {
+      "id": "b68b1f8e5c6a",
+      "title": "Sécurité PHP : Alexandre Daubois rejoint la PHP Foundation pour renforcer le cœur du langage",
+      "description": "La sécurité des applications ne dépend pas uniquement du code spécifique développé pour un projet, mais également de la robustesse des briques technologiques fondamentales sur lesquelles il repose. Dans cette optique de sécurisation globale des infrastructures, notre coopérative Les-Tilleuls.coop est heureuse d’annoncer la nomination d’Alexandre Daubois au sein de la PHP Foundation en tant que […] Cet article, Sécurité PHP : Alexandre Daubois rejoint la PHP Foundation pour renforcer le cœur du…",
+      "link": "https://les-tilleuls.coop/blog/securite-php-alexandre-daubois-rejoint-la-php-foundation-pour-renforcer-le-coeur-du-langage",
+      "pubDate": "2026-07-15T07:46:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2023/02/vignette-blog-php-foundation-1024x614.png",
+      "type": "blog"
+    },
+    {
       "id": "6f03c8e8991e",
       "title": "Liens Tech - Juillet 2026",
       "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
       "link": "https://domopi.eu/liens-tech-juin-2026-2/",
+      "pubDate": "2026-07-15T05:45:13.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f62aff4f6e19",
+      "title": "Liens Tech - Juillet 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-juillet-2026/",
       "pubDate": "2026-07-15T05:45:13.000Z",
       "source": "DomoPi",
       "sourceUrl": "https://domopi.eu/rss/",
@@ -48,6 +170,37 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2c9ab172-e6ab-4e07-8be0-b020aa6b6e15.mp3?_=1784030523",
       "duration": "01:02:49"
+    },
+    {
+      "id": "3d9a17ee1706",
+      "title": "Nouveau verbe HTTP : QUERY",
+      "description": "Vous étiez coincé pour vos recherches volumineuses entre un GET à rallonge ou détourner le POST dans vos APIs, QUERY est là pour répondre à ce besoin",
+      "link": "https://blog.eleven-labs.com/fr/http-query-method/",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-07-15-http-query-method/cover-w1200-h330-x2.avif",
+      "type": "blog"
+    },
+    {
+      "id": "6e7c5800d85f",
+      "title": "Attention au bruit documentaire généré par l'IA",
+      "description": "Avec l’IA, on parle beaucoup de la rapidité et de la vitesse de génération de code. Mais, tout comme le code, générer de la documentation n’a jamais été aussi simple et rapide. En quelques secondes, l’IA produit des pages entières décrivant un projet. Mais attention à cette abondance. Comme beaucoup, je suis convaincu de l’importance de documenter: choix d’architecture, standard d’équipe, historique et choix des décisions. La documentation est primordiale pour maintenir la connaissance au fil…",
+      "link": "https://www.jdecool.fr/blog/2026/07/15/attention-au-bruit-documentaire-genere-par-l-ia.html",
+      "pubDate": "2026-07-14T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "f3ecd37da202",

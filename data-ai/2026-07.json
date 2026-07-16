@@ -2,6 +2,90 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "11253d0d7f13",
+      "title": "What building Shippy taught us about building agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "pubDate": "2026-07-15T17:29:41.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/2Ncq9fY3Po30QjlACoYTY.png",
+      "type": "blog"
+    },
+    {
+      "id": "969cdff00361",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "pubDate": "2026-07-15T17:27:01.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/642ee6f6ffd6084c6a620985/ibA2XHLJsqDH9VAL-3ou-.png",
+      "type": "blog"
+    },
+    {
+      "id": "23b1197c7433",
+      "title": "The US is advancing AI safety through state and federal action",
+      "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "pubDate": "2026-07-15T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/C8LVPcOuyeD3G5OalCrVN/16094efa3ff169506c97c14ec2b71f8a/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f8df3e0d3cc8",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "pubDate": "2026-07-15T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3ACfFRKDhuNzU4isOGxHRv/26f7f9bded23de64ea183a9ec19904c5/SEO_Card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7f36308856b0",
+      "title": "Welcome Inkling by Thinking Machines",
+      "description": "",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/thinkingmachines-inkling/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "5e1ffb769438",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/real-world-voiceeq/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "d836dcfc4e0b",
       "title": "Celebrating 25 years of visual search innovation",
       "description": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
