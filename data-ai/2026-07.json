@@ -2,6 +2,118 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "980d749ecfc6",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "pubDate": "2026-07-16T16:01:21.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/697fa5ae089a7f9330c5078f/AaXgkciE-wvxSPrA4wg0n.png",
+      "type": "blog"
+    },
+    {
+      "id": "a907415b440a",
+      "title": "Why teens deserve access to safe AI",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "pubDate": "2026-07-16T16:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4NGTbmWC5Q6asKYmOTchmz/8fde35f181e02c0dcf3b7334db08d394/why-teens-seo.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "cfc723fcba3f",
+      "title": "Connect more of your apps to Search",
+      "description": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "pubDate": "2026-07-16T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6a0f44aaf2f6",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "description": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "pubDate": "2026-07-16T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c5c3971a8972",
+      "title": "Newer Models, Same Advantage",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "pubDate": "2026-07-16T11:49:48.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/3HJgWuzAFymnAq6TqEdL7.png",
+      "type": "blog"
+    },
+    {
+      "id": "53ad893ddb18",
+      "title": "Our approach to bioresilience",
+      "description": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "2026-07-16T09:30:42.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f47e8f0dcf67",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "link": "https://openai.com/index/cars24",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7CDBt34djpI5pY21NFpVyc/c2acb8f59210c75f3ca156a8249cdded/cars24-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f443de946cf3",
+      "title": "Security incident disclosure — July 2026",
+      "description": "",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/security-incident-july-2026/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "11253d0d7f13",
       "title": "What building Shippy taught us about building agents",
       "description": "",

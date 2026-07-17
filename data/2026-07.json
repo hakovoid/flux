@@ -2,6 +2,98 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ebfe934aef38",
+      "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
+      "description": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses qui identifie chaque appareil connecté à internet. Il remplace petit à petit l'IPv4, qui date des années 80 et dont le stock d'adresses, à peine plus de quatre milliards, est épuisé depuis longtemps. Avec l'IPv6, on passe à un nombre d'adresses tellement gigantesque qu'on ne risque…",
+      "link": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-16T15:07:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free/la-france-est-numero-un-mondial-de-lipv6-et-en-grande-partie-grace-a-free-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cbf7c592e114",
+      "title": "July 2026 Newsletter: How to become an indispensable company?",
+      "description": "Indispensable companies will be those that master AI search engines What does it mean to be an indispensable company? It means being the one everyone thinks of when they have a need in mind. In B2C, these are well-known brands. In B2B, it’s a bit different. Being indispensable means being the company you’ve heard about […] L’article July 2026 Newsletter: How to become an indispensable company? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/07/16/july-2026-newsletter-how-to-become-an-indispensable-company/",
+      "pubDate": "2026-07-16T07:48:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/07/course-de-chevaux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a899d6a853d5",
+      "title": "Customizing Sylius Grids - Improved DX with Grid Mutators",
+      "description": "In Sylius, grids handle back-office list rendering: data fetching, column definitions, filters, actions, and more. Sylius E-commerce ships with a large number of ready-to-use grids that can be customized to fit your project's needs. Until now, customization mainly relied on YAML configuration overrides or Grid events. These approaches still work, but they quickly hit their limits when you need to introduce business logic or benefit from a more modern, pleasant API. With the upcoming release of…",
+      "link": "https://jolicode.com/blog/customizing-sylius-grids-improved-dx-with-grid-mutators",
+      "pubDate": "2026-07-16T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/customiser-les-grilles-sylius/remove-images.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab89f961af41",
+      "title": "Customiser les grilles Sylius - DX améliorée avec les Grid mutators",
+      "description": "Dans Sylius, les grilles sont responsables de l'affichage des listes du back-office : récupération des données, définition des colonnes, filtres, actions... Sylius E-commerce fournit un grand nombre de grilles prêtes à l'emploi, qu'il est possible de personnaliser pour répondre aux besoins de votre projet. Jusqu'à présent, cette personnalisation reposait principalement sur des surcharges de configuration YAML ou sur les Grid events. Ces approches fonctionnent toujours, mais elles atteignent…",
+      "link": "https://jolicode.com/blog/customiser-les-grilles-sylius-dx-amelioree-avec-les-grid-mutators",
+      "pubDate": "2026-07-16T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/customiser-les-grilles-sylius/remove-images.png",
+      "type": "blog"
+    },
+    {
+      "id": "a60065f8c1d0",
+      "title": "Le silence est un choix",
+      "description": "Pas de vidéo depuis début juin. Pas d'article, pas de posts. Et pourtant, je n'ai jamais autant créé, jamais autant remis en question ma manière de produire du logiciel. Ce silence n'est pas une panne. C'est un choix. Explications, et rendez-vous en septembre.",
+      "link": "https://yoandev.co/le-silence-est-un-choix",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260615-4.BGgwQwLi_11gB57.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5925aebe40b5",
+      "title": "400,000 de réputation sur StackOverflow… Et maintenant ?",
+      "description": "J’ai ouvert StackOverflow un peu par hasard il y a quelques semaines, et j’ai découvert que mon compte a atteint les 400,000 points de réputation et que j’ai aidé plusieurs dizaines de millions de personnes ! Je suis désormais 109ème au classement global des contributeurs !",
+      "link": "https://blog.pascal-martin.fr/post/400000-stackoverflow-et-maintenant/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/400000-stackoverflow-et-maintenant/",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://blog.pascal-martin.fr/public/stackoverflow/stackoverflow-pascal-martin-2026-05-summary.png",
+      "type": "blog"
+    },
+    {
       "id": "549b08d2a83a",
       "title": "Kassis - Transcrivez vos audios et dictez vos textes sur Mac",
       "description": "Si vous cherchez un logiciel de dictée vocale sérieux sur Mac, vous avez sûrement remarqué que le marché ressemble à un désert. Nuance a débranché Dragon pour Mac en octobre 2018, la dictée intégrée de macOS dépanne pour 2 SMS mais s'essouffle sur un vrai document, et la plupart des services actuels envoient votre voix mouliner sur un serveur à l'autre bout du monde. Et quand vous êtes avocat, médecin, journaliste ou juste quelqu'un qui dicte des trucs confidentiels, bah ça pique un peu.",
@@ -14,6 +106,21 @@
         "Web"
       ],
       "image": "https://korben.info/transcription-audio-texte-dictee-vocale-mac/transcription-audio-texte-dictee-vocale-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "152be1da9127",
+      "title": "The most controversial rewrite in history just shipped...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=CXSvKcLovAk",
+      "pubDate": "2026-07-15T17:39:02.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
