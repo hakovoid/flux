@@ -2,6 +2,300 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "214a1af4b3a2",
+      "title": "OpenAI is being sued for stealing, again…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "pubDate": "2026-07-17T17:56:42.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ee8f7fd3ce6",
+      "title": "Pix 2D to 3D - Des sprites aux modèles 3D, sans IA ni GPU",
+      "description": "Si vous faites du pixel art, voilà un petit outil qui devrait vous plaire. Pix 2D to 3D prend votre sprite et vous le transforme en modèle 3D voxelisé au format .obj, importable direct dans Blender, Unity ou Godot. Pas la moindre trace d'IA là-dedans, uniquement des maths, et son dev Prashant bosse chez Snaptrude sur du logiciel 3D, donc autant vous dire qu'il maîtrise. L'idée, c'est de vous épargner la modélisation quand vous montez un jeu en 3D iso ou un 2.5D et qu'il vous manque juste trois…",
+      "link": "https://korben.info/voxelizer-pixel-art-3d-obj.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T13:18:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/voxelizer-pixel-art-3d-obj/voxelizer-pixel-art-3d-obj-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c38eab25377",
+      "title": "Firefox en WebAssembly - Gecko s'embarque dans vos pages web",
+      "description": "Vous avez une TV connectée qui vous crache de la pub, un navigateur intégré dedans qui n'accepte aucune extension, et surtout aucun moyen d'installer quoi que ce soit dessus ? Bonne nouvelle les amis, l'équipe de Puter vient de compiler Firefox en WebAssembly, ce qui fait que ce mur commence sérieusement à se fissurer... On avait déjà de vieux OS et des émulateurs x86 qui tournaient dans une page web , et là on passe carrément au navigateur au complet. La démo est en ligne si vous voulez tester…",
+      "link": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:56:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-webassembly-gecko-navigateur-embarque/firefox-webassembly-gecko-navigateur-embarque-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a880b2f9d271",
+      "title": "Open OSCAR Server - Faites revivre AIM sur vos vieilles bécanes",
+      "description": "Vous vous souvenez d'AIM ? Mais siiii, le petit bonhomme jaune qui courait, la porte qui claque quand un pote se connecte, les away messages passifs-agressifs à base de paroles de chanson... Et bien la bidouilleuse Veronica a remonté son propre serveur AIM, et ça a l'air de plutôt bien fonctionner Pour reposer un peu le cadre, AOL a débranché AIM fin 2017. Depuis, les millions de screen names de l'époque pointent dans le vide (Moi c'était FoxMDE ^^), et tous les vieux clients qui traînent…",
+      "link": "https://korben.info/serveur-aim-perso-open-oscar.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:32:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/serveur-aim-perso-open-oscar/serveur-aim-perso-open-oscar-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "676ffe564b5b",
+      "title": "Mario Kart Wii bientôt jouable sans Dolphin ni Wii",
+      "description": "Alors ça, c'est un sacré morceau qui va ravir tous les fans de rétro gaming ! Patchzy, le dev de Wheel Wizard (le launcher de Retro Rewind), vient d'annoncer Mario Kart Wii compiled, ce qu'il présente comme le premier jeu Wii recompilé en natif pour PC. Pas émulé, hein recompilé. Et vous allez voir pourquoi c'est mieux ! alors pour le moment c'est pas encore dispo, mais c'est une annonce qui est faite en amont de la sortie en bêta qui aura lieu au mois d'août. Cette version de Mario Kart est la…",
+      "link": "https://korben.info/mario-kart-wii-recompilation-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T11:25:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mario-kart-wii-recompilation-pc/mario-kart-wii-recompilation-pc-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d2ed2ab58627",
+      "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
+      "description": "Découvrez la refonte de la page d'exception Symfony : une timeline cliquable et un bouton 'Copy as text' pour les IA. Analyse de cette évolution.",
+      "link": "https://lecodeestdanslepre.fr/billets/page-exception-symfony-redesign-copy-as-text",
+      "pubDate": "2026-07-17T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/page-exception-symfony-redesign-copy-as-text.png?v=0e5edfb7b413cabc",
+      "type": "blog"
+    },
+    {
+      "id": "2a712314e26e",
+      "title": "Torvalds aux opposants à l'IA dans Linux : forkez le noyau, ou passez votre chemin",
+      "description": "On ne présente plus Linus Torvalds, le père du noyau Linux, aussi connu pour son génie technique que pour un franc-parler. Cette fois, c'est le débat sur l'usage de l'IA dans le développement du noyau qui l'a fait sortir du bois. Sur la fameuse mailing list où se décide l'avenir de Linux, il a coupé court à la polémique en posant noir sur blanc que son projet n'était pas, et ne serait jamais, un truc anti-IA.",
+      "link": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T10:12:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin/torvalds-aux-opposants-a-lia-dans-linux-forkez-le-noyau-ou-passez-votre-chemin-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e1879dd8be9b",
+      "title": "La Belgique bloque wawacity.pizza, mais les pirates se sont déjà mis au poker",
+      "description": "La Belgique vient de bloquer wawacity.pizza. Et wawacity.rodeo. Ah et aussi wawacity.taxi, wawacity.futbol, wawacity.motorcycles, wawacity.irish, sans oublier zone-telechargement.meme et zone-telechargement.monster ( la liste est ici ). 113 domaines au total, classés le 3 juillet dernier comme contrefaisants par le président du tribunal de l'entreprise francophone de Bruxelles dont 37 pour Wawacity et 36 pour Zone-Téléchargement . Y'a même un zone-telechargement.gratis, qui est au moins honnête…",
+      "link": "https://korben.info/belgique-blocage-domaines-piratage-poker.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T10:02:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/belgique-blocage-domaines-piratage-poker/belgique-blocage-domaines-piratage-poker-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "99348bfc8be1",
+      "title": "Un RAG Magique !",
+      "description": "Il y a peu, je me suis mis à rejouer à Magic: The Gathering avec des amis. C’est un jeu de cartes à collectionner dans lequel on construit des decks pour affronter ses adversaires à travers divers modes de jeux possibles. Le jeu existe depuis 1993 et n’a cessé d’évoluer depuis. Résultat : même les […] Cet article, Un RAG Magique !, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/un-rag-magique",
+      "pubDate": "2026-07-17T09:56:38.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f474.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ab4f7ac98c9",
+      "title": "Comprendre le principe SOLID en programmation",
+      "description": "SOLID est un acronyme qui signifie : Single Responsibility - Open/Closed - Liskov’s Substitution - Interface Segregation - Dependency Inversion... Mais ça veut dire quoi exactement ? Notes de l'épisode : 10 femmes qui ont révolutionné l'informatique (https://code-garage.com/blog/ces-femmes-qui-ont-revolutionne-l-informatique) L'injection de dépendances (https://code-garage.com/podcast/classic/episode-129)",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Comprendre-le-principe-SOLID-en-programmation-e3m6p46",
+      "pubDate": "2026-07-17T09:54:10.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/122954310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-17%2Ff2654f59-861d-ae16-910a-b8ec8a6aab26.mp3",
+      "duration": "00:12:42"
+    },
+    {
+      "id": "c38c4a4bc34e",
+      "title": "GPT-5.6 Sol efface la prod - Un an après Replit, rebelote",
+      "description": "Vous vous souvenez de Jason Lemkin ? C'est le malheureux qui, en juillet de l'année dernière, s'est fait vider sa base de prod par l'IA de Replit. Je pense que cette histoire a traumatisé pas mal de développeurs. Eh bien les amis, rebelote avec GPT 5.6 Sol, qui le temps que vous finissiez votre café, avait déjà mangé le Mac de Matt Shumer , la base Neon de Bruno Lemos , les fichiers de Joey Kudish , et la crédibilité du mot \"honnête\".",
+      "link": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T09:49:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gpt-5-6-sol-suppression-fichiers-openai/gpt-5-6-sol-suppression-fichiers-openai-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1cb6e194d4de",
+      "title": "The Token Manifesto",
+      "description": "The Token Manifesto We are uncovering better ways of consuming context by doing it and helping others do it.Through the work of producing tokens, deleting tokens, and staring at a usage bar nervously, we have come to value:1. Short system prompts over clever system prompts : The model reads the same 47 lines you wrote at 2am and judges you either way.2. One clear example over three paragraphs of explanation Show, don't tell. Show, don't tell again.3. Iterating in small steps over dumping the...",
+      "link": "https://www.touilleur-express.fr/2026/07/17/the-token-manifesto",
+      "pubDate": "2026-07-17T09:34:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://www.touilleur-express.fr/uploads/2026/07/1784291686-a-yxaoww7pep7x9_zzvg5_pbskxf8f.png",
+      "type": "blog"
+    },
+    {
+      "id": "70b9dffc7ddc",
+      "title": "Airflow : introduction au Dynamic Task Mapping",
+      "description": "Airflow : comprendre le Dynamic Task Mapping",
+      "link": "https://blog.ippon.fr/2026/07/17/airflow-introduction-au-dynamic-task-mapping/",
+      "pubDate": "2026-07-17T09:26:15.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---15.54.18.png",
+      "type": "blog"
+    },
+    {
+      "id": "22639cfc66ed",
+      "title": "Accélérer votre CI : mettre en cache l’état de la base de données",
+      "description": "Il y a quelques années, j’écrivais Accélérer votre intégration continue. L’article passait en revue tout un tas de techniques pour rendre une CI plus rapide : cache Composer, cache Yarn, layers Docker, parallélisation, tmpDir de PHPStan… et, tout en bas de la liste, une idée un peu à part : plutôt que de rejouer les fixtures à chaque build, charger un dump SQL pré-généré. L’idée est séduisante, mais sous sa forme la plus simple (un dump statique, versionné, régénéré à la main) elle a un défaut…",
+      "link": "https://jolicode.com/blog/accelerer-votre-ci-mettre-en-cache-l-etat-de-la-base-de-donnees",
+      "pubDate": "2026-07-17T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/accelerer-votre-ci-mettre-en-cache-l-etat-de-la-base-de-donnees.png",
+      "type": "blog"
+    },
+    {
+      "id": "560c4050c8ac",
+      "title": "Contourner un géoblocage via VPN n'a rien d'illégal, dit la CJUE",
+      "description": "En voilà une bonne nouvelle ! La Cour de justice de l'Union européenne vient de rendre un arrêt le 9 juillet dernier qui précise que contourner un géoblocage avec un VPN ne fait pas de vous un pirate. Et croyez-moi, nos ayants droit préférés ne vont pas adorer. En plus, toute cette affaire est un petit bijou de bizarrerie juridique. Les manuscrits d'Anne Frank sont protégés par le droit d'auteur aux Pays-Bas jusqu'en 2037, mais ils sont déjà tombés dans le domaine public dans plein d'autres…",
+      "link": "https://korben.info/vpn-geoblocage-legal-cjue.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T07:40:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vpn-geoblocage-legal-cjue/vpn-geoblocage-legal-cjue-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0ad540e4cbe2",
+      "title": "Comic Chat - L'IRC qui vous dessinait en BD fonctionne encore",
+      "description": "Microsoft vient de balancer sur GitHub le code source de Comic Chat. Je pense qu'on est peu nombreux à s'en souvenir mais c'était un logiciel sorti en 1996, imaginé par DJ Kurlander chez Microsoft Research, qui affichait nos discussions IRC sous forme de bande dessinée auto-générée, avec les personnages, les bulles et le cadrage gérés automatiquement. C'était codé en C++ et 30 ans plus tard, ça se compile encore ! Vous tapiez une phrase, et le logiciel décidait quels personnages coller dans la…",
+      "link": "https://korben.info/microsoft-comic-chat-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-17T07:21:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/microsoft-comic-chat-open-source/microsoft-comic-chat-open-source-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5d323370d8a0",
+      "title": "Non pas un, mais deux projets mêlant impression 3D et électronique embarquée",
+      "description": "Après un silence quasi religieux depuis 1 mois et demi, vous vous demandez peut-être (ou non) ce que je fais de mes après-midi ? Et bien je vais vous le dire (non non, ne partez pas) En réalité, j’ai enchaîné deux projets “maker” qui méritent que je m’y attarde : une boîte à coucou pilotée par reconnaissance vocale, et un gyrophare connecté en open source. Et les deux partagent un ADN commun : impression 3D, OpenSCAD et de bidouille électronique du dimanche. À que coucou ! Alors forcément, ça…",
+      "link": "https://blog.zwindler.fr/2026/07/17/non-pas-un-mais-deux-projets-melant-impression-3d-et-electronique-embarquee/",
+      "pubDate": "2026-07-17T07:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/alerte-rouge.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e16928709d6a",
+      "title": "Workflow, orchestrer des tâches asynchrones sans usine à gaz",
+      "description": "Présentation de Workflow, la librairie Vercel pour orchestrer simplement des tâches asynchrones en JavaScript/TypeScript, avec retries, pauses, webhooks, actions humaines et observabilité, en partageant son retour d’expérience et des cas concrets. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/workflow/",
+      "link": "https://double-slash.dev/podcasts/workflow/",
+      "pubDate": "2026-07-17T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1784274696/episode/ART_136_zvafgr.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_136_workflow.mp3",
+      "duration": "2637"
+    },
+    {
+      "id": "cb9093bb6601",
+      "title": "Uptobox : à cause de quelques tweets, ce technicien doit 306 000 euros à Disney",
+      "description": "Disney considérait une addition à 16 millions d'euros contre un simple technicien d'Uptobox, la cour d'appel de Paris vient de la ramener à 306 000, et ce qui reste ne tient même pas à son travail sur les serveurs, mais à quelques messages qu'il a postés sur X. Une histoire folle. Petit rappel pour ceux qui n'ont jamais croisé le nom. Uptobox était un gros hébergeur de fichiers, une sorte de coffre-fort en ligne où l'on déposait et s'échangeait des vidéos, très utilisé pour récupérer films et…",
+      "link": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-16T15:28:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney/uptobox-a-cause-de-quelques-tweets-ce-technicien-doit-306-000-euros-a-disney-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ebfe934aef38",
       "title": "La France est numéro un mondial de l'IPv6, et en grande partie grâce à Free",
       "description": "La France vient de décrocher un titre plutôt inattendu, celui de championne du monde de l'IPv6, en détrônant l'Inde qui menait la danse depuis un bon moment. L'IPv6, c'est la \"nouvelle\" version du système d'adresses qui identifie chaque appareil connecté à internet. Il remplace petit à petit l'IPv4, qui date des années 80 et dont le stock d'adresses, à peine plus de quatre milliards, est épuisé depuis longtemps. Avec l'IPv6, on passe à un nombre d'adresses tellement gigantesque qu'on ne risque…",

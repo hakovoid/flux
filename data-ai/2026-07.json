@@ -2,6 +2,34 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d9b2b6a45e1f",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "pubDate": "2026-07-17T15:57:54.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5c524823095",
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "pubDate": "2026-07-17T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2AALaD60DKuRkqenMyd9By/02ee9fe9a433a13f51bcb8cff7657d91/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "980d749ecfc6",
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "description": "",
