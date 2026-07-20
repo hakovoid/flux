@@ -2,6 +2,156 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "55a6e3ab4163",
+      "title": "Un demi-million de domaines anti-pub stockés dans 50 Ko de RAM",
+      "description": "Pi-hole sur un Raspberry Pi, c'est cool, mais ça vous coûte quand même quelques dizaines d'euros (lien affilié) et ça squatte une prise en permanence. C'est pourquoi M-Abozaid a fait tenir la même chose dans une clé ESP32-C3 à pas cher (lien affilié). Son firmware bloque ainsi 537 000 domaines de pub en utilisant à peine 50 Ko de RAM, et est capable de répondre à une requête bloquée en 10 millisecondes.",
+      "link": "https://korben.info/esp32-dns-dongle-anti-pub.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:13:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/esp32-dns-dongle-anti-pub/esp32-dns-dongle-anti-pub-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "875ae988507c",
+      "title": "Compressez vos vidéos d'un clic droit sur Mac",
+      "description": "Pour une raison que je ne m'explique pas, parfois quand j'upload des vidéos sur mon WordPress, celles-ci ne fonctionnent pas correctement une fois l'article publié. Je pense que c'est parce qu'elles sont mal encodées et que par conséquent le navigateur ne sait pas les lire. Pour remédier à ça, je faisais donc un petit coup de FFmpeg , mais ouvrir le terminal et recoller les mêmes paramètres à chaque fois, c'était un peu lourdingue.",
+      "link": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T05:21:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dafdcd4f0224",
+      "title": "La loi de l'attraction prouvée scientifiquement ?",
+      "description": "Vous avez déjà accroché avec quelqu'un en trois secondes ? Détesté une tête au premier regard, sans savoir pourquoi ? Eh bien, d'après le site Popular Mechanics ce serait grâce aux champs électromagnétiques. Derrière l'étude qu'ils relaient, il y a l'anesthésiste Marco Cavaglià et Tommaso Firaux, épaulés par le biophysicien Jack Tuszynski et leur équipe du Politecnico de Turin qui nous parlent d'une espèce de forme invisible qui nous brancherait sur l'esprit des autres comme une antenne radio…",
+      "link": "https://korben.info/champs-electromagnetiques-conscience.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T13:13:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/champs-electromagnetiques-conscience/champs-electromagnetiques-conscience-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "51de9b0cac1b",
+      "title": "727 mots de passe par seconde, la Game Boy Advance s'y met fort ^^",
+      "description": "727 mots de passe testés par seconde, c'est le score incroyable d'une Game Boy Advance reprogrammée en casseur de mots de passe par solst-ice, un développeur qui avait visiblement une console de 2001 qui traînait et pas mal de temps à tuer ^^. Son projet s'appelle GBA-Hashcat, et c'est un \"port\" de hashcat (le célèbre outil de crackage) sur le petit hardware portable de Nintendo. Enfin, un port entre grosses guillemets, parce que le vrai hashcat gère plus de 300 algorithmes de hash optimisés et…",
+      "link": "https://korben.info/gba-hashcat-craqueur-mots-de-passe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T10:23:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gba-hashcat-craqueur-mots-de-passe/gba-hashcat-craqueur-mots-de-passe-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "cff70545e683",
+      "title": "Castor - Votre flux vidéo web sur la télé, en top qualité",
+      "description": "Vous avez déjà pesté contre votre télé qui refuse de lire une vidéo pourtant toute bête trouvée sur le web ? Hé bien Kilian Houpeurt aussi et c'est pourquoi il a décidé, plutôt que de râler dans le vide comme un mec lambda sur Twitter, qu'il allait prendre le taureau par les cornes et coder sa propre solution. Ça s'appelle Castor et évidemment ça envoie du bois, lol. En fait c'est un outil en ligne de commande écrit en Go qui est open source et qui permet d'envoyer le vrai flux vidéo d'une page…",
+      "link": "https://korben.info/castor-caster-flux-video-web-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T07:57:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/castor-caster-flux-video-web-tv/castor-caster-flux-video-web-tv-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "bb82182b0428",
+      "title": "Une demi-seconde a fait tomber la backdoor XZ - Voici son livre",
+      "description": "Une demi-seconde. C'est le retard qu'ont pris les connexions SSH d'Andres Freund, ingénieur chez Microsoft, lors d'un benchmark de routine en mars 2024. Cette demi-seconde, Adrian Mastronardi, CTO de Habi et linuxien depuis 1996, vient d'en tirer un bouquin gratuit, Half a Second , qui raconte toute l'affaire XZ du début à la fin. La plupart des gens auraient haussé les épaules mais lui, non. Il a tiré le fil, encore et encore, et a fini par déterrer une des backdoors les plus tordues jamais…",
+      "link": "https://korben.info/half-second-livre-backdoor-xz.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T07:27:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/half-second-livre-backdoor-xz/half-second-livre-backdoor-xz-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c2386708efa",
+      "title": "Un moddeur fait tourner trois GTA les uns dans les autres",
+      "description": "Y'a un moddeur de génie, Dryxio, qui vient de réussir un truc que Rockstar n'a jamais osé faire : Faire tourner GTA III et Vice City en entier, à l'intérieur de GTA San Andreas. Ouèp, les deux jeux complets, avec leur mode histoire, leurs sauvegardes et leurs réglages ! Dans San Andreas, CJ peut allumer la télé de sa baraque sur Grove Street, ou une borne d'arcade, et hop, une partie de GTA III ou de Vice City se lance. Chaque jeu tourne comme un moteur séparé injecté dans le processus de San…",
+      "link": "https://korben.info/gta-3-vice-city-san-andreas-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T06:53:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gta-3-vice-city-san-andreas-mod/gta-3-vice-city-san-andreas-mod-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "2bd70ac4d5dc",
+      "title": "WP2Shell - La faille qui permet de pirater WordPress sans aucun plugin",
+      "description": "Vous avez un site sous WordPress ? Alors lâchez tout ce que vous faites deux minutes, parce que là c'est du sérieux !! Cette nouvelle attaque baptisée WP2Shell permet de compromettre une installation Wordpress sans passer par le moindre plugin. Heureusement, un patch est sorti en urgence le 17 juillet ! En temps normal, quand une alerte sécu tombe sur WordPress, le fautif c'est un plugin tiers vérolé , un truc installé un soir de flemme et oublié depuis des lustres. Mais cette fois, rien de…",
+      "link": "https://korben.info/wp2shell-exploits-prise-controle-wordpress.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-19T06:38:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wp2shell-exploits-prise-controle-wordpress/wp2shell-exploits-prise-controle-wordpress-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e9e0f92755f",
+      "title": "Pourquoi je ne fais pas d'open source sur Writizzy",
+      "description": "Rendre son produit open source : une évidence pour la durabilité ou un piège économique et mental ? Retour d'expérience et dilemmes à travers le cas Writizzy.",
+      "link": "https://eventuallycoding.com/p/pourquoi-je-ne-fais-pas-d-open-source-sur-writizzy",
+      "pubDate": "2026-07-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/_og/d/c_DefaultPost,title_Pourquoi+je+ne+fais+pas+d",
+      "type": "blog"
+    },
+    {
+      "id": "2f854d6e5528",
+      "title": "Twig 3.28 : le sandbox arrête de tout emballer, les macros redeviennent dynamiques",
+      "description": "Découvrez les nouveautés de Twig 3.28 : le retour des macros dynamiques grâce à l'opérateur point et un sandbox plus performant. Auditez vos extensions Twig.",
+      "link": "https://lecodeestdanslepre.fr/billets/twig-3-28-sandbox-macros-dynamiques",
+      "pubDate": "2026-07-18T10:33:00.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/twig-3-28-sandbox-macros-dynamiques.png?v=b5e84b6bb10c1bfc",
+      "type": "blog"
+    },
+    {
       "id": "6b884c981cec",
       "title": "Le SEO tué par l'IA ? Les chiffres ne mesurent pas la même chose",
       "description": "Zéro-clic, AI Overviews : ces chiffres ne mesurent pas la même chose. Comment lire leur périmètre, et mesurer la dépendance réelle de votre site à Google.",
@@ -14,6 +164,21 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/og/billets/seo-ia-guerre-des-chiffres.png?v=fc5b509cec0ff688",
+      "type": "blog"
+    },
+    {
+      "id": "8cdf2909ea8d",
+      "title": "Fable 5 est tellement demandé qu'Anthropic n'arrive plus à suivre",
+      "description": "Anthropic a fini par annoncer ce que tout le monde attendait : à partir du 20 juillet, son modèle d'intelligence artificielle Fable 5 restera inclus dans les abonnements Max et Team Premium, mais avec un plafond fixé à la moitié seulement des limites d'usage habituelles, une manière à peine déguisée de rationner un service que la société n'arrive plus à fournir à tout le monde. Anthropic, pour ceux qui suivent l'IA de loin, c'est l'entreprise américaine derrière l'assistant Claude et la grande…",
+      "link": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-18T06:25:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre/fable-5-est-tellement-demande-quanthropic-narrive-plus-a-suivre-1.webp",
       "type": "blog"
     },
     {
