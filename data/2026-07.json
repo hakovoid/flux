@@ -2,6 +2,173 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ddd6ecbe2ef0",
+      "title": "Empreintes et ADN - Le vrai prix de votre ESTA",
+      "description": "Vos empreintes digitales, votre photo et jusqu'à votre ADN, voilà ce que les États-Unis aimeraient consulter directement dans les fichiers de police européens. Le deal s'appelle Enhanced Border Security Partnership (EBSP), et la monnaie d'échange, vous la connaissez bien si vous avez déjà voyagé aux États-Unis. C'est ce petit formulaire ESTA que vous remplissez avant de filer à New York ou ailleurs (celui qui vous évite le visa). Le projet d'accord, vous n'étiez pas censé le lire, mais l'ONG…",
+      "link": "https://korben.info/ue-usa-donnees-biometriques-visa-ebsp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T15:16:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "67273fb7c11a",
+      "title": "Neural Drive - Le jeu de kart qui tourne sans moteur de jeu, dans votre navigateur",
+      "description": "Aujourd'hui je vais vous parler d'un jeu de karting façon Mario Kart qui fonctionne sans moteur 3D et sans même une seule ligne de code. En réalité, il s'agit d'un modèle de 130 millions de paramètres qui est capable de deviner à quoi doit ressembler l'image suivante. Cela a été mis en ligne hier soir par Asankhaya Sharma, c'est le gars derrière OptiLLM . Ça s'appelle Neural Drive et ça imite Super Tux Kart , le Mario Kart libre dont je vous ai déjà parlé.",
+      "link": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T13:41:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/neural-drive-world-model-supertuxkart-navigateur/neural-drive-world-model-supertuxkart-navigateur-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e0c25f7f900",
+      "title": "Reviewer des patches git par mail sans quitter Thunderbird",
+      "description": "Marc Coquand avait très envie d'embarquer son équipe dans un nouveau genre de workflow Git à base d'emails et c'est pour ça qu'il a créé thunderbird-patch-review . Il s'agit d'une extension pour Thunderbird qui, lorsque vous ouvrez un mail qui contient une série de patchs, vous propose un bouton \"Review\" vous permettant d'accéder à une interface de relecture Git qui va vous être très familière, vous allez voir. Ensuite, si la série des patchs vous convient, vous pouvez tous les approuver…",
+      "link": "https://korben.info/thunderbird-review-patches-git-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T13:02:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/thunderbird-review-patches-git-email/thunderbird-review-patches-git-email-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b4bacbdbfb72",
+      "title": "JoliMediaSyliusBundle, a New Bridge for Your Sylius Projects",
+      "description": "Does the excellent Sylius E-commerce framework even need an introduction? If Sylius has established itself in the e-commerce ecosystem, it's largely thanks to its ability to adapt to a wide variety of business needs without imposing a rigid architecture. Its extension system allows for gradual feature evolution while preserving the framework's core mechanisms. Late last year, we launched JoliMediaBundle, a Symfony bundle dedicated to managing media libraries. It already came with two bridges…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-a-new-bridge-for-your-sylius-projects",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "227456a60e9e",
+      "title": "JoliMediaSyliusBundle, un nouveau bridge pour vos projets Sylius",
+      "description": "Est-il encore nécessaire de présenter l’excellent framework E-commerce Sylius ? Si Sylius s’est imposé dans l’écosystème e-commerce, c’est notamment grâce à sa capacité à s’adapter à des besoins métier très variés sans imposer une architecture rigide. Son système d’extensions permet de faire évoluer progressivement les fonctionnalités tout en conservant les mécanismes du cœur du framework. Fin d'année dernière, nous avons lancé le JoliMediaBundle, un bundle Symfony dédié à la gestion de…",
+      "link": "https://jolicode.com/blog/jolimediasyliusbundle-un-nouveau-bridge-pour-vos-projets-sylius",
+      "pubDate": "2026-07-20T12:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joli-media-sylius-bundle/sonata-grid-view.png",
+      "type": "blog"
+    },
+    {
+      "id": "0ca0da78d984",
+      "title": "Moonshine - Et votre serveur Linux sans écran devient une console",
+      "description": "NVIDIA a débranché GameStream, son système maison pour envoyer les jeux de votre PC vers une Shield ou un laptop. Sauf que le protocole, lui, n'est pas mort : Moonlight , le client open source qui le réimplémente, tourne toujours sur Windows, macOS, Linux, Steam Link, Raspberry Pi 4, Apple TV et Xbox, et même sur des Switch et des Vita en homebrew. Et surtout, Hans Gaiser bricole depuis début 2024 une pièce qui manquait côté serveur, Moonshine , qui commence à être sérieusement utilisable.",
+      "link": "https://korben.info/moonshine-serveur-streaming-jeux-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T11:51:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "4ee32acf32c5",
+      "title": "BMASS - Bootez direct votre PC sur une IA locale",
+      "description": "Balaji Bikshandi avait un rêve ! Il voulait booter sa machine directement sur un LLM sans avoir à passer par le moindre environnement de bureau ! Et il y est parvenu avec son outil BMASS , qui s'installe sur une clé USB de 8 Go, et qui embarque Alpine Linux, llama.cpp et un modèle Qwen3 0.6B évidemment quantisé. Vous allumez l'ordi portable, Alpine démarre depuis la clé et vous tombez sur un prompt BMASS>. Et voilà à partir de là, vous pouvez causer à votre ordinateur en langage naturel.…",
+      "link": "https://korben.info/bmass-boot-usb-modele-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T10:20:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "2b79be0168d0",
+      "title": "Organiser ses worktrees dans Antigravity 2.0",
+      "description": "📕 Les Git worktrees Les worktrees sont apparus dans Git dans la version 2.5.0, sortie en Juillet 2015 (cf https://github.blog/open-source/git/git-2-5-including-multiple-worktrees-and-triangular-workflows/)",
+      "link": "https://blog.zenika.com/2026/07/20/organiser-ses-worktrees-dans-antigravity-2-0/",
+      "pubDate": "2026-07-20T08:04:42.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4d5.png",
+      "type": "blog"
+    },
+    {
+      "id": "aa0c097a4cf5",
+      "title": "RetroMac - Le retour des Flying Toasters et du dock en verre",
+      "description": "Maik Klotz, un développeur allemand, a sorti une app menu bar qui repeint votre Mac aux couleurs de Snow Leopard, System 6, Windows 98 ou encore BeOS. Elle s'appelle RetroMac et elle ne touche pas une ligne de votre système, donc pas de risques de tout casser. Le catalogue des thèmes couvre à peu près tout ce qui nous a fait vieillir : le System 6 de 1988 en noir et blanc 1 bit avec ses barres de titre à rayures et sa police Chicago, Mac OS 9 et son Control Strip, l'Aqua bleu bonbon de 2001, le…",
+      "link": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T07:16:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/retromac-theme-retro-macos-crt-snow-leopard/retromac-theme-retro-macos-crt-snow-leopard-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d759a863fec7",
+      "title": "France Travail - 26 variables décident si vous êtes suspect",
+      "description": "Votre CV en ligne sur le site de France Travail, un métier en tension, un rendez-vous raté il y a 2 ans ? Ce sont 3 des 26 variables qu'un algorithme épluche pour décider si votre dossier part au contrôle. Voilà où on en est. La Quadrature du Net a publié aujourd'hui, avec la cellule investigation de Radio France, le document interne qui le décrit, présenté au comité d'éthique IA de France Travail le 10 décembre dernier. Son petit nom, c'est « Ciblage du Contrôle de la Recherche d'Emploi » et…",
+      "link": "https://korben.info/france-travail-algorithme-ciblage-controle-chomeurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:58:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/france-travail-algorithme-ciblage-controle-chomeurs/france-travail-algorithme-ciblage-controle-chomeurs-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "367ae6b9c6c0",
+      "title": "Hugging Face piraté, les IA américaines refusent de les aider",
+      "description": "Hugging Face vient de raconter sur son site comment son infra de production s'est fait défoncer par un essaim d'agents IA autonomes. Le point de départ, c'est un dataset piégé déposé sur la plateforme qui exploitait deux chemins d'exécution de code dans le pipeline qui traite les datasets. Ajoutez à ça un loader qui accepte du code distant et une injection de template dans une config, et hop, on obtient du code qui tourne sur un worker maison.",
+      "link": "https://korben.info/hugging-face-pirate-agent-ia-autonome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-20T06:50:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hugging-face-pirate-agent-ia-autonome/hugging-face-pirate-agent-ia-autonome-2.png",
+      "type": "blog"
+    },
+    {
       "id": "55a6e3ab4163",
       "title": "Un demi-million de domaines anti-pub stockés dans 50 Ko de RAM",
       "description": "Pi-hole sur un Raspberry Pi, c'est cool, mais ça vous coûte quand même quelques dizaines d'euros (lien affilié) et ça squatte une prise en permanence. C'est pourquoi M-Abozaid a fait tenir la même chose dans une clé ESP32-C3 à pas cher (lien affilié). Son firmware bloque ainsi 537 000 domaines de pub en utilisant à peine 50 Ko de RAM, et est capable de répondre à une requête bloquée en 10 millisecondes.",
@@ -29,6 +196,21 @@
         "Web"
       ],
       "image": "https://korben.info/ffmpeg-compresser-video-mac-clic-droit/ffmpeg-compresser-video-mac-clic-droit-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "19accd67d164",
+      "title": "Le prix de la souveraineté numérique",
+      "description": "La souveraineté numérique européenne se heurte à une réalité : trouver des alternatives ne suffit pas, elles doivent aussi rester compétitives économiquement",
+      "link": "https://eventuallycoding.com/p/le-prix-de-la-souverainete-numerique",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/_og/d/c_DefaultPost,title_~TGUgcHJpeCBkZSBsYSBzb3V2ZXJhaW5ldMOpIG51bcOpcmlxdWU,description_~TGEgc291dmVyYWluZXTDqSBudW3DqXJpcXVlIGV1cm9ww6llbm5lIHNlIGhldXJ0ZSDDoCB1bmUgcsOpYWxpdMOpIDogdHJvdXZlciBkZXMgYWx0ZXJuYXRpdmVzIG5lIHN1ZmZpdCBwYXMsIGVsbGVzIGRvaXZlbnQgYXVzc2kgcmVzdGVyIGNvbXDDqXRpdGl2ZXMgw6ljb25vbWlxdWVtZW50,p_Ii9wL2xlLXByaXgtZGUtbGEtc291dmVyYWluZXRlLW51bWVyaXF1ZSI.png",
       "type": "blog"
     },
     {

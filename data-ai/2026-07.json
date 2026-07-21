@@ -2,6 +2,48 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "46d88c24f24c",
+      "title": "Introducing Cosmos 3 Edge",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "pubDate": "2026-07-20T15:58:51.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a45813c717ace23b8c3b562/9_7TYr_qt6fVauHKiFGh5.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5ab872c216c",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "pubDate": "2026-07-20T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7VsDMfKDQaCRhafmq4r/58954b4318f57a81a96ad23470ed2497/SEO_image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "413ef8ab4176",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "description": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "pubDate": "2026-07-20T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeShield&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "d9b2b6a45e1f",
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "description": "",
