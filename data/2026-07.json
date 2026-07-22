@@ -2,6 +2,114 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "246afe75b196",
+      "title": "#366.bin - Intelligence(s): Créative: Pourquoi la contrainte fait jaillir l'idée avec Todd Lubart",
+      "description": "\"Des contraintes, sont bienvenues pour la créativité. Quand on dit aux gens, faites tout ce que vous voulez, c'est la catastrophe.\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-366-175059378c74",
+      "pubDate": "2026-07-22T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/2d221ce0-d820-42fe-9748-b24ee39b0670.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c9e432af-d15c-4760-b5d0-175059378c74.mp3?_=1784635289",
+      "duration": "51:02"
+    },
+    {
+      "id": "ff7505e4beb8",
+      "title": "J'ai créé mon propre outil de stats sans tracking",
+      "description": "Un site sans cookie de mesure d'audience et sans bandeau de consentement, c'est reposant je trouve... Sauf qu'à cause de ça, bah je ne savais plus trop combien de gens venaient me lire tous les jours. Relou hein ? C'était ma situation depuis un moment déjà, vu que tout ce qui servait à mesurer l'audience a dégagé de korben.info il y a un bon bout de temps. Alors faute de mieux, je me suis rabattu sur AWStats, qui lit bêtement les logs Apache du serveur mais bon, c'est pas terrible, parce…",
+      "link": "https://korben.info/analytics-maison-sans-tracking-cloudflare.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T15:34:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/analytics-maison-sans-tracking-cloudflare/analytics-maison-sans-tracking-cloudflare-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c19ed7a16709",
+      "title": "JoliDay 2026 avec du malt, des aiguilles, de la 3D et des copeaux",
+      "description": "Comme tous les ans, nous avons profité d’un jour férié (en application de la journée de solidarité avec les personnes âgées) pour nous retrouver tous ensemble et faire des projets ni Web ni Mobile, mais toujours de qualité 👌. Nous avons un gros faible pour le DIY et retrouvons la même gratification à résoudre des problèmes dans « le monde réel » que dans nos projets du quotidien ! Dans cet article, nous vous présentons les différents projets réalisés en une journée par les JoliCodeuses et…",
+      "link": "https://jolicode.com/blog/joliday-2026-avec-du-malt-des-aiguilles-de-la-3d-et-des-copeaux",
+      "pubDate": "2026-07-21T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/joliday/table-basse.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0e1575e6ef5f",
+      "title": "Bornes de recharge - Un SSH root au bout du câble CCS2",
+      "description": "Le gros câble que vous branchez sur votre voiture électrique, celui qu'il faut soulever à deux mains et qui pèse le poids d'un âne mort, dispose de 2 choses : Du courant, et un réseau. Lionel Richard Saposnik, chercheur chez SaiFlow, a eu la curiosité d'aller voir ce qui traîne sur ce réseau-là et vous allez voir, c'est pas triste... Quand vous clipsez le pistolet dans la trappe, votre bagnole et la borne montent une liaison IPv6 entre elles, par courant porteur, sur deux broches du connecteur…",
+      "link": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T11:47:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/borne-recharge-ccs2-faille-prise-reseau/borne-recharge-ccs2-faille-prise-reseau-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "967c873bbf35",
+      "title": "Ce drone tourne si vite sur lui-même qu'il devient presque invisible",
+      "description": "Des ingénieurs de l'université Northwestern, près de Chicago, ont construit un petit drone qui disparaît presque à l'œil nu. Pas grâce à un camouflage, mais parce qu'il tourne sur lui-même à toute vitesse. Le principe s'appelle le flou de mouvement. C'est ce qui fait qu'on ne voit plus les pales d'un ventilateur quand il tourne vite. L'œil n'arrive plus à suivre, alors il mélange l'objet avec ce qu'il y a derrière.",
+      "link": "https://korben.info/ce-drone-tourne-si-vite-sur-lui-meme-quil-devient-presque-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T11:20:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/1mUgyV3A1O0/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2f24a52cafaf",
+      "title": "Brancher un écran LG suffit à vous coller une pub McAfee",
+      "description": "32 redémarrages d'affilée, 31 pubs pour McAfee, c'est le résultat du test mené par la chaîne Youtube Gamers Nexus sur un écran LG UltraGear 34GX900A-B branché à un PC tournant sous Windows. Puis au 32e démarrage, l'écran a eu la délicatesse de faire la promo d'un autre utilitaire LG, histoire de varier les plaisirs. Sauf que personne n'a installé quoi que ce soit. L'app s'appelle « LG Monitor App Installer », elle débarque toute seule quand vous branchez le moniteur, et sa fiche technique sur…",
+      "link": "https://korben.info/lg-moniteurs-adware-installation-silencieuse-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T09:17:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/Q9uefFYe6bM/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6c957743d687",
+      "title": "Le Siri caché de votre Mac se réveille en une commande",
+      "description": "Si vous avez installé la beta de macOS 27 Golden Gate, apparemment, vous avez déjà sur votre Mac une interface Siri complète qu'Apple a pris soin de désactiver avant de vous la livrer. Un membre du subreddit r/MacOSBeta l'a débusquée, et elle peut être rallumée rapidement grâce à une seule commande dans le Terminal. Le principe de cette interface c'est que vous sélectionnez du texte, n'importe où, et une petite icône flottante apparaît en haut à gauche de votre sélection. Vous mettez le…",
+      "link": "https://korben.info/macos-27-interface-siri-cachee-feature-flag.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-21T07:08:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/macos-27-interface-siri-cachee-feature-flag/macos-27-interface-siri-cachee-feature-flag-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ddd6ecbe2ef0",
       "title": "Empreintes et ADN - Le vrai prix de votre ESTA",
       "description": "Vos empreintes digitales, votre photo et jusqu'à votre ADN, voilà ce que les États-Unis aimeraient consulter directement dans les fichiers de police européens. Le deal s'appelle Enhanced Border Security Partnership (EBSP), et la monnaie d'échange, vous la connaissez bien si vous avez déjà voyagé aux États-Unis. C'est ce petit formulaire ESTA que vous remplissez avant de filer à New York ou ailleurs (celui qui vous évite le visa). Le projet d'accord, vous n'étiez pas censé le lire, mais l'ONG…",

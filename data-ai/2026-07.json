@@ -2,6 +2,90 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "91a5b7c5572d",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "pubDate": "2026-07-21T20:00:27.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png",
+      "type": "blog"
+    },
+    {
+      "id": "3064e426d18c",
+      "title": "Introducing the ChatGPT for small business program",
+      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "pubDate": "2026-07-21T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2onTvcei0h9xmYqFdLEUBp/dccbb402d3ac3c112fbf4b17235e16f4/smb_launch_blog_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a9044d63de90",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "pubDate": "2026-07-21T15:16:30.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d925d8c91f46",
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "pubDate": "2026-07-21T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1kXZRSOAQbv2BDKEO14tJl/b2f0a336afaddc32e5776ba555bc4dbf/Hugging_Face_Security_Incident_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "69e481323262",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5NxZZoFGJGiDDmv6CKppSI/afcfce20fc288b1213a41cf9bc31819c/6979426f-a80a-46f4-9a04-7aa8e4ef9087.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8549f9ed22c4",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "",
+      "link": "https://huggingface.co/blog/grabette",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/grabette/thumbnail_grabette.png",
+      "type": "blog"
+    },
+    {
       "id": "46d88c24f24c",
       "title": "Introducing Cosmos 3 Edge",
       "description": "",
@@ -55,6 +139,20 @@
         "IA"
       ],
       "image": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png",
+      "type": "blog"
+    },
+    {
+      "id": "b5de177ccc83",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "pubDate": "2026-07-17T15:00:11.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
