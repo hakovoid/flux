@@ -2,6 +2,171 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "211157781140",
+      "title": "Unitree - Le firmware que personne ne signe",
+      "description": "Le 26 février dernier, lors d'une réunion d'Austin Hackers Anonymous au Texas, le chercheur Andreas Makris a fait la démo d'un outil qui permet de générer de faux firmwares Unitree, que le robot avale sans broncher comme s'ils sortaient de l'usine de Hangzhou... Car oui, Mesdames et Messieurs, les robots Unitree ne sont pas capables de déterminer si le firmware avec lequel ils se mettent à jour a été créé par Unitree ou par quelqu'un d'autre.",
+      "link": "https://korben.info/unitree-firmware-cle-chiffrement-casse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T05:10:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/unitree-firmware-cle-chiffrement-casse/unitree-firmware-cle-chiffrement-casse-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "381694d96ea1",
+      "title": "Surfshark et son VPN furtif - Votre FAI ne doit même pas savoir que vous utilisez un VPN",
+      "description": "-- Article en partenariat avec Surfshark -- Vous êtes au café, vous allumez votre VPN pour checker vos mails en toute tranquillité, et là, patatra : la connexion tombe. Votre FAI vient de détecter que vous utilisez un VPN et il vous a bloqué. Sympa, non ?",
+      "link": "https://korben.info/surfshark-et-son-vpn-furtif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T04:47:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-et-son-vpn-furtif/surfshark-et-son-vpn-furtif-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5059d3f89d79",
+      "title": "Cette mini liseuse sous Android fait tout tourner",
+      "description": "– Contient des liens affiliés Amazon – Vous le savez, j'adore les liseuses de la marque Boox, et ils m'ont proposé de tester ce nouveau modèle. La Boox Go 6 Gen II tient sans problème dans une seule main, même petite, comme un vieux livre de poche corné, pèse à peine 160 grammes et se glisse dans une poche sans que vous la sentiez, ce qui en fait désormais la liseuse que je finis par emmener absolument partout, en vacances, sur mon canapé en passant par la salle d'attente du médecin.",
+      "link": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T15:22:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout/cette-mini-liseuse-sous-android-fait-tout-tourner-et-franchement-ca-change-tout-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "230416009bf8",
+      "title": "7-Zip : un simple fichier piégé peut faire tourner du code sur votre PC",
+      "description": "7-Zip, le logiciel de compression gratuit installé sur des centaines de millions de PC pour ouvrir un zip ou un 7z, traîne une faille par laquelle une archive piégée peut lancer du code sur votre machine à la seconde où vous l'ouvrez. La faille porte le doux nom de CVE-2025-14266 et se niche dans la façon dont 7-Zip décompresse les archives au format XZ, très courant sous Linux mais qu'on croise un peu partout.",
+      "link": "https://korben.info/7-zip-un-simple-fichier-piege-peut-faire-tourner-du-code-sur-votre-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T10:40:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "55bf2c89eeb0",
+      "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
+      "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
+      "link": "https://lecodeestdanslepre.fr/billets/urls-signees-usage-unique-symfony-8-2",
+      "pubDate": "2026-07-22T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/urls-signees-usage-unique-symfony-8-2.png?v=0f7f870b1134ddfd",
+      "type": "blog"
+    },
+    {
+      "id": "ada62ff26383",
+      "title": "Configurer swagger avec un SSO sur une API Django",
+      "description": "Confi­gu­rer swag­ger avec une authen­ti­fi­ca­tion single-sign-on (SSO) sur votre API afin de pouvoir la tester avec des jetons OpenID Connect (OIDC).",
+      "link": "https://makina-corpus.com/django/configurer-swagger-avec-un-sso-sur-une-api-django",
+      "pubDate": "2026-07-22T10:28:08.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "534c52a9d4dc",
+      "title": "Portable et cancer du cerveau - L'OMS a fini de chercher",
+      "description": "Depuis 30 ans, vous vous demandez peut-être si coller un téléphone contre votre oreille peut finir par vous refiler une tumeur au cerveau ? Hé bien l'OMS a voulu en avoir le cœur net et a commandé 13 grandes enquêtes sur la question. Et youpiiii, elles viennent toutes d'aboutir et de sortir, et le bilan vient d'être publié dans le New Zealand Medical Journal. Et accrochez-vous bien les complotistes : Les gens qui utilisent un portable n'ont pas plus de tumeurs au cerveau que les autres. Une de…",
+      "link": "https://korben.info/telephone-portable-cancer-cerveau-revues-oms.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T09:56:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "dcee3d0e4509",
+      "title": "Une puce à quelques euros fait tourner la NES à 60 images par seconde",
+      "description": "Faire tourner une console Nintendo de 1983 sur une puce qui coûte moins cher qu'un sandwich, c'est le genre de défi qui plaît aux bricoleurs, et un développeur vient de le réussir plutôt bien. Le projet s'appelle Anemoia-ESP32 et il émule la NES sur un ESP32, ce petit microcontrôleur programmable à quelques euros qu'on trouve dans une tonne d'objets connectés, avec le wifi et le Bluetooth intégrés. Le tour de force, c'est la fluidité. La plupart des jeux tournent à 60 images par seconde,…",
+      "link": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T09:55:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde/une-puce-a-quelques-euros-fait-tourner-la-nes-a-60-images-par-seconde-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6a708e0bff6f",
+      "title": "Unitree - Le robot au modèle IA invisible",
+      "description": "Un coussin qui traîne par terre, des boîtes de médicaments à compter dans un tiroir, du linge à balancer dans le panier, des assiettes à caler dans le lave-vaisselle et un lit médicalisé à remonter de quelques crans. Voilà le programme du robot G1 dans la vidéo qu'Unitree a mise en ligne lundi matin . Deux minutes quinze, en 4K, et ça a fait un million de vues en deux jours.",
+      "link": "https://korben.info/unitree-unifolm-ominia-robot-soins-domicile.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T08:18:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cdn-cgi/image/width=1280,quality=85,format=auto/https://i.ytimg.com/vi/IiNbFPOUrz8/hqdefault.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6db8a6efacc1",
+      "title": "Les IA d'OpenAI ont piraté Hugging Face pour tricher à un test",
+      "description": "Le pirate qui a mis à genoux la prod de Hugging Face voulait juste tricher à son examen, voilà ce qu'OpenAI a reconnu hier. Les agents qui se sont promenés durant tout un week-end dans les clusters de la plateforme, c'étaient leurs modèles à eux, GPT-5.6 Sol et un modèle pré-release encore plus balèze, fonctionnant en mode « refus cyber réduits à des fins d'évaluation ». Le point de départ c'est ExploitGym , contenant 898 vraies vulnérabilités piochées dans des programmes userspace, dans le…",
+      "link": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T07:55:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-modeles-piratent-hugging-face-triche-benchmark/openai-modeles-piratent-hugging-face-triche-benchmark-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "9db391d118a6",
+      "title": "late.sh - Le BBS ressuscité en SSH, avec NetHack dedans",
+      "description": "Vous tapez dans votre terminal ssh late.sh et c'est tout. Votre clé SSH fait alors office de carte de membre et vous voilà dans un salon peuplé de gens qui tapent sur leur clavier depuis un peu partout sur la planète. C'est ce qu'a imaginé Mateusz Piórowski, un dev polonais, qui a passé ces derniers mois à ressusciter le BBS. Vous atterrissez dans THE LATE BAR, un vrai décor en ASCII où vous marchez en utilisant les flèches du clavier ou les touches hjkl. Vous vous asseyez avec s, vous faites…",
+      "link": "https://korben.info/late-sh-bbs-terminal-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-22T07:21:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/late-sh-bbs-terminal-ssh/late-sh-bbs-terminal-ssh-2.png",
+      "type": "blog"
+    },
+    {
       "id": "246afe75b196",
       "title": "#366.bin - Intelligence(s): Créative: Pourquoi la contrainte fait jaillir l'idée avec Todd Lubart",
       "description": "\"Des contraintes, sont bienvenues pour la créativité. Quand on dit aux gens, faites tout ce que vous voulez, c'est la catastrophe.\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre…",
@@ -18,6 +183,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c9e432af-d15c-4760-b5d0-175059378c74.mp3?_=1784635289",
       "duration": "51:02"
+    },
+    {
+      "id": "05bce97d6dd3",
+      "title": "Design et développement : un process souvent oublié (épisode 1)",
+      "description": "Designers et développeurs travaillent ensemble au quotidien, et pourtant, leurs façons de faire et de communiquer restent souvent bien éloignées. Chez Elao, on a décidé de combler ce fossé. Une partie de notre réponse tient en un mot : Storybook.",
+      "link": "https://www.elao.com/blog/methodo/design-developpement-un-process-souvent-oublie",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/methodo/design-developpement-un-process-souvent-oublie/couverture.png/36d065e732b684b7c7cd38ec81ac5d3b.png",
+      "type": "blog"
+    },
+    {
+      "id": "7718cf670269",
+      "title": "Convaincre ne se délègue pas à l'IA",
+      "description": "Depuis quelques mois, je repère de plus en plus de documents et de présentations de leads et de directeurs rédigés à coups d’IA. Ce n’est pas forcément gênant, mais le problème, c’est quand ça se voit de trop. Il y a un style d’écriture qui trahit l’outil. Une certaine structure et des types de tournures qui se remarquent. Le texte est cohérent, mais il est désincarné. Selon le type de document, cela ne me dérange pas. Documenter une procédure, résumer une architecture, formaliser un…",
+      "link": "https://www.jdecool.fr/blog/2026/07/22/convaincre-ne-se-delegue-pas-a-l-ia.html",
+      "pubDate": "2026-07-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "ff7505e4beb8",

@@ -2,6 +2,132 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "a821810ee2b7",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "pubDate": "2026-07-22T13:38:54.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "082c4173c70b",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "pubDate": "2026-07-22T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2E055Vw112vq9W8h2im5nw/2e610c07e7da2a38a0a77c37ffa562d0/effingham_county_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "932591afba7f",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "pubDate": "2026-07-22T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4KPHlygXSOVWJHJlSNVU1N/574f3d3fc5309307943d657bd5000a20/how_news_orgs_use_AI_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a9dfe60b87c5",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "description": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "pubDate": "2026-07-22T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "577ddf6b90e6",
+      "title": "Advancing the next era of national science",
+      "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "pubDate": "2026-07-22T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1K8j5BSz7X2YIZ2ngRc3eQ/946b006a4a440f14cef8bf20d6920e65/Advancing_the_next_era_of_national_science_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "839f7a51d7b5",
+      "title": "Introducing OpenAI Presence",
+      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "pubDate": "2026-07-22T05:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6jXxdGYMc8oC9wCBbM59tD/47cd3218b63b068cf3ec2f63b79d5256/OpenAI_Presence_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "389ebd02d283",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "link": "https://openai.com/index/ntt-data",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3tNx6GYQXnoc3PTfyzifXI/a8f1a707998709f2ee5d9f6d3130fc71/ntt-data-seo-contentful.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a66075dc0af4",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "description": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "26b4e01c469d",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "description": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "pubDate": "2026-07-22T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "91a5b7c5572d",
       "title": "The State of Simulation for Physical AI: An Overview",
       "description": "",
@@ -83,6 +209,20 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/grabette/thumbnail_grabette.png",
+      "type": "blog"
+    },
+    {
+      "id": "9d9e4fbe80b2",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "description": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Stack&amp;backgroundColor=oat",
       "type": "blog"
     },
     {
