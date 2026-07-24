@@ -2,6 +2,34 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "bf70d809f954",
+      "title": "Launching Health in ChatGPT ",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "96f5dc656a14",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "",
+      "link": "https://huggingface.co/blog/nunchaku-diffusers",
+      "pubDate": "2026-07-23T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "a821810ee2b7",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
       "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
@@ -391,6 +419,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "49857bbbb2f8",
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "description": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "link": "https://openai.com/index/codex-collaborator-creative-team",
+      "pubDate": "2026-07-16T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3eagPQOkwIuyIssXtzh5BF/1cfe3d3b5fb125e19693b5adae363336/OAIonOAI_ChadNelson_16x9_1.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {

@@ -240,6 +240,20 @@
       "type": "blog"
     },
     {
+      "id": "207296594c6a",
+      "title": "[dev] Claude for Creative Work",
+      "description": "[dev] Claude for Creative Work",
+      "link": "https://www.anthropic.com/news/claude-for-creative-work-dev",
+      "pubDate": "2026-04-28T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b5d18c04f7f6",
       "title": "OpenAI available at FedRAMP Moderate",
       "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",

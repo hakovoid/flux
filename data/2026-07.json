@@ -2,6 +2,216 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "4646176c9b22",
+      "title": "uhubctl - Couper le courant d'un port USB en une commande",
+      "description": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveiller / ressusciter ? Et bien c'est fini la galère les amis, puisque uhubctl règle ça en une commande. Cet outil coupe puis rallume le courant d'un port USB précis, sans que vous n'ayez à toucher au moindre câble.",
+      "link": "https://korben.info/uhubctl-couper-alimentation-ports-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T05:57:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "453d4cef37d1",
+      "title": "Windows 11 - La restauration qui embarque aussi vos fichiers",
+      "description": "Depuis le 23 juin, Microsoft déploie sur Windows 11 une nouvelle fonction de récupération baptisée point-in-time restore, et il y a de bonnes chances qu'elle tourne déjà sur votre PC sans que vous l'ayez demandé. En effet, sur les éditions Home et les Pro non gérées en entreprise, elle est allumée par défaut dès que votre disque système dépasse 200 Go. Le principe ressemble à ce que fait ce bon vieux point de restauration, sauf qu'il va beaucoup plus loin ! Toutes les 24 heures environ, Windows…",
+      "link": "https://korben.info/windows-11-point-in-time-restore.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T15:46:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "5b0bae0ad59c",
+      "title": "Quelle est mon ip ? Le retour !",
+      "description": "Ma page « Quelle est mon adresse IP » traînait sur korben.info depuis presque 15 ans, à peu près dans son jus d'origine. Hé bien, bonne nouvelle, je viens de la refaire entièrement, et elle est là : korben.info/ip . Vous arrivez dessus, votre IP publique s'affiche en gros, IPv4 et IPv6 séparées avec un bouton copier, et juste en dessous une grille de cartes déballe tout ce que votre connexion raconte sur vous sans que vous ayez rien demandé. La localisation estimée d'abord, sauf que c'est pas…",
+      "link": "https://korben.info/mon-ip-korben-nouvelle-version.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T13:56:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mon-ip-korben-nouvelle-version/mon-ip-korben-nouvelle-version-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a9186b4df1af",
+      "title": "Pentest sauvage à base d'IA, que dit la loi ?",
+      "description": "Benjamin Code , le développeur préféré de votre développeur préféré, a reçu ce week-end un e-mail d'achat bidon avec le mot pentester dedans. En grattant un petit peu, il a découvert que quelqu'un s'amusait à trifouiller l'un de ses SaaS sans le prévenir. Visiblement, c'est un autre créateur, Melvyn (melvynx), qui lui propose des formations autour de l'IA, qui pour les besoins d'une vidéo a fait tourner Kimi K3 en mode \"hack\" pour poutrer certains sites et montrer, vidéo à l'appui, que l'IA…",
+      "link": "https://korben.info/pentest-ia-non-autorise-loi-netiquette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T12:25:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pentest-ia-non-autorise-loi-netiquette/pentest-ia-non-autorise-loi-netiquette-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "4c352e4af59b",
+      "title": "Test d’un câble USB-C magnétique moderne, tout simple et bien pratique",
+      "description": "– Contient des liens affiliés Amazon – Les câbles magnétiques, ce n'est pas nouveau, ça fait bien une dizaine d'années qu'on en trouve. L'idée a toujours été la même, vous laissez un petit embout aimanté planté en permanence dans le port de votre appareil, et le câble vient s'y coller tout seul quand vous en avez besoin.",
+      "link": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T10:05:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique/test-dun-cable-usb-c-magnetique-moderne-tout-simple-et-bien-pratique-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "96b9e248608a",
+      "title": "Une salle de contrôle satellite maison, 100% européenne",
+      "description": "Une salle de contrôle satellite, celle qu'on imagine avec des grands écrans et des ingénieurs en blouse, Clément Igonet en a monté une version perso qui tient sur un seul serveur. Son projet Overwatch affiche 23 satellites qui défilent en temps réel sur un globe. Vous cliquez sur n'importe lequel pour lire, en direct, sa tension de batterie, ses températures et ses courants. Le tout à partir de données 100% ouvertes.",
+      "link": "https://korben.info/salle-controle-satellite-open-data.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T10:02:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/salle-controle-satellite-open-data/salle-controle-satellite-open-data-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5d00deb40970",
+      "title": "Mage-Flow - Le modèle de diffusion de Microsoft qui tourne sur Mac",
+      "description": "Microsoft vient de publier Mage-Flow, un modèle de génération d'images de 4 milliards de paramètres, et dont l'objectif est d'atteindre la qualité des gros modèles sans en avoir la taille. Là où FLUX.2 embarque 32 milliards de paramètres, Qwen-Image 20 et Z-Image 6, Mage-Flow joue dans la même cour mais seulement avec 4 milliards de paramètres. Le pari de Microsoft, c'est ce qu'on appelle le co-design. Au lieu d'empiler les paramètres, Mage-Flow mise sur deux briques taillées ensemble. D'abord…",
+      "link": "https://korben.info/mage-flow-modele-image-local-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T09:44:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mage-flow-modele-image-local-mac/mage-flow-modele-image-local-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce39f9c3765d",
+      "title": "La Xbox originale débarque sur PC, mais Xemu le fait déjà",
+      "description": "Microsoft vient de rendre officiel un truc que les émulateurs font gratuitement depuis des années à savoir vous permettre de jouer aux jeux de la Xbox originale, celle de 2001, directement sur votre PC. Le programme s'appelle \"Xbox Backward Compatibility on PC\" et il a débarqué hier, le 22 juillet, avec 4 titres pour commencer. Au menu de ce premier lot, BLiNX: The Time Sweeper, Conker: Live and Reloaded, Crimson Skies: High Road to Revenge et Fuzion Frenzy. Comptez 10 dollars pièce, sauf si…",
+      "link": "https://korben.info/xbox-original-retrocompatibilite-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T07:56:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "af36626168c5",
+      "title": "Détecter les régressions visuelles dans la CI avec Playwright et Docker",
+      "description": "Sur un gros site public, le front bouge tout le temps : une migration Tailwind par-ci, un composant React par-là, un bloc CMS qui change de gabarit. Et comme toujours avec le CSS, la modification d’une classe qui semblait anodine peut très bien décaler un bloc trois pages plus loin, sans que personne ne s’en rende compte avant la mise en production. Sur un de nos projets, nous avions déjà des tests Behat pour le fonctionnel, et des tests PHPUnit pour le métier. Mais aucun de ces tests ne disait…",
+      "link": "https://jolicode.com/blog/detecter-les-regressions-visuelles-dans-la-ci-avec-playwright-et-docker",
+      "pubDate": "2026-07-23T07:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ci-playwright/playwright-elements-masques.png",
+      "type": "blog"
+    },
+    {
+      "id": "7bb3d0c22d5d",
+      "title": "PyPI verrouille vos vieilles releases contre les tokens volés",
+      "description": "Bonne nouvelle pour tous ceux qui balancent du code sur PyPI. L'index officiel des paquets Python refuse désormais tout nouveau fichier ajouté à une release qui a plus de 14 jours. Le correctif vient de Seth Larson, développeur sécurité en résidence à la Python Software Foundation, et il colmate un trou que personne n'avait encore exploité sur PyPI... mais qui traînait là, grand ouvert. Jusqu'ici, un mainteneur pouvait ajouter un fichier à n'importe quelle release, même sortie il y a 3 ans.…",
+      "link": "https://korben.info/pypi-bloque-fichiers-anciennes-releases.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T07:28:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "87d0ea7529b1",
+      "title": "Ubuntu 26.04 planque ses mises à jour (et c'est fait exprès)",
+      "description": "Ubuntu 26.04 LTS est disponible depuis avril, et si vous l'avez installée, vous avez peut-être remarqué un truc : **Plus aucune notification de mise à jour !**L'icône qui vous prévenait dans la barre du haut a disparu, les pop-ups aussi. Rassurez-vous, ce n'est pas un bug mais un choix de design assumé par Canonical. La clé show-updates-status-icon du paquet update-notifier est passée à false par défaut, du coup, votre système ne vous signale plus rien quand des paquets attendent d'être…",
+      "link": "https://korben.info/ubuntu-26-04-notifications-maj-desactivees.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T07:23:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "88898924e6f6",
+      "title": "Interroger ses fichiers Mac en local, sans cloud, avec bHive",
+      "description": "bHive, c'est une app Mac qui lit l'intérieur de vos fichiers au lieu de se contenter de leur nom, et qui sait maintenant répondre à des questions dessus. Vous lui demandez « qu'est-ce que dit mon bail sur la résiliation anticipée ? », elle va fouiller vos PDF et vous sortir la réponse en clair, tout ça en local sur votre machine, sans rien envoyer nulle part. Vous pointez bHive vers des dossiers que vous avez déjà, et elle lit ce qu'il y a dedans. Vos documents, les PDF, les images dont elle…",
+      "link": "https://korben.info/bhive-recherche-fichiers-questions-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T07:15:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bhive-recherche-fichiers-questions-mac/bhive-recherche-fichiers-questions-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "da33e8ff3ce9",
+      "title": "Phantomdrive - La clé USB déverrouillée par un fichier texte",
+      "description": "Ryan Walker, le gars derrière Rootkit Labs, vient de sortir un truc que je trouve super malin. C'est une clé USB, baptisée Phantomdrive, qui se déverrouille en écrivant dans un simple fichier texte stocké dessus. Vous la branchez, vous ouvrez un bloc-notes, vous tapez password:votremotdepasse dans un fichier que vous enregistrez à la racine, et hop, une partition cachée apparaît. Et y'a pas de logiciel pour faire tourner ça ! Au branchement, votre système voit une clé de 8 Go tout ce qu'il y a…",
+      "link": "https://korben.info/cle-usb-securisee-cachee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T07:06:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cle-usb-securisee-cachee/cle-usb-securisee-cachee-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a160d097c58b",
+      "title": "Universe Atlas - L'univers à l'échelle réelle dans votre navigateur",
+      "description": "Si vous prévoyez de vous rendre en Islande le 12 août prochain pour admirer l'éclipse totale, vous pouvez déjà vous projeter dans l'expérience grâce à Universe Atlas, un nouvel atlas mis en ligne par Chris Zaharia, qui permet de localiser chaque éclipse de 2026. D'un simple clic, vous êtes transporté à Reykjavik à 17h45 UTC pour voir virtuellement le soleil, en forme de croissant, se lever à l'horizon sous un ciel aux teintes étranges, évoquant cette atmosphère de fin du monde très…",
+      "link": "https://korben.info/universe-atlas-etoiles-reelles-webgpu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-23T06:11:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/universe-atlas-etoiles-reelles-webgpu/universe-atlas-etoiles-reelles-webgpu-1.png",
+      "type": "blog"
+    },
+    {
       "id": "211157781140",
       "title": "Unitree - Le firmware que personne ne signe",
       "description": "Le 26 février dernier, lors d'une réunion d'Austin Hackers Anonymous au Texas, le chercheur Andreas Makris a fait la démo d'un outil qui permet de générer de faux firmwares Unitree, que le robot avale sans broncher comme s'ils sortaient de l'usine de Hangzhou... Car oui, Mesdames et Messieurs, les robots Unitree ne sont pas capables de déterminer si le firmware avec lequel ils se mettent à jour a été créé par Unitree ou par quelqu'un d'autre.",
@@ -302,6 +512,22 @@
         "Web"
       ],
       "image": "https://korben.info/macos-27-interface-siri-cachee-feature-flag/macos-27-interface-siri-cachee-feature-flag-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "25d65682642d",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 1 : les bases",
+      "description": "I’m sorry, Dave. I’m afraid I can’t do that. ©HAL 9000",
+      "link": "https://philippart-s.github.io/blog/2026-07-21-java-and-ai-part1/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/2026-07-21-java-and-ai-part1/cover.png",
       "type": "blog"
     },
     {
