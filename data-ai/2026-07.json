@@ -2,6 +2,34 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "c34a327604b5",
+      "title": "Introducing Claude Opus 5",
+      "description": "Introducing Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+      "type": "blog"
+    },
+    {
+      "id": "47fb1c35deee",
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "description": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "2026-07-24T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "bf70d809f954",
       "title": "Launching Health in ChatGPT ",
       "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",

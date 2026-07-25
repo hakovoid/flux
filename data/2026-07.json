@@ -2,6 +2,96 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "a0c202946290",
+      "title": "L'Inde coupe internet, puis exige le retrait du code de bitchat",
+      "description": "Le 23 juillet à 23h16 précisément, GitHub reçoit une notice du ministère de l'Intérieur indien avec un compte à rebours de seulement 3 heures. Ce qu'exige cette notice c'est de faire disparaître 3 dépôts de code, et pas n'importe lesquels. Ceux de bitchat , la messagerie Bluetooth de Jack Dorsey qui fonctionne sans le moindre réseau. Trois jours plus tôt, le 20 juillet, des étudiants du Cockroach Janata Party manifestent à Jantar Mantar, en plein centre de Delhi, et réclament la démission du…",
+      "link": "https://korben.info/inde-ordonne-github-supprimer-bitchat.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T04:11:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "b8331a9e8883",
+      "title": "Piloter un fauteuil par la pensée, sans Musk ni chirurgie",
+      "description": "Neuralink a mis en ligne cette semaine une vidéo où des participants paralysés font rouler un fauteuil électrique par la pensée. Vous allez voir, c'est assez bluffant. L'implant décode l'intention de bouger et déplace un curseur sur un écran qui affiche la vue de la caméra devant le fauteuil. Curseur vers le haut, le fauteuil avance, vers le bas il recule, à gauche et à droite pour tourner. Le cerveau dirige un curseur, et ce sont ces mouvements qui dirigent le fauteuil.",
+      "link": "https://korben.info/implant-cerebral-fauteuil-roulant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T18:18:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_14208589269950917959_hu_a06b93e878e6a484.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7195a21eacfe",
+      "title": "Zimbra pas à jour ? Un APT russe lit peut-être déjà vos mails",
+      "description": "Hier, le 23 juillet 2026, la CISA, la NSA et le FBI ont sorti une alerte conjointe avec une douzaine d'agences alliées, et pour une fois leur message est assez court : Si vous auto-hébergez un serveur de messagerie Zimbra pas à jour, considérez que des espions russes lisent peut-être déjà vos mails !! Voilà, le groupe s'appelle Laundry Bear (aussi connu sous le nom Void Blizzard chez Microsoft, ou TA488 chez Proofpoint), il est lié à l'État russe, et il exploite une faille connue de Zimbra…",
+      "link": "https://korben.info/zimbra-laundry-bear-alerte-faille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T16:04:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "76698903b700",
+      "title": "Device Database - Savoir si un objet connecté a besoin du cloud",
+      "description": "Avant d'acheter une ampoule connectée ou une serrure intelligente, vous aimeriez sans doute bien savoir si le truc vous oblige à créer un compte cloud et à prier pour que le serveur du fabricant reste allumé dans cinq ans, non ? Hé bien l'Open Home Foundation, la fondation qui chapeaute Home Assistant, vient d'ouvrir en preview publique une Device Database qui répond pile à cette question. L'idée c'est de proposer un « Wikipedia de l'IoT ».",
+      "link": "https://korben.info/home-assistant-device-database.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T15:51:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/home-assistant-device-database/home-assistant-device-database-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "006c74445e6e",
+      "title": "Midscroll - Le clic-molette de Windows débarque sous Linux",
+      "description": "Si vous ne connaissez pas Linux, il faut savoir que sur ce système d'exploitation, le clic milieu colle la sélection. Moi, c'est un truc que j'aime bien, mais c'est surtout un héritage de X11 qui se marche complètement dessus avec l'autoscroll . Du coup Firefox désactive le sien par défaut sur Linux, et Chromium ne l'active nativement que sous Windows. Mais c'était sans compter sur Grant Hendricks qui a décidé de faire autrement avec midscroll .",
+      "link": "https://korben.info/midscroll-autoscroll-molette-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T14:20:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "5fd56b801637",
+      "title": "Odysseus - L'IA auto-hébergée de PewDiePie enfin rapide sur Mac",
+      "description": "Odysseus, c'est le workspace IA que PewDiePie a balancé sur GitHub fin mai. Chat, agents, recherche web, email, calendrier, notes et documents, tout est réuni dans un superbe cockpit auto-hébergé dans lequel les modèles et l'historique peuvent rester sur VOTRE machine. Vous avez aussi un éditeur Markdown avec historique de versions, une génération d'images intégrée, et un mode Compare pour opposer deux modèles côte à côte en aveugle (exclusion faite des services tiers liés à la recherche web,…",
+      "link": "https://korben.info/odysseus-ia-locale-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-24T14:01:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/odysseus-ia-locale-mac/odysseus-ia-locale-mac-2.png",
+      "type": "blog"
+    },
+    {
       "id": "4646176c9b22",
       "title": "uhubctl - Couper le courant d'un port USB en une commande",
       "description": "Votre clé 4G ou Wifi que vous avez connectée en USB sur un vieux serveur situé au fond du garage, plante une fois ou deux fois par semaine et à chaque fois faut aller débrancher la clé et la rebrancher pour la réveiller / ressusciter ? Et bien c'est fini la galère les amis, puisque uhubctl règle ça en une commande. Cet outil coupe puis rallume le courant d'un port USB précis, sans que vous n'ayez à toucher au moindre câble.",
@@ -14,6 +104,21 @@
         "Web"
       ],
       "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "01f6563f9e0b",
+      "title": "The most interesting \"hack\" in history...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "pubDate": "2026-07-23T16:53:37.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -44,6 +149,22 @@
         "Web"
       ],
       "image": "https://korben.info/mon-ip-korben-nouvelle-version/mon-ip-korben-nouvelle-version-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3bf977e9381e",
+      "title": "OVHcloud Secret Manager + External Secrets Operator : gérer ses secrets Kubernetes",
+      "description": "Comment connecter External Secrets Operator (ESO) à l'OVHcloud Secret Manager pour synchroniser automatiquement vos secrets dans Kubernetes, avec un compte de service IAM en moindre privilège.",
+      "link": "https://une-tasse-de.cafe/expresso/ovh-secret-manager-eso/",
+      "pubDate": "2026-07-23T13:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -239,6 +360,21 @@
         "Web"
       ],
       "image": "https://korben.info/surfshark-et-son-vpn-furtif/surfshark-et-son-vpn-furtif-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e112beacb813",
+      "title": "Open-weight AI just hit 2.8 trillion parameters…",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "pubDate": "2026-07-22T17:43:52.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -528,6 +664,21 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/2026-07-21-java-and-ai-part1/cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "9c0fc51b1a4c",
+      "title": "This $12 billion startup finally shipped something...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=M51asSwRLxA",
+      "pubDate": "2026-07-20T17:02:30.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
