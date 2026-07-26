@@ -2,6 +2,81 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "9bf8f0bf32a0",
+      "title": "Click to Pray - Le Vatican a mis 6 mois à lire ses mails",
+      "description": "Dans la série « la religion c'est que des problèmes », voici un épisode que je n'avais pas vu venir. Click to Pray, l'application de prière officielle du Pape, a servi gratos les noms, les adresses mail et les dates de naissance de ses 719 517 inscrits à qui voulait bien les demander. C'est le chercheur BobDaHacker qui a signalé le trou début janvier et si vous savez compter, oui oui, il a bien fallu 6 mois pour que quelqu'un daigne le boucher. Que voulez-vous, les voies du Seigneur sont…",
+      "link": "https://korben.info/faille-securite-app-click-to-pray-vatican.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T19:57:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-securite-app-click-to-pray-vatican/faille-securite-app-click-to-pray-vatican-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "60540c154fb0",
+      "title": "Claude Opus 5 : Anthropic vous refile du Fable 5 pour moins cher",
+      "description": "Anthropic, la société qui édite l'assistant Claude et qui reste l'un des principaux rivaux d'OpenAI et de Google, a annoncé hier Claude Opus 5, un nouveau modèle qui vient se caler juste sous son vaisseau-amiral Fable 5 tout en coûtant environ deux fois moins cher à l'usage. Le tarif ne bouge pas. Comptez 5 dollars par million de tokens en entrée et 25 dollars en sortie, exactement comme pour le précédent Opus 4.8, sachant qu'un token est le petit morceau de texte que le modèle lit ou écrit, en…",
+      "link": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T14:33:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher/claude-opus-5-anthropic-vous-refile-du-fable-5-pour-moins-cher-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "37a2bc1ba615",
+      "title": "La panne du PSN a rendu des jeux PS5 injouables, même en solo",
+      "description": "Le PlayStation Network, le réseau en ligne qui gère les comptes, la boutique PS Store et le multijoueur des consoles Sony, a subi une panne mondiale hier vers 13h, heure française. Les connexions aux comptes, la boutique et les parties en ligne étaient inaccessibles, ce qui arrive régulièrement. Mais le problème est allé plus loin. Des jeux dématérialisés refusaient de se lancer, y compris des jeux solo censés fonctionner hors ligne, parce que la console n'arrivait plus à vérifier la licence…",
+      "link": "https://korben.info/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T10:29:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo/la-panne-du-psn-a-rendu-des-jeux-ps5-injouables-meme-en-solo-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "138269cf1bfb",
+      "title": "DockPanel - Le panel web qui gère tout votre serveur",
+      "description": "Gérer un serveur à la main, c'est nginx à configurer, les certificats à renouveler, les sauvegardes à planifier et les conteneurs à surveiller... C'est beaucoup de travail. Mais vous allez avoir de l'aide grâce à DockPanel, d'Ovidiu Drobotă, qui met tout ça derrière une jolie interface web tenant dans 19 Mo de RAM. L'installation se colle en une ligne sur un VPS frais et vous récupérez un panneau d'admin sur le port 8443. Ubuntu, Debian, Rocky, Fedora ou Amazon Linux, en x86_64 comme en ARM64.",
+      "link": "https://korben.info/dockpanel-panel-serveur-docker-rust.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T06:26:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dockpanel-panel-serveur-docker-rust/dockpanel-panel-serveur-docker-rust-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "88ad375408b0",
+      "title": "Une Radeon de 2007 fait tourner la PS3 (mal, mais elle tourne)",
+      "description": "La carte graphique minimum dont on a besoin pour émuler une PS3 est sortie... après la PS3. C'est AniLeo et kd-11, de l'équipe RPCS3 , qui viennent de descendre le minimum officiel de l'émulateur à la Radeon HD 2900 XT, sortie en mai 2007. La PS3, elle, arrivait en France en mars de la même année. Certes, c'est moins de deux mois d'écart mais pour émuler une console, en général, on a besoin de matériel largement postérieur.",
+      "link": "https://korben.info/rpcs3-emulateur-ps3-radeon-2007.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-25T05:57:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
       "id": "a0c202946290",
       "title": "L'Inde coupe internet, puis exige le retrait du code de bitchat",
       "description": "Le 23 juillet à 23h16 précisément, GitHub reçoit une notice du ministère de l'Intérieur indien avec un compte à rebours de seulement 3 heures. Ce qu'exige cette notice c'est de faire disparaître 3 dépôts de code, et pas n'importe lesquels. Ceux de bitchat , la messagerie Bluetooth de Jack Dorsey qui fonctionne sans le moindre réseau. Trois jours plus tôt, le 20 juillet, des étudiants du Cockroach Janata Party manifestent à Jantar Mantar, en plein centre de Delhi, et réclament la démission du…",
