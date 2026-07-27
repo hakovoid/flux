@@ -2,6 +2,36 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "7699f53a73ab",
+      "title": "Doully sur Waze - Le GPS le plus éclaté de la route",
+      "description": "Vous connaissez Doully ? Mais siii, l'humoriste avec la voix la plus cassée du stand-up français ? Perso je l'aime bien, elle est aussi trash que drôle et aujourd'hui, elle a mis en ligne son propre guidage vocal pour Waze, avec le lien qui va bien pour l'installer dans votre bagnole. Avant que vous vous fassiez des idées, non, elle n'est pas motorisée au Jack Daniel's. C'est sa vraie voix tout simplement. Elle le répète à qui veut l'entendre : « Non je ne suis pas bourrée, et oui je suis née…",
+      "link": "https://korben.info/waze-voix-doully.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-26T18:21:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_10562166833749632329_hu_e0b23bbf778a56ae.webp",
+      "type": "blog"
+    },
+    {
+      "id": "84c49eade80a",
+      "title": "Numéro DUNS gratuit - Comment l'obtenir sans payer",
+      "description": "Je viens de perdre de précieuses minutes sur un truc qui aurait dû me prendre trente secondes : Récupérer le numéro DUNS de mon entreprise. Si vous ne savez pas ce que c'est, bienvenue au club ! En gros, c'est un identifiant que Dun & Bradstreet, une société américaine, a déjà collé à mon entreprise sans jamais me demander mon avis. C'est l'équivalent B2B de ce qu'Experian ou Equifax font sur les particuliers et leur job, depuis 1841 (oui, ils sont plus vieux que l'ampoule électrique), c'est de…",
+      "link": "https://korben.info/numero-duns-gratuit-methode-apple.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-26T13:14:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/numero-duns-gratuit-methode-apple/numero-duns-gratuit-methode-apple-2.png",
+      "type": "blog"
+    },
+    {
       "id": "9bf8f0bf32a0",
       "title": "Click to Pray - Le Vatican a mis 6 mois à lire ses mails",
       "description": "Dans la série « la religion c'est que des problèmes », voici un épisode que je n'avais pas vu venir. Click to Pray, l'application de prière officielle du Pape, a servi gratos les noms, les adresses mail et les dates de naissance de ses 719 517 inscrits à qui voulait bien les demander. C'est le chercheur BobDaHacker qui a signalé le trou début janvier et si vous savez compter, oui oui, il a bien fallu 6 mois pour que quelqu'un daigne le boucher. Que voulez-vous, les voies du Seigneur sont…",
