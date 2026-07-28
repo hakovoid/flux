@@ -2,6 +2,191 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "de7577f435ec",
+      "title": "Doit-on tuer l'IA ou la stopper ? Une réflexion sur les limites d'une révolution technologique ?",
+      "description": "Cette dynamique de l'IA soulève des interrogations profondes sur son coût réel : coût environnemental, coût social et, plus largement, coût civilisationnel. Dès lors, faut-il poursuivre cette course sans limite ou devons-nous apprendre à ralentir pour préserver les conditions mêmes de notre avenir ?",
+      "link": "https://blog.octo.com/doit-on-tuer-l'ia-ou-la-stopper-une-reflexion-sur-les-limites-d'une-revolution-technologique",
+      "pubDate": "2026-07-27T18:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a1c816c4f23b",
+      "title": "Sa famille vidait la batterie, alors il a électrifié sa Steam Deck",
+      "description": "Alors celle-là, c'est la meilleure ! Conroyy Jenkinss en avait tellement marre que sa famille lui vide la batterie de sa Steam Deck sans jamais la recharger qu'il a fini par coller des pics et un taser dessus. Oui, un taser, le mec est fou ! Il a posté son truc hier sur r/SteamDeck en racontant comment il s'y est pris. \"J'en avais marre que ma famille vide toujours la batterie de ma console sans la recharger\", donc il a modélisé une coque hérissée de pointes dans Blender, l'a imprimée en 3D et…",
+      "link": "https://korben.info/steam-deck-taser-pics-anti-famille.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T17:20:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "bae06c97fb15",
+      "title": "L'IA n'est pas le sujet : pourquoi le véritable défi est désormais l'ingénierie des systèmes de production logicielle ?",
+      "description": "Pendant plusieurs décennies, l'ingénierie logicielle s'est attachée à optimiser la manière dont les équipes produisaient du code. Demain, elle devra surtout organiser la collaboration entre humains et agents d'intelligence artificielle au sein de véritables systèmes industriels de production.",
+      "link": "https://blog.octo.com/l'ia-n'est-pas-le-sujet--pourquoi-le-veritable-defi-est-desormais-l'ingenierie-des-systemes-de-production-logicielle",
+      "pubDate": "2026-07-27T17:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3bbc1ef6904d",
+      "title": "Firefox ressort le mode compact du placard, 5 ans après",
+      "description": "En 2021, Mozilla a estimé que le mode compact de Firefox intéressait trop peu de monde pour mériter sa place dans l'interface. Le bug qui actait sa suppression a énervé pas mal de monde, mais la justification à l'époque, c'était que cette densité est \"difficile à découvrir, et on suppose qu'elle est peu utilisée\". Faut dire que ce mode compact réduit sacrément l'espacement des barres d'outils et des onglets pour gagner de la place à l'écran. Mozilla le destine explicitement aux petits écrans.",
+      "link": "https://korben.info/firefox-nouveau-design-nightly.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T17:00:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-nouveau-design-nightly/firefox-nouveau-design-nightly-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a3f8453dbb16",
+      "title": "Pascal Editor - Le plan 3D se dessine pendant que Claude bosse",
+      "description": "J'ai jamais fait construire de maison mais je crois savoir que dessiner le plan de sa maison en 3D, ça passe encore par un logiciel assez lourd à installer + une licence, sans oublier l'interface façon Micro Applications de 2003 (qui s'en souvient ??). C'est pourquoi Aymeric Rabot et Wassim Samad ont pris le problème autrement avec Pascal Editor, un éditeur de bâtiments 3D qui tourne simplement dans un onglet de navigateur. Et en plus, c'est gratuit, open source (licence MIT) et surtout sans…",
+      "link": "https://korben.info/pascal-editor-3d-architecture-web-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:58:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pascal-editor-3d-architecture-web-2/pascal-editor-3d-architecture-web-2-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cea0dda5c120",
+      "title": "GitWand - Il trie vos conflits Git et vous montre pourquoi",
+      "description": "perso, je n'ai jamais été très à l'aise avec Git. Je l'utilise tous les jours, mais c'est vraiment pas ma came. Dès que ça devient trop compliqué, genre conflit de merge qui repeint des dizaines de fichiers en rouge, je ne m'en sors plus ^^. Heureusement qu'il y a l'IA pour m'aider dans des moments difficiles ! Mais si vous n'aimez pas confier la gestion de vos merges à un LLM en aveugle, je vous invite à découvrir GitWand, développé par Laurent Guitton, qui s'occupe uniquement de la gestion…",
+      "link": "https://korben.info/gitwand-client-git-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:52:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gitwand-client-git-open-source/gitwand-client-git-open-source-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5488b06a570a",
+      "title": "Open Archiver - L'archiveur qui perdait des emails (mais c'est corrigé, ouf !)",
+      "description": "Un import qui affiche « terminé » et qui a mangé une partie de vos mails au passage, c'est le genre de bug qu'on ne voit jamais venir... Hé bien Open Archiver vient d'en corriger quatre d'un coup. Open Archiver c'est une plateforme d'archivage d'emails auto-hébergée développée par Weishest, dont la seule et unique mission est d'aspirer vos boîtes et de les stocker en .eml sur votre serveur. Mais attention, le mot \"archivage\" a son importance, parce que ce n'est pas un backup. Je m'explique...…",
+      "link": "https://korben.info/open-archiver-archivage-emails-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T16:24:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/open-archiver-archivage-emails-self-hosted/open-archiver-archivage-emails-self-hosted-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "05be30107f33",
+      "title": "Rapid-MLX - Installer un serveur IA local sur votre Mac",
+      "description": "Si vous avez un Mac Apple Silicon et que vous en avez assez de payer des tokens à chaque requête, Rapid-MLX vaut le détour. C'est un moteur d'inférence local maintenu par Raullen Chai, qui tape directement dans les kernels MLX d'Apple, sans repli sur llama.cpp ni couche Metal intermédiaire. Et si le nom vous dit vaguement quelque chose, c'est normal puisque c'est un fork de vLLM-MLX, le serveur de Wayner Barrios dont je vous parlais en mai . Rapid-MLX a juste pris un rythme de publication plus…",
+      "link": "https://korben.info/rapid-mlx-installation-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T09:33:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rapid-mlx-installation-macos/rapid-mlx-installation-macos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "836276a039a1",
+      "title": "Subwave - La radio maison qui réveille vos MP3 oubliés",
+      "description": "Si vous avez un Navidrome qui tourne dans un coin et un serveur Ollama qui passe ses journées à ne rien faire, vous ne vous êtes jamais dit que les deux pourraient bosser ensemble ? C'est en tout cas ce qu'a flairé Parminder Klair qui a branché l'un sur l'autre et en a sorti une vraie station de radio, avec un DJ qui parle entre les morceaux. Son DJ baptisé Subwave ne fait pas de la lecture aléatoire. À chaque tour, le modèle utilise des outils qui lui permettent de fouiller la bibliothèque,…",
+      "link": "https://korben.info/subwave-dj-ia-local-ollama-navidrome.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T08:54:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/subwave-dj-ia-local-ollama-navidrome/subwave-dj-ia-local-ollama-navidrome-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "881640160cbf",
+      "title": "Chrome tourne enfin sur Raspberry Pi (si vous savez où cliquer)",
+      "description": "Si vous avez un Raspberry Pi et que Chromium commence à vous fatiguer, le VRAI Chrome, celui des chads que vous êtes, est enfin dispo en ARM64 !! Enfin, dispo... Si vous savez où chercher, parce que la page de téléchargement de Google vous propose toujours l'installeur amd64, qui ne tournera jamais sur votre machine. C'est Joey Sneddon, d'OMG! Ubuntu, qui a trouvé la combine en bidouillant l'URL depuis son Pi 5.",
+      "link": "https://korben.info/chrome-arm64-linux-builds.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-27T08:43:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "0abb8430cbeb",
+      "title": "Votre équipe ne connaît (déjà) pas le code de l'application qu'elle maintient",
+      "description": "Quand j’ai commencé ma carrière1 en SSII, mes chefs m’ont fait faire plusieurs interventions de quelques semaines, pour ajouter des fonctionnalités ou corriger des bugs, sur des applications qui existaient depuis des années. Quelques années plus tard, on continuait à me solliciter de temps en temps pour des interventions “en mode pompier” : quelques heures à quelques jours de dépannage2 ou de conseil3, généralement sur des projets que je n’avais jamais vu avant.",
+      "link": "https://blog.pascal-martin.fr/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/?utm_source=rss2&utm_medium=feed&utm_campaign=/post/votre-equipe-ne-connait-deja-pas-le-code-de-l-application-qu-elle-maintient/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Pascal Martin",
+      "sourceUrl": "https://blog.pascal-martin.fr/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://blog.pascal-martin.fr/public/work/hide-in-box.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e2819d9367be",
+      "title": "Refonte de la documentation Linux Essentials",
+      "description": "Refonte de la documentation Linux Essentials {align=right} Dimanche dernier je suis rentré d'un road trip en moto à travers les Hautes Alpes, le nord de l'Italie, l'Autriche et la Hongrie. Près de 4500 kilomètres parcourus sur ma bonne vieille BMW R1100R, en empruntant majoritairement des petites routes de campagne. Sur le chemin du retour, j'avoue que je me suis senti un peu comme Lucky Luke sur Jolly Jumper.",
+      "link": "https://www.microlinux.fr/blog/linux-essentials-beta/",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/lpi-logo.png",
+      "type": "blog"
+    },
+    {
       "id": "7699f53a73ab",
       "title": "Doully sur Waze - Le GPS le plus éclaté de la route",
       "description": "Vous connaissez Doully ? Mais siii, l'humoriste avec la voix la plus cassée du stand-up français ? Perso je l'aime bien, elle est aussi trash que drôle et aujourd'hui, elle a mis en ligne son propre guidage vocal pour Waze, avec le lien qui va bien pour l'installer dans votre bagnole. Avant que vous vous fassiez des idées, non, elle n'est pas motorisée au Jack Daniel's. C'est sa vraie voix tout simplement. Elle le répète à qui veut l'entendre : « Non je ne suis pas bourrée, et oui je suis née…",
