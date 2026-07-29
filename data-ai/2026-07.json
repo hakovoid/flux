@@ -2,6 +2,104 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "824b5ba22f1e",
+      "title": "Scientific computing in the age of agentic AI",
+      "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "pubDate": "2026-07-28T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3m7mGKTN6V4kdfRQAyHV7A/08ebe953fb4e83fd9a843eb2ce06b111/16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9c980868c23c",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "pubDate": "2026-07-28T16:27:42.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/N27UuRDvcQy4CvmrzRKAE.png",
+      "type": "blog"
+    },
+    {
+      "id": "55560096859e",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "description": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "pubDate": "2026-07-28T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a5bc54280bf2",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "description": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "pubDate": "2026-07-28T15:01:45.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/n-ZhnrOiuWH5rhAFi86lL.png",
+      "type": "blog"
+    },
+    {
+      "id": "dc323d8334b7",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "pubDate": "2026-07-28T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "41e0168f6a5b",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "description": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "pubDate": "2026-07-28T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5f83f5347c32",
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "description": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
       "id": "96537f9acc12",
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
       "description": "",
@@ -55,6 +153,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/62993bb857986e2808c2a75024f384e7b85312b6-2400x1254.png",
+      "type": "blog"
+    },
+    {
+      "id": "8088c1dfd69d",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/agent-intrusion-technical-timeline/thumbnail.png",
       "type": "blog"
     },
     {

@@ -2,6 +2,163 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "736bd57fcfc4",
+      "title": "#367.bin - Intelligence(s): Emotionelle: Dans la tête de vice-versa avec Moïra Mikolajczak",
+      "description": "\"Si on ne sait pas ressentir de la colère, on ne sait pas mettre ses limites. Si on ne sait pas ressentir de la peur, on ne sait pas se protéger\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-367-5eb0e4596d15",
+      "pubDate": "2026-07-29T03:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/a24045b5-d492-4526-a2f4-02579799775b.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/241a1620-1279-4b1f-b695-5eb0e4596d15.mp3?_=1785250048",
+      "duration": "01:00:58"
+    },
+    {
+      "id": "af433d852a6d",
+      "title": "Il déverrouille une Xbox 360 avec un Teensy et un peu de bruteforce",
+      "description": "Une Xbox 360 à 15 dollars bloquée par un contrôle parental oublié. Question secrète, code usine et exploit logiciel échouent. Restent 10 000 codes et un Teensy.",
+      "link": "https://korben.info/xbox-360-controle-parental-brute-force.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T16:11:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_11168476870718926259_hu_ebb5c562ff3d18f0.webp",
+      "type": "blog"
+    },
+    {
+      "id": "83482785c664",
+      "title": "C'est quoi le Q-day?",
+      "description": "L'objectif de cet article est de vulgariser les connaissances autour du Q-day, car derrière ce titre se cachent des concepts de mécanique quantique et de cybersécurité avancés. Avançons ensemble dans ce parcours afin qu’au terme de la lecture, vous disposiez des éléments nécessaires pour prendre de meilleures décisions dans votre système d'informat",
+      "link": "https://blog.octo.com/c'est-quoi-le-q-day",
+      "pubDate": "2026-07-28T13:35:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6a33378d52e4",
+      "title": "Moonshot met en ligne Kimi K3, le plus gros modèle d'IA jamais proposé en téléchargement libre",
+      "description": "Kimi K3 de Moonshot AI est téléchargeable sur Hugging Face : 2 800 milliards de paramètres, 1,4 To, contexte d'un million de tokens, API à 3 $/million.",
+      "link": "https://korben.info/moonshot-met-en-ligne-kimi-k3-le-plus-gros-modele-dia-jamais-propose-en-telechargement-libre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T11:55:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "99aa85a41f3d",
+      "title": "Crashphalt - Le jeu Steam qu'on installe pour jouer à Undertale",
+      "description": "Crashphalt cumule 555 avis Steam qui parlent tous d'Undertale. Ce jeu gratuit de 2018 sert de coquille pour jouer au mod deux joueurs en ligne.",
+      "link": "https://korben.info/crashphalt-undertale-together-remote-play-steam.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T09:25:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5275982662855387892_hu_8071297530463246.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b8a66d3f8025",
+      "title": "Votre vieux Morrowind se relance dans le navigateur",
+      "description": "Le moteur libre OpenMW recompilé en WebAssembly fait tourner Morrowind dans un onglet Chrome. Pointez votre dossier Data Files, rien n'est uploadé.",
+      "link": "https://korben.info/morrowind-navigateur-webassembly-openmw.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T08:11:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5658367979104782118_hu_f3ddeeffd770faec.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b9e30be09ba7",
+      "title": "GLM 5.2 censure moins s'il se croit américain",
+      "description": "Dire à GLM 5.2 qu'il est Claude fait passer ses réponses non censurées de 17 % à 85 %. Une étude MATS montre que la vraie variable, c'est la juridiction.",
+      "link": "https://korben.info/glm-kimi-modeles-chinois-identite-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T07:29:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "66dcf01953c3",
+      "title": "Sommes-nous seulement entrés dans l'ère de la gouvernance de l'IA ?",
+      "description": "une question mérite d'être posée avant même de réfléchir aux modèles de gouvernance : sommes-nous réellement entrés dans l'ère de la gouvernance de l'IA ?",
+      "link": "https://blog.octo.com/sommes-nous-seulement-entres-dans-l'ere-de-la-gouvernance-de-l'ia",
+      "pubDate": "2026-07-28T07:03:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4c950f4083c6",
+      "title": "Sa boîte à goûter fait tourner un LLM en local",
+      "description": "RadioactiveArtist a planqué un Raspberry Pi 5, un écran tactile et un LLM local dans une boîte à goûter M.A.S.K. des années 80, sans y faire un seul trou.",
+      "link": "https://korben.info/cyberdeck-lunchbox-mask-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-28T05:56:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4493751174610558776_hu_814e21991416e045.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4d3e6851015a",
+      "title": "Mon usine logicielle à l'heure de l'IA",
+      "description": "Comment j'encadre du code écrit à 100% par des agents IA : contexte, skills, hooks, tests d'architecture et quality gates. Le détail de mon usine logicielle.",
+      "link": "https://eventuallycoding.com/p/mon-usine-logicielle-a-l-heure-de-l-ia",
+      "pubDate": "2026-07-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/_og/d/c_DefaultPost,title_~TW9uIHVzaW5lIGxvZ2ljaWVsbGUgw6AgbCdoZXVyZSBkZSBsJ0lB,description_~Q29tbWVudCBqJ2VuY2FkcmUgZHUgY29kZSDDqWNyaXQgw6AgMTAwJSBwYXIgZGVzIGFnZW50cyBJQSA6IGNvbnRleHRlLCBza2lsbHMsIGhvb2tzLCB0ZXN0cyBkJ2FyY2hpdGVjdHVyZSBldCBxdWFsaXR5IGdhdGVzLiBMZSBkw6l0YWlsIGRlIG1vbiB1c2luZSBsb2dpY2llbGxlLg,p_Ii9wL21vbi11c2luZS1sb2dpY2llbGxlLWEtbC1oZXVyZS1kZS1sLWlhIg.png",
+      "type": "blog"
+    },
+    {
       "id": "de7577f435ec",
       "title": "Doit-on tuer l'IA ou la stopper ? Une réflexion sur les limites d'une révolution technologique ?",
       "description": "Cette dynamique de l'IA soulève des interrogations profondes sur son coût réel : coût environnemental, coût social et, plus largement, coût civilisationnel. Dès lors, faut-il poursuivre cette course sans limite ou devons-nous apprendre à ralentir pour préserver les conditions mêmes de notre avenir ?",
