@@ -2,6 +2,62 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "05b5e14c9750",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "description": "",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "pubDate": "2026-07-29T16:02:10.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-1440x810.png",
+      "type": "blog"
+    },
+    {
+      "id": "265c6a0134ab",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "pubDate": "2026-07-29T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3lr743fXRey8lYJgiaReEo/80b223beba7cf8fcd4108d533741a56b/ARC-AGI-3_art-card_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "47da73cdc4f7",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "pubDate": "2026-07-29T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2G2SR0DTkiabzzbrMZIW5Q/cb55c63d82440eaee372292302d5f2b3/academic-research-og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "eb71f165025c",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "pubDate": "2026-07-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Og4MpejHbFrNOgRBVvhTh/589eff3fad85c1992c0973594e76a949/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_SEO_CARD__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "824b5ba22f1e",
       "title": "Scientific computing in the age of agentic AI",
       "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
