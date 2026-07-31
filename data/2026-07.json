@@ -2,6 +2,99 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "ba135ce61e3b",
+      "title": "MACI #162 - Java et IA à Riviera DEV - Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, enregistré à Riviera Dev, on part de Java, de l’IA et des spécifications pour poser une question très concrète : que reste-t-il du métier de développeur quand les LLM peuvent générer beaucoup de code, mais que la robustesse dépend toujours des tests, des standards et de la responsabilité humaine ? Avec Antoine Sabot-Durand, Emmanuel Bernard et Yann Blazart, la discussion traverse l’écosystème Java, de CDI, Jakarta EE et MicroProfile à…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-162-java-et-ia-a-riviera-dev-avec-antoine-sabot-durand-emmanuel-bernard-et-yann-blazart",
+      "pubDate": "2026-07-31T05:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/59cEferIx1gtjE1qgiFhSo3HZM6LSDbW8QpADOdw_1400x1400.jpeg?t=1784886588",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/ypz8MhAQm6PD.mp3?t=1784886603",
+      "duration": "1:24:28"
+    },
+    {
+      "id": "8018e43f1d9c",
+      "title": "Il finit en prison à cause d'un underscore",
+      "description": "Un underscore de trop dans une réquisition envoyée à Kik, et un Canadien qui n'avait rien fait passe 18 mois en prison. La cour d'appel vient de le déclarer factuellement innocent.",
+      "link": "https://korben.info/underscore-skyrim-innocent-prison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T17:37:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/underscore-skyrim-innocent-prison/underscore-skyrim-innocent-prison-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f7f04fc64334",
+      "title": "OpenNutriTracker - Pour suivre votre consommation de calories",
+      "description": "OpenNutriTracker compte vos calories sans abonnement ni compte à créer, et garde le journal chiffré sur le téléphone. Voici ce qu'il sait faire, et ce qui manque encore.",
+      "link": "https://korben.info/opennutritracker-compteur-calories-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:55:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/opennutritracker-compteur-calories-open-source/opennutritracker-compteur-calories-open-source-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3c346b5a0a59",
+      "title": "Wander - Du Markdown uniquement visuel",
+      "description": "Wander édite vos fichiers Markdown en WYSIWYG sans les enfermer dans un format propriétaire. Voici ce qui reste local et sur quels appareils il tourne.",
+      "link": "https://korben.info/wander-editeur-markdown-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:48:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wander-editeur-markdown-mac/wander-editeur-markdown-mac-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "f19b4a443d27",
+      "title": "Il fait tourner DOOM avec des expressions régulières, et il faut trois minutes par image",
+      "description": "doom-regex : Artem Lytkin fait tourner DOOM avec 544 règles de chercher-remplacer, 14 millions de substitutions et 3 minutes par image.",
+      "link": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T09:43:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image/il-fait-tourner-doom-avec-des-expressions-regulieres-et-il-faut-trois-minutes-par-image-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a605c0f5f439",
+      "title": "Les lunettes-caméra de Meta ne passeront pas les portes de la DEF CON",
+      "description": "La DEF CON interdit les lunettes-caméra Meta Ray-Ban et Oakley dès le 6 août à Las Vegas, sans exception pour les verres correcteurs.",
+      "link": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-07-30T08:42:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con/les-lunettes-camera-de-meta-ne-passeront-pas-les-portes-de-la-def-con-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ff1cb0ecf261",
       "title": "Vos vacances d'été sont là, mais Surfshark ne prend pas de congés (et il a des nouveautés)",
       "description": "-- Article en partenariat avec Surfshark -- Août est arrivé. Vous avez posé vos congés, votre valise est prête, et vous vous apprêtez à partir en mode déconnexion totale (oui parce que tout le monde sait que les vrais, eux, déménagent à cette période). Sauf que votre VPN, lui, il bosse. Et franchement, entre le WiFi de l'aéroport, celui de l'hôtel bidon à trois étoiles sur Booking, et la 4G capricieuse à l'étranger, vous allez bien avoir besoin de lui. Surfshark vient de sortir deux grosses...",
@@ -29,6 +122,23 @@
         "Web"
       ],
       "image": "https://korben.info/modretro-m64-console-fpga-n64/modretro-m64-console-fpga-n64-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ba3d675a0f4a",
+      "title": "Claude Code ou Codex ? Vous n'avez pas le bon débat",
+      "description": "Trois agents différents, trois modèles différents, un même harnais : des résultats quasi identiques. Pendant que tout le monde débat du meilleur agent de code, la compétence qui compte vraiment se construit ailleurs. Et elle survivra à vos outils.",
+      "link": "https://yoandev.co/le-mauvais-debat",
+      "pubDate": "2026-07-30T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/le-mauvais-debat.webp",
       "type": "blog"
     },
     {
