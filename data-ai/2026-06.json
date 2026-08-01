@@ -1918,6 +1918,34 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "9be2f103fbe5",
+      "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+      "description": "OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
+      "pubDate": "2026-06-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6bxGdyOp5AAyCRVwpTWCJA/9a8a21f5e6d71e7fc410763e692d0fe5/16x9___COVERT_IO___Tech_and_Tariffs__Campaign.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b6a1a5c9851a",
+      "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+      "description": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
+      "pubDate": "2026-06-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/ZCyd9lzsIT4233b1WInA0/2f7df5909320c9c1f932e213c2d0e66c/16x9___COVERT_IO___Data_Center_Bandwagon__Campaign.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
     }
   ]
 }

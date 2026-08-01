@@ -1039,6 +1039,22 @@
       "duration": "11:08"
     },
     {
+      "id": "b097e22535f9",
+      "title": "Breizhcamp 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/06/26/breizhcamp-2026/",
+      "pubDate": "2026-06-26T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/26/breizhcamp-2026/cover_hu_a09afe846677dce.webp",
+      "type": "blog"
+    },
+    {
       "id": "b3a8fd0373b6",
       "title": "Half-Life 2 dans le navigateur - Le hack d'un lycéen",
       "description": "Vous vous souvenez de la première fois que vous avez lancé Half-Life 2 et que vous avez attrapé une caisse avec le gravity gun ? Eh bien un lycéen qui se fait appeler slqnt vient de remettre tout ça dans votre navigateur, gratuitement, sans avoir à installer Steam ni à télécharger le moindre gros paquet. Ça se passe sur hl2.slqnt.dev , c'est en ligne depuis le hier, et le jeu tourne tout en fluidité, largement au-dessus des 60 images par seconde directement sous Chrome.",
@@ -2111,6 +2127,22 @@
       "type": "blog"
     },
     {
+      "id": "169293238407",
+      "title": "Tech Work Lyon",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce deuxième article est consacré au Tech Work, qui a eu lieu le 18 juin 2026.",
+      "link": "https://codeka.io/2026/06/18/tech-work-lyon/",
+      "pubDate": "2026-06-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/18/tech-work-lyon/cover_hu_5fdd02ea51e1871f.webp",
+      "type": "blog"
+    },
+    {
       "id": "982366c0b855",
       "title": "Le X-59 de la NASA vole plus vite que le son, mais sans le bang qui va avec",
       "description": "Le 12 juin, l'avion expérimental X-59 de la NASA a filé à Mach 1,4, soit environ 1 490 km/h, à 17 000 mètres d'altitude. Et au sol, silence. La quête du silence quand on travaille sur un avion qui dépasse le mur du son, c'est étonnant, et pourtant... Normalement, dès qu'un avion dépasse la vitesse du son, il comprime l'air devant lui en une onde de choc qui claque au sol comme un mega coup de tonnerre. C'est ça, le bang supersonique.",
@@ -2869,6 +2901,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
       "duration": "13:21"
+    },
+    {
+      "id": "31cf01c16e76",
+      "title": "DevLille 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié. Ce premier article est consacré au DevLille, qui a eu lieu les 11 et 12 juin 2026.",
+      "link": "https://codeka.io/2026/06/12/devlille-2026/",
+      "pubDate": "2026-06-12T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/06/12/devlille-2026/cover_hu_f581ef2250164954.webp",
+      "type": "blog"
     },
     {
       "id": "62aaa3fd0cea",
