@@ -1,0 +1,19 @@
+{
+  "month": "2026-08",
+  "articles": [
+    {
+      "id": "e299630b866e",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "pubDate": "2026-08-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5RUlCTeEvzWYd2DDpdcNgh/f38e144bf6f5911074b1939c1528ed2b/Frame__4_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    }
+  ]
+}
