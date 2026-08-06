@@ -2,6 +2,51 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2b76b300af9c",
+      "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
+      "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
+      "link": "https://lecodeestdanslepre.fr/billets/qa-qualite-logicielle",
+      "pubDate": "2026-08-05T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/qa-qualite-logicielle.png?v=52eb97e1754ee948",
+      "type": "blog"
+    },
+    {
+      "id": "3a1ffbf1d4ca",
+      "title": "OpenAI pousse trois nouveaux outils dans les écoles, en pleine épidémie de triche à l'IA",
+      "description": "OpenAI lance trois modules éducatifs via ChatGPT for Teachers, gratuit pour les enseignants américains vérifiés",
+      "link": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-05T09:31:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia/openai-pousse-trois-nouveaux-outils-dans-les-ecoles-en-pleine-epidemie-de-triche-a-lia-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ea46a38a239a",
+      "title": "Pendant un test de sécurité, le modèle d'OpenAI a piraté un vrai site sans le savoir",
+      "description": "Le 29 juillet, un modèle d'OpenAI a compromis un vrai site pendant un capture the flag mal configuré. Un modèle Claude a connu le même incident.",
+      "link": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-05T08:58:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir/pendant-un-test-de-securite-le-modele-dopenai-a-pirate-un-vrai-site-sans-le-savoir-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "977b4a331bf0",
       "title": "Un développeur fait tourner les cinématiques de Command & Conquer sur un Atari ST de 1985",
       "description": "Jonas Eschenburg se tape un petit délire cet été, en portant Command & Conquer sur Atari ST, et il vient de s'occuper des cinématiques du jeu, le tout sur une machine équipée d'un Motorola 68000 cadencé à 8 MHz. Le même garçon avait déjà fait tourner Doom dessus. Le décalage vaut le détour. Command & Conquer sort en 1995 sur PC, en VGA 256 couleurs, soit dix ans après l'Atari ST, qui affiche lui 16 couleurs en 320 par 200 points. Envoyer les pixels bruts à l'écran est hors de question sur ce...",
@@ -33,6 +78,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/702460e0-e543-4b34-bbb3-8664c1ac4c41.mp3?_=1785871496",
       "duration": "56:45"
+    },
+    {
+      "id": "1b247a21a874",
+      "title": "Construire la fonction RH d'une TPE : par où commencer ? (épisode 2)",
+      "description": "L'administratif RH, c'est comme les fondations d'une maison : invisible une fois qu'elle est construite, mais tout repose dessus. Épisode 2 : comment on a solidifié ce socle chez Elao, entre conformité et digitalisation.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-02-par-ou-commencer",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/elao/rh-tpe-oceane/episode-2-thumbnail.jpg/674a9331ae49ac9f17139ebc77f3f335.jpg",
+      "type": "blog"
     },
     {
       "id": "bb3db083c040",
