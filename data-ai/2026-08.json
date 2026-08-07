@@ -2,6 +2,90 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "cdd8d819f485",
+      "title": "Improving Fable 5's biology safeguards",
+      "description": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Bird&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
+      "id": "1986eab2e2ed",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "description": "",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "pubDate": "2026-08-06T15:06:15.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b1c9322e571f",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "pubDate": "2026-08-06T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0c4923a8268d",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "pubDate": "2026-08-06T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6CQ3mqxKiApPHF2wTXSybs/5e0f83d5d5817dbac9b7e7f440e692ed/openai-and-apa-advance-responsible-ai-for-youth-16_9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3763c3e63f84",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "23ccd9ff0c11",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "description": "",
+      "link": "https://huggingface.co/blog/baseten",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/inference-providers/welcome-baseten.png",
+      "type": "blog"
+    },
+    {
       "id": "c99ec862b4e7",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
