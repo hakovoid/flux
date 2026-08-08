@@ -2,6 +2,48 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "624979042481",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "pubDate": "2026-08-07T17:53:32.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/j9L73K19mkz-n8Rr8ZI_B.png",
+      "type": "blog"
+    },
+    {
+      "id": "e66cc71d0943",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "pubDate": "2026-08-07T15:20:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2OqBX7eh31rmzCVTZrZgb6/8c852b5a1f787c1fea8ac9de5a33d2db/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7347f06e7c91",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "pubDate": "2026-08-07T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5FS18GD9sd11U3iFcDFKSG/41b77f8496a19d63bedb99677527bd61/oai_HSPGruppe_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "cdd8d819f485",
       "title": "Improving Fable 5's biology safeguards",
       "description": "Improving Fable 5's biology safeguards",

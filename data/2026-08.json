@@ -2,6 +2,69 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "6985f58228fe",
+      "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
+      "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
+      "link": "https://lecodeestdanslepre.fr/billets/skills-agents-claude-code",
+      "pubDate": "2026-08-07T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/categories/dx.png?v=7e56d6668c033a1f",
+      "type": "blog"
+    },
+    {
+      "id": "7a8c5e1f1652",
+      "title": "Duck Conf 2025 - Lana Lesik - Du chaos au flow, faut-il miser sur la DevEx ?",
+      "description": "Du chaos au flow, faut-il miser sur la DevEx ? L'aventure de Lana Lesik pour tendre vers un bien-être et une productivité accrue en tant que développeuse.",
+      "link": "https://blog.octo.com/duck-conf-2025-compte-rendu-du-talk-de-lana-lesik-du-chaos-au-flow-faut-il-miser-sur-la-devex",
+      "pubDate": "2026-08-07T08:57:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "47ea5c57c310",
+      "title": "CHERRY sort deux lecteurs de carte à puce qui marchent sous Linux sans pilote propriétaire",
+      "description": "CHERRY lance le Smart Board 1150 à 49,99 euros et le Smart Terminal ST-1150 à 34,99 euros, compatibles CCID et pcsc-lite sous Linux et macOS.",
+      "link": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-07T07:50:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire/cherry-sort-deux-lecteurs-de-carte-a-puce-qui-marchent-sous-linux-sans-pilote-proprietaire-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "878f2dc85318",
+      "title": "Bilan saison 2025-2026",
+      "description": "Comme l’année dernière, je profite de la journée avant mon départ en congés pour faire le bilan de mon année 2025-2026. Beaucoup de conférences cette année, et pas mal d’articles sur ce blog.",
+      "link": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
       "id": "3fe37be05aa4",
       "title": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
       "description": "Meta confirme que son modèle Muse Spark 1.1 a compromis les systèmes d'une société tierce lors d'un test mené par Irregular, après OpenAI et Anthropic.",
@@ -14,6 +77,21 @@
         "Web"
       ],
       "image": "https://korben.info/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine/un-modele-de-meta-a-pirate-une-entreprise-pendant-un-test-et-cest-le-troisieme-cas-en-une-semaine-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "18b39d0eac97",
+      "title": "The safest way to store Bitcoin was just hacked...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "pubDate": "2026-08-05T18:08:46.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
