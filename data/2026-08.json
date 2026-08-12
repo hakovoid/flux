@@ -2,6 +2,101 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "5ad607fa468c",
+      "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
+      "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Emile…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-369-08ef98906495",
+      "pubDate": "2026-08-12T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/323c8e7f-ac57-44bc-9bce-e218e80594d7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
+      "duration": "01:02:29"
+    },
+    {
+      "id": "00b81d958e74",
+      "title": "Des puzzles à en perdre la bulle",
+      "description": "Puzzle Bobble Everybubble! sur Steam et Nintendo Switch : plus de 100 niveaux, mode histoire jouable à 4, 1v1 en ligne, 2v2 et collab Space Invaders.",
+      "link": "https://korben.info/test-puzzle-bobble-everybubble-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T16:06:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_15890328127691183565_hu_417b2e03a52517a4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6aebe9579446",
+      "title": "La meilleure distribution Linux n'existe pas - Voici la vôtre",
+      "description": "La meilleure distribution Linux n'existe pas dans l'absolu. Un sélecteur maison pose vingt questions sur votre machine et votre usage, puis compare 35 distributions.",
+      "link": "https://korben.info/meilleure-distribution-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T15:38:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/meilleure-distribution-linux/meilleure-distribution-linux-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5d02cefefedb",
+      "title": "Qui possède vos médias préférés ?",
+      "description": "Une extension Chrome et Firefox affiche le propriétaire de chaque média référencé à côté de vos résultats Google, avec la chaîne de détention complète.",
+      "link": "https://korben.info/qui-possede-proprietaire-medias-extension.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T14:30:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/qui-possede-proprietaire-medias-extension/qui-possede-proprietaire-medias-extension-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab3ff80d36ce",
+      "title": "Évaluer la maturité du Product Management d'une organisation : méthode et constats sur l'IA",
+      "description": "Comment comparer des équipes produit qui ne mettent pas les mêmes réalités derrière les rôles de Product Owner ou Product Manager ? Une démarche construite chez OCTO propose un référentiel commun et une méthode structurée pour évaluer objectivement les pratiques produit.",
+      "link": "https://blog.octo.com/evaluer-la-maturite-du-product-management-d'une-organisation--methode-et-constats-sur-l'ia",
+      "pubDate": "2026-08-11T09:00:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc75dcda7213",
+      "title": "Coder avec l'IA sans pomper le projet d'un autre ?",
+      "description": "Terry Godier a retiré son app codée avec Claude, trop proche d'un projet open source. Ce qu'il faut exiger de son agent IA et vérifier avant de publier.",
+      "link": "https://korben.info/ia-clone-projet-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-11T07:29:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ia-clone-projet-open-source/ia-clone-projet-open-source-1.png",
+      "type": "blog"
+    },
+    {
       "id": "ae97c4cb841a",
       "title": "Amazon installe une centrale à gaz de 7,65 gigawatts pour ses data centers",
       "description": "Le projet GW Ranch au Texas aligne 35 turbines à gaz, 1,8 GW de batteries et 750 MW de solaire, hors réseau ERCOT, avec un permis à 33 Mt de CO2 par an.",

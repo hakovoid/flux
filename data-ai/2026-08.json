@@ -2,6 +2,62 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "012e30e2c241",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "pubDate": "2026-08-11T17:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0027655752f4",
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "description": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation. The post Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "pubDate": "2026-08-11T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/CAREX-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "077b61a0fed0",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "pubDate": "2026-08-11T13:37:10.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "5d3aff0aba5d",
+      "title": "Daybreak models are now available on AWS",
+      "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "pubDate": "2026-08-11T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RITuNETzGy8qYTRq0ePqm/e2efee656f610e90b2b2713625aa0de1/SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "5367cc95a8fd",
       "title": "What building an AI-native finance function taught me",
       "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
