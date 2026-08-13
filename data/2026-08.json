@@ -2,6 +2,188 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0a37f3d2dedb",
+      "title": "Freenet-git - Le dépôt Git sans serveur",
+      "description": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",
+      "link": "https://korben.info/freenet-git-decentralise-routage-ml.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T10:41:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_870751832588017236_hu_889b29c3d09ae586.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e30704638a26",
+      "title": "OneDrive Photos - Ce que vous pouvez vraiment virer aujourd'hui",
+      "description": "Windows 11 a installé OneDrive Photos sans le demander et aucun bouton ne le désinstalle. Voici ce qui part vraiment, en PowerShell, et ce qui ne partira qu'avec OneDrive.",
+      "link": "https://korben.info/supprimer-onedrive-photos-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T10:35:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/supprimer-onedrive-photos-windows-11/supprimer-onedrive-photos-windows-11-1.avif",
+      "type": "blog"
+    },
+    {
+      "id": "8ec5fd4eddb0",
+      "title": "Une carte SIM piégée et la borne de recharge exécute du code malveillant",
+      "description": "Une carte SIM hostile peut faire exécuter ses commandes au modem qui l'héberge. Sur 26 appareils testés, 9 acceptent, presque tous côté IoT.",
+      "link": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T09:50:57.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/carte-sim-malveillante-modem-iot-commandes-at/carte-sim-malveillante-modem-iot-commandes-at-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a0f163f02fd5",
+      "title": "La Royal Navy et ses caméras de la Dynastie Ping",
+      "description": "Les caméras des drones navals K3 Scout de la Royal Navy envoyaient des heartbeats vers une adresse en Chine. Le composant venait d'un sous-traitant.",
+      "link": "https://korben.info/royal-navy-k3-scout-cameras-chinoises.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T09:37:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4355039951278278824_hu_b744bff9c6da4d26.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c8264f377d8d",
+      "title": "Xodus - Vos jeux Xbox PC tourneront bientôt sur Linux / macOS",
+      "description": "Xodus a fait sauter l'authentification Xbox, les licences et le chiffrement des paquets de jeu sur Linux. Reste le plus dur, faire tourner les services Xbox dans Wine.",
+      "link": "https://korben.info/xodus-xbox-game-pass-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T09:06:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/xodus-xbox-game-pass-linux/xodus-xbox-game-pass-linux-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "aa8e555ee16f",
+      "title": "Cloudflare Computer - Un ordinateur dans le cloud pour votre agent IA",
+      "description": "Cloudflare Computer donne un système de fichiers persistant et un shell à votre agent IA. Le stockage tient dans le plan gratuit, l'exécution est payante.",
+      "link": "https://korben.info/cloudflare-computer-agent-ia-workspace.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T08:54:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cloudflare-computer-agent-ia-workspace/cloudflare-computer-agent-ia-workspace-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "25b859351eea",
+      "title": "Chrome sécurise votre session dans une puce, Firefox dit non",
+      "description": "Chrome enferme la clé de votre session dans le TPM ou la Secure Enclave, et un cookie volé ne suffit plus. Rien à activer, mais Mozilla a dit non pour Firefox.",
+      "link": "https://korben.info/chrome-dbsc-vol-cookie-session.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T08:44:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chrome-dbsc-vol-cookie-session/chrome-dbsc-vol-cookie-session-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0eab06bc977f",
+      "title": "Quand le cache de Symfony ralentit votre application...",
+      "description": "Mettre une valeur en cache, c'est toujours plus rapide, non ? Et bien, pas forcément ! Cet article partage l'analyse d'un problème de performance causé par la protection \"anti-stampede\" du composant Cache de Symfony, et sur la manière dont nous l'avons diagnostiqué puis corrigé. Nous avons récemment corrigé un problème de lenteur sur une application Symfony en production. Le diagnostic nous a pris un certain temps, car la cause était contre-intuitive : le responsable était le composant Cache de…",
+      "link": "https://jolicode.com/blog/quand-le-cache-de-symfony-ralentit-votre-application",
+      "pubDate": "2026-08-12T08:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/cache-lock/cache-lock-flow.png",
+      "type": "blog"
+    },
+    {
+      "id": "a01bf5a97219",
+      "title": "CCAF : ce que l'exam guide officiel ne vous dit pas",
+      "description": "Introduction On a passé la CCAF cette semaine. Autant le dire tout de suite : on est tous les deux juniors, sans des mois d'arbitrages de prod derrière nous, nous savions donc que notre expérience ne nous aiderait pas. Ce qu'on pensait,",
+      "link": "https://blog.ippon.fr/2026/08/12/ccaf-ce-que-lexam-guide-officiel-ne-vous-dit-pas/",
+      "pubDate": "2026-08-12T07:44:41.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/ChatGPT-Image-12-ao--t-2026----10_44_23.png",
+      "type": "blog"
+    },
+    {
+      "id": "d1fdf65bc414",
+      "title": "Diagram-design - Des schémas à vos couleurs",
+      "description": "Un skill pour Claude Code, Codex et Pi qui sort 27 types de schémas en HTML autonome, redessine vos fichiers draw.io et Mermaid, et reprend les couleurs de votre site.",
+      "link": "https://korben.info/diagram-design-diagrammes-claude-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T07:07:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/diagram-design-diagrammes-claude-code/diagram-design-diagrammes-claude-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7e084fa773f5",
+      "title": "En train avec un vampire",
+      "description": "Spooky Express, le puzzle game de Draknek & Friends (A Monster's Expedition) : tracer des rails sans croisement, sur Steam, Itch.io, iOS et Android.",
+      "link": "https://korben.info/avis-spooky-express-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T07:05:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sddefault_13951399931891309947_hu_20b9531028e50e25.webp",
+      "type": "blog"
+    },
+    {
+      "id": "be1ecd46e807",
+      "title": "Wayland-Wheeltani - L'autoscroll qui survit au débranchement",
+      "description": "Wayland-Wheeltani ramène l'autoscroll au clic molette sous Wayland, avec un appairage de souris qui survit aux changements de port et au débranchement.",
+      "link": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-12T06:57:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/wayland-wheeltani-autoscroll-clic-molette/wayland-wheeltani-autoscroll-clic-molette-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5ad607fa468c",
       "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
       "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Emile…",
@@ -18,6 +200,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
       "duration": "01:02:29"
+    },
+    {
+      "id": "bb68f11e36d0",
+      "title": "L'IA n'a pas votre vécu",
+      "description": "J’ai évoqué dans une publication précédente, l’usage de l’IA par les leaders pour construire leurs arguments, et la perte d’authenticité que cela entraîne. J’ai exactement le même sentiment côté technique. De plus en plus, je vois des développeurs avancer des arguments qu’ils n’ont pas construits. Des réponses générées, structurées, bien tournées, mais qui ne sont pas les leurs. Et tout comme pour les leaders, cela désincarne les propos et leur fait perdre en crédibilité. La discussion s’engage…",
+      "link": "https://www.jdecool.fr/blog/2026/08/12/l-ia-n-a-pas-votre-vecu.html",
+      "pubDate": "2026-08-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "00b81d958e74",

@@ -2,6 +2,118 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f87e14ef06b6",
+      "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "description": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "249a5e1ede4d",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "pubDate": "2026-08-12T16:14:36.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/u9KR_QjSYF7mJIbRE3Ni8.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "1a7704a62ecc",
+      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
+      "description": "A path, a fence, a knot. MindTopo sets a new benchmark for testing how AI understands topological relationships and highlights new opportunities to strengthen spatial reasoning and planning. The post MindTopo reveals VLMs’ spatial reasoning abilities appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "pubDate": "2026-08-12T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/MindTopo-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1357a9ae7911",
+      "title": "Putting sign language AI into users’ hands",
+      "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "pubDate": "2026-08-12T14:01:59.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c5639474288",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "description": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "pubDate": "2026-08-12T14:00:51.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/apldbDPIJWZeODX1g9iFV.png",
+      "type": "blog"
+    },
+    {
+      "id": "e063daae6225",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "pubDate": "2026-08-12T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9bafa93fe08b",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "link": "https://openai.com/index/ringcentral",
+      "pubDate": "2026-08-12T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2k1A67ewu2PHI2pt2Wh6zG/b0e09c92f1db264476fd343a1dfd63a8/ringcentral-drive-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f2323421e5e5",
+      "title": "Aug 12, 2026Economic ResearchReviewing the evidence on worker retraining programs",
+      "description": "Aug 12, 2026Economic ResearchReviewing the evidence on worker retraining programs",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "2026-08-12T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Abacus&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
       "id": "012e30e2c241",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
