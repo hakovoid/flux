@@ -2,6 +2,111 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0783af037c77",
+      "title": "Grok Bot débarque en bêta",
+      "description": "La bêta de Grok Bot lance des agents IA sur une machine distante, sur Mac, iOS, Windows et Linux, via l'abonnement SuperGrok Heavy à 300 $/mois.",
+      "link": "https://korben.info/grok-bot-debarque-en-beta.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T09:01:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_9032358003317662935_hu_9453fb6abfaa51f6.webp",
+      "type": "blog"
+    },
+    {
+      "id": "78baa26430cc",
+      "title": "Claude va glisser un filigrane invisible dans tous ses textes",
+      "description": "Anthropic ajoute un filigrane invisible aux textes de Claude, dans l'API, Claude Code et le web, en lien avec l'AI Act européen du 2 août.",
+      "link": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T08:10:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes/claude-va-glisser-un-filigrane-invisible-dans-tous-ses-textes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "60d39abead2d",
+      "title": "Montez votre premier cyberdeck à l'aide de ce PDF gratuit",
+      "description": "Le numéro 168 du magazine officiel Raspberry Pi consacre son dossier aux cyberdecks et met ses 132 pages en PDF gratuit, tutoriel de montage compris.",
+      "link": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T08:06:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit/magazine-raspberry-pi-168-cyberdeck-pdf-gratuit-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c6442c93da02",
+      "title": "33 secondes pour lancer un MP3 ? C'est pas VLC, c'est Windows Defender",
+      "description": "33 secondes pour lancer un MP3 sous Windows 11 ? Microsoft Defender a mis le cache de plugins de VLC en quarantaine, et le raccourci qui répare est déjà là.",
+      "link": "https://korben.info/vlc-lent-windows-defender-cache-plugins.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:58:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vlc-lent-windows-defender-cache-plugins/vlc-lent-windows-defender-cache-plugins-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8901a33184ea",
+      "title": "ShieldBreak - C'est Windows Defender qui tient la porte grande ouverte",
+      "description": "Un exploit publié sans prévenir détourne Microsoft Defender pour obtenir les droits SYSTEM sur un Windows à jour. Aucun correctif à installer pour l'instant.",
+      "link": "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:47:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/shieldbreak-zero-day-defender-microsoft/shieldbreak-zero-day-defender-microsoft-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ddf7e13994f6",
+      "title": "Vos streams Twitch nourrissent l'IA d'Amazon - La case à décocher",
+      "description": "Twitch laisse Amazon entraîner ses modèles d'IA générative sur le contenu de votre chaîne, et la case est cochée par défaut. Voici où la couper.",
+      "link": "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T07:38:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/twitch-desactiver-entrainement-ia-amazon/twitch-desactiver-entrainement-ia-amazon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d9ee13f88639",
+      "title": "Votre identité vaut de l'or, et l'IA vient de la mettre en vente sur Le Bon Coin",
+      "description": "Surfshark et le vol d'identité par IA : deepfakes, clonage vocal, 12,5 milliards de dollars extorqués en 2024, Alternative ID, Incogni et CleanWeb.",
+      "link": "https://korben.info/votre-identite-vaut-de-lor.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-13T06:03:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.gif",
+      "type": "blog"
+    },
+    {
       "id": "0a37f3d2dedb",
       "title": "Freenet-git - Le dépôt Git sans serveur",
       "description": "freenet-git héberge des dépôts Git sur le réseau pair-à-pair Freenet, sans GitHub ni serveur à tenir, et voici comment publier le vôtre.",

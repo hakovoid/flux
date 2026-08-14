@@ -2,6 +2,90 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "353217afc4f7",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "description": "",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "pubDate": "2026-08-13T17:16:04.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png",
+      "type": "blog"
+    },
+    {
+      "id": "43643a3dd841",
+      "title": "Introducing Gemini 3.7 Flash",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "pubDate": "2026-08-13T17:04:18.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "d00944e12348",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "description": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "pubDate": "2026-08-13T16:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6f8368ac763b",
+      "title": "The builder’s guide to GPT‑5.6",
+      "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "pubDate": "2026-08-13T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c0986f6628d1",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "pubDate": "2026-08-13T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3Hr2P0ohSh8XIvwvdWTiqw/bc17823dc335767da94bbef2e1a90fa2/previewing-ultrafast-mode--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6eaab463a55d",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "description": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "pubDate": "2026-08-13T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7foBqhVyCeruJXiT79LxmK/94e25ece2f872aded25419f38d248653/Dali_Resized.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "f87e14ef06b6",
       "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
       "description": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
@@ -13,6 +97,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "57f8b7f378e9",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "description": "",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "pubDate": "2026-08-13T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/icml-2026-open-reproductions/thumbnail.png",
       "type": "blog"
     },
     {
