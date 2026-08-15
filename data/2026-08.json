@@ -2,6 +2,66 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "fd1e13350aaf",
+      "title": "This new startup can query anywhere you've been...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=E7la7-dtfVM",
+      "pubDate": "2026-08-14T17:44:59.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a51ea492d7f",
+      "title": "Boeing 737 - 60 secondes pour hacker l'avion",
+      "description": "Un implant posé en 60 secondes dans un connecteur de maintenance du Boeing 737 prend la main sur le dialogue entre calculateur de vol et écran du pilote.",
+      "link": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-14T09:07:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/implant-boeing-737-port-maintenance-arinc-429/implant-boeing-737-port-maintenance-arinc-429-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "45bef70382fb",
+      "title": "Les impôts se sont fait voler les données de 680 000 contribuables",
+      "description": "680 000 lignes de données volées à la DGFiP fin juin : noms, adresses, données cadastrales de 390 000 particuliers et 285 000 professionnels.",
+      "link": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-14T07:18:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables/les-impots-se-sont-fait-voler-les-donnees-de-680-000-contribuables-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5bce5bc8ca3f",
+      "title": "Liens Tech - Août 2026",
+      "description": "La sélection du mois : un serveur de livres audio auto-hébergé, un outil de gestion multi-cluster pour Proxmox, un générateur de fichiers docker-compose, une plateforme de simulation d'attaques cyber, un outil de visualisation de données et un système de prévention d'intrusion pour serveurs Linux.",
+      "link": "https://domopi.eu/liens-tech-aout-2026/",
+      "pubDate": "2026-08-14T05:45:35.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "0783af037c77",
       "title": "Grok Bot débarque en bêta",
       "description": "La bêta de Grok Bot lance des agents IA sur une machine distante, sur Mac, iOS, Windows et Linux, via l'abonnement SuperGrok Heavy à 300 $/mois.",
@@ -104,6 +164,21 @@
         "Web"
       ],
       "image": "https://korben.info/votre-identite-vaut-de-lor/votre-identite-vaut-de-lor-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "3e643c584f71",
+      "title": "Meta's new model wants \"deep access\" to your personal life...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "pubDate": "2026-08-12T18:29:41.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -319,6 +394,21 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a95ed03a4871",
+      "title": "I spent 3 days at MIT... the robot hype is worse than you think",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "pubDate": "2026-08-11T16:10:08.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {

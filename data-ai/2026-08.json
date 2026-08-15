@@ -2,6 +2,34 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "bc290ba394fd",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "description": "",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "pubDate": "2026-08-14T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/state-of-open-models-summer-2026/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "e68246067eed",
+      "title": "How Claude’s text watermark works",
+      "description": "How Claude’s text watermark works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "pubDate": "2026-08-14T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "353217afc4f7",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "description": "",
