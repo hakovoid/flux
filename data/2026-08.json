@@ -2,6 +2,37 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "abd676ffbbbf",
+      "title": "Holeberry - Le Pi-hole dans la barre de menus du Mac",
+      "description": "Une app macOS native qui pilote vos instances Pi-hole depuis la barre de menus, et qui débloque en un clic le domaine de l'onglet ouvert.",
+      "link": "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-15T17:13:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/holeberry-pi-hole-barre-menus-macos/holeberry-pi-hole-barre-menus-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c3153b881c7c",
+      "title": "Sous le capot de Bluesky : l'ATProto)",
+      "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",
+      "link": "https://une-tasse-de.cafe/blog/atproto-pds/",
+      "pubDate": "2026-08-15T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://une-tasse-de.cafe/blog/atproto-pds/cover.png",
+      "type": "blog"
+    },
+    {
       "id": "fd1e13350aaf",
       "title": "This new startup can query anywhere you've been...",
       "description": "",
