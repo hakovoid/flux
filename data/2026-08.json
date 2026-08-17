@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "3174d46201ca",
+      "title": "WinPodX - Un système Windows intégré dans votre Linux",
+      "description": "WinPodX affiche chaque application Windows comme une fenêtre Linux native, et fait remonter vos applications Linux dans les menus de Windows. C'est sa fonction distinctive, et c'est aussi celle qu'il a passé l'été à réparer.",
+      "link": "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-16T07:01:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/winpodx/winpodx-2.png",
+      "type": "blog"
+    },
+    {
       "id": "abd676ffbbbf",
       "title": "Holeberry - Le Pi-hole dans la barre de menus du Mac",
       "description": "Une app macOS native qui pilote vos instances Pi-hole depuis la barre de menus, et qui débloque en un clic le domaine de l'onglet ouvert.",
