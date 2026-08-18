@@ -2,6 +2,96 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "77c43ec9081d",
+      "title": "Un script pour virer les produits sponsorisés d'Amazon",
+      "description": "Sur Amazon, le tri par prix croissant laisse passer des cartes sponsorisées à 74,99 € juste après une série qui plafonnait à 53,99 €. Ce userscript en licence MIT dégage les blocs sponsorisés, les encarts promo et Rufus des pages Amazon, amazon.fr compris. Il emporte aussi le résumé automatique des avis.",
+      "link": "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T15:40:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/amazon-sponsored-products-remover/amazon-sponsored-products-remover-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "61aa3de29a9c",
+      "title": "Je me suis remis à la domotique grâce à un vieux mini PC et Claude Code",
+      "description": "J'ai ressorti un vieux mini PC et ma caisse de matos Zigbee pour repartir de zéro sur Home Assistant. Le récit, les murs et mes scénarios.",
+      "link": "https://korben.info/retour-domotique-home-assistant-mini-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T10:02:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/retour-domotique-home-assistant-mini-pc/retour-domotique-home-assistant-mini-pc-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e7d13deb764d",
+      "title": "PureMac - Faites un grand ménage sur votre Mac, gratuitement",
+      "description": "PureMac désinstalle vos applications macOS avec les fichiers qu'elles ont semés dans la Bibliothèque, retrouve les orphelins et purge les caches de développement. C'est du MIT, sans télémétrie, mais sa liste d'orphelins supprime sans passer par la corbeille.",
+      "link": "https://korben.info/puremac-nettoyeur-macos-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T08:31:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/puremac-nettoyeur-macos-open-source/puremac-nettoyeur-macos-open-source-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "87d3d106ffb7",
+      "title": "Un satellite gros comme une valise cabine va écouter le début de l'univers depuis la face cachée de la Lune",
+      "description": "CosmoCube, satellite de l'université de Cambridge, ira capter la raie à 21 cm derrière la Lune. Moins de 50 millions d'euros, décollage d'ici 5 ans.",
+      "link": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T08:12:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "86171bddc344",
+      "title": "En Italie, une affiche Apple avec un enfant fait polémique",
+      "description": "Une affiche Apple \"Relax, it's iPhone\" montrant un enfant de deux ans avec un iPhone a été signalée à l'AGIA",
+      "link": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-17T06:46:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fcbe3e8ea6ec",
+      "title": "Ceux qui ont supprimé la revue de code ont raison.",
+      "description": "Des développeurs sont arrivés sur ma MR avec une IA qui faisait la revue à leur place. Ceux qui ont carrément supprimé la revue sont presque plus honnêtes, parce qu'ils ont vu qu'elle avait perdu la course. Reste à savoir ce qu'ils ont mis à la place, et la plupart n'ont rien mis.",
+      "link": "https://f2r.github.io/fr/supprimer-revue-code.html",
+      "pubDate": "2026-08-17T00:00:00.000Z",
+      "source": "F2R (Frédéric Bouchery)",
+      "sourceUrl": "https://f2r.github.io/feed/fr.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "3174d46201ca",
       "title": "WinPodX - Un système Windows intégré dans votre Linux",
       "description": "WinPodX affiche chaque application Windows comme une fenêtre Linux native, et fait remonter vos applications Linux dans les menus de Windows. C'est sa fonction distinctive, et c'est aussi celle qu'il a passé l'été à réparer.",

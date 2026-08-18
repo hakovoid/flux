@@ -2,6 +2,76 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "bf50ec5ce617",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "pubDate": "2026-08-17T19:46:21.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4001c007c7b5",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "pubDate": "2026-08-17T08:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1380f7766171",
+      "title": "The Defender’s Window",
+      "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "link": "https://openai.com/index/the-defenders-window",
+      "pubDate": "2026-08-17T05:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/yYqBqvM2uvc7B9HulIW4O/a3fa616ce523411cc59534295c4e6ec9/the-defenders-window-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "22405ea1e27b",
+      "title": "OpenAI joins PORTS-Pike project",
+      "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "pubDate": "2026-08-17T05:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7lncHUlLeigB0CzEnnpkvX/79fb3bd6db518d2946417c35a981d973/openai-joins-ports-pike-project-seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3ff02964da6b",
+      "title": "New policy ideas for the Intelligence Age",
+      "description": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "pubDate": "2026-08-17T03:15:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3ui6fuXDbnmCfn6AqK9xkn/b8f4d1d81779680070c147b1ae685c9f/new-policy-ideas-for-the-intelligence-age--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "bc290ba394fd",
       "title": "State of Open Models: Summer 2026 Observations",
       "description": "",
