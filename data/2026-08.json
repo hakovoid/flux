@@ -2,6 +2,174 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "7e9cac0def52",
+      "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
+      "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Mathieu Hainselin, maître de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-370-47246092eba9",
+      "pubDate": "2026-08-19T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/9faeda6b-eee1-45fd-a0cb-630f290b0c72.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
+      "duration": "01:05:59"
+    },
+    {
+      "id": "aa8db09edf89",
+      "title": "Nvidia CMP 170HX - La VRAM était bien là, bridée par le firmware",
+      "description": "Un outil open source fait sauter le verrou firmware des cartes de minage Nvidia CMP 170HX : une carte vendue 8 Go expose 64 Go de HBM2e, une 10 Go passe à 40. La mémoire n'a jamais été défectueuse, seulement désactivée. Mais la largeur PCIe reste soudée au PCB, l'ECC est toujours absent et le prix a déjà quadruplé.",
+      "link": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T11:59:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cmp-170hx-vram-debloquee-mod-ia/cmp-170hx-vram-debloquee-mod-ia-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "188796d28139",
+      "title": "Un atelier japonais double la VRAM des RTX 2080 Ti pour pas cher",
+      "description": "Un atelier de Saitama remplace les 11 puces GDDR6 des RTX 2080 Ti par des modules Samsung 2 Go pour 282 dollars : 22 Go de VRAM, utile en IA locale.",
+      "link": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T11:05:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher/un-atelier-japonais-double-la-vram-des-rtx-2080-ti-pour-pas-cher-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "921ff1f8b558",
+      "title": "Rendre une voiture invisible pour les caméras",
+      "description": "Un motif généré par ordinateur a fait passer une Toyota Yaris devant une caméra Flock sans qu'aucune alerte ne parte. La plaque était pourtant lisible : c'est la détection du véhicule qui a échoué, pas la lecture. Et le chercheur derrière l'expérience est plus prudent sur ses résultats que les titres qui le relaient.",
+      "link": "https://korben.info/invisible-car-flock-camera-machine-learning.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T10:43:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/invisible-car-flock-camera-machine-learning/invisible-car-flock-camera-machine-learning-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5a977e76484e",
+      "title": "Le site à envoyer à tous ceux qui vous copient collent depuis ChatGPT",
+      "description": "Une page à envoyer, traduite en français, à qui vous répond par un mur de chatbot qu'il n'a pas lu. Elle donne quatre conseils, dont un seul se paie vraiment : annoncer ce qu'on cite d'un modèle. Treize expériences menées à l'université d'Arizona expliquent pourquoi c'est quand même la moins mauvaise option.",
+      "link": "https://korben.info/dont-paste-the-ai.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T09:15:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dont-paste-the-ai/dont-paste-the-ai-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f2b566bda5c2",
+      "title": "Gadgetbridge - L'appli qui gère votre montre connectée sans Internet",
+      "description": "Gadgetbridge remplace l'application du fabricant de votre montre, bracelet ou casque Bluetooth par une appli Android libre à qui le manifeste retire la permission INTERNET. 529 modèles de 74 fabricants sont documentés, mais chez Amazfit, Xiaomi, Fossil et Nothing, la clé d'appairage vit encore chez le constructeur.",
+      "link": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T08:44:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gadgetbridge-montre-connectee-sans-cloud/gadgetbridge-montre-connectee-sans-cloud-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d492971c4ca3",
+      "title": "Amazon détruit des livres pour nourrir ses IA",
+      "description": "Un AirTag glissé dans un livre a mené 404 Media à un entrepôt Amazon de Las Vegas, où une équipe découpe les reliures pour scanner plus vite. Les robots qui numérisent sans abîmer existent depuis 2007, et la justice américaine avait validé cette voie dès 2015.",
+      "link": "https://korben.info/amazon-detruit-livres-rares-scan-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T08:28:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/amazon-detruit-livres-rares-scan-ia/amazon-detruit-livres-rares-scan-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "17115994ec37",
+      "title": "Le code de GoldenEye 007 est enfin sorti de sa cartouche",
+      "description": "Le projet de décompilation de GoldenEye 007 affiche 208 fichiers sur 208, sur les trois versions de la cartouche. Ce n'est pas un jeu à télécharger : c'est le code C du moteur, qui recompile en une ROM identique à celle de 1997.",
+      "link": "https://korben.info/goldeneye-007-n64-decompile-100.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T07:43:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/goldeneye-007-n64-decompile-100/goldeneye-007-n64-decompile-100-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "bae254b51c37",
+      "title": "SimHash : trouver les pages qui se ressemblent",
+      "description": "Il y a quelques semaines, j'ai eu besoin de détecter du contenu dupliqué dans le crawler de redirection.io. Pas du dupliqué à la virgule près, ça c'est facile, mais du dupliqué « en gros, c'est la même page ». J'aurais pu utiliser des embeddings avec un LLM, mais il me fallait quelque chose de rapide et de gratuit. J'ai finalement utilisé SimHash, un algorithme qui date de 2002 et qui tient en trente lignes de PHP. Dans cet article, nous allons voir pourquoi md5() ne peut pas nous aider,…",
+      "link": "https://jolicode.com/blog/simhash-trouver-les-pages-qui-se-ressemblent",
+      "pubDate": "2026-08-18T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/simhash/simhash.png",
+      "type": "blog"
+    },
+    {
+      "id": "47aff8f5ad90",
+      "title": "GitLab - la faille qui a fait rouvrir une version morte",
+      "description": "Un correctif d'urgence hors calendrier, une faille notée 9,4 exploitable sans compte, et une branche sortie de maintenance depuis un mois que GitLab a rouverte pour l'occasion. Voilà quoi faire selon la version que vous hébergez.",
+      "link": "https://korben.info/gitlab-graphql-faille-critique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T07:07:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gitlab-graphql-faille-critique/gitlab-graphql-faille-critique-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "bf2e57e3c737",
+      "title": "GIMP abandonne le XCF",
+      "description": "XCF, le format de projet de GIMP depuis 1997, va laisser la place à une archive zip. Objectif : des sauvegardes partielles, l'auto-save et des projets bien plus lourds.",
+      "link": "https://korben.info/gimp-nouveau-format-projet.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-18T06:53:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gimp-nouveau-format-projet/gimp-nouveau-format-projet-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "77c43ec9081d",
       "title": "Un script pour virer les produits sponsorisés d'Amazon",
       "description": "Sur Amazon, le tri par prix croissant laisse passer des cartes sponsorisées à 74,99 € juste après une série qui plafonnait à 53,99 €. Ce userscript en licence MIT dégage les blocs sponsorisés, les encarts promo et Rufus des pages Amazon, amazon.fr compris. Il emporte aussi le résumé automatique des avis.",
