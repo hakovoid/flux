@@ -2,6 +2,83 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8eee77fdbd47",
+      "title": "Comment héberger un LLM (partie 1)",
+      "description": "Un serveur GPU, un an d'expérimentations : ce premier article vulgarise ce qu'est réellement un LLM (poids, biais, softmax) avant de le mettre à disposition avec vLLM, le GPU Operator NVIDIA et Kubernetes.",
+      "link": "https://blog.ippon.fr/2026/08/19/comment-heberger-un-llm-partie-1/",
+      "pubDate": "2026-08-19T08:00:28.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes.png",
+      "type": "blog"
+    },
+    {
+      "id": "c96447e23706",
+      "title": "Quand personne ne vérifie la date d'expiration de votre CB",
+      "description": "Trois chercheurs de l'université du Massachusetts ont fait payer des cartes bancaires périmées avec deux téléphones Android posés entre la carte et le terminal. Rien n'a été cassé : sur le kernel Visa, la date d'expiration que lit le terminal n'est protégée par aucune signature, et la banque en regarde une autre.",
+      "link": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T07:02:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cartes-bancaires-expirees-reactivees-paiements/cartes-bancaires-expirees-reactivees-paiements-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "43b841c00504",
+      "title": "Son imprimante HP imprime enfin sur Mac - Merci Claude Code",
+      "description": "Un tweet montrant Claude Code en train de fabriquer un pilote macOS pour une imprimante HP a fait trois millions de vues. Le dépôt publié par son auteur raconte autre chose : deux voies natives fermées par macOS, un codec Linux dans une machine virtuelle, et un daemon root qui exécute des fichiers du dossier personnel.",
+      "link": "https://korben.info/claude-code-driver-imprimante-hp-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T06:50:59.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-code-driver-imprimante-hp-macos/claude-code-driver-imprimante-hp-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e81e07b43d2",
+      "title": "Le CD de Quake était foireux avant même d'être pressé",
+      "description": "En 1996, le CD shareware de Quake embarquait tout le catalogue d'id Software en versions chiffrées, déverrouillables par téléphone. Le crack est arrivé en 39 jours, mais la faille, elle, était déjà décrite dans un brevet déposé en 1992.",
+      "link": "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T06:29:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/quake-shareware-cd-rom-tous-les-jeux-id-chiffres/quake-shareware-cd-rom-tous-les-jeux-id-chiffres-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "2f88c3c8d4c9",
+      "title": "GeForce NOW dans Firefox - 2 000 jeux PC dispo sans rien installer",
+      "description": "NVIDIA autorise enfin Firefox a faire tourner GeForce NOW, sur Windows uniquement. Plus de 2000 jeux PC en streaming dans un onglet, sans installation ni carte graphique a changer, mais avec les plafonds du forfait : 120 fps reserves a Ultimate et 100 heures de jeu par mois.",
+      "link": "https://korben.info/firefox-geforce-now-partenariat.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-19T05:55:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/firefox-geforce-now-partenariat/firefox-geforce-now-partenariat-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "7e9cac0def52",
       "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
       "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a presque jamais parlé. Alors le temps d'un été, on remonte à la source : 6 épisodes, 6 chercheurs, pour comprendre ce qu'est vraiment l'intelligence. Le D.E.V. de la semaine est Mathieu Hainselin, maître de…",
@@ -18,6 +95,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
       "duration": "01:05:59"
+    },
+    {
+      "id": "0a2e282e125c",
+      "title": "Écrire du code avec l'IA, c'est la partie facile",
+      "description": "On parle de plus en plus de dépendance à l’IA : du code produit “trop vite” et en trop grande quantité, que l’on ne comprend pas ou que l’on ne sait plus maintenir. Mais est-ce vraiment un problème d’IA ? Avant elle, on copiait déjà du code trouvé sur StackOverflow sans le comprendre. On reprenait déjà des projets dont plus personne ne connaissait les choix d’architecture. On livrait déjà des fonctionnalités sans test. Depuis des années, nous avons les mêmes problèmes, seuls le volume et la…",
+      "link": "https://www.jdecool.fr/blog/2026/08/19/ecrire-du-code-avec-l-ia-c-est-la-partie-facile.html",
+      "pubDate": "2026-08-18T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "aa8db09edf89",
