@@ -2,6 +2,81 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "947a0d0033e0",
+      "title": "DeepSeek is back... and Silicon Valley is terrified",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+      "pubDate": "2026-08-20T17:53:37.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e6897fef64b9",
+      "title": "Geekom retire enfin un pilote que Windows Defender signalait comme vérolé depuis 2024",
+      "description": "Geekom a retiré de ses vieilles pages de support un installeur de pilote réseau que quatre plateformes d'analyse signalent. Le propriétaire d'un AE8 l'avait déjà repéré le 29 décembre 2024, et un membre du forum ComputerBase avait démonté le paquet le jour même.",
+      "link": "https://korben.info/geekom-mini-pc-malware-verifier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-20T07:02:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/geekom-mini-pc-malware-verifier/geekom-mini-pc-malware-verifier-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "72fa4fc0fd63",
+      "title": "oMLX – Faites tourner vos agents IA en local sur votre Mac",
+      "description": "oMLX écrit le cache KV de vos modèles sur le SSD au lieu de le garder en mémoire, donc reprendre une session ne repasse plus par un recalcul complet du contexte. En échange, le cache est actif d'office et vise 10 % de votre disque.",
+      "link": "https://korben.info/omlx-serveur-llm-local-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-20T06:31:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omlx-serveur-llm-local-apple-silicon/omlx-serveur-llm-local-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "de2cb7fe116c",
+      "title": "Surfshark lance une protection anti-scam SMS et enterre son moteur de recherche - La vie est faite de choix",
+      "description": "Surfshark Scam Text Protection analyse les SMS par IA pour bloquer le smishing, réservée aux plans One et One+. Surfshark Search fermé fin 2026.",
+      "link": "https://korben.info/surfshark-protection-anti-scam-sms.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-20T05:03:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-protection-anti-scam-sms/surfshark-protection-anti-scam-sms-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1338e95488a8",
+      "title": "The summer Math fell to the machines...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
+      "pubDate": "2026-08-19T18:45:57.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8eee77fdbd47",
       "title": "Comment héberger un LLM (partie 1)",
       "description": "Un serveur GPU, un an d'expérimentations : ce premier article vulgarise ce qu'est réellement un LLM (poids, biais, softmax) avant de le mettre à disposition avec vLLM, le GPU Operator NVIDIA et Kubernetes.",
