@@ -2,6 +2,34 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "835a331a5b20",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "pubDate": "2026-08-21T11:59:48.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e3ddd7a65cd3",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "description": "",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "eab5285cfdeb",
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "description": "",
