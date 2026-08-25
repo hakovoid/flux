@@ -2,6 +2,150 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "0f5821dec0e5",
+      "title": "Une introduction interactive au Spanning Tree Protocol",
+      "description": "Avertissement Cet article contient des exemples interactifs. Pour les visualiser et interagir avec eux, vous devez .quitter votre lecteur de flux :demo A1 @0,0 prio=4096 A2 @0,1 A3 @0,2 A4 @0,3 B1 @1,0 prio=8192 B2 @1,1 B3 @1,2 B4 @1,3 C1 @2,0 prio=8192 C2 @2,1 C3 @2,2 C4 @2,3 A1 -- A2 hazard=0 A2 -- A3 hazard=0 A3 -- A4 hazard=0 B1 -- B2 B2 -- B3 B3 -- B4 C1 -- C2 hazard=0 C2 -- C3 hazard=0 C3 -- C4 hazard=0 A1 -- B1 cost=10 B1 -- C1 cost=10 A4 -- B4 cost=20 B4 -- C4 cost=20 Léo @-0.3,0.7…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree",
+      "pubDate": "2026-08-24T15:00:00.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/msa-garratt@1x.77dc2f6581ab04.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "30b56794ee3a",
+      "title": "L'IA a divisé par 10 le coût du refacto. Pas la nécessité de refactorer",
+      "description": "Un jour et demi, 50 $ de tokens : c'est ce qu'a coûté un refacto structurant que je n'aurais jamais lancé dans le monde d'avant. L'IA rend-elle la conception moins critique, puisqu'on peut désormais rattraper sa dette à moindres frais ? Retour d'expérience, méthode, et convictions.",
+      "link": "https://blog.octo.com/l'ia-a-divise-par-10-le-cout-du-refacto.-pas-la-necessite-de-refactorer",
+      "pubDate": "2026-08-24T14:47:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "454958167536",
+      "title": "Dette technique, obsolescence, modernisation : bienvenue dans la partie immergée de l'iceberg",
+      "description": "Pourquoi la dette technique et les chantiers IT arrivent-ils toujours trop tard ? Pas par manque d'arguments : les règles du jeu sont construites pour les faire perdre. Tour d'horizon des solutions que les équipes terrain ont vues fonctionner, classées du D-Tier au S-Tier.",
+      "link": "https://blog.octo.com/article-dette-technique-obsolescence-modernisation--bienvenue-dans-la-partie-immergee-de-l'iceberg",
+      "pubDate": "2026-08-24T14:30:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e73d7807acd",
+      "title": "J'ai tapé mon nom sur Google et j'ai trouvé mon adresse perso.",
+      "description": "Incogni, service de suppression de données personnelles chez les data brokers : 420+ courtiers couverts, tarifs de 7,2 à 24 €/mois, audit Deloitte.",
+      "link": "https://korben.info/mon-nom-sur-google.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-24T12:07:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mon-nom-sur-google/mon-nom-sur-google-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "825e78b9e496",
+      "title": "Un piratage bien gênant au Liechtenstein",
+      "description": "Le registre des ayants droit économiques du Liechtenstein piraté dans la nuit du 29 au 30 juillet : 31 000 sociétés et fondations touchées",
+      "link": "https://korben.info/un-piratage-bien-genant-au-liechtenstein.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-24T08:59:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-piratage-bien-genant-au-liechtenstein/un-piratage-bien-genant-au-liechtenstein-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "411ff08095ef",
+      "title": "Google Play Store Listing : une certification gratuite pour parler ASO",
+      "description": "Retour d'expérience sur la certification Google Play Store Listing : gratuite, rapide à préparer, et une bonne porte d'entrée pour parler ASO",
+      "link": "https://blog.ippon.fr/2026/08/24/google-play-store-listing-une-certification-gratuite-pour-parler-aso/",
+      "pubDate": "2026-08-24T07:52:59.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Screenshot-2026-08-20-at-17.31.48.png",
+      "type": "blog"
+    },
+    {
+      "id": "cb2dbfc4d548",
+      "title": "Lean, GenAI et Delivery Tech - entretien avec Soufiane Keli : L’IA implique que l’on soit en mode Lean sur chacune des étapes",
+      "description": "Soufiane Keli, ancien Lead Software Engineering chez OCTO Technology, nous partage sa vision sur le sujet de l'impact de la GenAI sur les processus de delivery de la Tech, et de ce que peut apporter l'approche Lean sur le sujet.",
+      "link": "https://blog.octo.com/geania--l'ia-implique-que-l'on-soit-en-mode-lean-sur-chacune-des-etapes--entretien-avec-soufiane-keli",
+      "pubDate": "2026-08-24T07:16:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d3d908281156",
+      "title": "À la rencontre d'Emmanuelle Aboaf, développeuse et conférencière en accessibilité web",
+      "description": "Quel est l'impact d'un site non accessible pour les personnes handicapées ? Par quoi commencer pour intégrer l'accessibilité web à ses process ? Est-ce que l'IA peut nous aider dans la mise en conformité des sites ? Autant de sujets que nous avons abordés avec Emmanuelle Aboaf, à l'occasion de notre nouveau format : les voix de notre veille.",
+      "link": "https://www.elao.com/blog/methodo/voix-de-notre-veille/a-la-rencontre-d-emmanuelle-aboaf",
+      "pubDate": "2026-08-24T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/methodo/voix-de-notre-veille/a-la-rencontre-d-emmanuelle-aboaf/thumbnail.png/63df601f6c3f076bacbda0464cba0cf1.png",
+      "type": "blog"
+    },
+    {
+      "id": "34754868c3fe",
+      "title": "Ma stack de service logiciels pour construire des produits",
+      "description": "Mon stack radar européen : la liste complète des logiciels (hosting, paiement, monitoring) que j'utilise ou recommande pour lancer un produit en Europe.",
+      "link": "https://eventuallycoding.com/p/ma-stack-logicielle",
+      "pubDate": "2026-08-23T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://eventuallycoding.com/_og/d/c_DefaultPost,title_Ma+stack+de+service+logiciels+pour+construire+des+produits,description_~TW9uIHN0YWNrIHJhZGFyIGV1cm9ww6llbiA6IGxhIGxpc3RlIGNvbXBsw6h0ZSBkZXMgbG9naWNpZWxzIChob3N0aW5nLCBwYWllbWVudCwgbW9uaXRvcmluZykgcXVlIGondXRpbGlzZSBvdSByZWNvbW1hbmRlIHBvdXIgbGFuY2VyIHVuIHByb2R1aXQgZW4gRXVyb3BlLg,p_Ii9wL21hLXN0YWNrLWxvZ2ljaWVsbGUi.png",
+      "type": "blog"
+    },
+    {
       "id": "b3c8edbc950f",
       "title": "Résilience numérique : comprendre la réponse européenne",
       "description": "Résilience numérique : comprendre la réponse européenne",
