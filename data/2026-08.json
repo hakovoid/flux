@@ -2,6 +2,83 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f524e2a1ecee",
+      "title": "#371.src - Everyone can build: La révolution du code ouvert chez Alan avec Alexandre Gerlic",
+      "description": "\"Chez Alan, quelqu'un voit un bug et, au lieu d'écrire un ticket, ouvre une PR. Ça change tout.\" Le D.E.V. de la semaine est Alexandre Gerlic, VP of Engineering chez Alan. Alexandre revient sur le projet \"Everyone Can Build\" qui ouvre l'accès au code à tous les collaborateurs, même ceux qui ne sont pas développeurs. Il détaille comment l'arrivée des IA génératives a permis d'accélérer ce mouvement, tout en repensant la collaboration entre métiers. Grâce à un environnement outillé et une forte…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-371-f4e4ac141a8c",
+      "pubDate": "2026-08-26T03:00:16.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/6ada57db-ff3c-4ac8-94dd-85a34333dc22.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/146da634-fbc6-4ae3-a643-f4e4ac141a8c.mp3?_=1787659336",
+      "duration": "01:01:10"
+    },
+    {
+      "id": "cbbf88d013d4",
+      "title": "Test du UGREEN DXP4800 GT : le NAS 4 baies qui gère tout mon Plex, piloté par une IA",
+      "description": "UGREEN DXP4800 GT : NAS 4 baies Ryzen R2514, 8 Go DDR4, 10 Gbit à 9,30 Gbit/s, UGOS Pro sur Debian, migration de 36 To pilotée par Claude Code",
+      "link": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T12:07:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia/test-du-ugreen-dxp4800-gt-le-nas-4-baies-qui-gere-tout-mon-plex-pilote-par-une-ia-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6bbc2aa3a1d0",
+      "title": "OpenAI remet la limite de 5 heures sur Codex",
+      "description": "OpenAI rétablit la limite de 5 heures sur Codex pour les abonnés ChatGPT Plus dès le 25 août, en plus du quota hebdomadaire. Les Pro sont épargnés.",
+      "link": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T08:00:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex/openai-remet-la-limite-de-5-heures-sur-codex-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d68fba2683fe",
+      "title": "Interview Arnaud Vanhaecke : comment le CIC Nord-Ouest accompagne les entreprises dans l’innovation digitale",
+      "description": "Cet article est une interview qui aborde le sujet de l’accompagnement à l’innovation par la banque CIC Nord-Ouest pour les entreprises avec Arnaud Vanhaecke, Responsable innovation. J’ai eu l’occasion de travailler à plusieurs reprises avec le CIC Nord-Ouest et j’ai toujours apprécié leur approche de l’accompagnement aux TPE-PME dans leurs démarches d’innovation. La banque est […] L’article Interview Arnaud Vanhaecke : comment le CIC Nord-Ouest accompagne les entreprises dans l’innovation…",
+      "link": "https://oliviersauvage.com/2026/08/25/interview-arnaud-vanhaecke-comment-le-cic-nord-ouest-accompagne-les-entreprises-dans-linnovation-digitale/",
+      "pubDate": "2026-08-25T07:53:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/08/arnaud-vanhaecke.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f30cea45de46",
+      "title": "UGREEN dégaine deux chargeurs Nexode Pro avec écran de contrôle et câble rétractable, jusqu'à 300 W",
+      "description": "UGREEN lance le Nexode Pro 160 W à câble rétractable (129,99 euros) et la station 300 W sept ports (169,99 euros), avec écran, Wi-Fi et appli.",
+      "link": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-25T07:50:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "0f5821dec0e5",
       "title": "Une introduction interactive au Spanning Tree Protocol",
       "description": "Avertissement Cet article contient des exemples interactifs. Pour les visualiser et interagir avec eux, vous devez .quitter votre lecteur de flux :demo A1 @0,0 prio=4096 A2 @0,1 A3 @0,2 A4 @0,3 B1 @1,0 prio=8192 B2 @1,1 B3 @1,2 B4 @1,3 C1 @2,0 prio=8192 C2 @2,1 C3 @2,2 C4 @2,3 A1 -- A2 hazard=0 A2 -- A3 hazard=0 A3 -- A4 hazard=0 B1 -- B2 B2 -- B3 B3 -- B4 C1 -- C2 hazard=0 C2 -- C3 hazard=0 C3 -- C4 hazard=0 A1 -- B1 cost=10 B1 -- C1 cost=10 A4 -- B4 cost=20 B4 -- C4 cost=20 Léo @-0.3,0.7…",
