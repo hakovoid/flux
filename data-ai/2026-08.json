@@ -2,6 +2,132 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "71c43cf780d3",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "description": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "pubDate": "2026-08-27T12:59:16.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fe23f369e01d",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "pubDate": "2026-08-27T03:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/aTwwaL7kNgJy1xpWi5g9W/1146e375c7b1d69653ce659acfd9c409/expanding-openai-presence-in-brazil-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ac6eb9276806",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "pubDate": "2026-08-26T17:01:00.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fa2791fbc9af",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "pubDate": "2026-08-26T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/MZ8qHUMTGzFyaBLIEQFqE/e5d75c7622ab6a657320b1504510f154/teachers-original-neutral-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "832a12c8f33a",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "link": "https://openai.com/index/learning-never-stops",
+      "pubDate": "2026-08-26T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4VpVcuK24Tb8Ty8U5QM0fc/575642acb7cf69c0420c6c38b4cce003/learning-never-stops-how-ai-makes-learning-continuous-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "34e62ff4c7cf",
+      "title": "The Hugging Face incident and the road ahead",
+      "description": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7jbTfQbHvOuLnJtYMi64y4/12f03addd9350bb3b4c359071aab7e45/hero-dark-social-v6.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "76c95cd85298",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "link": "https://openai.com/index/loveholidays",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ZqGa10JytlgICOk7fAw59/793cf94c3be496cc73aa0451a05aad78/loveholidays-seo-image-v4.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "17177c100c91",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "description": "",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "f4efc5509854",
+      "title": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "description": "Aug 26, 2026Societal ImpactsEnabling independent research on how people use Claude",
+      "link": "https://www.anthropic.com/research/enabling-independent-research",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20LampBooks&amp;backgroundColor=heather",
+      "type": "blog"
+    },
+    {
       "id": "9ce79d4dded9",
       "title": "5 ways to upgrade your home decor with Google Search",
       "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
@@ -223,6 +349,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6WlY42vdkXE14U0aa8nt0V/cd49d61e13eca65e29063d298ca8cec8/introducing-ai-futures-seo-ocean-blue-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "68bd2e32c095",
+      "title": "Introducing Intelligence Age",
+      "description": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "link": "https://openai.com/index/introducing-intelligence-age",
+      "pubDate": "2026-08-20T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/48m0rCicOmi8sGD1xIFgXK/982622000c213cf8b60d425a85f7121c/introducing-intelligence-age-seo-ocean-blue-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
