@@ -2,6 +2,20 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "b42ac281ecaf",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "pubDate": "2026-08-28T06:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "cb1db0d5c74b",
       "title": "Supporting Thailand’s next generation of AI startups",
       "description": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -13,6 +27,34 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/2tIyHZ57iQlK3I0xifz9H9/7a9e9bee80e0e7d926a79d111e453342/supporting-thailand-next-generation-ai-startups--seo-v002.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4d3b17a749f4",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "description": "",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "pubDate": "2026-08-28T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-global-south/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "a9acbff7bd54",
+      "title": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "description": "Aug 28, 2026AlignmentAutomated researchers can reliably mitigate alignment failures",
+      "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "pubDate": "2026-08-28T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Stairs&amp;backgroundColor=olive",
       "type": "blog"
     },
     {
