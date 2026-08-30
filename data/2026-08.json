@@ -30,6 +30,21 @@
       "type": "blog"
     },
     {
+      "id": "ce2f925a4546",
+      "title": "Filtrer une collection Doctrine",
+      "description": "Quand on doit filtrer une collection Doctrine, le premier réflexe est d’utiliser la méthode filter(). Simple et pratique, le code est plus court et lisible qu’une boucle traditionnelle. #[ORM\\Entity] class Project { #[ORM\\OneToMany(targetEntity: Task::class)] private Collection $tasks; public function getPendingTasks(): Collection { return $this->tasks->filter( static fn (Task $task): bool => !$task->isDone(), ); } } Néanmoins cette méthode de filtrage peut ne pas être sans conséquences. Les…",
+      "link": "https://www.jdecool.fr/blog/2026/08/29/filtrer-une-collection-doctrine.html",
+      "pubDate": "2026-08-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2a0e4e6f7303",
       "title": "LaREF : ce qu’il faut retenir de l’intervention de Roland Lescure sur l’avenir des entreprises",
       "description": "La Rentrée des Entrepreneurs de France (LaREF) a eu lieu sous un contexte économique tendu, marqué par un échange entre Marie Visot et Roland Lescure, ministre de l'Économie. Lescure a présenté un \"Pacte de Stabilité\", mentionnant la préservation de dispositifs clés comme le Crédit d'Impôt Recherche et abordant les enjeux de la fiscalité et de l'industrie verte. L’article LaREF : ce qu’il faut retenir de l’intervention de Roland Lescure sur l’avenir des entreprises est apparu en premier sur…",
