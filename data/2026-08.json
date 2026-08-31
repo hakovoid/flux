@@ -2,6 +2,86 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "f625d7c3ff49",
+      "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
+      "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
+      "link": "https://blog.ippon.fr/2026/08/31/le-starter-pack-du-software-engineer-pour-la-certification-aws-developer-associate/",
+      "pubDate": "2026-08-31T07:22:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/image-article-aws-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d95c471bf60e",
+      "title": "Lean, GenAI et Delivery Tech - Entretien Sylvain Fagnent : Le Lean est au coeur du sujet du Harness Engineering ",
+      "description": "Sylvain Fagnent est un des experts les plus avancés sur les sujets du Low Code / No Code et de la Gen AI chez OCTO Technology. Il a rédigé de nombreux articles sur notre blog et il nous semblait naturellement un candidat idéal pour réfléchir aux intersections entre la pensée Lean et l’avènement de la GenAI dans les processus de Delivery Tech.",
+      "link": "https://blog.octo.com/lean-genai-et-delivery-tech-entretien-sylvain-fagnent--le-lean-est-au-coeur-du-sujet-du-harness-engineering",
+      "pubDate": "2026-08-31T06:43:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54a7bcb34778",
+      "title": "Un guide non interactif du Spanning Tree Protocol",
+      "description": "Imaginez que vous louiez des bureaux pour un événement de trois jours. Vous installez à la hâte quelques commutateurs Ethernet et scotchez des câbles au sol pour connecter tout le monde. Malheureusement, Gaston, votre collègue le plus maladroit, trébuche sur un câble à chaque fois qu’il se lève pour aller chercher un café. Des câbles supplémentaires régleraient le problème, mais une boucle se transforme en tempête de diffusion : les paquets Ethernet se multiplient jusqu’à saturation. C’est là…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree-video",
+      "pubDate": "2026-08-30T20:54:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/covers/fr/blog/2026-spanning-tree-video.1abb58262efa4a.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dd71430428ee",
+      "title": "La plateforme Zéro Logement Vacant a été piratée",
+      "description": "Zéro Logement Vacant piraté : le pirate ZeroBytes revendique 149 millions de lignes issues du cadastre et de la DGFiP",
+      "link": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-30T13:31:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee/la-plateforme-zero-logement-vacant-a-ete-piratee-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "363f0c562e00",
+      "title": "OpenAI coupe ses modèles à Cursor après son rachat par le SpaceXAI de Musk",
+      "description": "OpenAI coupera l'accès de ses modèles à Cursor le 12 novembre 2026 après son rachat par SpaceXAI.",
+      "link": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-08-30T09:56:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk-2.png",
+      "type": "blog"
+    },
+    {
       "id": "80928477472b",
       "title": "George Orwell, Entrepreneurship, and Me",
       "description": "In an uncertain context marked by economic and political crises, the author discusses the resilience of entrepreneurs inspired by George Orwell. Although Orwell was a writer, he embodies an entrepreneurial spirit through his quest for truth, his integrity, and his ability to face challenges, thus inspiring contemporary entrepreneurs to persevere despite obstacles. L’article George Orwell, Entrepreneurship, and Me est apparu en premier sur OlivierSauvage.com.",
@@ -27,6 +107,21 @@
         "IA"
       ],
       "image": "https://oliviersauvage.com/wp-content/uploads/2026/08/georges-orwell-et-moi.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "db0c63c54598",
+      "title": "Le piège de la transparence par défaut sur Bluesky et le protocole ATProto",
+      "description": "PDS public, likes visibles, métadonnées exposées : sur Bluesky, tout se croise. Attention, la transparence a un prix.",
+      "link": "https://eventuallycoding.com/p/le-piege-de-la-transparence-par-defaut-sur-bluesky-et-le-protocole-atproto",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788014460629-ykk6had.png?width=400",
       "type": "blog"
     },
     {
