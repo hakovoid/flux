@@ -2,6 +2,76 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "b1b4ad0d4a36",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "description": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "pubDate": "2026-08-31T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/08/GigaPathFlash-BlogHeroFeature-1400x788_NEW.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4862f3d2c68f",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "pubDate": "2026-08-31T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1TiOpLKAHwIkAjjCEWO0TQ/543dc5595a6ca55a5e5801281b38f264/california-youth-ai-safety-seo-figma-v6.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0b5a688ac445",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "link": "https://openai.com/index/polimill",
+      "pubDate": "2026-08-31T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1oFujFEAMPAC99TKZKQNJh/381b8b535351cdf214c3c294641b29a1/oai_Polimill_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8a7cdd78fd48",
+      "title": "A milestone in expanding access to AI",
+      "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "pubDate": "2026-08-31T04:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2jLC4QaqjiApUiHrbfSUY8/9608a468da57d55c2cf88dddb7bd0b8d/expanding-access-to-ai--seo-purple-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8ed1599eb95b",
+      "title": "Improving our alignment and security efforts",
+      "description": "Improving our alignment and security efforts",
+      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "pubDate": "2026-08-31T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
       "id": "b42ac281ecaf",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",

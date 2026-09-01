@@ -2,6 +2,36 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "8d23712cfc70",
+      "title": "L'économie de la solitude",
+      "description": "Lecture super intéressante de cette interview de Paul Klotz, essayiste : « La solitude est devenue une ressource délibérément recherchée et exploitée par les acteurs du numérique ». En substance, pour maximiser leurs revenus, basés sur la publicité ciblée, les réseaux sociaux (mais pas que, les Youtube et Tiktok & co aussi) ont compris qu’il fallait que les gens restent scotchés à leurs écrans le plus possible, pour consommer le plus de pub possible. C’est ce qu’on a appelé l’économie de…",
+      "link": "https://standblog.org/blog/post/2026/08/31/L-economie-de-la-solitude",
+      "pubDate": "2026-08-31T15:30:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f8a35690a44c",
+      "title": "En vrac de juillet aout 2026",
+      "description": "Complètement en vrac Citation du moment : “Il faudrait essayer d’être heureux, ne serait-ce que pour donner l’exemple. “, par Jacques Prévert, remise au goût du jour par Jean-Louis Trintignant dans une version très légèrement différente : “Et si on essayait d’être heureux, ne serait-ce que pour donner l’exemple”. Grace à Bonpote, je découvre le Global Justice Report, un plan pour l’égalité et la prospérité dans le respect des limites planétaires (un sujet qui me passionne !). Voir aussi (si…",
+      "link": "https://standblog.org/blog/post/2026/08/31/En-vrac-de-juillet-aout-2026",
+      "pubDate": "2026-08-31T14:56:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f625d7c3ff49",
       "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
       "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
