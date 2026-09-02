@@ -1,0 +1,145 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "ad90e6779ea3",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "pubDate": "2026-09-01T21:39:07.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png",
+      "type": "blog"
+    },
+    {
+      "id": "c97fc0583795",
+      "title": "The latest AI news we announced in August 2026",
+      "description": "Here are Google’s latest AI updates from August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "pubDate": "2026-09-01T20:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "20b040f8e58f",
+      "title": "Introducing agentic video understanding with Gemini",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "pubDate": "2026-09-01T17:08:51.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-header.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "b0cbef382238",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "pubDate": "2026-09-01T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1Udre5SJ1jhUU27uMsD7Oe/6a7120a52e078e823a3c96388fac9241/index-how-ai-native-companies-turn-workflows-into-operating-capability--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7415c6bcd9dd",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "pubDate": "2026-09-01T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f2694bfa96c4",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "link": "https://openai.com/index/path-to-astra",
+      "pubDate": "2026-09-01T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4B4TPk6PGcuKcMyKnnQIMn/f1282feb90b13f11eb010c38c867fa53/astra-seo-v002.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c0364833b410",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "pubDate": "2026-09-01T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "330fba64551d",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "pubDate": "2026-09-01T01:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4P7k1TvvR84R1Pz53CGvPp/d48aee58b6ce31782b9e6188e03a5382/gilbert-tobin-customer-story-seo.webp?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "91dad0068ec2",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "description": "",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "b085c7f1762b",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "description": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=sky",
+      "type": "blog"
+    }
+  ]
+}

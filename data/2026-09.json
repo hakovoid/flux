@@ -1,0 +1,175 @@
+{
+  "month": "2026-09",
+  "articles": [
+    {
+      "id": "224197d7ec93",
+      "title": "Comment héberger un LLM (partie 2)",
+      "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
+      "link": "https://blog.ippon.fr/2026/09/02/comment-heberger-un-llm-partie-2/",
+      "pubDate": "2026-09-02T08:00:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "fe3cf2a8a494",
+      "title": "Intégrez vos services GeoJSON, WMS et WMTS dans Geotrek-widget",
+      "description": "Le Geotrek-widget s’en­ri­chit d’une nouvelle fonc­tion­na­lité permet­tant d’in­té­grer des couches carto­gra­phiques externes (GeoJ­SON, WMS et WMTS) direc­te­ment dans la carte.",
+      "link": "https://makina-corpus.com/logiciel-libre/integrez-vos-services-geojson-wms-et-wmts-dans-geotrek-widget",
+      "pubDate": "2026-09-02T07:30:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2026-08/widget.png",
+      "type": "blog"
+    },
+    {
+      "id": "1863e8863044",
+      "title": "Déploiement de Geotrek-admin pour le Conseil départemental de la Haute-Vienne",
+      "description": "En 2026, le Conseil dépar­te­men­tal de la Haute-Vienne choi­sit Geotrek-admin pour struc­tu­rer et gérer plus faci­le­ment son offre d’ac­ti­vi­tés de pleine nature.",
+      "link": "https://makina-corpus.com/logiciel-libre/deploiement-de-geotrek-admin-pour-le-conseil-departemental-de-la-haute-vienne",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2026-08/Capture%20d%E2%80%99%C3%A9cran%20du%202026-08-26%2016-04-16.png",
+      "type": "blog"
+    },
+    {
+      "id": "453dc8340382",
+      "title": "Climadiag Agriculture et Forêt : extension aux domaines d'outre-mer",
+      "description": "Clima­diag Agri­cul­ture et Forêt est un service clima­tique en accès libre, fruit du parte­na­riat entre Météo-France et Sola­gro, spécia­liste des ques­tions agri­coles et sylvi­coles liées au chan­ge­ment clima­tique.",
+      "link": "https://makina-corpus.com/logiciel-libre/climadiag-agriculture-et-foret-extension-aux-domaines-doutre-mer",
+      "pubDate": "2026-09-02T07:00:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2026-08/Screenshot%20from%202026-08-13%2010-47-33.png",
+      "type": "blog"
+    },
+    {
+      "id": "d1ff18fc9347",
+      "title": "#372.src - Dev AI: Les bests practices pour construire un modèle avec Gabriel de Marmiesse",
+      "description": "\"La reproductibilité, c'est un truc que moi, j'ai l'impression que l'industrie a abandonné\" Le D.E.V. de la semaine est Gabriel de Marmiesse, technical staff chez Kyutai. Dans cet épisode, il lève le voile sur le quotidien d'un dev AI : entre code non déterministe, gestion de fichiers de teraoctets et galères de GPU, rien n'est jamais simple. Gabriel partage comment la recherche et l'engineering s'opposent (et se complètent), pourquoi l'open source vit une crise de confiance à l'ère des LLM, et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-372-1de47b6f557f",
+      "pubDate": "2026-09-02T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/05b01000-f753-4875-8463-451232110a61.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
+      "duration": "01:08:27"
+    },
+    {
+      "id": "cc896e433fb1",
+      "title": "The mystery is solved... and the answer is 40x cheaper than Claude",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=r-tzcMlQISk",
+      "pubDate": "2026-09-01T17:31:27.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d02371777dd6",
+      "title": "Zones de vigilance : mieux informer les usagers sur les conditions de pratique avec Geotrek",
+      "description": "Les espaces natu­rels sont des lieux de partage où se côtoient de nombreux usages : randon­née, pasto­ra­lisme, chasse, travaux fores­tiers, événe­ments ponc­tuels ou encore acti­vi­tés artis­tiques.",
+      "link": "https://makina-corpus.com/logiciel-libre/zones-de-vigilance-mieux-informer-les-usagers-sur-les-conditions-de-pratique-avec",
+      "pubDate": "2026-09-01T15:22:00.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2026-08/Capture%20d%E2%80%99%C3%A9cran%20du%202026-08-27%2010-06-12.png",
+      "type": "blog"
+    },
+    {
+      "id": "374ab4d9f698",
+      "title": "ffmpeg - Doubler le framerate d'une vidéo avec votre GeForce",
+      "description": "Le filtre fruc_vulkan est arrivé dans ffmpeg : il fait fabriquer les images manquantes par le bloc optical flow des GeForce RTX. Ce que ça apporte, ce qu'il faut pour le lancer, et pourquoi le résultat ne plaira pas à tout le monde.",
+      "link": "https://korben.info/nvidia-fruc-ffmpeg-vulkan.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T12:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "9b0d7efcb94a",
+      "title": "Maintenant - Le monitoring qui trouve vos conteneurs tout seul",
+      "description": "maintenant découvre seul les conteneurs qui tournent sur votre machine et les surveille depuis un seul conteneur Go : uptime, certificats TLS, heartbeats cron et page de statut. L'édition gratuite s'arrête à une seule machine.",
+      "link": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T10:24:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs/maintenant-monitoring-auto-heberge-conteneurs-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a40776c0890e",
+      "title": "WhatCable - Trouvez le câble qui bride la charge sur votre Mac",
+      "description": "Votre Mac interroge déjà la puce des câbles USB-C que vous branchez, mais macOS n'affiche la réponse nulle part. WhatCable la sort en clair et désigne le maillon qui plafonne la charge ou le débit, sans oublier de dire jusqu'où croire un câble qui parle de lui-même.",
+      "link": "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-01T09:24:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/whatcable-testeur-cables-usb-c-mac/whatcable-testeur-cables-usb-c-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "5eb870048a8c",
+      "title": "Mon skill m'a généré une facture électronique, puis l'a envoyé et elle est arrivée du premier coup ! Ensuite, il a fallu en faire un produit...",
+      "description": "La réforme de la facturation électronique française arrive, et comme beaucoup d’indépendants, j’avais tout pour la détester : des factures HTML soignées que j’imprimais en PDF d’un Ctrl+P, un régime simple, et aucune envie de payer un SaaS pour transformer trois factures par mois en Factur-X. Factur-X, pour situer : un PDF/A-3 qui embarque un XML structuré (CII, sémantique EN 16931). Le PDF pour les humains, le XML pour les machines et l’administration. Et l’envoi ne se fait plus par mail mais…",
+      "link": "https://kolapsis.com/blog/gofact-genese/",
+      "pubDate": "2026-09-01T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": "https://kolapsis.com/img/gofact-hero.png",
+      "type": "blog"
+    }
+  ]
+}
