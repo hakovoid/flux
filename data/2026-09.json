@@ -2,6 +2,98 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "025c1354cbbb",
+      "title": "The most interesting hack in history just got weirder...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
+      "pubDate": "2026-09-02T19:01:28.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5808be272470",
+      "title": "153 millions de permis de conduire scannés en vente sur le darkweb",
+      "description": "153 millions de scans de permis américains et canadiens vendus sur le site Nexus, issus des scanners IDScan.net. Enquête du FBI ouverte le 1er septembre.",
+      "link": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T16:30:48.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb/153-millions-de-permis-de-conduire-scannes-en-vente-sur-le-darkweb-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "658b0e180c99",
+      "title": "13 To de données de Steam ont fuité",
+      "description": "Teraleak : 12 à 13 To de fichiers Steam datés de 2003 à 2013 extraits d'un serveur Valve oublié, dont une build de Portal 2 de 2009 et le Weaponizer.",
+      "link": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T12:32:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/13-to-de-donnees-de-steam-ont-fuite/13-to-de-donnees-de-steam-ont-fuite-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "431509a33016",
+      "title": "UniClipboard - Un presse-papiers chiffré qui communique avec tous vos OS",
+      "description": "UniClipboard synchronise votre presse-papiers entre Mac, Windows et Linux sans compte ni serveur, avec un chiffrement de bout en bout sérieux. Sa propre documentation précise que le lien vers le téléphone, lui, reste du HTTP en clair.",
+      "link": "https://korben.info/uniclipboard-presse-papiers-chiffre-multiplateforme.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T11:52:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4625640507841634116_hu_7f318f0568289c2c.webp",
+      "type": "blog"
+    },
+    {
+      "id": "165a229976d1",
+      "title": "Nitter et XCancel sont morts, et l'explication est dans leur code",
+      "description": "X Corp. a fait tomber Nitter et XCancel avec une lettre d'avocat et un délai d'une nuit. La défense qu'on lit partout, celle du simple scraping de pages publiques, ne tient plus depuis le retour du projet en 2025 : le script d'authentification du dépôt se connecte avec un vrai compte X en se faisant passer pour le client Android.",
+      "link": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-02T08:51:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets/x-bloque-nitter-xcancel-lecture-tweets-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1d4eecc1397d",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.2",
+      "description": "Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représenter le métier : il en exprime aussi les comportements.",
+      "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2",
+      "pubDate": "2026-09-02T08:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "224197d7ec93",
       "title": "Comment héberger un LLM (partie 2)",
       "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
@@ -80,6 +172,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
       "duration": "01:08:27"
+    },
+    {
+      "id": "15806e25c9c7",
+      "title": "L'IA déplace les frontières de chaque métier",
+      "description": "J’aborde régulièrement l’IA sous l’angle du développeur et du bouleversement que cela représente dans notre métier. Mais nous ne sommes pas les seuls concernés. C’est l’ensemble des métiers du logiciel qui évolue. Puisque l’écriture du code occupe moins de place, les développeurs se recentrent sur le produit. Ils questionnent davantage les besoins, challengent les spécifications, proposent des alternatives fonctionnelles. Autrement dit, ils font dorénavant une partie du travail qui était…",
+      "link": "https://www.jdecool.fr/blog/2026/09/02/l-ia-deplace-les-frontieres-de-chaque-metier.html",
+      "pubDate": "2026-09-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "cc896e433fb1",

@@ -2,6 +2,90 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b5500bc65035",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "",
+      "link": "https://huggingface.co/blog/train-to-paint-with-code",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/train-to-paint-with-code/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "d721843382f3",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "description": "",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "pubDate": "2026-09-02T16:24:24.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__blog__header__1.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "63b19b50b402",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "pubDate": "2026-09-02T16:18:31.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "5eb2aa71a90a",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "pubDate": "2026-09-02T15:40:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8c10bd00da2e",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent ",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "pubDate": "2026-09-02T13:49:14.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/1oB5vm47VNu42diDOsp0p.png",
+      "type": "blog"
+    },
+    {
+      "id": "3bda12e16fd3",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "pubDate": "2026-09-02T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/49oJo0HsEQBLrr5rWLdYHh/6e651b242ddec9857a2563f1efa24c65/A-seo-og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "ad90e6779ea3",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "description": "",
