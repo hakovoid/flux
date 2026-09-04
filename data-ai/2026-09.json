@@ -2,6 +2,76 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "2b0379511ea0",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "pubDate": "2026-09-03T15:02:08.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "fc40ddafdd41",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "pubDate": "2026-09-03T13:15:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/lvizepLUAiputffdSjtue/f89a11ed639405a45b491f70c882f0de/SEO_Card___short_copy_example__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fffbcba03b0b",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "",
+      "link": "https://huggingface.co/blog/Hcompany/neomme",
+      "pubDate": "2026-09-03T13:13:48.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6264f9655f6f2e14d6ac981c/GJ6FUbgFpq1x8RNOqzmz-.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9281d6906e83",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "pubDate": "2026-09-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3tumELHx5xEpvmjgMZ41FN/e05ac82314544e6f43955a3e17160862/legora-seo-image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "325e9dcd840a",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "pubDate": "2026-09-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/28ZM0n7QF2RlXDOMBkLgXY/d47e2a4059f529c346950b385b9430a5/playco-astra-seo-image-option-b.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "b5500bc65035",
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "description": "",
@@ -13,6 +83,48 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/train-to-paint-with-code/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "39210f987919",
+      "title": "Safety overview: GPT-6 Astra",
+      "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4yt4SoYcLzQmJlCi8mhR0V/b0c0bd94bb9255bc363f08e1abea7d75/safety-overview-gpt-6-astra-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a139f80b1592",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "",
+      "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "cdd1118267ee",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "",
+      "link": "https://huggingface.co/blog/funes",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/funes/thumbnail.jpg",
       "type": "blog"
     },
     {

@@ -2,6 +2,134 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "448aec6effaf",
+      "title": "MACI #163 - PHP, cybersécurité et IA - Avec Cédric Mourizard et Nathan Boiron",
+      "description": "Dans ce nouvel épisode de rentrée de Message à Caractère Informatique, on parle PHP, AFUP et Forum PHP 2026, avec un retour sur l’évolution du langage, de son écosystème et de son image. Et puis, comme à notre habitude, la discussion s’élargit vite… des fuites de données dans les services publics aux enjeux de cybersécurité, avant de terminer sur l’actualité de l’IA, les modèles locaux et open source, et les usages plus frugaux des LLM. Animé par : Horacio GONZALEZ, VP DevRel chez Clever Cloud…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-163-php-cybersecurite-et-ia-avec-cedric-mourizard-et-nathan-boiron",
+      "pubDate": "2026-09-04T07:50:43.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/ll596GVr0PKm0SJTdv1fjrCMq2AQgkvakl83fXEA_1400x1400.jpeg?t=1788508242",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/owZ8nfJ1OMd7.mp3?t=1788507327",
+      "duration": "1:03:43"
+    },
+    {
+      "id": "18a3c05e0055",
+      "title": "DokuWiki - Une faille critique à patcher immédiatement",
+      "description": "Andreas Gohr a confirmé lui-même une faille critique dans DokuWiki, qui touche à peu près toutes les versions publiées depuis dix ans et ne demande qu'un accès en écriture pour être exploitée. Le correctif est sorti le soir même, mais il n'existe que sur la dernière lignée, le paquet Debian ne le porte pas, et il casse les plugins qui rangeaient des objets PHP dans le cache.",
+      "link": "https://korben.info/dokuwiki-faille-rce-critique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T07:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "68b78382ed02",
+      "title": "NTLite - Nettoyer Windows avant même de l'avoir installé",
+      "description": "NTLite ouvre l'image d'installation de Windows pour en retirer des composants, y intégrer pilotes et mises à jour, ou éditer un Windows déjà en place. La version gratuite est illimitée pour un particulier, mais le retrait de n'importe quel composant commence à 40 € HT.",
+      "link": "https://korben.info/ntlite-personnaliser-image-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-04T06:20:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ntlite-personnaliser-image-windows/ntlite-personnaliser-image-windows-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3548b7321fbf",
+      "title": "#348.exe - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS par Gabriel de Marmiesse",
+      "description": "Pour l'épisode #348 je recevais Jean-Christophe Leducq. On en débrief avec Gabriel. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-ab8dcdda8a8c",
+      "pubDate": "2026-09-04T03:00:57.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/588e6cc9-b401-41a0-93c3-ab8dcdda8a8c.mp3?_=1788436857",
+      "duration": "12:22"
+    },
+    {
+      "id": "1deb95120fe6",
+      "title": "Line Rider - À fond sur la piste de luge !",
+      "description": "Line Rider, le jouet de 2006 où l'on dessine une piste qu'un bonhomme en luge descend, tourne toujours gratuitement dans le navigateur. Sauf que ce n'est plus le Flash d'origine : la réécriture actuelle gère les calques, six lugeurs, une bande-son et l'export vidéo. Encore faut-il savoir que vos pistes vivent dans votre navigateur et que l'export sort muet.",
+      "link": "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T10:54:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/line-rider-jeu-dessin-physique-luge/line-rider-jeu-dessin-physique-luge-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b137c607cd8c",
+      "title": "WinBtrfs - Le pilote Windows qui monte vos disques Linux se réveille enfin",
+      "description": "WinBtrfs 1.10 est sorti le 1er septembre, deux ans et demi après la version précédente. Il répare les plantages déclenchés par la corbeille, par Steam et par l'écriture sur un snapshot, et son auteur remercie Claude pour la chasse aux bugs.",
+      "link": "https://korben.info/winbtrfs-btrfs-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T10:26:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "afb6562fd1a8",
+      "title": "HortusFox - Le carnet de bord partagé de vos plantes",
+      "description": "Un gestionnaire de plantes à héberger chez vous : il note ce que vous avez fait à chaque plante et partage le carnet avec toute la famille.",
+      "link": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-03T09:59:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hortusfox-gestionnaire-plantes-self-hosted/hortusfox-gestionnaire-plantes-self-hosted-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca8cf68d5661",
+      "title": "News Septembre 2026 RC1, OpenAI coupe Cursor, Omarchy, HTMX 4 et Bun 1.4",
+      "description": "Nous évoquons OpenAI qui coupe l'accès à ses modèles pour Cursor après le rachat par SpaceX, la sortie de HTMX 4.0 et de Bun 1.4, Lovable qui quitte Next.js pour TanStack Start, Vercel qui collabore avec TanStack, TypePHP qui compile du PHP en binaire natif, Zed qui retire l'edit prediction du plan gratuit, le starter kit Laravel sur Vite+, GLM dans Mistral Vibe, l'outil CNIL Genmod, Omarchy, et quelques outils comme Screendrop, Orchard, Openwork et openSEO. Retrouvez toutes les notes et les…",
+      "link": "https://double-slash.dev/podcasts/news-sept26/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1788439787/episode/ART_138_kwbvlq.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_138_news-sept26.mp3",
+      "duration": "3973"
+    },
+    {
       "id": "025c1354cbbb",
       "title": "The most interesting hack in history just got weirder...",
       "description": "",
