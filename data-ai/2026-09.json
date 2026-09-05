@@ -2,6 +2,20 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "e94fc2f0f03f",
+      "title": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "description": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "2026-09-04T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2b0379511ea0",
       "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "description": "",
@@ -69,6 +83,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/28ZM0n7QF2RlXDOMBkLgXY/d47e2a4059f529c346950b385b9430a5/playco-astra-seo-image-option-b.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "039a4975e102",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "pubDate": "2026-09-03T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
