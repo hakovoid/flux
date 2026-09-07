@@ -2,6 +2,48 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "073b13b14ae0",
+      "title": "Supporting independent journalism in Ukraine",
+      "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4EIHNZJQDBZf3Op2ZWbU1g/eafc9b864cc26c505ecca0f8eadb8f78/supporting-independent-journalism-in-ukraine-seo-option-029.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e0f75446731d",
+      "title": "An Alien Mind",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "link": "https://openai.com/index/an-alien-mind",
+      "pubDate": "2026-09-06T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3784d7aba971",
+      "title": "Research acceleration: The view inside OpenAI",
+      "description": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "pubDate": "2026-09-06T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "e94fc2f0f03f",
       "title": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
       "description": "Sep 4, 2026ScienceFormalizing Fermat's Last Theorem",
