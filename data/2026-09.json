@@ -2,6 +2,145 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9524e28970fd",
+      "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
+      "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/08/ai-assisted-development-should-you-let-your-employees-develop-their-own-applications-with-ai/",
+      "pubDate": "2026-09-08T07:56:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1788773649934-1024x595.png",
+      "type": "blog"
+    },
+    {
+      "id": "bde490b9c6d3",
+      "title": "Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ?",
+      "description": "À l’ère de l’IA générative et du vibe coding, les collaborateurs conçoivent désormais leurs propres outils métier. Entre liberté d’expérimenter sur le terrain et nécessité d’encadrer la sécurité des données, comment les entreprises peuvent-elles transformer ce bricolage numérique en véritable levier de performance ? L’article Développement assisté par IA : devez-vous laisser vos collaborateurs développer leurs propres applications avec l’IA ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/08/developpement-assiste-par-ia-devez-vous-laisser-vos-collaborateurs-developper-leurs-propres-applications-avec-lia/",
+      "pubDate": "2026-09-08T05:55:14.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1788773649934-1024x595.png",
+      "type": "blog"
+    },
+    {
+      "id": "6c8208c5c394",
+      "title": "GrapheneOS verrouillera bientôt le presse-papiers d'Android",
+      "description": "GrapheneOS a écrit le réglage qui manque à Android depuis Android 13 : une application ne peut plus lire ce qu'une autre a copié, mais elle relit toujours ce qu'elle a copié elle-même et le collage volontaire continue de marcher partout. Le code est encore dans une pull request non fusionnée, et l'accès reste autorisé par défaut.",
+      "link": "https://korben.info/grapheneos-messaging-rcs-secure-paste.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T05:10:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "0a2ca8baac59",
+      "title": "5 open source tools that replaced my $320/mo AI stack...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
+      "pubDate": "2026-09-07T17:24:51.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "09108ae3b2e4",
+      "title": "Souveraineté : de l’IA agentique qui garde vos données en Europe",
+      "description": "Face à une actualité internationale qui nous pousse à réduire nos dépendances technologiques vis-à-vis des acteurs américains (infrastructure comme IA), on peut construire un agent IA pleinement opérationnel 100 % hébergé et exécuté en Europe. Notre assistant de conférence tourne sur une stack open source européenne, du runtime jusqu’à l’application, fait son inférence en France […] Cet article, Souveraineté : de l’IA agentique qui garde vos données en Europe, est paru en premier sur…",
+      "link": "https://les-tilleuls.coop/blog/souverainete-de-lia-agentique-qui-garde-vos-donnees-en-europe",
+      "pubDate": "2026-09-07T13:06:01.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-III-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3173fe2dc6a1",
+      "title": "Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence",
+      "description": "La première partie de ce retour d’expérience expliquait le choix d’architecture : construire un serveur MCP plutôt qu’un chatbot isolé, pour que le service soit accessible à n’importe quel agent IA, l’interface de chat devenant simplement son premier client. Cet article rentre dans le détail technique de ce service et du client qui s’y connecte. […] Cet article, Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence, est paru en premier sur…",
+      "link": "https://les-tilleuls.coop/blog/transformer-une-api-en-boite-a-outils-pour-agents-larchitecture-de-notre-assistant-de-conference",
+      "pubDate": "2026-09-07T13:04:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-II-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f33b5a6a5176",
+      "title": "Comment nous avons créé un assistant IA pour l’API Platform Conference 2026",
+      "description": "Trouver le talk qui correspond à vos objectifs, savoir qui va briller sur la scène FrankenPHP, caler votre agenda… La billetterie de l’API Platform Conference 2026 ferme dans quelques jours, et on a voulu vous accompagner jusqu’au bout avec un nouvel outil : un assistant IA avec qui échanger directement sur la conférence. On vous […] Cet article, Comment nous avons créé un assistant IA pour l’API Platform Conference 2026, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/comment-nous-avons-cree-un-assistant-ia-pour-lapi-platform-conference-2026",
+      "pubDate": "2026-09-07T13:03:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-I-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8389639f88ab",
+      "title": "Linux tourne enfin sur les Mac M3 (sauf la carte graphique)",
+      "description": "Asahi Linux a fusionné le support des Mac M3 dans son installeur le 6 septembre. La webcam, le Thunderbolt et le WiFi répondent, mais la 3D reste dessinée par le processeur, et personne ne donne de date.",
+      "link": "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-07T11:37:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "35c56792ce50",
+      "title": "Degoog - Le métamoteur à installer sur votre ordi",
+      "description": "degoog est un métamoteur de recherche auto-hébergé livré sans un seul moteur : tout s'installe depuis un Store, y compris la façon dont votre serveur sort sur le réseau.",
+      "link": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-07T08:28:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/degoog-agregateur-moteurs-recherche-open-source/degoog-agregateur-moteurs-recherche-open-source-2.png",
+      "type": "blog"
+    },
+    {
       "id": "90e411f036c4",
       "title": "DocuSeal - Pour signer vos documents sur votre propre serveur",
       "description": "DocuSeal fait signer des PDF à plusieurs depuis un conteneur Docker sur votre serveur, API REST et webhooks compris dans la version libre. La signature obtenue est une signature simple au sens d'eIDAS, et votre instance génère son propre certificat.",
@@ -66,6 +205,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
       "duration": "51:16"
+    },
+    {
+      "id": "1d58f708d342",
+      "title": "Mon site sur AT Proto avec standard.site",
+      "description": "Je continue mon exploration d’AT Protocol. Après avoir joué avec Tangled, cette fois, j’ai essayé d’intégrer mon site sur AT Protocol avec standard.site. Ça s’est plutôt révélé facile de mon côté, je vous explique tout ça.",
+      "link": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/cover_hu_aa246b4abc5b86fd.webp",
+      "type": "blog"
     },
     {
       "id": "1c4024aa5b63",
