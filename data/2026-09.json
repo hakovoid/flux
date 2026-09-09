@@ -2,6 +2,149 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "946af9bac8d8",
+      "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
+      "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
+      "link": "https://blog.ippon.fr/2026/09/09/ia-cloud-vs-ia-locale-coder/",
+      "pubDate": "2026-09-09T07:23:25.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Gemini_Generated_Image_bmxw80bmxw80bmxw.png",
+      "type": "blog"
+    },
+    {
+      "id": "1ccb0b545bd9",
+      "title": "Winapp - Comment créer une app Windows native sans Visual Studio",
+      "description": "Le winapp CLI de Microsoft crée, lance et empaquette une application Windows native depuis un simple terminal. Le pas à pas, du Hello World au fichier MSIX.",
+      "link": "https://korben.info/winapp-cli-hello-world-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T05:56:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/winapp-cli-hello-world-windows/winapp-cli-hello-world-windows-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0d3b8d5450e0",
+      "title": "AI: why and how to train? Exclusive interview with Manuel Davy",
+      "description": "Manuel Davy's interview explores the necessity of training businesses and individuals in artificial intelligence (AI). Davy highlights the societal challenges related to this technology, the diversity of AI applications, and the risk of obsolescence. He emphasizes the importance of a deep understanding of principles rather than just using tools. L’article AI: why and how to train? Exclusive interview with Manuel Davy est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/09/ai-why-and-how-to-train-exclusive-interview-with-manuel-davy/",
+      "pubDate": "2026-09-09T05:29:51.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1788931626402-e1788931754213.png",
+      "type": "blog"
+    },
+    {
+      "id": "15df7a86bcb9",
+      "title": "#374.src - Architecture: Pourquoi les sujets humains font toute la différence avec Thomas Pierrain",
+      "description": "\"les sujets tech c'est de la rigolade par rapport aux sujets humains.\" Le D.E.V. de la semaine est Thomas Pierrain, VPTech chez Shodo. Thomas partage sa vision de l'architecture : naviguer entre fondamentaux techniques et enjeux humains, tout en gardant le lien direct avec le produit. Il raconte comment comprendre les bases, remettre en cause ses croyances et documenter ses décisions techniques sont essentiels pour progresser. L'humain, selon lui, reste le plus gros défi à gérer au quotidien…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-374-513245d92e8d",
+      "pubDate": "2026-09-09T03:00:05.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e3ffd45b-ecf0-4cb8-879f-1bab17f1a488.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b870889b-aa8c-49d7-800b-513245d92e8d.mp3?_=1788868865",
+      "duration": "59:03"
+    },
+    {
+      "id": "08f50bc60bc8",
+      "title": "Lean, GenAI et Delivery Tech - Ce que le Lean peut apporter à l'adoption de la GenIA dans la tech",
+      "description": "Et si la vraie valeur de l'IA n'était pas la vitesse de production du code, mais la vitesse d'apprentissage ? En m'appuyant sur l'expérimentation de Peaksys décrite par Samuel Retiere dans Medium, j'explore ce que le regard Lean apporte aux transformations IA : du karakuri kaizen au Jidoka, jusqu'à ce que l'IA va changer dans nos équipes.",
+      "link": "https://blog.octo.com/ce-que-le-regard-lean-peut-apporter-a-l'adoption-de-l'ia-dans-la-tech",
+      "pubDate": "2026-09-08T17:13:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38d3bd6a0b53",
+      "title": "Sécuriser l'IA : Au-delà de l'illusion de contrôle",
+      "description": "L’IA bouleverse nos organisations. Agents autonomes, Shadow AI, dépendance aux fournisseurs : la surface d’attaque change radicalement. Ce premier article pose un constat lucide sur les risques émergents. L’enjeu n'est pas de subir, mais d'engager, ensemble, une réflexion durable sur la maîtrise de nos systèmes à l’ère de l’IA.",
+      "link": "https://blog.octo.com/securiser-l'ia--au-dela-de-l'illusion-de-controle",
+      "pubDate": "2026-09-08T12:55:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "abef7a1a3665",
+      "title": "reVCDOS - Vice City en entier dans un onglet",
+      "description": "GTA Vice City tourne en entier dans un onglet de navigateur, tactile et manette compris. Il faut lui fournir les fichiers du jeu, et se passer de sauvegarde.",
+      "link": "https://korben.info/gta-vice-city-navigateur-web-revcdos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T12:13:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gta-vice-city-navigateur-web-revcdos/gta-vice-city-navigateur-web-revcdos-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "9ab4f66c23e3",
+      "title": "Kickban a filmé sa tournée et Pixel Syndrome en a fait un film",
+      "description": "Six dates en avril, une caméra, et des images qui dorment encore sur une carte SD. Ce sont les copains de tournée qui ont trié et monté le documentaire.",
+      "link": "https://korben.info/meuporg-tour-documentaire-kickban.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T11:58:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_18034148726493070855_hu_825376aed6faf4ee.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a28bb34a6ddd",
+      "title": "RSSMonster - Le lecteur RSS qui trie vos flux en local",
+      "description": "RSSMonster regroupe les articles qui racontent le même événement et leur colle une note, avec des modèles qui tournent sur votre propre machine. Deux profils Docker sont fournis, et celui qui s'installe en trois commandes ne lance aucun modèle : voici ce que chacun vous donne, et ce que vous emportez si vous changez d'avis.",
+      "link": "https://korben.info/rssmonster-lecteur-rss-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-08T09:20:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rssmonster-lecteur-rss-auto-heberge/rssmonster-lecteur-rss-auto-heberge-2.png",
+      "type": "blog"
+    },
+    {
       "id": "9524e28970fd",
       "title": "AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI?",
       "description": "In the era of generative AI and vibe coding, employees are now designing their own business tools. Between the freedom to experiment in the field and the need to frame data security, how can companies transform this digital DIY into a real performance lever? L’article AI-Assisted Development: Should You Let Your Employees Develop Their Own Applications with AI? est apparu en premier sur OlivierSauvage.com.",
