@@ -2,6 +2,109 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b9f75789200d",
+      "title": "Données sécurisées et IA agentique : déployer des solutions locales performantes",
+      "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise, notamment le \"Shadow IT\". L’article Données sécurisées et IA agentique : déployer des solutions locales performantes est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/10/donnees-securisees-et-ia-agentique-deployer-des-solutions-locales-performantes/",
+      "pubDate": "2026-09-10T05:18:58.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1788977781610-e1788977851485.png",
+      "type": "blog"
+    },
+    {
+      "id": "17153e50e350",
+      "title": "Un seul abonnement Surfshark, une infinité d'appareils protégés pour la rentrée",
+      "description": "-- Article en partenariat avec Surfshark -- Vous savez ce qui est pire qu'un cousin qui vous demande votre mot de passe Netflix ? C'est quand ledit cousin vous demande aussi un VPN pour sa boîte, sa copine, son chien et sa PlayStation. Et là, vous devez lui expliquer que la plupart des VPN c'est 10 appareils max, et que non, vous allez pas payer trois abonnements différents pour que toute la famille puisse regarder Koh Lanta en sécurité. Surfshark, lui, a compris le problème. Connexions...",
+      "link": "https://korben.info/un-seul-abonnement-surfshark.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T04:56:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/un-seul-abonnement-surfshark/un-seul-abonnement-surfshark-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2afa44b2c821",
+      "title": "I built the same game with Astra and Fable 5.1... only one was fun",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
+      "pubDate": "2026-09-09T16:34:27.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51340cda00a4",
+      "title": "Why LinkedIn Limits Post Reach and Why We Must Accept It",
+      "description": "I miss writing, so I'm getting back to posting here. LinkedIn, for its part, has decided to restrict the reach of publications. Before, it was easy to get thousands of views, but now, you have to pay to be seen. It's frustrating, as the web is losing its free and accessible side. The early days of the internet were much more joyful, without too many financial concerns. Perhaps I was just lucky enough to enjoy a golden era that is now over. L’article Why LinkedIn Limits Post Reach and Why We…",
+      "link": "https://oliviersauvage.com/2026/09/09/why-linkedin-limits-post-reach-and-why-we-must-accept-it/",
+      "pubDate": "2026-09-09T13:40:54.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1788961114722-e1788961213501.png",
+      "type": "blog"
+    },
+    {
+      "id": "3c59a672fdca",
+      "title": "Mettez à jour Plex ! (même sans savoir contre quoi)",
+      "description": "Plex a publié le 1er septembre un avis de sécurité qui ne dit ni ce qui est touché, ni à quel point c'est grave, et aucune CVE n'a suivi. Huit jours plus tard, Shadowserver compte encore plus de 36 000 serveurs Plex exposés en version vulnérable. Comme personne ne peut jauger le risque, la seule question qui se tranche chez vous est de savoir si votre serveur est joignable depuis l'extérieur.",
+      "link": "https://korben.info/plex-serveurs-non-patches-failles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T13:07:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/plex-serveurs-non-patches-failles/plex-serveurs-non-patches-failles-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "feb7c9204333",
+      "title": "Introducing beberlei/metrics v3.0.0",
+      "description": "Since 2012, beberlei/metrics has been doing one small job well: giving PHP applications a single, consistent API to send metrics (counters, timings, gauges...) without tying the calling code to a specific backend. Swap StatsD for Prometheus, or send to both at once, and the instrumented code never changes. Version 3.0 is the biggest release in the project's history. It drops everything older than PHP 8.4, rewrites the core API around strict types, and - the part I'm most excited about - ships…",
+      "link": "https://jolicode.com/blog/introducing-beberlei-metrics-v3-0-0",
+      "pubDate": "2026-09-09T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/metrics/home.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ec9d8aa188d",
+      "title": "FFmpeg Commander - Cochez, copiez, collez dans le terminal",
+      "description": "FFmpeg Commander écrit votre ligne de commande ffmpeg dans un formulaire, avec 34 recettes prêtes et une URL partageable. Ce qu'il fait, et ce qu'il ne fait pas.",
+      "link": "https://korben.info/ffmpeg-commander-generateur-commandes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-09T08:48:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ffmpeg-commander-generateur-commandes/ffmpeg-commander-generateur-commandes-2.png",
+      "type": "blog"
+    },
+    {
       "id": "946af9bac8d8",
       "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
       "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
@@ -64,6 +167,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/b870889b-aa8c-49d7-800b-513245d92e8d.mp3?_=1788868865",
       "duration": "59:03"
+    },
+    {
+      "id": "238ef2515364",
+      "title": "Migration de Github vers une alternative européenne",
+      "description": "Parmi les briques de bases importantes pour construire du logiciel et qui sont monopolisées par les US, je vous présente : Github (Microsoft).",
+      "link": "https://eventuallycoding.com/p/migration-de-github-vers-une-alternative-europeenne",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788967051506-3wnst4z.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "37c77760ce51",
+      "title": "Pourquoi j'ai créé r/SovereignIT",
+      "description": "Ça fait des années que je travaille autour de la souveraineté technologique : six ans chez OVHcloud, et depuis chez Clever Cloud, où je suis VP DevRel. Pendant l'essentiel de cette période, aborder le sujet dans une conversation technique provoquait l'une de ces deux réactions : un ennui poli, ou la certitude que j'étais en train de faire de la politique. La souveraineté, c'était un mot de ministère et de rapport sur la politique industrielle. Ça n'avait pas l'air d'avoir sa place dans une…",
+      "link": "https://lostinbrittany.dev/fr/pourquoi-jai-cree-r-sovereignit/",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-09-09-why-i-created-r-sovereignit.png",
+      "type": "blog"
     },
     {
       "id": "08f50bc60bc8",

@@ -2,6 +2,104 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "3eb3e9557eb7",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "pubDate": "2026-09-09T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/182NzFWut4sS5hBGtIVsq5/c2620026fe60121fe6543a992c7477ea/paul-christiano-joins-openai-foundation-board--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "73af7527f82e",
+      "title": "Get ready for the game with new football features in Search",
+      "description": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "pubDate": "2026-09-09T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "82b8bf7db8ec",
+      "title": "Recreating a 70-year love story frame by frame",
+      "description": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "pubDate": "2026-09-09T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "46660cb2ea43",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "pubDate": "2026-09-09T15:36:24.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/69d3d41eef229c09afea5d83/KYse3pX6t3l8FnI-1pKsi.png",
+      "type": "blog"
+    },
+    {
+      "id": "a7c183de5112",
+      "title": "The AI policy window is open. We need to act.",
+      "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "pubDate": "2026-09-09T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "333ccaae8148",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "description": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "pubDate": "2026-09-09T11:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "415f8f1af13b",
+      "title": "Sep 9, 2026AlignmentAn alignment assessment of recent cybersecurity incidents",
+      "description": "Sep 9, 2026AlignmentAn alignment assessment of recent cybersecurity incidents",
+      "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/25a7c99743ebfb3b79cb98ffa2b9e928ad7e712b-2000x1125.webp",
+      "type": "blog"
+    },
+    {
       "id": "503e9c2326e7",
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
