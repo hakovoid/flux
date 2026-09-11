@@ -2,6 +2,227 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "16da6cffd421",
+      "title": "MACI #164 - PHP, Événements Tech & Watermarking Anthropic - Avec Cédric Mourizard et Nathan Boiron",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on s’intéresse d’abord à la situation des événements tech français : baisse des inscriptions et des sponsors, modèle associatif et conséquences possibles pour les communautés. Et puis, comme à notre habitude, la discussion va vite s’étendre… de la modernisation des outils de l’AFUP à Symfony Reprise 1.0, en passant par la migration de EVE Online vers Python 3, Go 1.27, le watermarking des contenus générés par l’IA et notre nouvelle…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-164-php-evenements-tech-watermarking-anthropic-avec-cedric-mourizard-et-nathan-boiron",
+      "pubDate": "2026-09-11T08:04:40.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/3449JCjYwOcHX7YkFiUoogYuhqVk6UOxPgLf6QEE_1400x1400.jpeg?t=1789113880",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/ypz8Mhg6r4D3.mp3?t=1789113456",
+      "duration": "58:56"
+    },
+    {
+      "id": "081dff56bd10",
+      "title": "Mon dernier livre : La sommation technologique",
+      "description": "La sommation technologique – au temps des catastrophes (La Fabrique), mon dernier livre, est désormais en librairie. 199 pages : j’ai fait un effort pour aller droit au but. Hasard du calendrier, le 11 septembre : jour funeste où la question Mon dernier livre : La sommation technologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/mon-dernier-livre-la-sommation-technologique/",
+      "pubDate": "2026-09-11T07:12:27.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/09/20260911_083017-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "850be36aa683",
+      "title": "Pluton - Le backup chiffré qui se pilote depuis le navigateur",
+      "description": "Pluton pose une interface web sur restic et rclone. Un docker compose, un plan de sauvegarde, et vos fichiers partent chiffrés vers le stockage de votre choix. Voilà comment le monter et surtout comment vérifier que vous pourrez restaurer.",
+      "link": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pluton-backup-self-hosted-chiffre-restic-rclone/pluton-backup-self-hosted-chiffre-restic-rclone-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "c30d8eae4330",
+      "title": "ReProgman - L'interface de Windows 3.1 sur PC et Mac",
+      "description": "ReProgman rejoue le Program Manager de Windows 3.1 sur Windows 11 et sur macOS Apple Silicon. Rien à installer, licence MIT, et une spécification de 469 lignes dans le dépôt.",
+      "link": "https://korben.info/windows-31-shell-vibe-code-claude.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T06:15:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-31-shell-vibe-code-claude/windows-31-shell-vibe-code-claude-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "64c9183a1fba",
+      "title": "400ème article !!!",
+      "description": "Plus de 50,000 mots écrits à la main ou à l’IADes dizaines de sujets traités : IA, B2B, Vibe Coding, gaming, voitures autonome, marketing, réseaux sociaux, etc… etc…1 podcast lancé Et bientôt d’autres nouveautés pour vous montrer que le marketing de contenu n’est pas mort. 400 articles en moins d’un an ! Dont un certain […] L’article 400ème article !!! est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/11/400eme-article/",
+      "pubDate": "2026-09-11T05:53:17.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1789104887771-1024x595.png",
+      "type": "blog"
+    },
+    {
+      "id": "c891fa0c33c1",
+      "title": "Super Mario 64 tourne sur un processeur ARM (avec ReactOS)",
+      "description": "Une vidéo montre Super Mario 64 qui tourne sur ReactOS, le clone libre de Windows, sur une machine ARM. Derrière la démo, il y a bien plus qu'un émulateur lancé sur un OS libre : le développeur a écrit dans le ntdll de ReactOS le runtime hybride ARM64EC, que seuls Microsoft et Wine avaient bâti jusqu'ici.",
+      "link": "https://korben.info/reactos-arm64-fex-jeux-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T04:59:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/reactos-arm64-fex-jeux-windows/reactos-arm64-fex-jeux-windows-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a342cac7479c",
+      "title": "#313.exe - Open Source: Mettre le dev en musique par Bastien Albertus",
+      "description": "Pour l'épisode #313 je recevais Fabien Potencier. On en débrief avec Bastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-313-4988b48436dc",
+      "pubDate": "2026-09-11T03:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7eea3368-8c27-45d2-8caa-4988b48436dc.mp3?_=1789041645",
+      "duration": "30:09"
+    },
+    {
+      "id": "ad8416d7495d",
+      "title": "BunJS, l'environement JS ultime ?",
+      "description": "Bun est un toolkit tout-en-un pour JavaScript et TypeScript: runtime, gestionnaire de paquets, test runner et bundler, dans un seul exécutable. Créé par Jarred Sumner, présenté publiquement en juillet 2022 puis stable avec la 1.0 de septembre 2023, il se pose en alternative plus rapide à Node.js. On revient sur son historique et ce qu’il embarque vraiment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/bun/",
+      "link": "https://double-slash.dev/podcasts/bun/",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1789110154/episode/ART_139_szimen.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_139_bun.mp3",
+      "duration": "3768"
+    },
+    {
+      "id": "c87549e5c685",
+      "title": "CR talk : Éloge du compromis",
+      "description": "Ce talk revient sur le rôle du designer dans la transformation des organisations, à travers l'idée du compromis : pas une compromission, mais un engagement noble qui consiste à proposer une troisième voie là où deux camps s'opposent.",
+      "link": "https://blog.octo.com/octo-article-de-blog-25",
+      "pubDate": "2026-09-10T14:21:54.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54b3fc74be9b",
+      "title": "Ce que les IA d'OpenAI se sont raconté en se croyant seules",
+      "description": "Quatre chercheurs ont publié 18 000 messages que des agents se déclarant d'OpenAI ont laissés sur un vieux wiki de développeurs allemands. On y lit comment ils se sont passé les réponses de leurs tests chronométrés, converti leurs horloges, partagé une technique de sortie de bac à sable, et mesuré la durée de leur propre exécution.",
+      "link": "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T13:52:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/agents-ia-organisation-wiki-allemand/agents-ia-organisation-wiki-allemand-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "11f7c342348c",
+      "title": "RistOS - L'Android sans applis dont le cerveau reste chez vous",
+      "description": "RistOS remplace le lanceur d'un Pixel 10a par un assistant vocal : ni app store, ni navigateur, sept applications et rien d'autre. Mais le téléphone ne transcrit ni ne parle, tout passe par un serveur que vous hébergez, et le projet écrit lui-même que les appels d'urgence ne sont pas validés.",
+      "link": "https://korben.info/rist-os-handset-android-degoogle.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T11:04:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rist-os-handset-android-degoogle/rist-os-handset-android-degoogle-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "27b76007fa15",
+      "title": "Les vacances furent bonnes ?",
+      "description": "Les vacances furent bonnes ? C’est la question que tout le monde pose à tout le monde. C’est normal, c’est la rentrée. Sauf que j’ai passé des vacances de merde. Et je me retrouve donc face à une alternative : soit je mens et je dis “très bien, et toi ?” et on passe à autre chose, soit je dis la vérité et j’étale ma colère. Manque de bol pour les gens dont je suis proche, avec lesquels j’ai une relation franche, j’ai tendance, avec eux, à opter pour la 2e solution. Mais pourquoi ai-je passé des…",
+      "link": "https://standblog.org/blog/post/2026/09/10/Les-vacances-furent-bonnes",
+      "pubDate": "2026-09-10T10:43:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/.Vallee_du_Lot_m.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cc94619d7205",
+      "title": "Votre téléviseur vous espionne ?",
+      "description": "Une enquête vient de paraître pour démontrer des failles de sécurité sur les télés connectées LG, mais également d'autres choses bien plus inquiétantes… Notes de l'épisode : Votre téléphone ne vous écoute pas : https://code-garage.com/blog/google-ne-vous-ecoute-pas-car-il-na-pas-besoin-de-le-faire L'enquête de Gamers Nexus : https://www.youtube.com/watch?v=6IFVTcM28KA Version courte :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Votre-tlviseur-vous-espionne-e3oktsm",
+      "pubDate": "2026-09-10T08:33:16.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41739103/41739103-1770158140162-5659d8d532ed2.jpg",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/125515094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-10%2Fb023f9f5-f30e-558f-aa17-d0eb4852f8fe.mp3",
+      "duration": "00:07:29"
+    },
+    {
+      "id": "5e1d154fa698",
+      "title": "Une faille cPanel distribue des accès root",
+      "description": "cPanel a corrigé le 8 septembre une injection SQL dans EmailTrack qui laisse un simple client d'hébergement, à condition d'avoir des droits sur le mail, écrire des fichiers sur le serveur puis exécuter du code en root. La fiche CVE la note 9,9 sur 10. Les canaux de mise à jour servent tous un build corrigé, mais les lignes 11.118 et 11.126, elles, n'ont rien reçu.",
+      "link": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-10T08:15:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cpanel-faille-prise-controle-compte-hebergement/cpanel-faille-prise-controle-compte-hebergement-1.png",
+      "type": "blog"
+    },
+    {
       "id": "b9f75789200d",
       "title": "Données sécurisées et IA agentique : déployer des solutions locales performantes",
       "description": "Après un été chaud, le blog lance une série d'entretiens vidéo avec Julien Saumande, expert en IA. Il aborde le phénomène du \"Vibe Coding\" et prône un développement assisté par IA (AIDD) pour garantir des fondations solides. Il met en lumière les enjeux éthiques et sociétaux de l'IA en entreprise, notamment le \"Shadow IT\". L’article Données sécurisées et IA agentique : déployer des solutions locales performantes est apparu en premier sur OlivierSauvage.com.",
@@ -28,6 +249,21 @@
         "Web"
       ],
       "image": "https://korben.info/un-seul-abonnement-surfshark/un-seul-abonnement-surfshark-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "18a79eb4e9ce",
+      "title": "Le mythe du side project obligatoire",
+      "description": "Il y a un mythe fortement ancré dans la tête des développeurs, sur l’importance d’avoir des side projects. Cassons-le immédiatement. Non, il n’est pas obligatoire d’avoir un side project pour être un bon développeur. C’est une injonction que j’entends régulièrement: avoir un profil Github vide serait le signe d’un manque de passion ou d’implication. On voit même parfois passer des offres d’emploi où il est fortement recommandé d’avoir un side project. Bien entendu, quand l’envie est là, un side…",
+      "link": "https://www.jdecool.fr/blog/2026/09/10/le-mythe-du-side-project-obligatoire.html",
+      "pubDate": "2026-09-09T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
       "type": "blog"
     },
     {
