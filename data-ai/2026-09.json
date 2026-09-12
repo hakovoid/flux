@@ -2,6 +2,34 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "4aeb82da9975",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "pubDate": "2026-09-11T16:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3lud5ZFEQSmggpw69KBl6l/07c5d333914a26516ca5470c72a214e9/cognition-seo-image-option-b.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "46fcf5bb7b99",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "pubDate": "2026-09-11T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5D3TSOEPUfq7vsrX6Vsp0Q/3ac45b90943bcbcdd0eac9b80e0f679a/SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "39842fa0b34b",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",

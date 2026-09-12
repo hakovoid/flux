@@ -2,6 +2,79 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "db926ea4bd85",
+      "title": "Jacob Coxon: The Whistleblower Who Will Kill Us All",
+      "description": "The alarmist resignation of an artificial intelligence researcher triggers media panic. Faced with apocalyptic prophecies, I question our credulity, the amplification by social networks, and the responsibility of journalists. An invitation to regain perspective, examine reasoning, and preserve our judgment rather than succumbing to fear. L’article Jacob Coxon: The Whistleblower Who Will Kill Us All est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-the-whistleblower-who-will-kill-us-all/",
+      "pubDate": "2026-09-12T06:53:52.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1789195843202-e1789195913652.png",
+      "type": "blog"
+    },
+    {
+      "id": "2efe923bf860",
+      "title": "Jacob Coxon : le lanceur d’alerte qui va tous nous tuer",
+      "description": "La démission alarmiste d’un chercheur en intelligence artificielle déclenche une panique médiatique. Face aux prophéties apocalyptiques, je m’interroge sur notre crédulité, l’amplification des réseaux sociaux et la responsabilité des journalistes. Une invitation à retrouver du recul, à examiner les raisonnements et à préserver notre jugement plutôt que céder à la peur. L’article Jacob Coxon : le lanceur d’alerte qui va tous nous tuer est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/12/jacob-coxon-le-lanceur-dalerte-qui-va-tous-nous-tuer/",
+      "pubDate": "2026-09-12T06:41:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1789193837203-e1789193883823.png",
+      "type": "blog"
+    },
+    {
+      "id": "ed24af9bd3e3",
+      "title": "OpenAI's biggest math breakthrough is getting ugly...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=aspmNhKAFMc",
+      "pubDate": "2026-09-11T17:24:40.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5475b06e1001",
+      "title": "OmniVoice - Clonez votre propre voix en local et en français",
+      "description": "OmniVoice recopie votre voix à partir de huit secondes d'enregistrement, en local sur Mac, Linux ou Windows. Le tuto complet, les deux réglages qui changent tout en français, un kit à coller dans votre agent, et le hic de licence que le README ne mentionne pas.",
+      "link": "https://korben.info/omnivoice-clonage-voix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T10:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omnivoice-clonage-voix/omnivoice-clonage-voix-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "aa6ff724799f",
+      "title": "Le Deathray - Le shader WebGPU qui fait redémarrer votre Mac",
+      "description": "Un shader WebGPU servi par une simple page web fige l'affichage d'un Mac Apple Silicon jusqu'au kernel panic, dans Chrome, Firefox et Safari. Apple a fermé le rapport.",
+      "link": "https://korben.info/webgpu-deathray-freeze-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T09:52:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/webgpu-deathray-freeze-mac/webgpu-deathray-freeze-mac-1.png",
+      "type": "blog"
+    },
+    {
       "id": "16da6cffd421",
       "title": "MACI #164 - PHP, Événements Tech & Watermarking Anthropic - Avec Cédric Mourizard et Nathan Boiron",
       "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on s’intéresse d’abord à la situation des événements tech français : baisse des inscriptions et des sponsors, modèle associatif et conséquences possibles pour les communautés. Et puis, comme à notre habitude, la discussion va vite s’étendre… de la modernisation des outils de l’AFUP à Symfony Reprise 1.0, en passant par la migration de EVE Online vers Python 3, Go 1.27, le watermarking des contenus générés par l’IA et notre nouvelle…",
@@ -18,6 +91,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.ausha.co/ypz8Mhg6r4D3.mp3?t=1789113456",
       "duration": "58:56"
+    },
+    {
+      "id": "de8b6fb41dae",
+      "title": "Trynix - Testez des classiques Linux sans rien installer",
+      "description": "trynix démarre une machine Linux dans votre onglet et y monte n'importe quelle version de logiciel que nixpkgs a livrée en treize ans. Pas de serveur, pas d'installation : un lien, un shell, et un Python de 2017 qui répond. Voilà ce que ça donne vraiment, chronomètre à l'appui.",
+      "link": "https://korben.info/trynix-tester-paquet-nix-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-11T07:19:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/trynix-tester-paquet-nix-navigateur/trynix-tester-paquet-nix-navigateur-2.png",
+      "type": "blog"
     },
     {
       "id": "081dff56bd10",
@@ -62,6 +150,23 @@
         "Web"
       ],
       "image": "https://korben.info/windows-31-shell-vibe-code-claude/windows-31-shell-vibe-code-claude-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3374c243bf42",
+      "title": "La seconde vie de votre patrimoine applicatif",
+      "description": "Comment réduire réellement la dette technique de votre SI en migrant sur AWS, grâce à la méthode Ippon qui combine le programme AWS MAP et les agents IA de AWS Transform, sans dépendance à un outillage propriétaire.",
+      "link": "https://blog.ippon.fr/2026/09/11/migration-aws-ia-agentique-dette-technique/",
+      "pubDate": "2026-09-11T06:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/Gemini_Generated_Image_qxllbcqxllbcqxll-1.jpeg",
       "type": "blog"
     },
     {
