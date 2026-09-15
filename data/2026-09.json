@@ -2,6 +2,111 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "e7ba10e39d7d",
+      "title": "Kits IA Korben - Des tutos pour vos agents IA",
+      "description": "Je me suis dit qu'en plus du tutoriel, ce que je pouvais vous proposer, c'était des petits fichiers zip qui embarquaient tout le savoir de mon tuto.",
+      "link": "https://korben.info/kits-ia-korben-tutos-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T08:16:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/kits-ia-korben-tutos-agents-ia/kits-ia-korben-tutos-agents-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0908115d0708",
+      "title": "TP-Link Deco BE25-5G - Le routeur qui garde la maison",
+      "description": "Pendant mon déménagement, j'ai laissé ce routeur 5G Wi-Fi 7 devant mon ancienne maison, branché sur un onduleur avec une carte SIM dedans, pour garder l'alarme et les caméras en ligne sans ligne fixe. Voilà ce que ça donne, et ce qui manque encore côté micrologiciel.",
+      "link": "https://korben.info/deco-be25-5g-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/deco-be25-5g-test/deco-be25-5g-test-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b5e8da9ea34e",
+      "title": "GNOME Boxes - L'outil qui monte les VM à votre place",
+      "description": "L'app de virtualisation de GNOME installe votre distrib ou votre Windows dans une VM sans un seul réglage. En échange, elle n'expose ni réseau ni matériel virtuel.",
+      "link": "https://korben.info/gnome-boxes-virtualisation-simple-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T07:23:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/gnome-boxes-virtualisation-simple-linux/gnome-boxes-virtualisation-simple-linux-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "81ec44f8775e",
+      "title": "SpruceOS - Le guide pour rhabiller votre console rétro",
+      "description": "spruceOS n'est pas un OS mais un frontend qui se pose sur votre console rétro. Installation pas à pas, jeux, BIOS, et le point où l'on quitte le réversible.",
+      "link": "https://korben.info/spruceos-guide-installation-console-retro.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T06:53:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/spruceos-guide-installation-console-retro/spruceos-guide-installation-console-retro-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "a3e0de4513d6",
+      "title": "Liens Tech - Septembre 2026",
+      "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
+      "link": "https://domopi.eu/liens-tech-septembre-2026/",
+      "pubDate": "2026-09-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9ded055db0c9",
+      "title": "Test Thermal Master P3 : voir ce qui chauffe avec son smartphone",
+      "description": "Thermal Master P3 : caméra thermique USB-C pour Android et iPhone, capteur 256 x 192 px à 25 ips, plage de -20 à 600 °C, 299 euros sur Amazon.",
+      "link": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T15:10:49.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "69651edd175d",
+      "title": "Antro pique ?",
+      "description": "ANTRO, jeu de plate-forme runner rythmique dans un univers dystopique à la Blade Runner, sur Steam, Xbox et PlayStation. 15 € pour environ 1h20 de jeu.",
+      "link": "https://korben.info/test-antro-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T13:33:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_4467783065367018152_hu_2303236bf2a4c6c6.webp",
+      "type": "blog"
+    },
+    {
       "id": "319776abe351",
       "title": "Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production",
       "description": "Injection de prompt, exfiltration de system prompt, smuggling Unicode... Vos agents IA sont exposés à des multitudes d'attaques. Découvrez une architecture de défense en profondeur pour sécuriser vos systèmes agentiques : filtres déterministes, LLM-as-a-judge, guardrails, etc.",
@@ -16,6 +121,21 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f62754f769d2",
+      "title": "Tomb Raider peut tourner sur un ESP32-P4",
+      "description": "OpenLara porté sur ESP32-P4-Function-EV-Board : Tomb Raider en 320x240 upscalé en 1024x600, 30 fps, son et sauvegardes microSD, via ESP-IDF 5.4",
+      "link": "https://korben.info/tomb-raider-peut-tourner-sur-un-esp32-p4.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-14T09:14:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_16339310036476917354_hu_dba4387a20df1896.webp",
       "type": "blog"
     },
     {
@@ -687,6 +807,21 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-09-09-why-i-created-r-sovereignit.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0837437d495",
+      "title": "Algorithmes d'isolation",
+      "description": "Au moment où j’écris, Apple et Meta déploient leurs gadgets. Chez Meta, depuis des mois déjà, des lunettes intrusives permettent à n’importe qui de vous filmer à votre insu. Du côté d’Apple, une montre avec un mode d’écoute permanente, enregistrant toutes vos conversations et vos interactions avec votre environnement. L’un comme l’autre usent des mêmes arguments. Ils promettent la commodité, l’efficacité. Plus besoin de vous rappeler tous les détails d’une conversation, elle est transcrite en…",
+      "link": "https://boris.schapira.dev/notes/2026-09-algorithmes-d-isolation/",
+      "pubDate": "2026-09-08T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:11626e,o_20/w_1000,c_fit,l_text:PT%20Sans_115:Algorithmes%20d%E2%80%99isolation,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_115:Algorithmes%20d%E2%80%99isolation,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/citoyen.jpg",
       "type": "blog"
     },
     {

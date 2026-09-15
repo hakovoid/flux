@@ -2,6 +2,48 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6666660dfd65",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "description": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "pubDate": "2026-09-14T19:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ac6fab4ebd9f",
+      "title": "DevFest is back",
+      "description": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "pubDate": "2026-09-14T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "7f82d995c515",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "description": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "link": "https://openai.com/index/fyxer",
+      "pubDate": "2026-09-14T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3mQ80ZMeQoDY9L8bTPbx7q/35320a6d450f2a8d3d91d45067867ea0/oai_Fyxer_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "968c32634dc2",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
