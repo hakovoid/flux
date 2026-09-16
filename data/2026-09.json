@@ -2,6 +2,178 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "812c603097cc",
+      "title": "Fuse-archive - Vos ZIP montés en dossiers ordinaires",
+      "description": "fuse-archive monte n'importe quelle archive comme un dossier en lecture seule, et même plusieurs d'un coup fusionnées dans la même arborescence : ZIP, 7z, RAR, ISO, mais aussi vos DOCX et vos APK, et jusqu'au ZIP chiffré en AES-256 qu'il vous laisse lire sans copie en clair. Reste à savoir ce que son montage par défaut vous prend en espace temporaire, et sous quel nom chercher le projet aujourd'hui.",
+      "link": "https://korben.info/mount-archive-monter-archives-comme-un-dossier.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-16T07:49:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mount-archive-monter-archives-comme-un-dossier/mount-archive-monter-archives-comme-un-dossier-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8cadb9d34411",
+      "title": "La Forge - Le GitLab public des profs codeurs",
+      "description": "Le ministère de l'Éducation nationale fait tourner son propre GitLab CE, public et consultable sans compte : 12 896 projets, 15 638 membres, licence libre obligatoire à la racine de chaque dépôt, et des profs qui fabriquent leurs applis pédagogiques avec de l'IA.",
+      "link": "https://korben.info/forge-apps-education-enseignants-code.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-16T07:35:05.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/forge-apps-education-enseignants-code/forge-apps-education-enseignants-code-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "21d64f41a236",
+      "title": "#376.src - AIgile : L'IA va-t-elle tuer le Scrum Master ? avec Salim Gomri",
+      "description": "\"L'IA propose, l'humain décide.\" Le D.E.V. de la semaine est Salim Gomri, coach agile et coach professionnel d'organisation certifié. Fort de 23 ans d'expérience, il est aussi l'auteur du Système S.A.L.I.M. (Scrum Augmenté Livré Incrémental & Mesurable), un framework sur Scrum Augmenté disponible sur aigile.lu. Il revient sur l'impact de l'IA sur le manifeste agile et présente son AIgile Manifesto, une version augmentée du manifeste agile face à l'accélération IA. Ensemble et sans langue de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-376-e709b18ac401",
+      "pubDate": "2026-09-16T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d840392b-9559-4361-903f-f4b3ba4bdf88.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
+      "duration": "01:07:50"
+    },
+    {
+      "id": "fd4b326b3f4b",
+      "title": "Anthropic researchers are quitting... and now we know why",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
+      "pubDate": "2026-09-15T17:45:39.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c6af0e57d10f",
+      "title": "Le Context Engineering pour les Product people ",
+      "description": "Le context engineering vous connaissez ? Il nous concerne tous, découvrez en quoi il consiste, pourquoi il est important d'y prêter attention et les leviers pour le mettre en pratique en tant que product people.",
+      "link": "https://blog.octo.com/le-context-engineering-pour-les-product-people",
+      "pubDate": "2026-09-15T16:39:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4740ee6e032",
+      "title": "Test d'une batterie externe et dock magnétique Antank pour Nintendo Switch 2",
+      "description": "Batterie magnétique Antank B5 10 000 mAh à 55,99 euros et dock SW2 Hub à 53,95 euros pour Nintendo Switch 2 : fixation, poids et ports testés.",
+      "link": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T15:43:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2/test-dune-batterie-externe-et-dock-magentique-antank-pour-nintendo-switch-2-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "04b4313c44ed",
+      "title": "Suyu tire sa révérence sur un mode de recompilation pour jeux Switch",
+      "description": "La dernière version de suyu embarque un mode Recompiler qui traduit à l'avance le code ARM64 d'un jeu Switch en C, à charge pour vous de le compiler. Le JIT et la couche d'émulation restent embarqués, et le dépôt a été refermé neuf jours après la sortie.",
+      "link": "https://korben.info/suyu-recompilation-statique-emulation-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:53:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/suyu-recompilation-statique-emulation-switch/suyu-recompilation-statique-emulation-switch-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8afc0675b85a",
+      "title": "CUDA-for-AMD-Windows - Le .exe NVIDIA pour votre Radeon",
+      "description": "CUDA-for-AMD-Windows est un jeu de scripts PowerShell qui monte une pile ZLUDA et HIP SDK figée, pour lancer sur une Radeon sous Windows le logiciel qui exige CUDA et que vous ne pouvez pas recompiler. Les empreintes SHA-256 sont vérifiées au téléchargement, une seule carte est réellement validée, et le trou dans la liste des bibliothèques s'appelle cuDNN. Reste à voir si votre besoin ne relève pas plutôt du support officiel que PyTorch et le HIP SDK ont désormais sous Windows.",
+      "link": "https://korben.info/zluda-hip-cuda-radeon-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:28:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/zluda-hip-cuda-radeon-windows/zluda-hip-cuda-radeon-windows-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a8a929741cb0",
+      "title": "OpenDisplay - Étendre l'affichage Mac avec ce que vous avez sous la main",
+      "description": "OpenDisplay fait de votre iPhone, de votre iPad ou d'un vieux Mac un vrai second écran pour votre Mac, et pas une simple recopie du bureau. C'est gratuit, c'est sous GPL, et contrairement à Sidecar ça fonctionne avec un iPhone et avec deux comptes Apple différents. Par contre, branchez le câble : le mainteneur écrit lui-même que le curseur saccade en Wi-Fi.",
+      "link": "https://korben.info/opendisplay-ecran-secondaire-iphone-ipad-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T13:13:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_17799523780642374986_hu_14534a1a8a5271df.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ef40c965cb61",
+      "title": "Windows 11 - Un clic sur le bon lien et hop, vous avez un compte local",
+      "description": "Sur l'écran qui réclame un compte Microsoft pendant l'installation de Windows 11 Home, cliquer le petit lien Learn more ouvre directement la création d'un compte local. Deux rédactions l'ont testé et répliqué.",
+      "link": "https://korben.info/bypass-compte-microsoft-windows-11.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-15T11:49:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bypass-compte-microsoft-windows-11/bypass-compte-microsoft-windows-11-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aefbeb500064",
+      "title": "La rentrée de la tech en 8 actualités ! ",
+      "description": "C'est l'heure de la rentrée pour la Saison 2 de À la French ! 🇫🇷 Dans ce premier épisode de rentrée, on se retrouve pour débriefer d’une rentrée particulièrement agitée sur le front de la tech et de l'IA. Au programme de cette reprise : nous disséquons la stratégie tentaculaire de Nvidia qui s'offre Hugging Face pour 13 milliards et signe un deal massif avec Poolside. Nous analysons le pivot controversé de Mistral vers un modèle de Néo-Cloud, soutenu par Microsoft, et constatons la déferlante…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6aa8e6f05d36baebf17f1a7d",
+      "pubDate": "2026-09-15T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1789462857847-4c7ad269-dd08-48d9-82a7-d539896eae24.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6aa8e6f05d36baebf17f1a7d/media.mp3",
+      "duration": "1:16:08"
+    },
+    {
       "id": "e7ba10e39d7d",
       "title": "Kits IA Korben - Des tutos pour vos agents IA",
       "description": "Je me suis dit qu'en plus du tutoriel, ce que je pouvais vous proposer, c'était des petits fichiers zip qui embarquaient tout le savoir de mon tuto.",
@@ -74,6 +246,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2df56b025a73",
+      "title": "Un ralentissement du développement de l'IA ?",
+      "description": "Coup de théâtre, plusieurs acteurs de l’IA demandent un ralentissement sur le développement des modèles frontières et la mise en place d’une régulation. Les progrès de l’IA seraient trop rapides et pourraient poser de sérieux problèmes à l’avenir.",
+      "link": "https://eventuallycoding.com/p/un-ralentissement-du-developpement-de-l-ia",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1789479275601-4salxv9.png",
       "type": "blog"
     },
     {

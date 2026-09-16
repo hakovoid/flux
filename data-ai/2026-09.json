@@ -2,6 +2,90 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "947e89eaa83a",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "pubDate": "2026-09-15T17:05:57.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "a1d018f16fad",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "pubDate": "2026-09-15T16:00:44.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "970c94673769",
+      "title": "AI for Societal Impact",
+      "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+      "type": "blog"
+    },
+    {
+      "id": "6fff55fdf7cb",
+      "title": "Building AI to accelerate science and improve lives",
+      "description": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "50f1fa34d3c3",
+      "title": "AI for everyone in every language",
+      "description": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "pubDate": "2026-09-15T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b21c5e1ffc81",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "description": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "pubDate": "2026-09-15T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
       "id": "6666660dfd65",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "description": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
