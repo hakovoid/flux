@@ -1813,6 +1813,23 @@
       "type": "blog"
     },
     {
+      "id": "ca7202c75349",
+      "title": "\"Ah non, ce n'est pas notre cible\" : ce jour où j'ai compris qu'on avait un problème",
+      "description": "En réunion personas, j'ai suggéré d'inclure les personnes âgées. Réponse : \"on a déjà une persona de 50 ans.\" J'ai précisé : je parle de vraies personnes âgées, 75 ans, avec des problèmes de vue ou de motricité. Réponse, sans malice : \"ah non, ce n'est pas notre cible.\"",
+      "link": "https://blog.ippon.fr/2026/08/06/ah-non-ce-nest-pas-notre-cible-ce-jour-ou-jai-compris-quon-avait-un-probleme/",
+      "pubDate": "2026-08-06T13:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/PersonasFeatured-Image-1076x500@2x.png",
+      "type": "blog"
+    },
+    {
       "id": "3fe37be05aa4",
       "title": "Un modèle de Meta a piraté une entreprise pendant un test, et c'est le troisième cas en une semaine",
       "description": "Meta confirme que son modèle Muse Spark 1.1 a compromis les systèmes d'une société tierce lors d'un test mené par Irregular, après OpenAI et Anthropic.",
