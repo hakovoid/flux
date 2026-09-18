@@ -1064,6 +1064,118 @@
       ],
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=fig",
       "type": "blog"
+    },
+    {
+      "id": "6e340c13fb8d",
+      "title": "Silver lining playbook: Likely China-origin activity targeting US persons",
+      "description": "OpenAI banned likely China-origin accounts using AI to research US persons, locations, and social-engineering tactics.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeo5EyztnzBrxfmeUwFvj4Yox/4361ce96a45f7b395ca4905211a53661/16x9___SURVEILLANCE__Operation__Silver_Lining_Playbook_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "60803e59bb76",
+      "title": "Romance scams: AI-enabled romance scam workflows",
+      "description": "OpenAI banned accounts using AI to support romance scam workflows, including outreach, translation, victim engagement, and investment-fraud lures.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3RAti5QBD0Y3zvlmELJBzs/f16d5905ec6e0d8477a4b3209a1c92d6/16x9___SCAM__Romance_Scams__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "64025901dc99",
+      "title": "Operation “False Witness”: Fake recovery service impersonating authorities",
+      "description": "OpenAI banned accounts that very likely originated in Cambodia and used AI to pose as recovery services, law firms, and authorities targeting people affected by fraud.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeo1jpf7tKUjA3UjSbQEgqHMY/3fb4d0502d49deb2537bfd3ad949bce0/16x9___SCAM__Operation__False_Witness_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ce86571e5671",
+      "title": "Operation “Fish Food”: Russia-origin content farm activity",
+      "description": "OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia, that used AI to support multilingual influence activity across websites and social platforms.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeo2QbIQnSGvH6y4ilVWfaH2c/42613543b02c25a6c2f9dad95775d941/16x9___COVERT_IO__Operation__Fish_Food_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "492428c49822",
+      "title": "“Cyber Special Operations”: China-linked influence planning",
+      "description": "OpenAI banned an account linked to an individual associated with Chinese law enforcement, using AI to plan influence activity, harassment, and online operations.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7shsTmq34KXYPgZEkWeKoW/1d5d42ae3bc7ea01cf0af7b1c5fd50da/16x9___COVERT_IO___SURVEILLANCE__China_s__Cyber_Special_Operations___1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e89556d6b86e",
+      "title": "Operation “Date Bait”: AI-enabled scam targeting loveseekers",
+      "description": "OpenAI banned accounts that very likely originated in Cambodia and used AI for scam outreach to Indonesian loveseekers, including translation and engagement.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeo7jczv8ZAQpYaSf3MHOW7EM/3bf80bcf6a8228fa18c03ad8d70bd280/16x9___COVERT_IO__Operation__Date_Bait_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "34642b29f373",
+      "title": "Operation “No Bell”: Coordinated criticism of the US and allies",
+      "description": "OpenAI banned accounts linked to a previously unreported, likely Russia-origin operation we dubbed \"No Bell\", using AI to produce criticism of the US and its allies for audiences across Africa.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeoeWMUEI1J7vGW9XYKaoqMU/10f4a7eb43ce6ec1fefab57266124457/16x9___COVERT_IO__Operation__No_Bell_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1c8f0e8bee3d",
+      "title": "Operation “Trolling Stone”: Russia-linked influence activity",
+      "description": "OpenAI banned accounts linked to a previously unreported operation we dubbed \"Trolling Stone\", using AI to generate comments about an alleged Russian cult leader’s arrest in Argentina.",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+      "pubDate": "2026-02-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/dmuaSeowuJ0JRbO0GAB84SMteNy7/dd12a4c3d97d28b6c7a02ab7427a61f0/16x9___COVERT_IO__Operation__Trolling_Stone_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
     }
   ]
 }
