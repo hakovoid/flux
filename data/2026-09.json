@@ -2,6 +2,83 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "62425ac7fbd4",
+      "title": "Anatomie d'un harness : ce qui tourne vraiment derrière Claude Code, Kilo Code et Codex",
+      "description": "Le modèle pense. Tout le reste, c'est le harness : la boucle, les tools, la context window. Dissection des fondamentaux, sources à l'appui.",
+      "link": "https://tahak.me/posts/anatomie-harness-claude-code-kilo-codex/",
+      "pubDate": "2026-09-19T00:00:00.000Z",
+      "source": "Taha K.",
+      "sourceUrl": "https://tahak.me/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2c31bfcfc2ab",
+      "title": "Comment mesurer et dégonfler l'index de recherche de Windows",
+      "description": "L'index de recherche de Windows garde l'espace qu'il a pris, même quand les fichiers ont disparu. Mesurez le vôtre en une commande, puis ramenez-le à sa taille utile.",
+      "link": "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T13:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-search-indexation-etendue-ssd/windows-search-indexation-etendue-ssd-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "72ab67b49aca",
+      "title": "Calibre lance le livre dont vous êtes le héros, généré par IA",
+      "description": "Calibre 9.15 embarque un jeu d'aventure narratif piloté par une IA, qu'il faut aller activer soi-même dans les préférences. On décrit un monde en quelques lignes, le logiciel en tire un décor et des personnages, et chaque partie ressort en EPUB dans la bibliothèque. J'ai branché un modèle local dessus pour voir ce que ça donne.",
+      "link": "https://korben.info/calibre-9-15-jeu-aventure-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T10:21:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/calibre-9-15-jeu-aventure-ia/calibre-9-15-jeu-aventure-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8a69c6662f4f",
+      "title": "Agentic Engineering : Au-delà du prototype",
+      "description": "Cet article étudie pourquoi le brownfield est si différent du greenfield, propose 5 grandes raisons qui font que l’accélération promise par l’Agentic Engineering, n’est pas toujours atteinte et propose quelques leviers pour effectivement s’accélérer.",
+      "link": "https://blog.octo.com/agentic-engineering--au-dela-du-prototype-1",
+      "pubDate": "2026-09-18T08:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e12f9f57ab92",
+      "title": "Linux sur PS5 Pro n'arrivera pas tout de suite",
+      "description": "Andy Nguyen a annoncé le 15 septembre qu'il quittait la scène PS5 et arrêtait PS5 Linux, emportant avec lui le support de la PS5 Pro et la sortie visée pour 2027. Il avait demandé qu'on attende GTA 6 avant de signaler la dernière faille d'hyperviseur à Sony ; deux jours plus tard, c'était fait. Ce qui tourne déjà sur les Phat et les Slim, lui, ne s'arrête pas.",
+      "link": "https://korben.info/ps5-linux-developpeur-principal-abandonne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-18T08:27:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ps5-linux-developpeur-principal-abandonne/ps5-linux-developpeur-principal-abandonne-1.png",
+      "type": "blog"
+    },
+    {
       "id": "6085e6f42e6e",
       "title": "Mes 2 nouveaux interrupteurs Sonoff Zigbee",
       "description": "Deux modules Sonoff Zigbee posés dans mon bureau en dix minutes, un pour la lumière et un pour le volet roulant, et une soirée entière perdue sur Alexa : ajoutés à la même seconde au même pont Matter, l'interrupteur est apparu et le volet n'a jamais existé. Les journaux du pont disent pourquoi, et le volet se ferme maintenant tout seul sur la hauteur du soleil.",
@@ -33,6 +110,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d9720b8-40dc-442c-a831-1bf5eeb543bc.mp3?_=1789646449",
       "duration": "12:01"
+    },
+    {
+      "id": "8005e007a0a9",
+      "title": "La veille de Wittouck - Début septembre 2026",
+      "description": "C’est la rentrée, et donc la reprise de mes articles de veille. Cet été, pas mal de sujets autour d’AT Protocol, qui a maintenant le droit à sa propre catégorie. Je pense que j’en parlerai encore dans de prochains articles, le sujet me passionne. Bonne rentrée !",
+      "link": "https://codeka.io/2026/09/18/la-veille-de-wittouck-debut-septembre-2026/",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/18/la-veille-de-wittouck-debut-septembre-2026/cover_hu_922095cbd1a6835f.webp",
+      "type": "blog"
     },
     {
       "id": "ce2718ffe59a",

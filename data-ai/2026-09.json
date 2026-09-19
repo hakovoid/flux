@@ -2,6 +2,62 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "d92122e53ec9",
+      "title": "New experts join Google’s AI & Economy team",
+      "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "pubDate": "2026-09-18T14:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "44ec3a3d6fdc",
+      "title": "Co-creating the future of fashion with Google",
+      "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "pubDate": "2026-09-18T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a00923bf4ddd",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "pubDate": "2026-09-18T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/11NZvnxIWqXyYxeVZn7RVi/75a29b61ef84d54e91c850bee1e5f444/introducing-the-australian-youth-safety-blueprint-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5ec4e61a2a51",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "description": "Partnering with Accenture on embedded evaluation",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "pubDate": "2026-09-18T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "590df77dc8c3",
       "title": "Making global data easier to explore",
       "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
@@ -125,6 +181,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3Ias4lDCBufY7UbBmXDNjz/b72b7e773296ca0c7e74151f9c5447a2/seo-018.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "27cd99b1dbe3",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "description": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "link": "https://openai.com/index/hex-gpt-6-astra",
+      "pubDate": "2026-09-16T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/PJWXosvXqEe1xKvyBoadV/77366666e0c991ffeae78ea394885c3b/og.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
