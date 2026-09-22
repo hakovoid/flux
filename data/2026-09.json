@@ -2,6 +2,144 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "79b4620c9210",
+      "title": "Les mises à jour Windows de septembre ont cassé File History",
+      "description": "Les correctifs Windows de septembre 2026 empêchent File History de sauvegarder. Pourquoi ne pas les désinstaller, et par quoi remplacer l'outil.",
+      "link": "https://korben.info/windows-update-casse-file-history.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-22T08:37:27.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_15421484927330708970_hu_97c5100abc2f49af.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9b4693ea6c58",
+      "title": "Cliamp - Votre musique + 58 000 radios dans le terminal",
+      "description": "cliamp est un lecteur de musique en terminal façon Winamp, avec visualiseur de spectre et égaliseur, qui va chercher le son sur vos disques, vos serveurs Jellyfin ou Navidrome, vos podcasts et les 58 000 webradios de Radio Browser. Installation en une commande sur Mac, licence MIT, mais Spotify réclame un compte Premium.",
+      "link": "https://korben.info/cliamp-lecteur-musique-terminal-winamp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-22T08:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cliamp-lecteur-musique-terminal-winamp/cliamp-lecteur-musique-terminal-winamp-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "b30a8801c408",
+      "title": "[OCTO] Utiliser Claude sans coder",
+      "description": "Vous utilisez déjà l'IA, chacun à votre façon, donc l'idée n'est pas de vous réapprendre à écrire un prompt. Voici quelques apprentissages d’une formation en ligne “Anthropic Certificate Foundations” pour acquérir quelques réflexes pour sublimer votre utilisation de l’IA générative en 2026 :-)",
+      "link": "https://blog.octo.com/octo-utiliser-claude-sans-coder",
+      "pubDate": "2026-09-22T08:08:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "51aff6944768",
+      "title": "10 projets RECOMP qui sortent vos vieux jeux de leur console",
+      "description": "Silent Hill se termine sur PC sans émulateur, Luigi's Mansion tourne dans une fenêtre Windows et un recompilateur PS3 existe déjà. Dix projets de décompilation et de recompilation, rangés par ce qu'ils font vraiment aujourd'hui.",
+      "link": "https://korben.info/10-projets-decomp-recomp-a-suivre.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-22T07:23:19.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/10-projets-decomp-recomp-a-suivre/10-projets-decomp-recomp-a-suivre-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c727aefbeef9",
+      "title": "Des bananes chez Orange",
+      "description": "Des bananes chez Orange {align=right} Mardi dernier, j'avais rendez-vous à sept heures et demie le matin pour passer un examen de certification Linux en ligne. À sept heures et quart je me suis fait un café, mais ce qui m'a vraiment réveillé, c'est lorsque j'ai vu que la Freebox dans mon bureau n'indiquait plus l'heure. Panique à bord, j'appelle le support de Free au 3244 et j'essaie d'expliquer à la voie avenante et impassible du serveur vocal qu'il y a un problème avec ma box, en appuyant…",
+      "link": "https://www.microlinux.fr/blog/orange-bananes/",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/orange.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9d0af6e17ee4",
+      "title": "Retrouvez-moi à Cloud Nord 2026 et au DevFest Toulouse !",
+      "description": "TL;DR : je serai speaker à Cloud Nord le 30 octobre pour un talk inédit sur Kubernetes tassé dans un Raspberry Pi Zero, et au DevFest Toulouse le 19 novembre pour présenter ma boîte à coucou des Guignols. De quoi finir l’année en beauté. Cloud Nord 2026 - Kubernetes dans 512 Mo de RAM, et un peu de DOOM Alors que je n’avais pas été retenu à la base, j’ai reçu un message de l’équipe d’organisation de Cloud Nord 2026, qui avait besoin d’un petit coup de main pour remplacer un speaker finalement…",
+      "link": "https://blog.zwindler.fr/2026/09/21/retrouvez-moi-cloud-nord-2026-devfest-toulouse/",
+      "pubDate": "2026-09-21T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/sketch.webp",
+      "type": "blog"
+    },
+    {
+      "id": "9c44bf01c296",
+      "title": "An ex-OpenAI researcher just deleted language from the LLM...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
+      "pubDate": "2026-09-21T17:52:29.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c1d04ca9fc83",
+      "title": "Bonjourr - La page de démarrage navigateur minimaliste",
+      "description": "Bonjourr remplace la page de nouvel onglet de votre navigateur par une page qui vous ressemble, gratuitement et en open source. Et sa doc dit ce qui sort sur le réseau.",
+      "link": "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-21T09:51:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/bonjourr-extension-page-accueil-navigateur/bonjourr-extension-page-accueil-navigateur-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5cbc4efb8efd",
+      "title": "From an ADE to an Orchestrator: Building PABLO",
+      "description": "My agents got faster. My brain did not. Where we left off In my previous article, I described my working environment: an Agent Development Environment, not an IDE with a chat panel bolted on, but a tool built around tasks, worktrees, and agents. I pick an issue, the ADE opens an isolated worktree with an agent already running, and I direct that agent instead of typing code. On top sit the agents I refined over months, all read-only by construction; build is the only one allowed to touch code.…",
+      "link": "https://jolicode.com/blog/from-an-ade-to-an-orchestrator-building-pablo",
+      "pubDate": "2026-09-21T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/pablo-orchestrator/mermaid-diagram-2026-09-21-100259.png",
+      "type": "blog"
+    },
+    {
       "id": "e7af764f65ee",
       "title": "Méfiez-vous du mouchard de ChatGPT",
       "description": "OpenAI pose sur votre navigateur un cookie qui repart depuis les sites marchands, et le classe parmi les cookies analytiques. Refuser le marketing ne l'empêche donc pas. Voilà ce qui part vraiment, et la seule parade qui coupe tout.",

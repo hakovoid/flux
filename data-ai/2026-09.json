@@ -2,6 +2,132 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6b3083011aeb",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "",
+      "link": "https://huggingface.co/blog/omlx",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d84d5932ca4e",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "description": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "pubDate": "2026-09-21T15:30:19.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/RetroChimera-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ae2a66f3c360",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "description": "",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "pubDate": "2026-09-21T13:44:34.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png",
+      "type": "blog"
+    },
+    {
+      "id": "08ffdb24bebd",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/11yqmSO7D1dfYveBnOdmJt/e451277f37f82f51d6d20f2b86826590/advisory-group-on-mathematics-and-artificial-intelligence-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8fe4474fdbb9",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4D04GB5N0oLOaA1hGfsiHK/9f8b975e33e375f56c536f2c915ed1c8/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "10538c022345",
+      "title": "Building standards for the next phase of AI",
+      "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "pubDate": "2026-09-21T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4qekYv7Z15dtjQYpfZBJFg/75f652d9e84b2e56042c3baeb7c243db/building-shared-standards-next-phase-ai-seo__2_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2f8d9b98fc15",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "pubDate": "2026-09-21T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5SPnjyTz9kRLLejGLGKq3e/4d59d634845854176234cd0cdefcf3b4/expanding-openai-academy-with-new-learning-paths-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d2871d486c61",
+      "title": "How V7 gives AI agents institutional memory",
+      "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "link": "https://openai.com/index/v7",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7GdeQ1K1dmN9lKhNw73MmP/e494c0e02e6370e338a3740aee65fbfd/V7-seo-16x9-option-a.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "693b3130e25c",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "description": "",
+      "link": "https://huggingface.co/blog/tokenizers-v1",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "d92122e53ec9",
       "title": "New experts join Google’s AI & Economy team",
       "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
