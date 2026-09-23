@@ -2,6 +2,131 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "940e74602cb6",
+      "title": "Le Schleswig-Holstein vire (presque) Windows de sa chancellerie",
+      "description": "Plus de 200 agents de la chancellerie du Schleswig-Holstein bossent désormais sous Linux. Reste une vingtaine de postes Windows, et 30 000 agents à suivre.",
+      "link": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T07:48:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/schleswig-holstein-chancellerie-passe-a-linux/schleswig-holstein-chancellerie-passe-a-linux-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "89c9d3c7e1f5",
+      "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
+      "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
+      "link": "https://blog.ippon.fr/2026/09/23/cybersecurite-pour-developpeurs-6-pieges-quon-voit-chez-nos-clients/",
+      "pubDate": "2026-09-23T07:17:16.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/corporate_9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3f5cc0f3149a",
+      "title": "Une VM qui s'évade vers son hôte, faut-il paniquer ?",
+      "description": "CVE-2026-89775 laisse une VM invitée s'évader vers son hôte ARM64. Grosse note à 9,3, mais un périmètre étroit : voici comment savoir si vous êtes concerné.",
+      "link": "https://korben.info/faille-noyau-linux-arm64-kvm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T06:45:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faille-noyau-linux-arm64-kvm/faille-noyau-linux-arm64-kvm-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "df342c0cce8f",
+      "title": "#377.src - DBT: Pourquoi dbt est devenu le standard (avec ses qualités et défauts) avec Jeremy Cohen",
+      "description": "\"C'est plus efficace pour une équipe d'utiliser l'outil standard qu'imaginer de recréer une solution parfaite\" Le D.E.V. de la semaine est Jérémy Cohen, Principal Product Manager chez dbt Labs. Avec plus de huit ans d'expérience chez dbt, Jérémy nous plonge dans l'évolution des pipelines data, de la démocratisation du SQL à l'adoption massive des standards d'ingénierie logicielle côté data. Il revient sur la place centrale donnée à la documentation, au versionning et au testing pour fiabiliser…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-377-8d0382d0be15",
+      "pubDate": "2026-09-23T03:00:34.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f80c5f94-ab59-4983-8042-a93d10ee788d.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
+      "duration": "52:07"
+    },
+    {
+      "id": "e535556d8428",
+      "title": "curl.md - Récupérez le texte de n'importe quelle page web au format Markdown",
+      "description": "curl.md convertit n'importe quelle page publique en Markdown : vous collez curl.md/ devant l'adresse, dans le navigateur ou avec curl, et vous récupérez le texte sans le décor. Une option objectif renvoie même le seul passage qui vous intéresse.",
+      "link": "https://korben.info/curl-md-site-en-markdown.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-22T13:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/curl-md-site-en-markdown/curl-md-site-en-markdown-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ae59b5b9ad8f",
+      "title": "Mighty DOOM - Bethesda l'a éteint mais ses joueurs l'ont rallumé",
+      "description": "Les serveurs officiels de Mighty DOOM sont morts en août 2024 avec le studio. Deux ans plus tard, le jeu retourne en ligne sur un serveur monté par des fans.",
+      "link": "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-22T10:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mighty-resurrection-serveur-prive-mighty-doom/mighty-resurrection-serveur-prive-mighty-doom-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "721535199223",
+      "title": "Castor 1.8: Windows, self-update, et des binaires vérifiables",
+      "description": "La dernière fois que nous avons parlé de Castor sur ce blog, c'était pour annoncer la sortie de la 1.0, en octobre 2025. Depuis, notre rongeur préféré a pris un rythme mensuel : une version mineure toutes les quatre à cinq semaines, avec à chaque fois quelques helpers et quelques correctifs, parfois une dépréciation pour préparer la 2.0. La 1.8 casse un peu ce rythme : 81 commits et 33 pull requests depuis la 1.7.0 de début août, et presque aucun n'ajoute de helper. Le travail est parti dans…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-et-des-binaires-verifiables",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/castor-1-8-windows-self-update-et-des-binaires-verifiables.png",
+      "type": "blog"
+    },
+    {
+      "id": "f7084f58eaf2",
+      "title": "Castor 1.8: Windows, self-update, and binaries you can verify",
+      "description": "The last time we talked about Castor on this blog was to announce the 1.0 release, in October 2025. Since then, our favorite rodent has settled into a monthly rhythm: a minor version every four to five weeks, with a few helpers and fixes each time, sometimes a deprecation to prepare 2.0. 1.8 breaks the rhythm a bit: 81 commits and 33 pull requests since 1.7.0 in early August, and almost none of them add a helper. The work went into the parts of Castor you never look at: how it lands on your…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-and-binaries-you-can-verify",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/castor-1-8-windows-self-update-and-binaries-you-can-verify.png",
+      "type": "blog"
+    },
+    {
       "id": "79b4620c9210",
       "title": "Les mises à jour Windows de septembre ont cassé File History",
       "description": "Les correctifs Windows de septembre 2026 empêchent File History de sauvegarder. Pourquoi ne pas les désinstaller, et par quoi remplacer l'outil.",

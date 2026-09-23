@@ -2,6 +2,48 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "f9027d80e820",
+      "title": "Better prompt caching for GPT-6",
+      "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "pubDate": "2026-09-22T21:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1GCXJNDUwggbqNGnGCATR3/7d3f2fc8ca3457597bcefc7fe30f5a64/7kneoqlc2qh37z1utkmtfk-seo-v1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "73461b3e97af",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "pubDate": "2026-09-22T18:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3fcefd9c665f",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "description": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "pubDate": "2026-09-22T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/28YD6O3zzNEdYaQ7MGhWfI/f27161b782112d8594c2f4c8035ccad1/parallel-option-c-seo-og-balanced.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "6b3083011aeb",
       "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
       "description": "",
@@ -13,6 +55,48 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "60efaf744a4d",
+      "title": "Priorities and principles for effective third party assessments",
+      "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6gxDxFoqp9XAfelckRh7eX/e6a570fc70dc10f05000e4010c2b9694/priorities-and-principles-for-effective-third-party-assessments-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e9f63aa1f7aa",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/evaleval-aisi/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "689d78c6e007",
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "",
+      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/transformers_llama_cpp_quants/thumbnail.png",
       "type": "blog"
     },
     {
