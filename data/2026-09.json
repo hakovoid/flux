@@ -2,6 +2,78 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5b5220611151",
+      "title": "Jev, la nouvelle IA ultra-performante",
+      "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/jev-la-nouvelle-ia-ultra-performante/",
+      "pubDate": "2026-09-24T05:09:16.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/gars.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "12c5a5d853e9",
+      "title": "The most expensive 33 hours in WordPress history...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=ylO0DQeVEBQ",
+      "pubDate": "2026-09-23T17:17:22.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d737c26db280",
+      "title": "Veeam Agent pour Windows - Une faille qui donne les droits SYSTEM",
+      "description": "Un exploit public circule depuis le 14 septembre pour CVE-2026-32996, une faille de Veeam Agent pour Windows qui fait passer un utilisateur local sans droits au compte SYSTEM. Elle touche la branche 13 jusqu'au build 13.0.2.1102, et Arctic Wolf signale déjà des attaques. Le correctif existe depuis le 27 mai dans l'agent 13.0.3.1220 : relevez votre build dans le menu About et installez-le, la mise à jour automatique ne pousse pas forcément la dernière version.",
+      "link": "https://korben.info/veeam-agent-windows-faille-droits-system.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-23T13:04:32.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/veeam-agent-windows-faille-droits-system/veeam-agent-windows-faille-droits-system-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "8fa6dcc9da21",
+      "title": "Rentahuman.ai: the website where AIs employ humans",
+      "description": "Rentahuman.ai is a website where AI agents can \"hire\" humans for tasks that the latter cannot perform themselves. Even if it is only a playful experiment, this idea raises questions about the future of work and the abilities of AIs, which, according to the article, do not have autonomous will. L’article Rentahuman.ai: the website where AIs employ humans est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/23/rentahuman-ai-the-website-where-ais-employ-humans/",
+      "pubDate": "2026-09-23T10:00:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-23-2026-10_28_44-AM-1024x566.png",
+      "type": "blog"
+    },
+    {
+      "id": "3976465e6554",
+      "title": "The Hidden Side of Vibe Coding",
+      "description": "Vibe coding, promoted by AI companies, appears to simplify application development, but this ease is deceptive. While the tools allow for rapid creations, building ambitious projects requires patience and skills. This new entrepreneurial paradigm demands versatility and tenacity, a reality often embellished by its promoters. L’article The Hidden Side of Vibe Coding est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/23/the-hidden-side-of-vibe-coding/",
+      "pubDate": "2026-09-23T09:53:45.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1790169625085-1024x595.png",
+      "type": "blog"
+    },
+    {
       "id": "940e74602cb6",
       "title": "Le Schleswig-Holstein vire (presque) Windows de sa chancellerie",
       "description": "Plus de 200 agents de la chancellerie du Schleswig-Holstein bossent désormais sous Linux. Reste une vingtaine de postes Windows, et 30 000 agents à suivre.",
@@ -65,6 +137,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
       "duration": "52:07"
+    },
+    {
+      "id": "6be2d3f85436",
+      "title": "On a rendu Double Slash 100 % Agent Ready, et voilà comment",
+      "description": "Votre site est-il prêt pour les agents IA ? On a tout implémenté sur le podcast, on explique pourquoi et comment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/agent-ready/",
+      "link": "https://double-slash.dev/podcasts/agent-ready/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1790161315/episode/ART_141_unbyjg.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_141_agent-ready.mp3",
+      "duration": "3115"
+    },
+    {
+      "id": "0905ecc3a3f2",
+      "title": "Utilisez le produit que vous construisez",
+      "description": "Il existe une pratique que j’apprécie particulièrement et qui reste pour moi le meilleur moyen de repérer les problèmes d’un produit, se nomme le “dog fooding”. Elle consiste à utiliser ses propres produits et services. C’est malheureusement une pratique que je vois trop peu utilisée. Et encore plus avec l’usage de l’IA où les développeurs font plus facilement confiance au code et aux tests générés. Les équipes de développement ont tendance à rester focus sur le code et à ne plus ouvrir…",
+      "link": "https://www.jdecool.fr/blog/2026/09/23/utilisez-le-produit-que-vous-construisez.html",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "e535556d8428",
