@@ -2,6 +2,48 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "34692efacd3b",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "pubDate": "2026-09-24T16:20:39.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "280bf64dcca7",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "pubDate": "2026-09-24T14:08:57.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/WgfT8N8Xyb6lBxSif7XLO.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c4f6b71acc49",
+      "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "description": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "link": "https://www.anthropic.com/research/project-swap",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/98a29c28bc80505540f64da96f899288b380fbf0-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "30aa7c0acfe7",
       "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "description": "",

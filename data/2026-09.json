@@ -2,6 +2,148 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "27f08fc22b3d",
+      "title": "Nantes Craft 2026",
+      "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
+      "link": "https://blog.ippon.fr/2026/09/25/nantes-craft-2026/",
+      "pubDate": "2026-09-25T08:24:09.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/PXL_20260910_133655569.MP.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "09ab0f9f65a5",
+      "title": "MACI #165 - Du vibe coding au design produit - Avec Ivan Dalmet",
+      "description": "Dans ce nouvel épisode de Message à Caractère Informatique, on part d’un constat simple : l’IA permet de coder beaucoup plus vite, mais elle ne permet pas forcément de savoir plus vite quoi coder. Avec Ivan Dalmet, CTO de Peinture.app et cofondateur de BearStudio, on parle donc design produit, prototypage, spécifications et collaboration entre designers, développeurs et équipes produit. Et puis, comme à notre habitude, la discussion va vite s’étendre… des bonnes pratiques pour concevoir une…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-165-du-vibe-coding-au-design-produit-avec-ivan-dalmet",
+      "pubDate": "2026-09-25T07:49:37.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://image.ausha.co/Ie9s0ceVHVFN027rLcjucEo6hCwlsCjT1jB1059t_1400x1400.jpeg?t=1790322577",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/yEVj6hEA6Ekz.mp3?t=1790322130",
+      "duration": "1:01:54"
+    },
+    {
+      "id": "1f3348b533f3",
+      "title": "Une IA a terminé NetHack de justesse !",
+      "description": "Le 21 septembre, GPT-6 Astra a gagné une partie de NetHack sur le serveur Hardfought, au troisième essai. Avant ça, une mort par slime au niveau 51 et un rayon de mort au Château. Récit des trois parties, et de ce que cette victoire ne prouve pas.",
+      "link": "https://korben.info/ia-termine-nethack.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-25T07:27:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ia-termine-nethack/ia-termine-nethack-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "031102da6493",
+      "title": "#349.exe - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? par Salim Gomri",
+      "description": "Pour l'épisode #349 je recevais Sébastien Deleuze. On en débrief avec Salim. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-2f37f1e68483",
+      "pubDate": "2026-09-25T03:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/27d8368d-1a7d-4b00-ad17-2f37f1e68483.mp3?_=1790251261",
+      "duration": "15:37"
+    },
+    {
+      "id": "c039a1004115",
+      "title": "Que faire avec un port M.2 libre ? 6 gadgets à y brancher à la place d'un SSD",
+      "description": "Un port M.2 libre, c'est une prise PCIe. Carte réseau 5 ou 10 GbE, Hailo-8 pour Frigate, eGPU en OCuLink, USB-C, SATA ou Wi-Fi 6E : quoi y brancher, et quoi vérifier avant.",
+      "link": "https://korben.info/port-m2-libre-cartes-autres-que-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T13:26:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/port-m2-libre-cartes-autres-que-ssd/port-m2-libre-cartes-autres-que-ssd-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1faf19e360a7",
+      "title": "Comment Kozykod révolutionne les applications d’entreprise grâce au no-code",
+      "description": "Dans cet épisode de B2Biz, Michael Delvoye, fondateur de Misyl et de Kozykod, discute de l'automatisation des processus métiers, des solutions No-code et Low-code, et de la souveraineté des données. Il explique comment Kozykod améliore la productivité en remplaçant les systèmes Excel critiques, tout en intégrant l'intelligence artificielle. L’article Comment Kozykod révolutionne les applications d’entreprise grâce au no-code est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/24/comment-kozykod-revolutionne-les-applications-dentreprise-grace-au-no-code/",
+      "pubDate": "2026-09-24T13:11:24.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1790255046789-e1790255090972.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f5159b103c6",
+      "title": "Surfshark ne vous rend pas invisible, mais il peut changer le décor",
+      "description": "Comment Surfshark modifie l'adresse IP visible par les sites, avec rotation d'IP, exclusion d'apps via Bypasser et filtrage publicitaire CleanWeb.",
+      "link": "https://korben.info/surfshark-ne-vous-rend-pas-invisible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T09:23:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/surfshark-ne-vous-rend-pas-invisible/surfshark-ne-vous-rend-pas-invisible-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "43a8db27dc68",
+      "title": "Openpilot - La NHTSA passe les boîtiers de Comma au crible",
+      "description": "La NHTSA a ouvert le 21 septembre une enquête préliminaire sur les boîtiers de comma et sur openpilot, après cinq accidents contre des véhicules arrêtés ou lents, dont deux mortels. Les rapports montrent un fork, un régulateur Honda et openpilot 0.11, et l'agence évaluera aussi les garde-fous du système.",
+      "link": "https://korben.info/comma-openpilot-enquete-nhtsa.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T06:06:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/comma-openpilot-enquete-nhtsa/comma-openpilot-enquete-nhtsa-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "97f2ee84c17b",
+      "title": "Claude Code vous fait choisir entre vie privée et AGENTS.md",
+      "description": "Depuis la 2.1.277, Claude Code lit les fichiers AGENTS.md, sauf si vous avez coupé sa télémétrie. La fonction dépend d'un feature flag récupéré chez Anthropic, et sans lui le fichier saute sans prévenir, runners de CI compris. Un CLAUDE.md d'une ligne, @AGENTS.md, posé à côté règle le problème.",
+      "link": "https://korben.info/claude-code-agents-md-telemetrie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-24T05:49:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-code-agents-md-telemetrie/claude-code-agents-md-telemetrie-1.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5b5220611151",
       "title": "Jev, la nouvelle IA ultra-performante",
       "description": "Le 15 septembre, TypeSafe Ai sa première IA fonctionnant avec un One System Model: Jev. En voici un aperçu. L’article Jev, la nouvelle IA ultra-performante est apparu en premier sur OlivierSauvage.com.",
