@@ -2,6 +2,34 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "9de028fbe46c",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "link": "https://openai.com/index/proaction",
+      "pubDate": "2026-09-25T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2ZDFcePalT1BpkNxHdwpnS/521705b27328ebf7f7449136dcd428c2/proaction-option-a-seo-og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e49faaf95243",
+      "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "description": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2ed453f8c87d2166b09940a859cd193b29678a88-3840x2160.png",
+      "type": "blog"
+    },
+    {
       "id": "34692efacd3b",
       "title": "Introducing Gemini 3.8 Live with Live Avatar",
       "description": "",
