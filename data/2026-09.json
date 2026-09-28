@@ -2,6 +2,64 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "721b986d2d35",
+      "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
+      "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid organisational culture that limits employee initiative. L’article AI in B2 SMEs: Artificial Intelligence, the bane of bosses? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/28/ai-in-b2-smes-artificial-intelligence-the-bane-of-bosses/",
+      "pubDate": "2026-09-28T09:30:41.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/ChatGPT-Image-28-sept.-2026-11_26_55-1024x569.png",
+      "type": "blog"
+    },
+    {
+      "id": "1e9ac6033968",
+      "title": "Paperasse - Des skills IA pour votre compta et vos impôts",
+      "description": "Paperasse transforme Claude Code, Codex ou Cursor en expert-comptable, fiscaliste ou notaire. Testé sur une société et un foyer fictifs, il catégorise un relevé, refuse une facture incomplète et compare PFU et barème. Mais six correctifs de barème attendent encore d'être fusionnés.",
+      "link": "https://korben.info/paperasse-skills-ia-comptabilite-francaise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-28T09:26:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/paperasse-skills-ia-comptabilite-francaise/paperasse-skills-ia-comptabilite-francaise-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6a48e61f7d17",
+      "title": "Votre vieux Nokia 6300 sait maintenant parler à Claude",
+      "description": "Claude S40 fait discuter un Nokia 6300 de 2007 avec Claude, recherche web comprise, grâce à un petit serveur Go que vous hébergez vous-même avec votre propre autorité de certification. Chaque message est facturé sur votre clé API, et chez Orange, la 2G du téléphone aura disparu de toute la métropole le 20 octobre.",
+      "link": "https://korben.info/claude-s40-nokia-6300.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-28T08:42:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/claude-s40-nokia-6300/claude-s40-nokia-6300-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "56714977843c",
+      "title": "Relation client, aide à l’achat,vente : reprendre le contrôle de vos chatbots",
+      "description": "Les chatbots, initialement perçus comme une solution idéale pour le service client, peuvent engendrer des problèmes imprévus, comme des conseils erronés ou des recommandations non sollicitées. Les entreprises doivent analyser et améliorer leur fonctionnement, tout en exploitant les échanges clients pour créer un contenu pertinent et répondre efficacement aux besoins. L’article Relation client, aide à l’achat,vente : reprendre le contrôle de vos chatbots est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/09/28/relation-client-aide-a-lachatvente-reprendre-le-controle-de-vos-chatbots/",
+      "pubDate": "2026-09-28T07:03:46.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/Image-ChatGPT-28-sept.-2026-09_02_49-1024x576.png",
+      "type": "blog"
+    },
+    {
       "id": "5f8c5260c555",
       "title": "FrankenDeploy : votre application Symfony en production sur un VPS, en cinq commandes",
       "description": "Docker, pare-feu, certificat HTTPS, mise en ligne sans coupure : l'essentiel de ce qui sépare « ça marche en local » de « c'est en ligne », FrankenDeploy s'en charge. Démonstration avec la Symfony Demo, d'un VPS nu jusqu'au HTTPS.",

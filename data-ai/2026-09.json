@@ -2,6 +2,20 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "09d1d26fa19d",
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/Hcompany/holo4",
+      "pubDate": "2026-09-28T09:44:05.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "9de028fbe46c",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
