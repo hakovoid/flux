@@ -2,6 +2,182 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "355e29dc4064",
+      "title": "PipePipe - Un fork de NewPipe qui zappe les pubs",
+      "description": "PipePipe, un fork de NewPipe pour Android, intègre SponsorBlock pour sauter les passages sponsorisés, ce que NewPipe refuse, ainsi que le compteur de pouces baissés et le filtrage des Shorts. Si votre DNS bloque googleapis.com ou google.com, la lecture YouTube échoue : il faut autoriser ces deux domaines. Quant à Tubular, l'autre fork qui ajoutait SponsorBlock, il est à l'arrêt.",
+      "link": "https://korben.info/pipepipe-fork-newpipe-youtube-android.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T07:06:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pipepipe-fork-newpipe-youtube-android/pipepipe-fork-newpipe-youtube-android-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f075ec23a96e",
+      "title": "PS5 - Streamer sur Discord sans carte d'acquisition",
+      "description": "Yash Garg fait croire à sa PS5 que son Mac est le serveur de Twitch : un DNS maison détourne le flux vidéo de la console vers son ordinateur, qui le passe sur Discord sans carte d'acquisition. L'astuce ne marche pas avec YouTube, et son billet, en anglais, détaille toute la configuration.",
+      "link": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T05:44:22.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition/ps5-streamer-sur-discord-sans-carte-acquisition-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b2a31e008f21",
+      "title": "PMania 6/6 - Du prompt au produit : votre premier workflow IA de bout en bout",
+      "description": "Cinq épisodes pour comprendre l'IA, un seul pour l'assembler. Des retours bruts jusqu'au sprint validé, en passant par la synthèse, les user stories et les tickets : voici le workflow complet, avec deux points d'arrêt humains bien placés, pour de vrai, de bout en bout.",
+      "link": "https://blog.octo.com/pmania-66-du-prompt-au-produit--votre-premier-workflow-ia-de-bout-en-bout",
+      "pubDate": "2026-09-28T20:13:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a51a111d0bb7",
+      "title": "PMania 5/6 - Apprendre à l'IA les règles de la maison : les skills",
+      "description": "On ne redonne pas les codes de la maison à chaque réunion à un nouveau collègue, on lui remet un livret d'accueil une bonne fois pour toutes. C'est exactement le rôle d'un skill pour une IA. Sauf que l'arrivant, cette fois, est un assistant, et il faut lui écrire ce livret.",
+      "link": "https://blog.octo.com/pmania-56-apprendre-a-l'ia-les-regles-de-la-maison--les-skills",
+      "pubDate": "2026-09-28T20:12:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ea870ab8c9de",
+      "title": "PMania 3/6 - Ces nouveaux collègues qui n'attendent plus vos ordres : comprendre les agents IA",
+      "description": "Un chatbot répond. Un agent agit, et prend des décisions sans repasser par vous à chaque étape. Comprendre la boucle qui le fait tourner, raisonner, agir, observer, reboucler, c'est comprendre ce que ça change de déléguer à quelqu'un qui n'attend plus vos ordres.",
+      "link": "https://blog.octo.com/pmania-36-ces-nouveaux-collegues-qui-n'attendent-plus-vos-ordres--comprendre-les-agents-ia",
+      "pubDate": "2026-09-28T20:10:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0527c7617282",
+      "title": "PMania 4/6 - Piloter un agent au quotidien : specs, evals, sécurité",
+      "description": "Un email piégé, une instruction cachée dans une signature, un agent qui obéit sans distinguer donnée et consigne : c'est la prompt injection, et elle est bien réelle. Comment rédiger le contrat comportemental d'un agent, avec des evals, du MCP et de vraies limites.",
+      "link": "https://blog.octo.com/pmania-46-piloter-un-agent-au-quotidien--specs-evals-securite",
+      "pubDate": "2026-09-28T20:10:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "fc2c801860ea",
+      "title": "PMania 2/6 - Votre backlog a gagné un coéquipier : quand l'IA sort du chat et entre dans vos dossiers",
+      "description": "Chat sans mémoire, assistant qui connaît votre produit, agent qui bosse dans vos dossiers, système multi-agents : quatre paliers, pas quatre options au menu. À quel niveau en êtes-vous vraiment, et qu'est-ce qui change quand l'IA sort enfin de la fenêtre de chat ?",
+      "link": "https://blog.octo.com/pmania-26-votre-backlog-a-gagne-un-coequipier--quand-l'ia-sort-du-chat-et-entre-dans-vos-dossiers",
+      "pubDate": "2026-09-28T20:07:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "52d38f73bba1",
+      "title": "PMania 1/6 - Bienvenue dans l’ère du PM augmenté par l’IA : ce qu’un vrai PM doit savoir (et faire)",
+      "description": "Une session de priorisation bouclée en 15 minutes au lieu de 30, sans rien bâcler : juste déléguer la corvée et garder la décision. Entre 88% des entreprises qui utilisent déjà l'IA au quotidien et des garde-fous qui ne suivent pas toujours, voici ce qu'un vrai PM doit savoir, et faire, en 2026.",
+      "link": "https://blog.octo.com/pmania-16-bienvenue-dans-l'ere-du-pm-augmente-par-l'ia--ce-qu'un-vrai-pm-doit-savoir-(et-faire)-1",
+      "pubDate": "2026-09-28T20:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e211d104bb2",
+      "title": "DHH has gone completely off the rails...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
+      "pubDate": "2026-09-28T19:27:59.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0ec89a0d1073",
+      "title": "Customer relations, purchase assistance, sales: regaining control of your chatbots",
+      "description": "Chatbots, initially perceived as an ideal solution for customer service, can generate unforeseen problems, such as erroneous advice or unsolicited recommendations. Companies must analyze and improve their operation, while leveraging customer interactions to create relevant content and effectively meet needs. L’article Customer relations, purchase assistance, sales: regaining control of your chatbots est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/28/customer-relations-purchase-assistance-sales-regaining-control-of-your-chatbots/",
+      "pubDate": "2026-09-28T13:25:26.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/ChatGPT-Image-28-sept.-2026-14_13_11-1024x577.png",
+      "type": "blog"
+    },
+    {
+      "id": "ff41391a0145",
+      "title": "ArseneLupin - Le JEV Like d'Ibou qui décide au lieu de bavarder",
+      "description": "Ibou publie ArseneLupin, trois modèles ouverts qui répondent à vos questions par oui, non, un choix ou une note, avec des probabilités, sur la même forme de requête que Jev. Installation sur Mac, tri de veille et modération en français, et ce que valent vraiment ces chiffres.",
+      "link": "https://korben.info/arsenelupin-modele-de-decision-local-ibou.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-28T10:54:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arsenelupin-modele-de-decision-local-ibou/arsenelupin-modele-de-decision-local-ibou-2.png",
+      "type": "blog"
+    },
+    {
       "id": "721b986d2d35",
       "title": "AI in B2 SMEs: Artificial Intelligence, the bane of bosses?",
       "description": "Many people feel lost when faced with omnipresent AI tools, unable to benefit from them. Although these technologies have a big potential of boosting productivity, their incorporation into businesses is hampered by managerial resistance and fears. The transformation is slowed by a rigid organisational culture that limits employee initiative. L’article AI in B2 SMEs: Artificial Intelligence, the bane of bosses? est apparu en premier sur OlivierSauvage.com.",
