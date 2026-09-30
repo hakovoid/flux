@@ -2,6 +2,163 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "29d1a4d80d89",
+      "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
+      "description": "Numérique responsable et souveraineté numérique sont parfois traité séparément, alors qu'ils reposent sur une même logique décrite dans deux vocabulaires distincts. Tous deux refusent le même réflexe : faire payer ailleurs, ou plus tard, le prix de ce qu'on décide ici et maintenant. Et ces deux agendas peuvent être un levier l'un pour l'autre.",
+      "link": "https://blog.octo.com/ce-que-le-numerique-responsable-doit-a-l'autonomie-strategique-(et-reciproquement)",
+      "pubDate": "2026-09-30T09:01:32.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "80da6d11fe76",
+      "title": "Comment la douane allemande arrive à lire les messages Signal, Whatsapp et Telegram",
+      "description": "La douane allemande lit WhatsApp, Signal et Telegram en liant un ordinateur au compte de la cible. Ce que la justice en dit, et ce que vous pouvez vérifier.",
+      "link": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T08:36:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/police-allemande-appareil-lie-whatsapp-signal/police-allemande-appareil-lie-whatsapp-signal-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e9491ff5e423",
+      "title": "Générer son UI avec l'IA : intégrer GenUI et Firebase AI Logic dans une app Flutter",
+      "description": "Et si l'interface de votre application n'était plus figée dans le code, mais générée à la volée par un modèle d'IA en fonction de la conversation avec l'utilisateur ? C'est la promesse de la generative UI (GenUI).",
+      "link": "https://blog.ippon.fr/2026/09/30/generer-son-ui-avec-lia-integrer-genui-et-firebase-ai-logic-dans-une-app-flutter/",
+      "pubDate": "2026-09-30T07:53:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/ChatGPT-Image-23-sept.-2026--15_37_47.png",
+      "type": "blog"
+    },
+    {
+      "id": "fcd177971bcb",
+      "title": "SlopTotal - Un détecteur de texte IA à installer chez vous",
+      "description": "SlopTotal réunit 23 détecteurs de texte IA dans un service qui tourne chez vous, mais le docker run du README échoue sur un Mac Apple Silicon : il faut passer par un docker compose. Sur 36 textes testés, son verdict se trompe dans les deux sens.",
+      "link": "https://korben.info/sloptotal-detecteur-texte-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T07:45:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/sloptotal-detecteur-texte-ia-local/sloptotal-detecteur-texte-ia-local-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "719075809e58",
+      "title": "Exodium - Les jeux DOS d'eXo enfin jouables sur Mac",
+      "description": "Exodium fait tourner les collections eXo (DOS, Windows 3.x et 9x, ScummVM) sur un Mac Apple Silicon, où eXo ne tourne pas officiellement, et sur Linux. Pas besoin de télécharger la collection d'avance : chaque jeu arrive par torrent au clic. Deux concessions à connaître, côté DOSBox ECE et côté partage BitTorrent.",
+      "link": "https://korben.info/exodium-lanceur-exodos-linux-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T05:18:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/exodium-lanceur-exodos-linux-macos/exodium-lanceur-exodos-linux-macos-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8b3e755e8302",
+      "title": "#378.ad - Renforcer la donnée: La donnée, grande oubliée du multicloud avec Christophe Francois",
+      "description": "\"Aujourd'hui, tout le monde s'enorgueillit de faire du cloud native, mais qui pense vraiment à construire sa sauvegarde et à restaurer ses données partout, et soit vraiment partout ?\" Le D.E.V. de la semaine est Christophe François, Directeur des ventes Europe du Sud chez Veeam, en charge de l'offre de sauvegarde Kasten. Dans cet épisode, nous explorons pourquoi la donnée reste le grand oublié des stratégies multicloud et comment repenser la sauvegarde à l'ère de Kubernetes. Christophe nous…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-378-faec7756bbd7",
+      "pubDate": "2026-09-30T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/b1ae5438-5035-49c3-acc2-201f0df8da9e.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
+      "duration": "51:07"
+    },
+    {
+      "id": "ea6c545dfffb",
+      "title": "DLSS 5 sur Radeon, ça fonctionne",
+      "description": "DLSS-NR on AMD fait tourner le Neural Rendering du DLSS 5 sur une Radeon RX 9000, mais il faut fournir soi-même une DLL Nvidia et faire confiance à un exécutable fermé. XDA mesure une chute de 90 à moins de 20 FPS en 4K, contre 60 FPS en 1080p.",
+      "link": "https://korben.info/dlss-5-radeon-mod.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T10:50:18.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dlss-5-radeon-mod/dlss-5-radeon-mod-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "7c2bac369af6",
+      "title": "NESCD - Un lecteur CD pour la NES",
+      "description": "Throaty Mumbo a branché un lecteur CD à une NES : le jeu se lit sur le disque, puis démarre via une Everdrive. Le dépôt est en MIT, mais sans le Mario de la vidéo.",
+      "link": "https://korben.info/nescd-lecteur-cd-nes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T10:39:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5715324005429614915_hu_88e26937ccd1c931.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c448ab841355",
+      "title": "Conteneurs Linux - Quand l'isolation ne tient plus",
+      "description": "La société de sécurité depthfirst juge qu'il faut désormais supposer qu'un attaquant sait sortir d'un conteneur quand il veut, l'IA ayant fait chuter le prix d'entrée. Sa parade, les microVM, réduit la surface d'attaque sans l'annuler : Firecracker s'appuie encore sur KVM.",
+      "link": "https://korben.info/conteneurs-linux-ne-sont-plus-une-barriere.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T10:38:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/conteneurs-linux-ne-sont-plus-une-barriere/conteneurs-linux-ne-sont-plus-une-barriere-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0bd0229ace74",
+      "title": "Quand Mario 64 tourne sur une vraie Super Nintendo",
+      "description": "Tobi fait tourner quelques niveaux de Super Mario 64 sur une vraie Super Nintendo, grâce à un moteur maison et à la puce Super FX. Rien n'est encore téléchargeable, les niveaux doivent tenir dans 2 Mo, et « Super Mario FX » était, d'après Dylan Cuthbert, le nom de code de la puce.",
+      "link": "https://korben.info/super-mario-64-snes-super-fx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-29T10:06:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_5922858766072229187_hu_8e724a395c343f6a.webp",
+      "type": "blog"
+    },
+    {
       "id": "355e29dc4064",
       "title": "PipePipe - Un fork de NewPipe qui zappe les pubs",
       "description": "PipePipe, un fork de NewPipe pour Android, intègre SponsorBlock pour sauter les passages sponsorisés, ce que NewPipe refuse, ainsi que le compteur de pouces baissés et le filtrage des Shorts. Si votre DNS bloque googleapis.com ou google.com, la lecture YouTube échoue : il faut autoriser ces deux domaines. Quant à Tubular, l'autre fork qui ajoutait SponsorBlock, il est à l'arrêt.",
@@ -29,6 +186,23 @@
         "Web"
       ],
       "image": "https://korben.info/ps5-streamer-sur-discord-sans-carte-acquisition/ps5-streamer-sur-discord-sans-carte-acquisition-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dbfa0667a0e3",
+      "title": "Mon second cerveau, pour moi et pour mes agents : Obsidian alimenté par Claude Code",
+      "description": "Je n'écris plus mes notes, je les dicte. Claude les range dans Obsidian, les retrouve dans n'importe quelle session, depuis mon téléphone comme depuis mon ordinateur. Retour sur un second cerveau alimenté par l'IA, sans usine à gaz.",
+      "link": "https://yoandev.co/second-cerveau-ia-obsidian-claude",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/second-cerveau-ia-obsidian-claude.webp",
       "type": "blog"
     },
     {
@@ -146,6 +320,22 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae7d66e30a56",
+      "title": "Auto-unseal d'OpenBao avec le KMS d'OVHcloud",
+      "description": "Sceller la root key d'OpenBao avec une clé AES-256 qui ne quitte jamais le KMS d'OVHcloud, via le seal KMIP intégré",
+      "link": "https://une-tasse-de.cafe/expresso/openbao-unseal-ovh-kms/",
+      "pubDate": "2026-09-28T16:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": "https://une-tasse-de.cafe/android-chrome-512x512.png",
       "type": "blog"
     },
     {
