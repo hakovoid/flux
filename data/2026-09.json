@@ -2,6 +2,95 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "fcfe664c0a5e",
+      "title": "Did a 50 year old military secret just solve agent prompt injection?",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "pubDate": "2026-09-30T17:16:43.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0d7de4531005",
+      "title": "Test de la batterie externe Ugreen MagFlow Pro avec son refroidissement liquide visible",
+      "description": "Ugreen MagFlow Pro : batterie 10 000 mAh avec refroidissement liquide CryoPulse visible, Qi2 25 W, câble USB-C 45 W intégré, 220 g, 105,99 euros.",
+      "link": "https://korben.info/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T15:27:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible/test-de-la-batterie-externe-ugreen-magflow-pro-avec-son-refroidissement-liquide-visible-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ac6067520147",
+      "title": "Trafic IA : ce que les nouvelles conversions e-commerce nous apprennent pour le B2B",
+      "description": "Une étude de Shero Commerce révèle que les commandes issues des assistants IA ont presque triplé, tandis que le trafic est resté stable. Cela souligne un changement dans le parcours d'achat, où les visiteurs arrivent souvent mieux informés et près de la décision. Les entreprises doivent adapter leurs contenus pour répondre à ces nouvelles attentes. L’article Trafic IA : ce que les nouvelles conversions e-commerce nous apprennent pour le B2B est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/09/30/trafic-ia-ce-que-les-nouvelles-conversions-e-commerce-nous-apprennent-pour-le-b2b/",
+      "pubDate": "2026-09-30T15:17:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/09/media-gen-1790780960601-e1790781046828.png",
+      "type": "blog"
+    },
+    {
+      "id": "735650bec4ad",
+      "title": "Relapse - Le jailbreak qui libère presque toutes les PS5",
+      "description": "L'exploit Relapse débloque l'homebrew sur les PS5 restées en firmware 7.00 à 13.60, mais l'accès reste volatile et déjà refermé sur la 14.00.",
+      "link": "https://korben.info/ps5-jailbreak-relapse.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T15:02:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ps5-jailbreak-relapse/ps5-jailbreak-relapse-1_hu_f0b3a1aaf866c7b7.png",
+      "type": "blog"
+    },
+    {
+      "id": "e0ec7204fcb9",
+      "title": "Mettre en place un SSO sur l'admin Django",
+      "description": "django_pyoidc.",
+      "link": "https://makina-corpus.com/django/mettre-en-place-un-sso-sur-ladmin-django",
+      "pubDate": "2026-09-30T13:19:39.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4ba41753b449",
+      "title": "HaloBattery - Suivez le niveau de batterie de tous vos périphériques",
+      "description": "HaloBattery affiche dans la zone de notification de Windows le niveau de batterie de chaque souris, casque ou manette, dongles 2,4 GHz compris, sans logiciel constructeur. L'exe n'est pas signé et Defender l'a déjà signalé deux fois à tort.",
+      "link": "https://korben.info/halobattery-batterie-peripheriques-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-09-30T09:55:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/halobattery-batterie-peripheriques-windows/halobattery-batterie-peripheriques-windows-2.png",
+      "type": "blog"
+    },
+    {
       "id": "29d1a4d80d89",
       "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
       "description": "Numérique responsable et souveraineté numérique sont parfois traité séparément, alors qu'ils reposent sur une même logique décrite dans deux vocabulaires distincts. Tous deux refusent le même réflexe : faire payer ailleurs, ou plus tard, le prix de ce qu'on décide ici et maintenant. Et ces deux agendas peuvent être un levier l'un pour l'autre.",
@@ -97,6 +186,36 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
       "duration": "51:07"
+    },
+    {
+      "id": "487b40d5d30e",
+      "title": "Rails est-il vraiment fini ?",
+      "description": "DHH reconstruit HEY sans Rails, Lucas Dohmen le déclare terminé. Moi, je trouve qu'il reste plein de choses à faire.",
+      "link": "https://michaelbensoussan.com/posts/rails-est-il-fini/",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Michael Bensoussan",
+      "sourceUrl": "https://michaelbensoussan.com/posts/index.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://michaelbensoussan.com/images/posts/rails-est-il-fini.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c267541eff6d",
+      "title": "Un résumé ne remplace pas la lecture",
+      "description": "Je vois un phénomène se répandre au fil des années : les résumés de résumés. Et cela m’attriste, car j’ai cette réelle impression que plus personne ne prend le temps de parcourir des sujets en profondeur. C’est une tendance de fond. Très peu de personnes prennent le temps de lire des livres de référence sur les thématiques qui les intéressent ou qu’elles explorent. On préfère assister à une conférence, regarder une vidéo, un tuto YouTube ou lire un article de blog. Tous ces formats condensent…",
+      "link": "https://www.jdecool.fr/blog/2026/09/30/un-resume-ne-remplace-pas-la-lecture.html",
+      "pubDate": "2026-09-29T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "ea6c545dfffb",

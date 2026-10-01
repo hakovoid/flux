@@ -2,6 +2,104 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "ce56aa83d006",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "description": "",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "pubDate": "2026-09-30T20:01:45.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "63e9a822faf5",
+      "title": "Forecasting space weather risks on power grids",
+      "description": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "pubDate": "2026-09-30T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c696e8b1f342",
+      "title": "Introducing SynthID Bio",
+      "description": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "pubDate": "2026-09-30T15:03:07.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90249c2a3882",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "pubDate": "2026-09-30T10:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7MP5Bq8wKRpAAnnhqfdA8o/3ca1f00ae7ec16c5a569eb6195e24c90/disrupting-a-coordinated-model-distillation-campaign-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "061338e668ed",
+      "title": "Helping small businesses put AI to work",
+      "description": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "pubDate": "2026-09-30T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1rewZcU5SqdsiUKj7Q6fCx/e82271bc1df80e3f2d5f9cfcd82a91fa/helping-small-businesses-put-ai-to-work-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "74c2ff7e2707",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/open-tts-leaderboard/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce43ddffc7da",
+      "title": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "description": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "link": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "dc53fce90c6f",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "description": "",

@@ -1,0 +1,19 @@
+{
+  "month": "2026-10",
+  "articles": [
+    {
+      "id": "c08402b8f22a",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "description": "Barclays scales Claude to upgrade operations and improve client experience",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    }
+  ]
+}
