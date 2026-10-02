@@ -2,6 +2,62 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "56c490db0401",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "pubDate": "2026-10-02T04:01:31.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/68642da9885da181fde1ad70/8kSzlHLOdu5hchCtPnK8D.png",
+      "type": "blog"
+    },
+    {
+      "id": "b8087b88cb63",
+      "title": "The eternal complement",
+      "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "pubDate": "2026-10-01T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2lnidMsGW3gfP6p4fYJZTg/be8ebadd2bf9e9d83adea7a6f28f0501/eternal-complement-seo-white-preview.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "637d3dfa247f",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6sZopZBu8aHeeYeb8H6IS1/945a5ed2fcd3a837554c8ac49a38cdf6/how-albertsons-companies-is-reimagining-retail-from-the-inside-out-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f928531f9637",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "pubDate": "2026-10-01T15:01:43.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/uKnK93gjkKbmJmSx94WO2.png",
+      "type": "blog"
+    },
+    {
       "id": "c08402b8f22a",
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "description": "Barclays scales Claude to upgrade operations and improve client experience",
@@ -13,6 +69,34 @@
         "IA"
       ],
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2167384f51e2",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "link": "https://openai.com/index/the-den-family-social",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2LBeQvZxob9E44kvUBuP4u/bf9887c20e840ecd0362d8e93e98c31d/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0a1a9915f1bf",
+      "title": "Oct 1, 2026ScienceClaude-shaped science",
+      "description": "Oct 1, 2026ScienceClaude-shaped science",
+      "link": "https://www.anthropic.com/research/claude-shaped-science",
+      "pubDate": "2026-10-01T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/5dca367673e615ac7abbbdac9f44733d1f52638a-2000x1125.jpg",
       "type": "blog"
     }
   ]
