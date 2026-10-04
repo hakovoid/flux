@@ -2,6 +2,51 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8f55bc7e4163",
+      "title": "Aller en manif avec son téléphone - Les bons réflexes",
+      "description": "Les lycéens s'organisent sur Snapchat, Instagram, WhatsApp et Telegram. Voici ce que les guides de la LDH, d'XR, de la CGT et d'Amnesty conseillent d'installer et de régler avant de manifester, de Signal au verrouillage express, et pourquoi un code ne permet pas de refuser une réquisition.",
+      "link": "https://korben.info/applications-aller-en-manif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-03T15:08:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/applications-aller-en-manif/applications-aller-en-manif-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "34a19ab03015",
+      "title": "56k.rip - Expérimentez le web comme en 1996",
+      "description": "56k.rip simule dans le navigateur une connexion par modem de 1996, avec un faux fournisseur d'accès à explorer. Lors de mon essai, la même page de photos a affiché 27 secondes en 56K contre 46 en 28.8.",
+      "link": "https://korben.info/56k-rip-simulateur-modem-rtc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-03T14:00:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/56k-rip-simulateur-modem-rtc/56k-rip-simulateur-modem-rtc-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d035d7ba925e",
+      "title": "Virtual Mac - Faites tourner macOS sur un iPad (jailbreaké)",
+      "description": "Virtual Mac on iPad fait démarrer macOS dans une machine virtuelle sur un iPad M1 ou M2 jailbreaké. Mais il exige iPadOS 16.3.1 au maximum, une version qu'Apple ne signe plus sur aucun de ces iPad.",
+      "link": "https://korben.info/virtualmac-ipad-macos-virtualise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-03T13:37:11.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/virtualmac-ipad-macos-virtualise/virtualmac-ipad-macos-virtualise-2.png",
+      "type": "blog"
+    },
+    {
       "id": "e81d4c1e5261",
       "title": "Tunnels HTTP auto-hébergés avec SSH et nginx",
       "description": "Un ami veut relire votre article de blog en cours de rédaction, mais sa prévisualisation ne tourne que sur . peuvent aider. Certains sont des services commerciaux, comme ou . D’autres peuvent être auto-hébergés, mais exigent un client dédié, comme ou . D’autres encore se contentent d’un simple client SSH, mais reposent sur un serveur SSH spécifique, comme . Voyons comment mettre en place une solution auto-hébergée avec juste et !localhost:8080Plusieurs outilsngrokCloudflare Quick…",
@@ -45,6 +90,38 @@
         "Web"
       ],
       "image": "https://korben.info/cpu-occasion-ban-valorant/cpu-occasion-ban-valorant-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8c4a2817c8bb",
+      "title": "Dix pannes, dix bascules : le premier banc haute disponibilité de Maintenant sur OpenSVC",
+      "description": "Dans le bilan de mai à août, j’annonçais le chantier haute disponibilité du programme Hyper Open X : Maintenant devient un service OpenSVC sur deux nœuds, avec une adresse de service qui suit l’instance active et une bascule automatique quand ce nœud tombe. Je parlais aussi d’un banc d’essai, deux nœuds, un arbitre de quorum, un WAN simulé et des scénarios de panne rejouables, alors encore en conception. Le banc existe maintenant. Le 2 octobre, il a joué les dix scénarios de panne applicables…",
+      "link": "https://kolapsis.com/blog/maintenant-ha-opensvc-premier-banc/",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": "https://kolapsis.com/img/maintenant-ha-hero.png",
+      "type": "blog"
+    },
+    {
+      "id": "7b9d17b82a82",
+      "title": "EmDash, le « successeur de WordPress » piloté par un agent IA",
+      "description": "Cloudflare a sorti EmDash 1.0, un CMS open source pensé dès le départ pour être piloté par des agents IA. Ce qu'il est (et n'est pas) pour un utilisateur WordPress, puis six prompts pour monter un blog tech, le mettre en ligne et le piloter depuis Claude via MCP.",
+      "link": "https://yoandev.co/emdash-cms-blog-agent-ia",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/emdash-cms-blog-agent-ia.webp",
       "type": "blog"
     },
     {

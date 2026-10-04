@@ -2,6 +2,20 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "bd1136d0fcfd",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "pubDate": "2026-10-03T22:56:48.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png",
+      "type": "blog"
+    },
+    {
       "id": "c38af6e5cae4",
       "title": "A model guide for the GPT-6 family",
       "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
