@@ -44,6 +44,20 @@
       "type": "blog"
     },
     {
+      "id": "71d32479e41a",
+      "title": "Spaces: A CLI Built for Humans and Agents",
+      "description": "Spaces: A CLI Built for Humans and Agents",
+      "link": "https://mistral.ai/news/spaces",
+      "pubDate": "2026-03-31T12:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/thumbnail-03.jpg",
+      "type": "blog"
+    },
+    {
       "id": "66637736903e",
       "title": "Training mRNA Language Models Across 25 Species for $165",
       "description": "",
@@ -111,6 +125,20 @@
         "IA"
       ],
       "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "76fae35eaffd",
+      "title": "Ensemble and Cohere building the first RCM‑native healthcare LLM",
+      "description": "Ensemble and Cohere building the first RCM‑native healthcare LLM",
+      "link": "https://cohere.com/blog/ensemble-cohere-custom-healthcare-llm-for-rcm",
+      "pubDate": "2026-03-31T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/30bc183d20a2761c63cb114929c6411119815e06-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -237,6 +265,20 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-live_blog_header_dark.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "6caba41f4087",
+      "title": "Introducing Cohere Transcribe: a new state-of-the-art in open-source speech recognition",
+      "description": "Introducing Cohere Transcribe: a new state-of-the-art in open-source speech recognition",
+      "link": "https://cohere.com/blog/transcribe",
+      "pubDate": "2026-03-26T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/80ae8c2e82c1538e418a8c751a8965708d370236-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -419,6 +461,34 @@
         "IA"
       ],
       "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "a88ccd9cde45",
+      "title": "Vibe physics: The AI grad student",
+      "description": "Vibe physics: The AI grad student",
+      "link": "https://www.anthropic.com/research/vibe-physics",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNodeThink&amp;backgroundColor=cactus",
+      "type": "blog"
+    },
+    {
+      "id": "20a930aebfd2",
+      "title": "Long-running Claude for scientific computing",
+      "description": "Long-running Claude for scientific computing",
+      "link": "https://www.anthropic.com/research/long-running-Claude",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Hourglass%20Cosmic&amp;backgroundColor=heather",
       "type": "blog"
     },
     {
@@ -629,6 +699,20 @@
         "IA"
       ],
       "image": "https://mistral.ai/img/mistral-cover.png",
+      "type": "blog"
+    },
+    {
+      "id": "21425385112b",
+      "title": "A “diff” tool for AI: Finding behavioral differences in new models",
+      "description": "A “diff” tool for AI: Finding behavioral differences in new models",
+      "link": "https://www.anthropic.com/research/diff-tool",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "type": "blog"
     },
     {
@@ -926,6 +1010,20 @@
       "type": "blog"
     },
     {
+      "id": "ca353886f18b",
+      "title": "Reverse engineering Claude's CVE-2026-2796 exploit",
+      "description": "Reverse engineering Claude's CVE-2026-2796 exploit",
+      "link": "https://www.anthropic.com/research/exploit",
+      "pubDate": "2026-03-06T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "058383c4e538",
       "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
       "description": "",
@@ -1080,6 +1178,20 @@
       "type": "blog"
     },
     {
+      "id": "24d6782bb608",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "description": "Labor market impacts of AI: A new measure and early evidence",
+      "link": "https://www.anthropic.com/research/labor-market-impacts",
+      "pubDate": "2026-03-05T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/db62de82e8396bec6edf60ee2134b36957cc7700-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5bd932ab7f49",
       "title": "Extending single-minus amplitudes to gravitons",
       "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
@@ -1119,6 +1231,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2b37911ceef7",
+      "title": "Cohere joins Aston Martin Aramco Formula One™ Team as official Generative AI Partner to help accelerate AI innovation",
+      "description": "Cohere joins Aston Martin Aramco Formula One™ Team as official Generative AI Partner to help accelerate AI innovation",
+      "link": "https://cohere.com/blog/cohere-aston-martin-formula-one-generative-ai-partner",
+      "pubDate": "2026-03-04T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/480ba3a6fb57fc6b011cfa8aec940be58a586e81-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

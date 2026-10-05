@@ -72,6 +72,20 @@
       "type": "blog"
     },
     {
+      "id": "0fdcee56178e",
+      "title": "How AI assistance impacts the formation of coding skills",
+      "description": "How AI assistance impacts the formation of coding skills",
+      "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+      "pubDate": "2026-01-29T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/c5b0681489a3ee90f5f032928ac0133bd43d66e8-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "97e5981f0b98",
       "title": "Introducing Model Vault: Your private platform for secure and scalable model inference",
       "description": "Model Vault simplifies serving and scaling Cohere models, so teams can focus on building, not infrastructure.",
@@ -153,6 +167,20 @@
         "IA"
       ],
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadNode&amp;backgroundColor=olive",
+      "type": "blog"
+    },
+    {
+      "id": "071e2abe4d46",
+      "title": "Disempowerment patterns in real-world AI usage",
+      "description": "Disempowerment patterns in real-world AI usage",
+      "link": "https://www.anthropic.com/research/disempowerment-patterns",
+      "pubDate": "2026-01-28T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/fe93b06765e52421e191d48bd2f4304a1df50e64-1200x630.jpg",
       "type": "blog"
     },
     {
@@ -562,6 +590,20 @@
       "type": "blog"
     },
     {
+      "id": "1ae1242aef83",
+      "title": "The assistant axis: situating and stabilizing the character of large language models",
+      "description": "The assistant axis: situating and stabilizing the character of large language models",
+      "link": "https://www.anthropic.com/research/assistant-axis",
+      "pubDate": "2026-01-19T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/1b2712189f1809085cde19a10e06e58a1bb415b1-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "251f6337f181",
       "title": "A business that scales with the value of intelligence",
       "description": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
@@ -629,6 +671,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19aa2dcabb0b",
+      "title": "AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges",
+      "description": "AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges",
+      "link": "https://www.anthropic.com/research/cyber-toolkits-update",
+      "pubDate": "2026-01-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "type": "blog"
     },
     {
@@ -702,6 +758,34 @@
       "type": "blog"
     },
     {
+      "id": "baf1413b738d",
+      "title": "Anthropic Economic Index: New building blocks for understanding AI use",
+      "description": "Anthropic Economic Index: New building blocks for understanding AI use",
+      "link": "https://www.anthropic.com/research/economic-index-primitives",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f0ef2877801ad42f9ad11927ec2d8cd6a090ce3d-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "428f6ba6fc7b",
+      "title": "Anthropic Economic Index report: Economic primitives",
+      "description": "Anthropic Economic Index report: Economic primitives",
+      "link": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+      "pubDate": "2026-01-15T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f0ef2877801ad42f9ad11927ec2d8cd6a090ce3d-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "dab2a335b9a7",
       "title": "OpenAI partners with Cerebras  ",
       "description": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
@@ -713,6 +797,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3AKrxHQZGWRq0XSFr3Tz8y/e1b2721e08ac271ec8c8f9b595bbe350/OpenAI_Cerebras__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5cda8fddacd5",
+      "title": "Finding bugs across the Python ecosystem with Claude and property-based testing",
+      "description": "Finding bugs across the Python ecosystem with Claude and property-based testing",
+      "link": "https://www.anthropic.com/research/property-based-testing",
+      "pubDate": "2026-01-14T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "type": "blog"
     },
     {
@@ -800,6 +898,20 @@
       "type": "blog"
     },
     {
+      "id": "41ce725530ad",
+      "title": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+      "description": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+      "link": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+      "pubDate": "2026-01-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "bedda3a88515",
       "title": "OpenAI for Healthcare",
       "description": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
@@ -825,6 +937,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/73MzGWJqwp1YazJCDrUhra/be3d8a969d196f6492e3a912d4ff8361/oai_Netomi_SEO.jpg?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c4386c9e2b46",
+      "title": "Experimenting with AI to defend critical infrastructure",
+      "description": "Experimenting with AI to defend critical infrastructure",
+      "link": "https://www.anthropic.com/research/critical-infrastructure-defense",
+      "pubDate": "2026-01-08T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "type": "blog"
     },
     {

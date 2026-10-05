@@ -100,6 +100,34 @@
       "type": "blog"
     },
     {
+      "id": "fa4d4be6d421",
+      "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
+      "description": "Our new standard for measuring enterprise retrieval quality, validated against human judgment.",
+      "link": "https://cohere.com/blog/rcp-ndcg",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ef9d5d5c1ab3414923df1fa97e3754ecc0a8f393-2912x1630.png?rect=0,51,2912,1529&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "9d4f7ae81230",
+      "title": "Introducing Embed 5—A new family of frontier embedding models",
+      "description": "Our most powerful embedding models yet, now available in Pro and Fast tiers.",
+      "link": "https://cohere.com/blog/embed-5",
+      "pubDate": "2026-09-30T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/707e10f3b1b953018b94864b0a4b9e99a8843cde-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "dc53fce90c6f",
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "description": "",
@@ -268,6 +296,20 @@
       "type": "blog"
     },
     {
+      "id": "ee4dc087c200",
+      "title": "Hallo, Deutschland!",
+      "description": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
+      "link": "https://mistral.ai/news/hallo-deutschland",
+      "pubDate": "2026-09-28T15:57:59.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin_Mistral02%20(1).png",
+      "type": "blog"
+    },
+    {
       "id": "09d1d26fa19d",
       "title": "Holo4: powering generalist computer-use agents",
       "description": "",
@@ -349,6 +391,20 @@
         "IA"
       ],
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2ed453f8c87d2166b09940a859cd193b29678a88-3840x2160.png",
+      "type": "blog"
+    },
+    {
+      "id": "8310f8709061",
+      "title": "Compass is coming to the cloud",
+      "description": "Gain access to our state-of-the-art search and retrieval engine, without worrying about the infrastructure",
+      "link": "https://cohere.com/blog/compass-cloud-beta",
+      "pubDate": "2026-09-25T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3ff9058d77d0a46ac36c66e586eecb01128c3bba-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -716,6 +772,20 @@
       "type": "blog"
     },
     {
+      "id": "7635c8e9dad2",
+      "title": "AI change management: A human-centric approach",
+      "description": "AI change management: A human-centric approach",
+      "link": "https://cohere.com/blog/ai-change-management",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3e36f6ca4822fe67021f9136945a18643ec61b3f-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "d84d5932ca4e",
       "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
       "description": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research.",
@@ -954,6 +1024,20 @@
       "type": "blog"
     },
     {
+      "id": "044e6af5229b",
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "description": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "link": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "pubDate": "2026-09-17T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f3899afd4d6a",
       "title": "Our framework for reporting model misalignment",
       "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
@@ -1024,6 +1108,20 @@
       "type": "blog"
     },
     {
+      "id": "70a5d3bd151a",
+      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
+      "link": "https://mistral.ai/news/mistral-x-mozilla",
+      "pubDate": "2026-09-16T12:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
+      "type": "blog"
+    },
+    {
       "id": "7d2872733a61",
       "title": "How workers are unlocking new ways of working",
       "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
@@ -1035,6 +1133,34 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/1gs0leQWyRXaqM1FSYP2pB/90ebb6eb87e6c0cfd0ce654dc0a7692c/blog-seo-option040-v002.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4f79adb4cd84",
+      "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+      "description": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+      "link": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9a3bf3d4a87634f83ae3d11adbc11f2e65b778e3-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "894886c5adc2",
+      "title": "Cohere and Aleph Alpha sign agreement to become the first  transatlantic sovereign AI solution",
+      "description": "Cohere and Aleph Alpha sign agreement to become the first transatlantic sovereign AI solution",
+      "link": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1015e4cfeb3009a23361f6f6c9a26c29fec5dda0-7680x4320.png?rect=0,144,7680,4032&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1178,6 +1304,20 @@
       "type": "blog"
     },
     {
+      "id": "edb230416141",
+      "title": "Who Gets to Define the Rules for AI?",
+      "description": "Who Gets to Define the Rules for AI?",
+      "link": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "pubDate": "2026-09-13T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/aad920dfe8b269bfea7f77111be06fd7196ce23c-4522x2532.png?rect=0,79,4522,2374&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "4aeb82da9975",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -1245,6 +1385,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/2UxvYcTeyyfNcGIxHFKW06/82ff8662f3a80f6b7319afb2a25dc6ae/put-data-to-work--seo-v001.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2947b3434651",
+      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+      "description": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+      "link": "https://mistral.ai/news/mistral-x-cloudera",
+      "pubDate": "2026-09-10T10:42:55.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-02-Cloudera.png",
       "type": "blog"
     },
     {
@@ -1346,6 +1500,20 @@
       "type": "blog"
     },
     {
+      "id": "ce6b8a6b961e",
+      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "description": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+      "link": "https://cohere.com/blog/north-small-translate",
+      "pubDate": "2026-09-10T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/309c76e4fa497c3958099fa96016a64b55eb58b1-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "3eb3e9557eb7",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -1413,6 +1581,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "56bfec926244",
+      "title": "Modernizing complex legacy code with AI agents.",
+      "description": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
+      "link": "https://mistral.ai/news/legacy-code-modernization",
+      "pubDate": "2026-09-09T12:00:46.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
       "type": "blog"
     },
     {
@@ -1500,6 +1682,20 @@
       "type": "blog"
     },
     {
+      "id": "4d11ed62a144",
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "description": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "pubDate": "2026-09-08T12:00:22.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+      "type": "blog"
+    },
+    {
       "id": "1dcea8b0f8ac",
       "title": "Introducing ChatGPT Images 2.5",
       "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
@@ -1567,6 +1763,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/2SSEb0IXZ1td55X4Ni62Sk/354c0f1d6d864ef3478d9ca4ed5f2ebb/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9b6082ebc541",
+      "title": "Inside the megakernel serving engine for North Mini Code",
+      "description": "Inside the megakernel serving engine for North Mini Code",
+      "link": "https://cohere.com/blog/megakernels",
+      "pubDate": "2026-09-08T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9de3fcfb556e46b7e00c2212722711cfd1f6f6ee-512x288.jpg?rect=0,10,512,269&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1766,6 +1976,20 @@
       "type": "blog"
     },
     {
+      "id": "7069663cfc70",
+      "title": "Automation’s Early Footprint",
+      "description": "Automation’s Early Footprint",
+      "link": "https://cohere.com/blog/automations-early-footprint",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/c2ed85a6167d8ac6c1d24c52abe72fb1308a2df0-2400x1260.png?w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "d721843382f3",
       "title": "Proactive cyber defense for governments and enterprises",
       "description": "",
@@ -1833,6 +2057,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/49oJo0HsEQBLrr5rWLdYHh/6e651b242ddec9857a2563f1efa24c65/A-seo-og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "352cb2108b75",
+      "title": "How small AI models can make a big impact for enterprises",
+      "description": "How small AI models can make a big impact for enterprises",
+      "link": "https://cohere.com/blog/how-small-models-can-make-a-big-impact-for-enterprises",
+      "pubDate": "2026-09-02T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ed0d6447d4981dc4bbdd89519a33599b20caeaae-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

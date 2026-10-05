@@ -464,6 +464,20 @@
       "type": "blog"
     },
     {
+      "id": "f34c65d62856",
+      "title": "Cohere and Aleph Alpha join forces to form global AI powerhouse as nations and enterprises demand control over their technology",
+      "description": "Cohere and Aleph Alpha join forces to form global AI powerhouse as nations and enterprises demand control over their technology",
+      "link": "https://cohere.com/blog/cohere-alephalpha-join-forces",
+      "pubDate": "2026-04-24T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1508dfd50b261880ef0b67e1ade51f6e51b93d03-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "4286eb4691c1",
       "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
@@ -814,6 +828,20 @@
       "type": "blog"
     },
     {
+      "id": "26a266482f3f",
+      "title": "Production-Ready W4A8: vLLM Integration and Quality Recovery Techniques Explained",
+      "description": "Production-Ready W4A8: vLLM Integration and Quality Recovery Techniques Explained",
+      "link": "https://cohere.com/blog/vllm-integration-and-quality-recovery-techniques-explained",
+      "pubDate": "2026-04-22T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3a0d23ec5536b6f5b56c2cee22df59d2c5199387-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "58a08541d57d",
       "title": "Partnering with industry leaders to accelerate AI transformation",
       "description": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
@@ -895,6 +923,20 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/cybersecurity-openness/detective_huggy_thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "8f4e5a4c22be",
+      "title": "Why MoE models get more from speculative decoding",
+      "description": "Why MoE models get more from speculative decoding",
+      "link": "https://cohere.com/blog/mixture-of-experts-models-get-more-from-speculative-decoding",
+      "pubDate": "2026-04-21T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/69e48107cb1d7c2bf2a2c1a8855a3a350f7f52d1-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1780,6 +1822,20 @@
       "type": "blog"
     },
     {
+      "id": "95b7e4c31688",
+      "title": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+      "description": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+      "link": "https://www.anthropic.com/research/mythos-preview",
+      "pubDate": "2026-04-07T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
       "id": "047e7bac94f5",
       "title": "Announcing the OpenAI Safety Fellowship",
       "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
@@ -1917,6 +1973,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32be0c7d431b",
+      "title": "The five phases of enterprise AI maturity, Part 1: How to get past “the production wall”",
+      "description": "The five phases of enterprise AI maturity, Part 1: How to get past “the production wall”",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/72dceb38e520cfd1bedde244f5eff0729162bd65-5760x2880.png?rect=137,0,5486,2880&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

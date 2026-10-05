@@ -142,6 +142,34 @@
       "type": "blog"
     },
     {
+      "id": "1fad6f064584",
+      "title": "AI Now Summit 2026",
+      "description": "Innovations for global enterprises solving the world’s hardest problems.",
+      "link": "https://mistral.ai/news/ai-now-summit-2026",
+      "pubDate": "2026-05-28T12:00:20.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Cover-Mistral-Wallpaper01.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1252d697ae70",
+      "title": "Vibe gets to work.",
+      "description": "The unified agent for long-horizon productivity and coding, launching with Work and Code modes. Plus, a new Vibe VS Code extension.",
+      "link": "https://mistral.ai/news/vibe-agent",
+      "pubDate": "2026-05-28T12:00:09.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Solution-Vibe.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2aa7e747964e",
       "title": "How Endava builds an agentic organization with Codex",
       "description": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
@@ -153,6 +181,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "bba0291239de",
+      "title": "Introducing Search Toolkit",
+      "description": "Search Toolkit is a composable framework for building production search pipelines for AI applications.",
+      "link": "https://mistral.ai/news/search-toolkit",
+      "pubDate": "2026-05-28T11:42:21.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
       "type": "blog"
     },
     {
@@ -212,6 +254,48 @@
       "type": "blog"
     },
     {
+      "id": "54096b78db39",
+      "title": "What is Model Context Protocol? A practical guide to MCP",
+      "description": "What is Model Context Protocol? A practical guide to MCP",
+      "link": "https://cohere.com/blog/guide-to-mcp",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a74db5b25af8eaf3542efa5b2483740276740a9b-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "ba032c616dcc",
+      "title": "AI governance challenges: How to support safe, scalable AI adoption",
+      "description": "AI governance challenges: How to support safe, scalable AI adoption",
+      "link": "https://cohere.com/blog/ai-governance-challenges",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/71e91c9131cc903924a6877f125cccb72ea7a53e-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "effb3184e587",
+      "title": "AI in business intelligence: Use cases, benefits, and adoption considerations",
+      "description": "AI in business intelligence: Use cases, benefits, and adoption considerations",
+      "link": "https://cohere.com/blog/ai-for-business-intelligence",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/f17a210b0c620291ccc61f5d69753b9753056a01-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "c6a7b34a0061",
       "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "description": "",
@@ -237,6 +321,34 @@
         "IA"
       ],
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/ExtendingHIthroughAI-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "09209a8775e5",
+      "title": "Introducing physics AI at Mistral: the foundation for engineering acceleration.",
+      "description": "A new class of AI models that predict the behavior of physical systems, powering the engineers and hardware products of tomorrow.",
+      "link": "https://mistral.ai/news/introducing-physics-ai-at-mistral",
+      "pubDate": "2026-05-27T12:00:55.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Solution-Factory.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "daceb9044318",
+      "title": "Physics AI research that’s shaping the industry.",
+      "description": "Published breakthroughs pushing the state of the art.",
+      "link": "https://mistral.ai/news/physics-ai-research",
+      "pubDate": "2026-05-27T12:00:05.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Manufacturing-Robotic%20Arm.jpg",
       "type": "blog"
     },
     {
@@ -338,6 +450,20 @@
       "type": "blog"
     },
     {
+      "id": "663f77b8414a",
+      "title": "Cohere and Mila partner to advance Quebec French language and cultural context in AI",
+      "description": "Cohere and Mila partner to advance Quebec French language and cultural context in AI",
+      "link": "https://cohere.com/blog/cohere-and-mila-partner-to-advance-quebec-french-language-and-cultural-context-in-ai",
+      "pubDate": "2026-05-27T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b5285dc5970201318d3851eff6d854a4d5c4926d-2400x1254.png?rect=6,0,2389,1254&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "cd97e33f2d57",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
       "description": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
@@ -349,6 +475,20 @@
         "IA"
       ],
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "68d4d6469ebf",
+      "title": "Our 2026 summer merch collection is here",
+      "description": "Our 2026 summer merch collection is here",
+      "link": "https://cohere.com/blog/2026-summer-merch-collection",
+      "pubDate": "2026-05-26T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/df4329f15d666360371ff19cebeda335ef0d62a3-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -660,6 +800,48 @@
       "type": "blog"
     },
     {
+      "id": "94d80d08a360",
+      "title": "Introducing Command A+: Making sovereign agentic capabilities available to all",
+      "description": "Introducing Command A+: Making sovereign agentic capabilities available to all",
+      "link": "https://cohere.com/blog/command-a-plus",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/12384f5d2a455c226b2fff2be80e68ab09f5430a-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "4d8e44f2f837",
+      "title": "Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure",
+      "description": "Cohere Releases Command A+: An Open-Source Enterprise AI Model Built for Sovereign Critical Infrastructure",
+      "link": "https://cohere.com/blog/cohere-releases-command-a-plus",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/12384f5d2a455c226b2fff2be80e68ab09f5430a-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "18ca82e8cad3",
+      "title": "Announcing strategic MOUs with Indra Group and Multiverse Computing",
+      "description": "Announcing strategic MOUs with Indra Group and Multiverse Computing",
+      "link": "https://cohere.com/blog/cohere-announces-strategic-mous-with-indragroup-and-multiverse-computing",
+      "pubDate": "2026-05-20T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/402dad57d8e31fbb19929e5bb41f23825bdc9cd0-3840x1920.jpg?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "2fd1ae66db94",
       "title": "Introducing OpenAI for Singapore",
       "description": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
@@ -839,6 +1021,20 @@
         "IA"
       ],
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Chat&amp;backgroundColor=sky",
+      "type": "blog"
+    },
+    {
+      "id": "3d7949f54fbb",
+      "title": "Cohere acquires Reliant AI to expand sovereign enterprise AI for the global biopharma and healthcare sectors",
+      "description": "Cohere acquires Reliant AI to expand sovereign enterprise AI for the global biopharma and healthcare sectors",
+      "link": "https://cohere.com/blog/cohere-acquires-reliant-ai-expand-sovereign-enterprise-ai",
+      "pubDate": "2026-05-19T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/4c691acb45f0aabce8fe3905f948ab4ed33db6d3-2400x1254.png?rect=6,0,2389,1254&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1399,6 +1595,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "696e08faeb4e",
+      "title": "The five phases of enterprise AI maturity, Part 2: Integrating AI and the AI-native enterprise",
+      "description": "The five phases of enterprise AI maturity, Part 2: Integrating AI and the AI-native enterprise",
+      "link": "https://cohere.com/blog/enterprise-ai-maturity-model-pt2",
+      "pubDate": "2026-05-13T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e62743475a295c9b01c9f0bdd34cf28a33cdf81e-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

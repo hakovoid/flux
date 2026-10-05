@@ -352,6 +352,34 @@
       "type": "blog"
     },
     {
+      "id": "fe7d073557ec",
+      "title": "Creating a security agent with Cohere North and Wiz",
+      "description": "Creating a security agent with Cohere North and Wiz",
+      "link": "https://cohere.com/blog/cohere-security-ai-agent-north-wiz",
+      "pubDate": "2026-06-25T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/60d6391fe46dac1bccf0153c84911aa1fe1091ce-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "d845322af780",
+      "title": "Automating fork maintenance with AI agents",
+      "description": "Automating fork maintenance with AI agents",
+      "link": "https://cohere.com/blog/automating-fork-maintenance-with-ai-agents",
+      "pubDate": "2026-06-25T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d8026e42b9fe43b78be84107cf34c63494ec65ff-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "172fd12b4fe6",
       "title": "Introducing computer use in Gemini 3.5 Flash",
       "description": "",
@@ -391,6 +419,20 @@
         "IA"
       ],
       "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Talos-BlogHeroFeature-1400x788-1-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "af083992cffb",
+      "title": "Bringing more control over your connectors",
+      "description": "Bringing more control over your connectors",
+      "link": "https://mistral.ai/news/more-control-over-connectors",
+      "pubDate": "2026-06-24T12:00:30.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
       "type": "blog"
     },
     {
@@ -464,6 +506,20 @@
       "type": "blog"
     },
     {
+      "id": "61adea8d905d",
+      "title": "Introducing Mistral OCR 4",
+      "description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
+      "link": "https://mistral.ai/news/ocr-4",
+      "pubDate": "2026-06-23T12:00:48.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/OCR-OG.png",
+      "type": "blog"
+    },
+    {
       "id": "480508a9ca16",
       "title": "How Omio is building the future of conversational travel",
       "description": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
@@ -517,6 +573,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "948b4c952f6b",
+      "title": "Why Cultural Awareness is Essential for Global AI",
+      "description": "Why Cultural Awareness is Essential for Global AI",
+      "link": "https://cohere.com/blog/why-cultural-awareness-is-essential-for-global-ai",
+      "pubDate": "2026-06-23T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/44f95a70cd6ccf428f9d4017b48040fc8d40ab18-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -814,6 +884,20 @@
       "type": "blog"
     },
     {
+      "id": "40145338a880",
+      "title": "LLM Serving Fairness:  No more noisy neighbors",
+      "description": "LLM Serving Fairness: No more noisy neighbors",
+      "link": "https://cohere.com/blog/serving-fairness",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/64f13e07089739ddcd339a8fbc2110b860463455-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "334cabed9c98",
       "title": "Unlocking UK house-building with AI-accelerated planning",
       "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
@@ -881,6 +965,20 @@
         "IA"
       ],
       "image": "https://blog.google/static/blogv2/images/google-200x200.png?version=pr20260609-1635",
+      "type": "blog"
+    },
+    {
+      "id": "6ea195d9ed6c",
+      "title": "Cohere triples UK footprint with new London office to support R&D growth",
+      "description": "Cohere triples UK footprint with new London office to support R&D growth",
+      "link": "https://cohere.com/blog/cohere-triples-uk-footprint-with-new-london-office-to-support-r-and-d-growth",
+      "pubDate": "2026-06-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d10ff8ce438d9a4898160d7e0479321d9dd28dac-4651x2020.png?rect=402,0,3848,2020&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1178,6 +1276,20 @@
       "type": "blog"
     },
     {
+      "id": "ffd8a8f3f4e1",
+      "title": "The future of work debate has an evidence problem",
+      "description": "The future of work debate has an evidence problem",
+      "link": "https://cohere.com/blog/the-future-of-work-debate-has-an-evidence-problem",
+      "pubDate": "2026-06-10T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8567e3b3643345470238c0e3f677b9bb635ab950-2758x1182.png?rect=254,0,2251,1182&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "5ec2963d36a6",
       "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
       "description": "",
@@ -1315,6 +1427,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png",
+      "type": "blog"
+    },
+    {
+      "id": "cd427e2c2350",
+      "title": "Introducing North Mini Code: Cohere’s first model for developers",
+      "description": "Introducing North Mini Code: Cohere’s first model for developers",
+      "link": "https://cohere.com/blog/north-mini-code",
+      "pubDate": "2026-06-09T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/824d32875c1faf5d7048cb18d83e006e46c9b869-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1584,6 +1710,20 @@
       "type": "blog"
     },
     {
+      "id": "a703fe51fc49",
+      "title": "Unpacking AI safety for enterprises",
+      "description": "Unpacking AI safety for enterprises",
+      "link": "https://cohere.com/blog/unpacking-ai-safety",
+      "pubDate": "2026-06-04T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/40d5fb84827da56ebef3314f6f7e84086e1b72ed-1600x900.jpg?rect=0,30,1600,840&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "ba562226725d",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
@@ -1721,6 +1861,20 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4f7defef52a2",
+      "title": "Co/plot: Supporting the research process through visualization",
+      "description": "Co/plot: Supporting the research process through visualization",
+      "link": "https://cohere.com/blog/coplot",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/76c331df79d3321b89f47bdf07335dbcc7d1c60e-1379x591.png?rect=127,0,1126,591&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1959,6 +2113,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/ZCyd9lzsIT4233b1WInA0/2f7df5909320c9c1f932e213c2d0e66c/16x9___COVERT_IO___Data_Center_Bandwagon__Campaign.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "648473db3ecd",
+      "title": "RWS and Cohere build top-performing AI language intelligence for the enterprise",
+      "description": "RWS and Cohere build top-performing AI language intelligence for the enterprise",
+      "link": "https://cohere.com/blog/rws-and-cohere-build-ai-language-intelligence",
+      "pubDate": "2026-06-01T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/26e439874a02ca56813c6072f912f5364c30b99a-3840x1920.png?rect=92,0,3657,1920&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     }
   ]

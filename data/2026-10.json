@@ -2,6 +2,175 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d48933de4024",
+      "title": "Test du Narwal Freo 20, le robot laveur qui s'entretient tout seul",
+      "description": "Après une quinzaine de jours de test, le Narwal Freo 20 se montre très abouti : aspiration à 31 000 Pa, rouleau microfibre de 26 cm avec eau chauffée à 60 °C, serpillière lavée à 100 °C et séchée par la station. Il est affiché sous 850 euros (835 euros actuellement) contre 1 400 euros et plus pour des prestations comparables.",
+      "link": "https://korben.info/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T09:22:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul/test-du-narwal-freo-20-le-robot-laveur-qui-sentretient-tout-seul-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "42033f78328f",
+      "title": "XPSemu - Halo 2, Forza et Fable sur PS5",
+      "description": "XPSemu fait tourner l'Xbox d'origine sur une PS5 jailbreakée : Halo 2 à 30 FPS, Forza et Fable à la peine, un processeur émulé qui sature et un fichier whitelist à ne pas oublier.",
+      "link": "https://korben.info/halo-2-ps5-jailbreake-emulateur-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T08:52:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/halo-2-ps5-jailbreake-emulateur-xbox/halo-2-ps5-jailbreake-emulateur-xbox-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a0cef39ec25c",
+      "title": "Quick Tunnels - Votre projet localhost sur le web avec invitation",
+      "description": "cloudflared publie un serveur local sur une adresse trycloudflare.com en une commande et sans compte, et depuis la version 2026.9.3, --allowed-mail la réserve à quelques adresses mail. Le tuto couvre l'installation, le piège de Vite et un hook pour empêcher Claude Code d'ouvrir un tunnel public.",
+      "link": "https://korben.info/cloudflare-quick-tunnels-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T07:40:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cloudflare-quick-tunnels-tuto/cloudflare-quick-tunnels-tuto-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "e448c6c94f6f",
+      "title": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "description": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "link": "https://blog.ippon.fr/2026/10/05/futur-du-developpement-2035/",
+      "pubDate": "2026-10-05T07:01:03.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/pexels-kevin-ku-92347-577585.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ca1e9357ac54",
+      "title": "Highball - Une relève de Whisky pour jouer sur Mac",
+      "description": "Whisky est archivé, Highball se propose de prendre la suite pour lancer des jeux Windows sur un Mac Apple Silicon. Le projet a six semaines, et sa base de compatibilité nuance son propre README sur Red Dead Redemption 2.",
+      "link": "https://korben.info/highball-jeux-windows-mac-apple-silicon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T06:51:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/highball-jeux-windows-mac-apple-silicon/highball-jeux-windows-mac-apple-silicon-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "86a42c17f875",
+      "title": "Souveraineté numérique: l’Europe a la tête dans les nuages, Octave Klaba jette un pavé dans le Cloud",
+      "description": "Octave Klaba, fondateur d'OVHcloud, a critiqué l'audition récente à l'Assemblée nationale, mettant en avant le manque de courage politique en Europe face à l'IA. Il dénonce la culture financière court-termiste des investisseurs et l'inefficacité administrative qui freine l'innovation. Pour lui, il est crucial de rediriger les fonds publics vers les acteurs européens pour soutenir l'industrie locale. L’article Souveraineté numérique: l’Europe a la tête dans les nuages, Octave Klaba jette un pavé…",
+      "link": "https://oliviersauvage.com/2026/10/05/souverainete-numerique-leurope-a-la-tete-dans-les-nuages-octave-klaba-jette-un-pave-dans-le-cloud/",
+      "pubDate": "2026-10-05T06:12:02.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/media-gen-1790933439767-e1790933489598.png",
+      "type": "blog"
+    },
+    {
+      "id": "da25f17db853",
+      "title": "Mulderland - Pour pimper vos jeux PC",
+      "description": "Mulderland fabrique des installeurs qui posent en une seule fois toute la pile de correctifs et de mods d'un jeu PC acheté sur Steam ou GOG, avec des recettes publiques sur GitHub. Ce qu'ils téléchargent vient de Nexus Mods pour les jeux récents et du serveur de Mulder pour les anciens, remplacement des exécutables compris.",
+      "link": "https://korben.info/mulderland-packs-vieux-jeux-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T05:22:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mulderland-packs-vieux-jeux-pc/mulderland-packs-vieux-jeux-pc-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "5d745a186a1a",
+      "title": "« On est toujours dans une roue » : à la rencontre de Martin Dufresne",
+      "description": "Pourquoi l'IA nous fatigue-t-elle plus qu'elle ne nous soulage ? Où est passé le plaisir de développer ? Comment apprendre quand la machine a déjà la réponse ? Autant de sujets que nous avons abordés avec Martin Dufresne, développeur, chercheur indépendant et formateur, pour le deuxième épisode des voix de notre veille.",
+      "link": "https://www.elao.com/blog/methodo/voix-de-notre-veille/a-la-rencontre-de-martin-dufresne",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/methodo/voix-de-notre-veille/a-la-rencontre-de-martin-dufresne/thumbnail-3f353ae3.jpg/8f46be212d26a140058581907e8f4171.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d806881800ea",
+      "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 1",
+      "description": "À l’ère des agents, notre avantage ne viendra peut-être plus de notre capacité à produire plus vite ce que nous savons déjà, mais de notre capacité à apprendre plus vite ce que nous devons réellement construire.",
+      "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier-part-1",
+      "pubDate": "2026-10-04T15:10:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "468371eb9d6b",
+      "title": "Bidouiller le compilateur Go pour convertir efficacement les IPv4 en IPv6",
+      "description": "expose une méthode qui renvoie l’adresse IPv4 contenue dans une (). À partir de ou de , elle renvoie . Il n’existe pas de méthode ou pour l’opération inverse. Une telle méthode est triviale à écrire, mais les mainteneurs de Go l’ont au motif que les utilisateurs devraient écrire et laisser le compilateur l’optimiser. Aujourd’hui, cette construction est huit fois plus lente qu’une méthode native. Comment apprendre au compilateur à l’optimiser ?netip.AddrUnmap()adresse IPv6 représentant une…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-go-netip-addrto6",
+      "pubDate": "2026-10-04T14:12:19.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/covers/fr/blog/2026-go-netip-addrto6.64f31f8008093d.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "2f3d9ae4c3ad",
+      "title": "Ton LLM te noie sous l'info ? 4 formats pour alléger ta charge mentale (testés sur un vrai sujet)",
+      "description": "Les explications des LLM sont souvent longues, denses et épuisantes à lire. En partant d'une idée d'Andrej Karpathy, j'ai testé quatre formats pour réduire la charge mentale : texte contraint, schéma, page interactive et vidéo. Sujet du test : comment fonctionne un harnais comme Claude Code ou OpenCode.",
+      "link": "https://tahak.me/posts/quatre-facons-expliquer-un-harnais/",
+      "pubDate": "2026-10-04T00:00:00.000Z",
+      "source": "Taha K.",
+      "sourceUrl": "https://tahak.me/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8f55bc7e4163",
       "title": "Aller en manif avec son téléphone - Les bons réflexes",
       "description": "Les lycéens s'organisent sur Snapchat, Instagram, WhatsApp et Telegram. Voici ce que les guides de la LDH, d'XR, de la CGT et d'Amnesty conseillent d'installer et de régler avant de manifester, de Signal au verrouillage express, et pourquoi un code ne permet pas de refuser une réquisition.",

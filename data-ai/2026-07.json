@@ -58,6 +58,20 @@
       "type": "blog"
     },
     {
+      "id": "46d2da6d9db5",
+      "title": "Cohere signs EU Code of Practice on Transparency of AI-Generated Content",
+      "description": "Cohere signs EU Code of Practice on Transparency of AI-Generated Content",
+      "link": "https://cohere.com/blog/cohere-signs-eu-code-of-practice",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de96a636ea807fb82ad69ef45abeb99b26201977-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "1d97ce9901e4",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "description": "Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helping them improve as the tasks, tests, and environments evolve. The post Echoverse: Deep, evolving environments for computer-use agents appeared first on Microsoft Research.",
@@ -391,6 +405,34 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/agent-intrusion-technical-timeline/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "195a09485ac8",
+      "title": "Introducing North Automations: Intelligent workflow orchestration",
+      "description": "Introducing North Automations: Intelligent workflow orchestration",
+      "link": "https://cohere.com/blog/introducing-north-automations-ai-workflows",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/52fb04311d24a61986b4ca323e7b7c562233373a-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "3e8f807cf35c",
+      "title": "A day in the life of a wealth manager, with and without AI",
+      "description": "A day in the life of a wealth manager, with and without AI",
+      "link": "https://cohere.com/blog/a-day-in-the-life-of-a-wealth-manager-with-and-without-ai",
+      "pubDate": "2026-07-27T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ebf741aee337c6a26d5608b7719dfbb76acd6f8d-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -898,6 +940,20 @@
       "type": "blog"
     },
     {
+      "id": "9dda18ff8438",
+      "title": "Cohere and the University of Toronto partner to advance responsible AI adoption at scale",
+      "description": "Cohere and the University of Toronto partner to advance responsible AI adoption at scale",
+      "link": "https://cohere.com/blog/cohere-university-of-toronto-announcement",
+      "pubDate": "2026-07-16T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/0b4376367d0a9076aaa5438406bf9350f7bb01e9-7680x4320.png?rect=0,144,7680,4032&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "11253d0d7f13",
       "title": "What building Shippy taught us about building agents",
       "description": "",
@@ -979,6 +1035,20 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/real-world-voiceeq/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "38b4865bc554",
+      "title": "The total cost of AI ownership",
+      "description": "The total cost of AI ownership",
+      "link": "https://cohere.com/blog/the-total-cost-of-ai-ownership",
+      "pubDate": "2026-07-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/85c527bdf3c2290485b20abde42578816cf721e8-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
@@ -1080,6 +1150,20 @@
       "type": "blog"
     },
     {
+      "id": "fa2f8dd509b4",
+      "title": "Tiny Aya in the wild: What people are building with open multilingual AI",
+      "description": "Tiny Aya in the wild: What people are building with open multilingual AI",
+      "link": "https://cohere.com/blog/tiny-aya-in-the-wild",
+      "pubDate": "2026-07-14T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/26b5b7dd3447cb5eb766e572262c3eaf6ffa8a2d-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "b45a9ea535ca",
       "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
       "description": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves. The post Verifying Rust cryptography in SymCrypt, from standards to code appeared first on Microsoft Research.",
@@ -1150,6 +1234,20 @@
       "type": "blog"
     },
     {
+      "id": "5f59a2f40068",
+      "title": "Hardware-aware dynamic speculative decoding",
+      "description": "Hardware-aware dynamic speculative decoding",
+      "link": "https://cohere.com/blog/hardware-aware-dynamic-speculative-decoding",
+      "pubDate": "2026-07-10T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7c1467f0bad06327eac035c0ab6c4455feefe166-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "df26bd70c115",
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications. The post Aurora 1.5: Extending open foundation models for weather and Earth-system applications appeared first on Microsoft Research.",
@@ -1175,6 +1273,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/7Bf5twKHcGsjM0T5u43cg6/35ba64ea71cbb3590f551f7727c6cf71/Frame-1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d469b3da0ae1",
+      "title": "Your Prompts and Skills need a system of record.",
+      "description": "Studio provides a system of record for AI prompts and skills—versioned, owned, and traceable. Iterate fast, ship with control, and ensure consistent AI behavior.",
+      "link": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+      "pubDate": "2026-07-09T12:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Skillsandprompts.jpg",
       "type": "blog"
     },
     {
@@ -1360,6 +1472,20 @@
       "type": "blog"
     },
     {
+      "id": "cafc9d3c3da0",
+      "title": "Introducing Robostral Navigate",
+      "description": "Introducing Robostral Navigate: 8B model achieving 76.6% on R2R-CE with just a single RGB camera. No depth sensors, LiDAR, or multiple cameras needed.",
+      "link": "https://mistral.ai/news/robostral-navigate",
+      "pubDate": "2026-07-08T12:00:59.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+      "type": "blog"
+    },
+    {
       "id": "3447f8d32f7e",
       "title": "Helping K–12 educators build practical AI skills",
       "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
@@ -1500,6 +1626,20 @@
       "type": "blog"
     },
     {
+      "id": "9f101df82107",
+      "title": "Meet Cohere Transcribe Arabic",
+      "description": "Meet Cohere Transcribe Arabic",
+      "link": "https://cohere.com/blog/transcribe-arabic",
+      "pubDate": "2026-07-07T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/de5dfdd8f91267a91f194bfb7095edb80ce4951f-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "1dc582402725",
       "title": "PRX Part 4: Our Data Strategy",
       "description": "",
@@ -1567,6 +1707,20 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "93d04618369d",
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "description": "Leanstral 1.5: Proof Abundance for All",
+      "link": "https://mistral.ai/news/leanstral-1-5",
+      "pubDate": "2026-07-02T13:55:54.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
       "type": "blog"
     },
     {
