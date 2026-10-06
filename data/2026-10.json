@@ -2,6 +2,112 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "1bb2e66a4e4e",
+      "title": "RemoveMacAI - Supprimez Apple Intelligence de macOS 27",
+      "description": "Sous macOS 27, Apple Intelligence n'a plus d'interrupteur et ses modèles restent sur le disque : RemoveMacAI les supprime et empêche macOS de les retélécharger.",
+      "link": "https://korben.info/removemacai-supprimer-apple-intelligence-macos-27.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-06T08:35:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/removemacai-supprimer-apple-intelligence-macos-27/removemacai-supprimer-apple-intelligence-macos-27-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "266fe996ed73",
+      "title": "OpenMouse - Réglez votre souris gaming depuis le navigateur",
+      "description": "OpenMouse règle DPI, taux de sondage, boutons et RGB de souris gaming depuis Chrome, sans compte. Une Razer sous Windows exige en plus Bridge, une bêta non signée.",
+      "link": "https://korben.info/openmouse-configurer-souris-gaming-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-06T07:55:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/openmouse-configurer-souris-gaming-navigateur/openmouse-configurer-souris-gaming-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d4cf55bbcd4c",
+      "title": "Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA",
+      "description": "Les relations presse jouent un rôle crucial dans la visibilité et la crédibilité des entreprises, surtout à l'ère de l'intelligence artificielle. Elles aident à construire une réputation en fournissant des contenus d'expertise qui influencent les décisions d'achat. Les dirigeants doivent prendre la parole pour rendre leur savoir-faire concret, car cela prépare les futurs clients avant le premier contact commercial. L’article Ce que les relations presse peuvent vous faire gagner à l’ère de l’IA…",
+      "link": "https://oliviersauvage.com/2026/10/06/ce-que-les-relations-presse-peuvent-vous-faire-gagner-a-lere-de-lia/",
+      "pubDate": "2026-10-06T07:32:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Reunion-illustree-IA-et-acheteurs-1024x576.png",
+      "type": "blog"
+    },
+    {
+      "id": "71b81c8c0bd1",
+      "title": "Googlebook - Le débloquer oui, mais le rooter pas encore",
+      "description": "Google documente le déverrouillage du bootloader des Googlebook et John Wu prépare Magisk, mais aucune méthode de root n'est publique. Le déverrouillage efface la machine.",
+      "link": "https://korben.info/googlebook-root-magisk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-06T07:08:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/googlebook-root-magisk/googlebook-root-magisk-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "33dbe564a9e3",
+      "title": "PewDiePie is setting AI free... and OpenAI is furious",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+      "pubDate": "2026-10-05T20:34:44.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "efa09b4b97ab",
+      "title": "Citrix NetScaler - Et c'est reparti pour un patch !",
+      "description": "Une semaine après PitScaler, CVE-2026-88779 fait planter en boucle des NetScaler pourtant à jour et oblige les entreprises à repatcher. Citrix parle de déni de service, mais l'exécution de code n'est pas écartée.",
+      "link": "https://korben.info/citrix-netscaler-pitscaler-2-zero-day.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-05T13:35:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/citrix-netscaler-pitscaler-2-zero-day/citrix-netscaler-pitscaler-2-zero-day-1_hu_2be903dbc6136b4e.png",
+      "type": "blog"
+    },
+    {
+      "id": "cccbd0d3086e",
+      "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
+      "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
+      "link": "https://blog.ippon.fr/2026/10/05/platformcon-2026-platform-engineering-ia/",
+      "pubDate": "2026-10-05T12:29:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/platformcon-2026-couverture.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d48933de4024",
       "title": "Test du Narwal Freo 20, le robot laveur qui s'entretient tout seul",
       "description": "Après une quinzaine de jours de test, le Narwal Freo 20 se montre très abouti : aspiration à 31 000 Pa, rouleau microfibre de 26 cm avec eau chauffée à 60 °C, serpillière lavée à 100 °C et séchée par la station. Il est affiché sous 850 euros (835 euros actuellement) contre 1 400 euros et plus pour des prestations comparables.",

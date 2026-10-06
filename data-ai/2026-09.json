@@ -366,6 +366,20 @@
       "type": "blog"
     },
     {
+      "id": "eb916b5190e3",
+      "title": "Welcome RL Environments to the hub",
+      "description": "",
+      "link": "https://huggingface.co/blog/rl-environments",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/datasets-filters/thumbnail.png",
+      "type": "blog"
+    },
+    {
       "id": "9de028fbe46c",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",

@@ -2,6 +2,34 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "fe424883c3ca",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "description": "",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "pubDate": "2026-10-06T06:44:39.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png",
+      "type": "blog"
+    },
+    {
+      "id": "d2b5b29b4c81",
+      "title": "Our approach to EU text provenance rules",
+      "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "pubDate": "2026-10-05T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "2d8e70fb45ce",
       "title": "Building advertising for the way people use AI",
       "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
@@ -13,6 +41,34 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/rK0Bn1sDSa03vTiJvEqEk/e693b91273247f332181de385845fa52/building-advertising-for-the-way-people-use-ai-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0a07e9cff5f9",
+      "title": "North 2: Enterprise AI without compromises",
+      "description": "North 2 is Cohere’s biggest upgrade yet — unifying enterprise‑grade security, intelligence, cost governance, and full‑stack control into a single agentic AI platform that runs wherever your data lives.",
+      "link": "https://cohere.com/blog/introducing-north-2",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/8e4c711d1fc7c3be2acdbda3b85c7160e277c891-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "09fa570c487a",
+      "title": "Cohere and PwC partner to accelerate secure enterprise AI adoption",
+      "description": "Bringing together secure, sovereign AI and transformation expertise to help organizations move from pilots to production",
+      "link": "https://cohere.com/blog/cohere-and-pwc-partner-to-accelerate-secure-enterprise-ai-adoption",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a2c6d85b8dadab8d3b6be028c73386cc6661b590-7680x4320.png?rect=0,144,7680,4032&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
