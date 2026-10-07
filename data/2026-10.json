@@ -2,6 +2,163 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "23390f5df7c4",
+      "title": "Du dev iPhone sans Mac sur Omarchy",
+      "description": "omarchy-apple-dev compile et installe une app iPhone depuis Linux, TestFlight compris. Mais le SDK vient d'un Xcode que le contrat d'Apple réserve à macOS.",
+      "link": "https://korben.info/omarchy-apple-dev-ios-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T09:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/omarchy-apple-dev-ios-linux/omarchy-apple-dev-ios-linux-1.avif",
+      "type": "blog"
+    },
+    {
+      "id": "6ff054013c2c",
+      "title": "Mistral Large 4, le modèle à 1 000 milliards de paramètres surnommé Le Chonk",
+      "description": "Mistral présente Mistral Large 4, surnommé Le Chonk, un modèle de 1 000 milliards de paramètres dont 49 milliards activés par réponse. Accessible en préversion via l'API, il verra ses poids publiés sur Hugging Face le 27 octobre, pour environ 0,70 dollar le million de tokens.",
+      "link": "https://korben.info/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T09:01:04.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk/mistral-large-4-le-modele-a-1-000-milliards-de-parametres-surnomme-le-chonk-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5ba23a5c8931",
+      "title": "Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence artificielle",
+      "description": "Depuis plus de 15 ans, nous construisons des logiciels et des architectures robustes : des API, des applications web, des infrastructures cloud. Nous avons créé et maintenons API Platform, FrankenPHP, Mercure, et nous contribuons quotidiennement à PHP, Symfony, Caddy, Go… Des outils libres que des dizaines milliers d’équipes utilisent chaque jour dans le monde entier. […] Cet article, Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence…",
+      "link": "https://les-tilleuls.coop/blog/decouvrir-tilia-expertise-intelligence-artificielle",
+      "pubDate": "2026-10-07T08:49:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-1024x341.png",
+      "type": "blog"
+    },
+    {
+      "id": "f9c3f5008848",
+      "title": "De l'architecture au code : une pipeline de subagents Claude pensée pour l’apprentissage",
+      "description": "Peut-on accélérer le développement avec des agents IA sans perdre la maîtrise de son code ? Pour le tester, j'ai construit une pipeline de quatre subagents Claude Code qui s'arrête avant la logique métier, afin de monter en compétences sur un nouveau framework tout en codant aux côtés de l'IA.",
+      "link": "https://blog.ippon.fr/2026/10/07/de-larchitecture-au-code-une-pipeline-de-subagents-claude-pensee-pour-lapprentissage/",
+      "pubDate": "2026-10-07T07:31:53.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/article_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "cec45e410e76",
+      "title": "LivePE - Une clé de dépannage Windows chargée à bloc",
+      "description": "Un membre du forum TeamAAZ partage un LivePE de dépannage en français, multiboot EFI et MBR, avec des dizaines d'outils de sauvegarde, de partitionnement et de récupération. Il est chargé, et le message ne donne ni empreinte ni autre miroir que Mediafire.",
+      "link": "https://korben.info/livepe-winpe-depannage-francais.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T07:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/livepe-winpe-depannage-francais/livepe-winpe-depannage-francais-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3d41fec50e71",
+      "title": "Issued - Pour lire vos Comics / BDs depuis votre navigateur",
+      "description": "Issued scanne votre dossier de comics CBZ et CBR tel quel et le sert au navigateur comme aux applis OPDS. Le mot de passe ne protège que le lecteur web : le catalogue OPDS reste ouvert, donc réseau local ou reverse proxy.",
+      "link": "https://korben.info/issued-serveur-comics-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T05:54:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/issued-serveur-comics-auto-heberge/issued-serveur-comics-auto-heberge-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1cbca964de1d",
+      "title": "The Legend of Zelda: Majora's Mask enfin en version européenne sur PC et Android",
+      "description": "Un fork non officiel de 2Ship2Harkinian lit la ROM européenne PAL 1.1 de Majora's Mask (anglais, français, allemand, espagnol) sur Windows, Linux et Android. Il faut apporter sa propre ROM, et tout ce qui est annoncé vient de l'auteur : la demande de fusion chez 2Ship est encore en brouillon.",
+      "link": "https://korben.info/2ship2harkinian-pal-majoras-mask.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-07T04:54:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/2ship2harkinian-pal-majoras-mask/2ship2harkinian-pal-majoras-mask-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "51437d8cd2ba",
+      "title": "#379.src - Productivité sans IA: Le mythe de la productivité avec Bastien Albertus",
+      "description": "\"l'IA n'est pas le seul levier pour qu'un dev travaille mieux\" Le D.E.V. de la semaine est Bastien Albertus, CIO chez lesfurets.com. Face à l'injonction des comités de direction d'augmenter la productivité des devs grâce à l'IA, Bastien remet en question la définition même de cette productivité et raconte comment son équipe a divisé par dix le time-to-market des intégrations partenaires... sans une once d'IA. Au menu : responsabilisation des développeurs, refonte des process, déspécialisation…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/379-2117b12ab830",
+      "pubDate": "2026-10-07T03:00:10.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/5cfd8a3b-9a47-4161-9228-71c9272e7819.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a66ae0ae-9d90-450d-b3d6-2117b12ab830.mp3?_=1791288070",
+      "duration": "01:18:17"
+    },
+    {
+      "id": "c4ce5e1eb975",
+      "title": "Une époque formidable",
+      "description": "Je me dis que l’on vit une époque formidable avec l’IA. Pendant des années, j’ai accumulé des idées de projets et d’outils que j’aurais aimé avoir. Des problèmes que je rencontrais personnellement et que je souhaitais résoudre. Mais comme tout le monde, j’ai un temps qui est limité : famille, loisirs, tâches quotidiennes… Impossible de travailler toutes les idées que je peux avoir en tête. De plus, j’aime la technique, j’aime expérimenter et j’aime construire. Le problème, quand on souhaite…",
+      "link": "https://www.jdecool.fr/blog/2026/10/07/une-epoque-formidable.html",
+      "pubDate": "2026-10-06T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9ec9a7edeef0",
+      "title": "Il a entièrement recodé 8 vieux OS en HTML + un VB6 qui sort des .exe.",
+      "description": "Windows 3.1, 95, 98, Me, 2000, XP, Vista et Mac OS 9 se lancent en moins de deux secondes dans un onglet, parce que rien n'y est émulé : tout a été réécrit en JavaScript. Et VB6 Studio Web compile même un .exe Windows depuis le navigateur.",
+      "link": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-06T15:22:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/vieux-windows-mac-os-9-navigateur-wieslaw-soltes/vieux-windows-mac-os-9-navigateur-wieslaw-soltes-2.png",
+      "type": "blog"
+    },
+    {
       "id": "1bb2e66a4e4e",
       "title": "RemoveMacAI - Supprimez Apple Intelligence de macOS 27",
       "description": "Sous macOS 27, Apple Intelligence n'a plus d'interrupteur et ses modèles restent sur le disque : RemoveMacAI les supprime et empêche macOS de les retélécharger.",
