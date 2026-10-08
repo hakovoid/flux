@@ -869,6 +869,22 @@
       "type": "blog"
     },
     {
+      "id": "a2ce8bdb5934",
+      "title": "Trouver des vulnérabilités dans l'open source quand on n'est pas spécialiste en sécurité",
+      "description": "TL;DR Trouver des failles dans l’open source en 2026, “grâce” aux LLM : facile, OUI Être le premier à les remonter : possible, MAIS Trouver des failles est devenu banal. Le vrai défi, c’est d’être le premier, et de survivre au triage. C’est de ça que parle le reste de l’article. Pourquoi faire ça, au départ ? La cybersécurité, ça me passionne depuis… bah, depuis toujours. Mon deuxième programme d’enfant était un VB 3.0 à la con, un faux virus qui avait pour seul boulot de remplir le dossier…",
+      "link": "https://blog.zwindler.fr/2026/09/23/finding-vulnerabilities-oss-not-security-specialist/",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/09/20260919_152513.webp",
+      "type": "blog"
+    },
+    {
       "id": "12c5a5d853e9",
       "title": "The most expensive 33 hours in WordPress history...",
       "description": "",
