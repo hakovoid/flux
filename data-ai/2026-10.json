@@ -2,6 +2,20 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e05551817b22",
+      "title": "Impactful scheduling for GPU clusters",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "pubDate": "2026-10-09T15:20:29.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/Kj0n5ea3ItoNIc2ha2SVL.png",
+      "type": "blog"
+    },
+    {
       "id": "570fe3204556",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
@@ -13,6 +27,48 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/4pg31JOD6Z3cO31LCR6GYq/8c1cedfd2e85c6dd80d2ea8c5ea0c9a1/sophos-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "9bf93d58cc35",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "pubDate": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4bNHf0rdpv55WFke9YADV7/306540f0701aa79ce7cc9057f616c577/asana-blue-layered-paper-social-seo-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e53d362bf380",
+      "title": "Investigating unintended model actions in our evaluations and internal use",
+      "description": "Investigating unintended model actions in our evaluations and internal use",
+      "link": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "pubDate": "2026-10-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f11d2325e688229de8a887ef7ece34f520ab7134-2000x1125.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f64cbf7f3d1d",
+      "title": "Shared or dedicated inference for Embed & Rerank",
+      "description": "Shared or dedicated inference for Embed & Rerank",
+      "link": "https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank",
+      "pubDate": "2026-10-09T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/79e3c5034529d83eca654c53b596f73b2d1aa3c7-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

@@ -324,6 +324,20 @@
       "type": "blog"
     },
     {
+      "id": "d98e79f87911",
+      "title": "Think Bigger: How Small Teams Win with ChatGPT",
+      "description": "A practical guide showing how small teams use ChatGPT to analyze data, create marketing materials, manage budgets, run meetings, and make better decisions.",
+      "link": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+      "pubDate": "2026-01-22T21:12:55.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ozIFH0AAOBn00Qjtt8ruJ/7061ac5ae180dfeaf664cd926d8eb1aa/oai-how-small-teams-win-with-chatgpt.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "89a221162f32",
       "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
       "description": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
@@ -716,6 +730,34 @@
       "type": "blog"
     },
     {
+      "id": "81cd30ad3d84",
+      "title": "A Practical Guide to Building AI Agents",
+      "description": "A comprehensive guide to designing, orchestrating, and deploying AI agents—covering use cases, model selection, tool design, guardrails, and multi-agent patterns.",
+      "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+      "pubDate": "2026-01-15T00:25:16.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/mJqlc42BkQevW6eMLubPU/1006cd702b66fb23319c1bbd9d45662f/practicalGuide.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "feff5c589b8c",
+      "title": "Building with the GPT-5 Model Series: A Practical Guide",
+      "description": "A practical guide for startups on migrating to the Responses API, designing agents, tuning prompts, steering GPT-5 models, and building reliable AI workflows.",
+      "link": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+      "pubDate": "2026-01-15T00:09:56.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/40QZWHLSVL1wQy9xS1E2gN/530c90abb62d7b31ff7262956760b6e5/image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "fb38965b12e0",
       "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
       "description": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
@@ -783,6 +825,34 @@
         "IA"
       ],
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f0ef2877801ad42f9ad11927ec2d8cd6a090ce3d-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "01f30fd1ba60",
+      "title": "Inside GPT-5 for Work",
+      "description": "A concise guide to how GPT-5 powers real business workflows—across marketing, engineering, finance, strategy, legal, and IT—and how to evaluate it for your team.",
+      "link": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+      "pubDate": "2026-01-14T21:43:17.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2ur0VJM14fxdvMi8iPF4Oj/2de861811a58661145ca9412d08e8236/GPT-5_EntGuideBook_ArtCard_1x1.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "84799fb71cec",
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "description": "A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.",
+      "link": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+      "pubDate": "2026-01-14T21:27:09.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2V3CASyikBG8IDxHXF8Lxa/6c0953d46fa9e1ee6542ed7e0506e47f/Codex_LP_01_v3.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
