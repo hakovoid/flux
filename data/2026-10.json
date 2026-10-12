@@ -2,6 +2,100 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6f90ff719dd1",
+      "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
+      "description": "slot ne lit que le Game Boy, mais il rejoue les gestes d'une GBA SP sur votre Anbernic RG SP : cartouches sur étagère, clapet qui sauvegarde, câble link en Wi-Fi.",
+      "link": "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T10:06:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/slot-frontend-game-boy-rg-sp/slot-frontend-game-boy-rg-sp-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "cd42be81a2f3",
+      "title": "Carafe - Pour lancer vos jeux PC directement sur la Switch",
+      "description": "Carafe transforme le dossier d'un jeu Windows en NSP, avec son icône, sa sauvegarde et un écran de chargement dans le HOME Menu d'une Switch sous Atmosphère. La compatibilité reste celle d'Autorun, encore expérimental, et un NSP homebrew expose à un bannissement.",
+      "link": "https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T07:33:42.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "58008f672f17",
+      "title": "Je ne code pas, BMAD code pour moi avec ses agents : sur parole ou sur preuves ?",
+      "description": "Je ne code pas, mais des agents IA cadrés par BMAD écrivent et testent le code de huit projets. Sur quoi fonder ma confiance ? Nous avons mesuré la qualité des produits en quatre questions : deux restent sans réponse partout, deux donnent des chiffres honnêtes mais partiels. Ce que je lis à la place du code, et ce qu'aucune mesure ne remplace.",
+      "link": "https://blog.octo.com/je-ne-code-pas-bmad-code-pour-moi-avec-ses-agents--sur-parole-ou-sur-preuves",
+      "pubDate": "2026-10-12T07:23:17.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "02e53171cef3",
+      "title": "Windows 11 - Le lien du compte local serait déjà patché",
+      "description": "Le lien Learn more qui menait à un compte local sur Windows 11 Home serait patché côté serveur, d'après son découvreur. Ce que ça change, et ce qui reste.",
+      "link": "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T07:15:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-lien-learn-more-corrige/windows-11-lien-learn-more-corrige-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "ebb316520f2a",
+      "title": "« J'ai livré mon ticket, mais je ne sais plus ce que j'ai livré »",
+      "description": "Livrer sans comprendre : ce qu'en disent les chiffres, les anciens, la doc d'Anthropic, et ce que je recommande aux équipes.",
+      "link": "https://tahak.me/posts/livrer-sans-comprendre/",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "source": "Taha K.",
+      "sourceUrl": "https://tahak.me/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "448548d68341",
+      "title": "Skillcrew : les skills de votre équipe, dans tous les agents, toujours à jour",
+      "description": "Votre équipe a écrit ses premières skills. Reste à les faire arriver chez tout le monde, dans Claude Code comme dans Codex, Copilot ou Cursor, et à les garder à jour sans que personne n'y pense. C'est pour ça que j'ai créé Skillcrew. Présentation, puis démo complète à refaire chez vous.",
+      "link": "https://yoandev.co/skillcrew-skills-equipe-tous-agents",
+      "pubDate": "2026-10-11T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/skillcrew-skills-equipe-tous-agents.webp",
+      "type": "blog"
+    },
+    {
       "id": "d11793f61ec2",
       "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 2",
       "description": "Dans la première partie, nous avons vu que le développement agentique ne remet pas seulement en question notre manière de produire du code : il transforme aussi la manière dont nous construisons notre compréhension du problème.",
