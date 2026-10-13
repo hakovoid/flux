@@ -2,6 +2,208 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "0a5c9c09edde",
+      "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
+      "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l'intégration de l'IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu'agent proactif, apprenant des méthodes de l'entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer l'efficacité sans remplacer l'humain, transformant ainsi la manière de travailler. L’article Pourquoi « Gemini at Work 2026 » transforme notre façon de travailler est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/10/13/pourquoi-gemini-at-work-2026-transforme-notre-facon-de-travailler/",
+      "pubDate": "2026-10-13T10:22:35.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/La-fabrique-des-rapports-comptables-1024x576.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5ccef19103f",
+      "title": "Comment penser sa startup IA native en 2026",
+      "description": "Il y a 15 ans, on montait des boîtes SaaS ou faire le prieur et écrire le code plus rapidement était un avantage comparé aux grands groupes. Aujourd'hui, à l'ère des agents et des LLM, on construit des startups IA Natives. Mais qu'est-ce que ça change vraiment? quand deux personnes peuvent faire le travail d'une équipe entière en faisant \"clanker\" des agents toute la nuit ? Qu’est ce que ça change en termes de qualification du besoin et sa réponse ? Enregistré à Station F lors du Google Startup…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6acdfe4b37f0bd18cc1c1491",
+      "pubDate": "2026-10-13T10:00:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1791884753959-e32f3977-1e14-4ecc-a2cb-fd8b51887fd1.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6acdfe4b37f0bd18cc1c1491/media.mp3",
+      "duration": "53:45"
+    },
+    {
+      "id": "0cc28e3f7e66",
+      "title": "IA et logiciel libre",
+      "description": "Une petite équipe a décidé de cloner 13 logiciels bureautiques vedettes avec une IA et de mettre le résultat à la disposition de tous gratuitement. Word, Photoshop, Figma, Illustrator, Acrobat et plein d’autres. C’est fait par Artcraft AI. C’en est encore au tout début, et ça doit flipper grave chez Microsoft, Adobe et consorts : quelqu’un duplique leurs vaches à lait et les distribue gratuitement sur le Web, sous licence libre (MIT ou Apache 2). Bref, c’est Open Source. Mon collègue Thomas…",
+      "link": "https://standblog.org/blog/post/2026/10/13/IA-et-logiciel-libre",
+      "pubDate": "2026-10-13T09:28:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/artcraft.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e7d884c3ca92",
+      "title": "Printr - Météo, sudoku et autres petits mots sur des tickets de caisse",
+      "description": "Printr fait d'une imprimante à tickets Epson TM-T88V reliée à un Raspberry Pi un gadget familial : météo, jeux, horoscope et petits mots imprimés depuis le téléphone. Il faut ce modèle précis, compiler soi-même, et le dépôt ne déclare pas encore de licence.",
+      "link": "https://korben.info/printr-imprimante-tickets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T08:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/printr-imprimante-tickets/printr-imprimante-tickets-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "81b9529fce87",
+      "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
+      "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
+      "link": "https://domopi.eu/cyberattaques-les-bonnes-pratiques-a-adopter-pour-eviter-den-etre-victime/",
+      "pubDate": "2026-10-13T08:05:19.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/article_security.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f4501dae968d",
+      "title": "MacSpace - Nettoyez ce qui se cache dans les données système de votre Mac",
+      "description": "MacSpace recalcule et détaille le bloc Données système de macOS 27, libère ce qui peut l'être sans risque et purge les modèles d'Apple Intelligence en changeant la langue de Siri, iPhone compris si la synchro iCloud est active.",
+      "link": "https://korben.info/macspace-donnees-systeme-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T07:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/macspace-donnees-systeme-mac/macspace-donnees-systeme-mac-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea962fbbdb2b",
+      "title": "J'ai testé les 12 clones gratuits d'Adobe et de Microsoft",
+      "description": "PhotoCraft, WordCraft, CADCraft et neuf autres clones en Rust : je les ai installés et testés sur Mac, avec qui paie leur développement et ce que le droit européen en dit.",
+      "link": "https://korben.info/crafting-apps-artcraft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T05:05:29.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/crafting-apps-artcraft/crafting-apps-artcraft-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "93053af2e368",
+      "title": "Every app on Earth is now open source... whether it likes it or not",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
+      "pubDate": "2026-10-12T19:15:23.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "da236f09152f",
+      "title": "Test du Dangbei N3 Max, le projecteur au rapport qualité-prix imbattable",
+      "description": "Le Dangbei N3 Max est un vidéoprojecteur LED Full HD de 1000 lumens ISO, affiché 499 € mais trouvé à 399 € sur Amazon. Son pied rotatif (-45 à +135°) et son Netflix officiel sous VIDAA OS le distinguent, mais la télécommande n'est pas rétroéclairée et l'image perd en contraste en plein jour.",
+      "link": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T15:15:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "800833b796ee",
+      "title": "Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2)",
+      "description": "Après notre premier récit, découvrez notre retour sur la deuxième journée de ParisWeb 2026. Le juste prix, ou ce que l’accessibilité coûte pour de vrai Lison Fanuel et Frédéric Halna ont discuté avec nous des informations qu’ils ont recueillies pendant la préparation de leur présentation. Un premier point notable : on a beaucoup de mal […] Cet article, Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2), est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/repenser-nos-pratiques-pour-un-numerique-durable-notre-retour-sur-parisweb-2026-partie-2",
+      "pubDate": "2026-10-12T14:32:26.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-2-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1af467ae3429",
+      "title": "Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1)",
+      "description": "Jeudi 24 et vendredi 25 septembre derniers, se tenait à Paris un événement auquel nous sommes très attaché·es, la 21ème édition de ParisWeb, la conférence qui place l’accessibilité et l’inclusion au cœur du système. Ce qui manque souvent dans nos métiers, c’est le sens. C’est précisément le fil conducteur des conférences de Paris Web : […] Cet article, Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1), est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/cultiver-laccessibilite-et-la-sobriete-les-grands-enseignements-de-parisweb-2026-partie-1",
+      "pubDate": "2026-10-12T14:31:23.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f3e31d09f03f",
+      "title": "ONLYOFFICE 10 - L'IA partout, mais seulement si vous la voulez",
+      "description": "ONLYOFFICE 10.0 met un onglet IA dans ses quatre éditeurs, avec le modèle de votre choix sur serveur, ajoute quatre applications gratuites et une cinquantaine de nouveautés.",
+      "link": "https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-12T13:52:46.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_3748459474905841168_hu_cfb68867a7c042ba.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1683e244885c",
+      "title": "Modernisation applicative avec Kiro + AWS Transform (ATX) : on a modernisé un application legacy Node.js en 2 jours - Le REX complet",
+      "description": "Comment Kiro et AWS Transform (ATX) ont modernisé Club Manager v3, une appli Node.js legacy de 10 ans, en 2 jours au lieu de 6 semaines : coûts, ROI x15 et limites de l'automatisation.",
+      "link": "https://blog.ippon.fr/2026/10/12/modernisation-legacy-nodejs-kiro-aws-transform/",
+      "pubDate": "2026-10-12T13:14:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Capture-d---e--cran-2026-06-26-a---12.58.51.png",
+      "type": "blog"
+    },
+    {
       "id": "6f90ff719dd1",
       "title": "Slot - Quand l'Anbernic RG SP se prend pour une vraie GBA SP",
       "description": "slot ne lit que le Game Boy, mais il rejoue les gestes d'une GBA SP sur votre Anbernic RG SP : cartouches sur étagère, clapet qui sauvegarde, câble link en Wi-Fi.",
