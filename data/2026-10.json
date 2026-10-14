@@ -2,6 +2,114 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "0fa9a9590d3b",
+      "title": "REA - J'ai testé le reverse engineering par agent IA",
+      "description": "Keygen, patch d'un binaire compilé, triches de Wolfenstein 3D, fonction d'Amphetamine recréée : j'ai confié quatre exercices à Claude Code avec REA, puis sans REA, pour voir ce que ce serveur MCP apporte vraiment.",
+      "link": "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-14T08:13:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rea-reverse-engineering-agent-ia-test/rea-reverse-engineering-agent-ia-test-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "6cc57d590605",
+      "title": "Ported2Browser - +200 jeux dans le navigateur",
+      "description": "Ported2Browser recense 210 jeux jouables dans un onglet. AssaultCube et DOOM démarrent bien, mais l'annuaire liste aussi des jeux commerciaux à vérifier.",
+      "link": "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-14T07:34:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ported2browser/ported2browser-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d701319bef48",
+      "title": "Le Petit Prince devient un jeu 3D dans votre navigateur (Merci l'IA)",
+      "description": "Le Petit Prince parmi les étoiles est un jeu 3D jouable dans le navigateur, en français, que Sac dit avoir fabriqué en 16 jours avec Claude Opus 5.5, Tripo et Blender. Ce que le code révèle, les outils pour tenter l'expérience (MCP for Blender, Unity CLI, WebGPU), et pourquoi Linux reste à la porte.",
+      "link": "https://korben.info/petit-prince-jeu-3d-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-14T06:00:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/petit-prince-jeu-3d-ia/petit-prince-jeu-3d-ia-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "60532bfe2ce8",
+      "title": "xboxrecomp - Transformer un jeu Xbox en .exe Windows",
+      "description": "xboxrecomp traduit le code d'un jeu Xbox originale en C pour en faire un .exe Windows. Burnout 3 tourne, mais à 2-4 images par seconde : état des lieux.",
+      "link": "https://korben.info/xboxrecomp-recompilation-statique-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-14T06:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "69b3740e77b9",
+      "title": "#380.src - Hookdeck: La fausse simplicité des webhooks avec Alexandre Bouchard",
+      "description": "\"Les webhooks, ça a toujours été des events\" Le D.E.V. de la semaine est Alexandre Bouchard, fondateur chez Hookdeck. Dans cet épisode, il nous plonge dans l'univers méconnu des webhooks, cette fameuse gateway drug vers l'event-driven architecture. On y parle d'idempotence, de sécurité, de gestion de la volumétrie et de dead letter queues, mais aussi de l'avenir des events avec l'émergence des LLM et des agents. Un épisode indispensable pour comprendre ce qui se cache vraiment derrière la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/380-5e58e53171c0",
+      "pubDate": "2026-10-14T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/6a5dce63-a62f-4849-96be-fb0c09250c63.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6755f068-6c42-487b-bc07-5e58e53171c0.mp3?_=1791892908",
+      "duration": "55:44"
+    },
+    {
+      "id": "8d25d60dec5f",
+      "title": "GitLab - Encore une faille CVSS 10 #FautPatcher",
+      "description": "GitLab corrige une faille notée 10 sur 10 qui permettrait, sans compte, d'exécuter du code sur le serveur via une regex piégée. La troisième CVE du genre en trois semaines : voici les versions à installer.",
+      "link": "https://korben.info/gitlab-faille-critique-regex-ci-cd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T11:48:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "c9e629718cca",
+      "title": "Filmer la police, puis flouter les visages avant de publier",
+      "description": "Un policier ne peut pas s'opposer à ce qu'on le filme, mais publier sans flouter pose un vrai risque. Masque, deface et Signal pour masquer les visages.",
+      "link": "https://korben.info/flouter-manifestants-policiers-filmer-police.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-13T11:30:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/flouter-manifestants-policiers-filmer-police/flouter-manifestants-policiers-filmer-police-1.png",
+      "type": "blog"
+    },
+    {
       "id": "0a5c9c09edde",
       "title": "Pourquoi « Gemini at Work 2026 »  transforme notre façon de travailler",
       "description": "Google Cloud a annoncé Gemini at Work 2026, marquant un tournant dans l'intégration de l'IA au travail. Contrairement à Microsoft Copilot, Gemini agit en tant qu'agent proactif, apprenant des méthodes de l'entreprise et orchestrant des missions via des sous-agents. Cette évolution vise à améliorer l'efficacité sans remplacer l'humain, transformant ainsi la manière de travailler. L’article Pourquoi « Gemini at Work 2026 » transforme notre façon de travailler est apparu en premier sur…",
