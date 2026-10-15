@@ -2,6 +2,132 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ae87491bdd35",
+      "title": "Jumeau Numérique Systémique : Collecte des activités sur le terrain",
+      "description": "Peut-on construire un jumeau numérique à partir de ce que l’on observe sur le terrain, plutôt qu’à partir de la conception des bureaux d’études ?",
+      "link": "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
+      "pubDate": "2026-10-15T08:21:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a10af58dbca5",
+      "title": "Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026",
+      "description": "Nous avons eu l’opportunité de participer à plusieurs talks et workshops de la conférence en ligne SEO Square, un événement organisé par Semji comprenant conférences et tables rondes axées cette année sur la transition du SEO au GEO et l’impact de l’IA. Notre équipe d’experts accompagne déjà nos clients sur les sujets IA depuis plusieurs […] Cet article, Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/visibilite-ia-seo-square-2026",
+      "pubDate": "2026-10-15T07:06:06.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/vignette-SEO-Square-600x338.png",
+      "type": "blog"
+    },
+    {
+      "id": "f16dd945bf74",
+      "title": "Ghostscript - L'aperçu des PDF peut mettre à mal votre serveur",
+      "description": "Wordfence a trouvé dans Ghostscript une faille notée 9,8 qui permet d'exécuter du code via un PDF piégé, mais il faut quatre conditions réunies pour être touché. Voici ce qu'il faut vérifier chez vous ou chez votre hébergeur, quelles distributions n'ont pas encore de correctif, et la parade en attendant.",
+      "link": "https://korben.info/ghostscript-faille-pdf-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-15T06:56:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "7e62d76c0d5e",
+      "title": "ElixirOffice - Une suite libre pour ceux qui ont du mal à quitter Office",
+      "description": "ElixirOffice, la suite bureautique open source de Gaël Duval, reprend le ruban, les raccourcis et la mise en page de Microsoft Office, en appli de bureau hors ligne ou en serveur Docker. Ce qu'elle fait déjà, et ce qui manque à la bêta.",
+      "link": "https://korben.info/elixiroffice-suite-bureautique-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-15T05:55:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/elixiroffice-suite-bureautique-open-source/elixiroffice-suite-bureautique-open-source-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f9e7f229dbd8",
+      "title": "OpenCNC3D - Le Command & Conquer de la N64 revit sur PC et Mac",
+      "description": "OpenCNC3D recrée sur Windows et macOS le Command & Conquer en 3D de la Nintendo 64, avec la logique GPL de Tiberian Dawn, les modèles de la cartouche et trois rendus qui basculent à la barre d'espace. Ce qu'on y joue, et pourquoi les paquets complets restent en zone grise.",
+      "link": "https://korben.info/opencnc3d-command-conquer-64-pc-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-15T05:26:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_12733650649893674413_hu_b4ca2bd88e2c56ce.webp",
+      "type": "blog"
+    },
+    {
+      "id": "297f78f6f368",
+      "title": "OpenAI’s lead engineer was secretly a spy...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=QZVzuq28eFw",
+      "pubDate": "2026-10-14T17:48:10.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ac56cf684fcb",
+      "title": "AWS Transform: ce que notre “trousse à outils agentique” automatise vraiment",
+      "description": "Cinq familles d'agents, une modernisation Python exécutée de bout en bout avec la CLI atx, ses coûts et ses pièges : le deuxième volet de notre série sur la migration augmentée par l'IA précise la part d'AWS et celle du travail d'expert.",
+      "link": "https://blog.ippon.fr/2026/10/14/aws-transform-trousse-outils-agentique/",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/f1825c25-00e4-4a88-a929-0af2ef0410bc.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "888598e6006f",
+      "title": "QBZ, le client Qobuz pour Linux c'est terminé !",
+      "description": "QBZ, le client Qobuz open source pour écouter en bit-perfect sous Linux, est fermé : Qobuz a demandé son arrêt et le développeur a obéi. Ce que dit le support, ce que dit l'auteur, ce qu'il reste du code, et ce que vous pouvez faire si QBZ tourne encore chez vous.",
+      "link": "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-14T10:08:30.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/qbz-fin-client-qobuz-linux/qbz-fin-client-qobuz-linux-1.png",
+      "type": "blog"
+    },
+    {
       "id": "0fa9a9590d3b",
       "title": "REA - J'ai testé le reverse engineering par agent IA",
       "description": "Keygen, patch d'un binaire compilé, triches de Wolfenstein 3D, fonction d'Amphetamine recréée : j'ai confié quatre exercices à Claude Code avec REA, puis sans REA, pour voir ce que ce serveur MCP apporte vraiment.",
@@ -78,6 +204,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/6755f068-6c42-487b-bc07-5e58e53171c0.mp3?_=1791892908",
       "duration": "55:44"
+    },
+    {
+      "id": "710359466890",
+      "title": "Le temps de mise en production est un problème d'organisation",
+      "description": "Beaucoup d’équipes de développement souhaiteraient accélérer les mises en productions. Pour y parvenir, on se concentre généralement sur toute la pipeline d’automatisation: build, tests, déploiement. Seulement, ce n’est pas la technique qui coince le plus. De ce que j’ai pu observer, ce qui ralentit le plus souvent un déploiement, c’est une validation, un process administratif ou organisationnel. Une recette réalisée par une autre équipe en fin de cycle, le retour d’un product owner…",
+      "link": "https://www.jdecool.fr/blog/2026/10/14/le-temps-de-mise-en-production-est-un-probleme-d-organisation.html",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "8d25d60dec5f",
