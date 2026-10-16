@@ -2,6 +2,230 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "138e9b7e7d97",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "pubDate": "2026-10-16T01:44:47.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
+      "type": "blog"
+    },
+    {
+      "id": "d33064359577",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "pubDate": "2026-10-15T20:34:01.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png",
+      "type": "blog"
+    },
+    {
+      "id": "32165ee6af89",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "pubDate": "2026-10-15T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/g91SfQ7YxvtosiWacUxkg/47162ea17967b74890a6ef14a8c9fa78/rosalind-academic-plan-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ad09b0946a60",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "description": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "pubDate": "2026-10-15T16:08:03.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "2b0a4f23c4ee",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "description": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+      "pubDate": "2026-10-15T16:00:00.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a60f4a701f88",
+      "title": "Teaching students to think and learn through questions",
+      "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "pubDate": "2026-10-15T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/16A5mkf828KStF68ijvmN1/2f720d42bb308b9c1ab0edc26a047a17/teaching-students-to-think-and-learn-through-questions-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "370d8453b070",
+      "title": "Introducing Timestral",
+      "description": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
+      "link": "https://mistral.ai/news/timestral",
+      "pubDate": "2026-10-15T12:00:00.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+      "type": "blog"
+    },
+    {
+      "id": "94eadcab22c4",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "description": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "link": "https://openai.com/index/sullivan-cromwell",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4UO3B0RlmvGz3hIUiiFyJl/262aca81008e886c7d750c18ee33c0aa/sullivan-cromwell-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ff0cf28c5d75",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "description": "",
+      "link": "https://huggingface.co/blog/meta-muse-spark-open",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "eb67409897ed",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "description": "",
+      "link": "https://huggingface.co/blog/flux-3",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/flux3/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "c3f9aa1e97f3",
+      "title": "An update on independent evaluators",
+      "description": "An update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "60d0e2fd31ac",
+      "title": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "description": "Cohere to acquire AISLE to advance cyber-resilient sovereign AI",
+      "link": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e62b59612dff99b3a1c1cfadb6227d4806e7a774-7680x4320.png?rect=0,144,7680,4032&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "776f0e0992fe",
+      "title": "AI ROI: How enterprises can measure the return on AI investments",
+      "description": "AI ROI: How enterprises can measure the return on AI investments",
+      "link": "https://cohere.com/blog/ai-roi",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b98e79e7d049a148e4b66c85027f7ad08c9297ba-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "2aae90d5ea61",
+      "title": "AI for utilities requires capability and control",
+      "description": "AI for utilities requires capability and control",
+      "link": "https://cohere.com/blog/ai-for-utilities-requires-capability-and-control",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/b36c731c34b23aeeb737f166444aeaa87d9e9c68-1920x1080.png?rect=0,36,1920,1008&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "30675e872d93",
+      "title": "Agent sprawl: How to manage agent proliferation in the enterprise",
+      "description": "Agent sprawl: How to manage agent proliferation in the enterprise",
+      "link": "https://cohere.com/blog/agent-sprawl",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/1094f3e6b1cb6e160811e3553dd4baed23dca498-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "28190cbcfc36",
+      "title": "Meta's Muse Spark open-weight release Is Now in Limited Preview on GroqCloud",
+      "description": "Meta's Muse Spark open-weight release Is Now in Limited Preview on GroqCloud",
+      "link": "https://groq.com/blog/meta-s-muse-spark-open-release-is-now-in-limited-preview-on-groqcloud",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Groq",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_groq.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/chol0sk5/production/1cddffc5274b4ed9f092efc71f0cdf7393a54540-2400x1260.png",
+      "type": "blog"
+    },
+    {
       "id": "504a28fcb44d",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "description": "",
