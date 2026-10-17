@@ -2,6 +2,20 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9732b2763df5",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "pubDate": "2026-10-16T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5f6g1v0mGiFwS4OuWQJpZ/ea1b571975a4668874331d6d068bfdcb/itau-social-optical-r2.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "138e9b7e7d97",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "description": "",
@@ -13,6 +27,118 @@
         "IA"
       ],
       "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
+      "type": "blog"
+    },
+    {
+      "id": "9e63539289a3",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4HTc2pk7XGFhzDU8RX0Ivg/ff2b922fa1914350c9d800da622ebe04/stack-overflow-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b6756c0a180e",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "description": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "link": "https://openai.com/index/benefit-street-partners",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2Km2vOVvFRvxGl6hZqWOTQ/2073bb541740640de3d215ee6e36b28e/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c9a6184923cc",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "description": "",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "674c86d905c0",
+      "title": "Working at the frontier shapes expectations for the future",
+      "description": "Working at the frontier shapes expectations for the future",
+      "link": "https://www.anthropic.com/research/expectations-for-the-future",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/bb7d44b0b539fd7f179324bbb647b10c2d7bc833-2000x1125.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ac92bb3d5c09",
+      "title": "How employment is changing at Anthropic",
+      "description": "How employment is changing at Anthropic",
+      "link": "https://www.anthropic.com/research/employment-at-anthropic",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "918cdd953ecf",
+      "title": "Claude reveals ECDSA curve origins",
+      "description": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d0c862c5cabd703c0fcbaad939385133f02b694c-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d0817155767a",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "description": "Designing more efficient quantum circuits with Claude",
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f67896274fc0",
+      "title": "The AI expectations gap",
+      "description": "The AI expectations gap",
+      "link": "https://www.anthropic.com/research/ai-expectations-gap",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f887bbe389a32292f37fd38e5515da404a384d0f-2000x1125.jpg",
       "type": "blog"
     },
     {
