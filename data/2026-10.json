@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "0c8dd9643f2b",
+      "title": "Test du SSD NVMe 1 To Fanxiang dans mon NAS",
+      "description": "Korben teste un SSD NVMe M.2 de 1 To de Fanxiang dans son NAS UGREEN DXP8800 Ultra, où il sert de volume dédié aux conteneurs Docker, bases de données et métadonnées Plex. Annoncé à 7 300 Mo/s et 700 To d'écritures, il coûte entre 130 et 170 euros, mais le réseau 10 Gb/s limite les transferts à environ 1 Go/s.",
+      "link": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-17T13:54:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "adfb2ceb4910",
       "title": "Les salles d'agents : le seul endroit où l'on est content d'être contredit",
       "description": "Un agent IA seul gagne toujours : il boxe contre son ombre. Alors j'ai réuni cinq agents autour d'une table, chacun avec son rôle, pour voir ce qu'ils attrapent… ou ratent. Surprise : un matin, 3 « salles » sur 4 étaient tenues par un seul agent jouant tous les rôles. Des preuves, et le droit d'être contredit.",
