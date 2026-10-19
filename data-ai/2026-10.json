@@ -2,6 +2,20 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a0595c813318",
+      "title": "Investing in the public benefit",
+      "description": "Investing in the public benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9732b2763df5",
       "title": "How Itaú is building generative AI for its entire customer base",
       "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
@@ -198,6 +212,20 @@
       "type": "blog"
     },
     {
+      "id": "b655aadac97a",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "description": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+      "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "pubDate": "2026-10-15T15:00:24.000Z",
+      "source": "NVIDIA AI",
+      "sourceUrl": "https://blogs.nvidia.com/blog/category/deep-learning/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/SECOND-Artificial-Analysis-Index-960x408.png",
+      "type": "blog"
+    },
+    {
       "id": "a60f4a701f88",
       "title": "Teaching students to think and learn through questions",
       "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
@@ -223,6 +251,20 @@
         "IA"
       ],
       "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+      "type": "blog"
+    },
+    {
+      "id": "39052ad94a8a",
+      "title": "Apertus 1.5 Release Notes",
+      "description": "",
+      "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "pubDate": "2026-10-15T09:08:45.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/61f1877a168a0b52fda88455/2mHXxCtfos6CgwFSNKFVi.jpeg",
       "type": "blog"
     },
     {

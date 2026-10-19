@@ -2,6 +2,83 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "8e0f824fbd26",
+      "title": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
+      "description": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
+      "link": "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-19T09:04:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/plmail-client-mail-auto-heberge/plmail-client-mail-auto-heberge-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f6cab432d04",
+      "title": "Keepsweeper - Un Démineur avec des péons et des dragons",
+      "description": "Keepsweeper reprend la grille du Démineur, mais ses chiffres comptent des trésors, des gobelins et des dragons, et chaque case creusée fait grandir un royaume en temps réel. Gratuit et complet dans le navigateur, 5,99 € pour tout débloquer sur iPhone.",
+      "link": "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-19T08:32:24.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_6026748083462272155_hu_7b67ea8a342e328b.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c080fd0d91b8",
+      "title": "Music Bridge - Pour que les liens musicaux s'ouvrent bien sur votre plateforme favorite",
+      "description": "Un lien Spotify alors que vous êtes sur Deezer ? L'extension Music Bridge ouvre le même morceau sur votre plateforme, voire dans l'appli de bureau. Ce qu'elle ne prend pas, et à quoi tient sa durée de vie.",
+      "link": "https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-19T08:16:44.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "1c27c1a4c8cd",
+      "title": "Et si vous commenciez par effacer ce que les data brokers savent de vous ?",
+      "description": "Une étude d'Incogni auprès d'un millier d'internautes montre que 52% pensent que leurs données seront exposées dans une fuite et que 63% en sont anxieux. Le service envoie des demandes de suppression aux data brokers (RGPD, CCPA) en moins de 10 minutes de configuration, puis rescanne tous les 2 à 3 mois.",
+      "link": "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-19T07:50:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/data-brokers-que-savent-ils-de-vous/data-brokers-que-savent-ils-de-vous-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "777cb4c573c9",
+      "title": "Colonnes Doctrine chiffrées avec Symfony 8.2 : votre base peut fuiter, pas vos données",
+      "description": "Un dump de base de données qui fuite, et ce sont des emails, des téléphones et des dates de naissance en clair. Symfony 8.2 arrive avec le composant KeyManagement et un attribut #[Encrypted] qui chiffre vos colonnes Doctrine. Tutoriel pas à pas avec dépôt de démonstration : chiffrement, clés de données, KMS et recherche par blind index.",
+      "link": "https://yoandev.co/symfony-colonnes-doctrine-chiffrees",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-colonnes-doctrine-chiffrees.webp",
+      "type": "blog"
+    },
+    {
       "id": "0c8dd9643f2b",
       "title": "Test du SSD NVMe 1 To Fanxiang dans mon NAS",
       "description": "Korben teste un SSD NVMe M.2 de 1 To de Fanxiang dans son NAS UGREEN DXP8800 Ultra, où il sert de volume dédié aux conteneurs Docker, bases de données et métadonnées Plex. Annoncé à 7 300 Mo/s et 700 To d'écritures, il coûte entre 130 et 170 euros, mais le réseau 10 Gb/s limite les transferts à environ 1 Go/s.",
