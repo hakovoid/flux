@@ -2,6 +2,116 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4d73d315c514",
+      "title": "LLM local sur iOS 27 : ce qu'Apple ne dit pas dans la doc",
+      "description": "iOS 27 fait tourner un LLM local sur iPhone : Core AI charge un modèle .aimodel derrière les mêmes API que FoundationModels, en une dizaine de lignes. Mesures sur iPhone 16, iOS 27.0 : 3 des 10 familles du catalogue exportables, 874 Mo pour Qwen2.5-1.5B, 2 min au premier lancement, 14 à 25 s par génération, contre 4,4 à 5,8 s en Apple I",
+      "link": "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
+      "pubDate": "2026-10-20T08:39:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "38e9e37cc6bb",
+      "title": "Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup",
+      "description": "L'étude sur l'engagement des dirigeants sur LinkedIn révèle que, bien que 94 % des membres de comités exécutifs y soient présents, beaucoup restent invisibles. Les dirigeants génèrent un engagement plus élevé que les pages entreprises, prouvant qu'une communication authentique est essentielle. Exprimer ses idées et expériences est crucial pour se démarquer. L’article Pourquoi, en tant que dirigeant de PME, prendre la parole sur LinkedIn vous rapportera beaucoup est apparu en premier sur…",
+      "link": "https://oliviersauvage.com/2026/10/20/pourquoi-en-tant-que-dirigeant-de-pme-prendre-la-parole-sur-linkedin-vous-rapportera-beaucoup/",
+      "pubDate": "2026-10-20T08:13:40.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/dirigeant.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "6fc5ef0d2011",
+      "title": "Broadcom - Une faille Wi-Fi agée de 16 ans toujours sans CVE",
+      "description": "Quentin Kaiser a divulgué une faille d'au moins 16 ans dans le code WPS de Broadcom : à portée de Wi-Fi, sans la clé du réseau, on peut faire exécuter son code à une box. Broadcom dit l'avoir remplacé en 2018 mais refuse d'attribuer un CVE, et sa diapo sur Paris classe une Livebox Sagemcom et la NB6VAC de SFR en « Not Patched ».",
+      "link": "https://korben.info/faille-wps-broadcom-routeurs-wifi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-20T07:51:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "e6059e780b38",
+      "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
+      "description": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni installation. Le site tout neuf ne dit rien des droits des jeux, alors profitez-en tant que ça tourne.",
+      "link": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-20T05:14:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/la-disquette-jeu-pc-de-la-semaine-navigateur/la-disquette-jeu-pc-de-la-semaine-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a0afca37bb19",
+      "title": "Jev : et si les LLM n’étaient plus les seuls modèles dont nous avions besoin ?",
+      "description": "Jev, modèle System One de TypeSafe AI, évalue un état et renvoie une décision typée. Où l’utiliser à côté d’un LLM, sur un projet dbt ou dans un chatbot bancaire, et quelles limites garder en tête.",
+      "link": "https://blog.ippon.fr/2026/10/19/jev-modele-system-one-llm/",
+      "pubDate": "2026-10-19T13:27:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-12----17.04.02.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce9df86fb353",
+      "title": "Forum PHP 2026 : notre retour sur les conférences",
+      "description": "Découvrez notre retour sur le Forum PHP 2026 : IA, Symfony 8.2, sécurité, et REX inspirants ! Cet article, Forum PHP 2026 : notre retour sur les conférences, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/forum-php-2026-notre-retour-sur-les-conferences",
+      "pubDate": "2026-10-19T10:10:59.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/1791562027685-1024x676.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "050d9e11b3d6",
+      "title": "Korben Remote Desktop - Contrôlez votre Mac à distance gratuitement",
+      "description": "J'en avais marre du Partage d'écran d'Apple qui lag et de VNC, alors je me suis codé ma propre app de prise de contrôle à distance pour Mac. Image HEVC fluide, son, fichiers, fenêtres d'apps déportées, accès web, le tout chiffré, sur votre réseau local ou votre VPN privé, 100 % gratuit et sans télémétrie.",
+      "link": "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-19T10:04:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/korben-remote-desktop/korben-remote-desktop-2.png",
+      "type": "blog"
+    },
+    {
       "id": "8e0f824fbd26",
       "title": "plMail - Toutes vos boîtes mail rassemblées dans une interface",
       "description": "Gmail arrête de relever vos autres boîtes par POP en janvier 2027. plMail les rassemble dans un webmail hébergé chez vous, avec un Gmail à brancher à la main et un iPhone à compiler.",
@@ -59,6 +169,57 @@
         "Web"
       ],
       "image": "https://korben.info/data-brokers-que-savent-ils-de-vous/data-brokers-que-savent-ils-de-vous-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "886871196086",
+      "title": "Dev With AI 2026: la 1re conférence française du dev avec l'IA",
+      "description": "L'IA écrit du code plus vite qu'on ne sait le relire. Vérification, contexte, outillage léger, relecture des conversations, coûts : ce qu'il faut retenir des talks de Dev With AI, les désaccords entre intervenants, et un avis sur les hooks, grands oubliés de la journée.",
+      "link": "https://blog.ippon.fr/2026/10/19/dev-with-ai-2026-conference/",
+      "pubDate": "2026-10-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/IMG_4396.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ef97ee60d8ed",
+      "title": "La tech bascule dans le fascisme",
+      "description": "Le créateur de Rails a écrit que l'immigration était une catastrophe pour l'Europe. Je lui ai dit de fermer sa grande bouche, et j'ai passé la soirée à bloquer des racistes. Ce billet, c'est ce que j'ai compris en creusant.",
+      "link": "https://yoandev.co/la-tech-bascule-dans-le-fascisme",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/la-tech-bascule-dans-le-fascisme.webp",
+      "type": "blog"
+    },
+    {
+      "id": "736b64715e1e",
+      "title": "Jack cherche un taf : un point-and-click né dans un train",
+      "description": "Hier, 18 octobre, ma fille Anna et moi étions dans un TGV entre Paris et Brest, sur le retour d'un week-end en famille. Quelques heures de train, mon ordinateur portable, et Anna, 12 ans, assise à côté de moi. Ce n'était pas notre premier jeu du week-end. À l'aller, de la Bretagne à Paris, nous en avions déjà fait un ensemble dans le TGV : un jeu à la Temple Run, basé sur un des sets LEGO reçus dans le TGV. Alors pour le retour, Anna voulait un jeu aussi, mais d'un autre genre : sans combat,…",
+      "link": "https://lostinbrittany.dev/fr/jack-cherche-un-taf/",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-10-19-jack-cherche-un-taf/jack.png",
       "type": "blog"
     },
     {
