@@ -2,6 +2,56 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3beb6a1a3603",
+      "title": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
+      "description": "\"On se fiche de savoir quelle est l'architecture du legacy. La seule chose qui est importante, c'est qu'est-ce qu'on veut à la fin.\" Le D.E.V. de la semaine est Quentin Pleplé, CTO de la practice de modernisation par l'IA chez Théodo. Depuis un an, ses équipes réécrivent des applications legacy entières avec du code généré à 100% par l'IA, tout en gardant le contrôle qualité grâce à des usines agentiques rigoureusement outillées. Dans cet épisode, il détaille sa méthode en trois phases (spec,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/381-83c5b350b8b0",
+      "pubDate": "2026-10-21T03:00:20.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e534e123-e85e-4bbc-8d29-7b49da195cc9.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7f6177aa-a4f3-4ae9-a71b-83c5b350b8b0.mp3?_=1792497680",
+      "duration": "01:10:47"
+    },
+    {
+      "id": "a2655b963a8b",
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "pubDate": "2026-10-20T16:21:03.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e5cb9138f7eb",
+      "title": "ai-PULSE 2026 : ce que Scaleway et l'écosystème européen ont montré",
+      "description": "Modèles ouverts, couche harness des agents, compute souverain, world model cloud et agents vocaux : ce que Scaleway, Mozilla, Mistral, PRESAGE et Gradium ont montré à ai-PULSE 2026, et ce que cela change pour les équipes.",
+      "link": "https://blog.ippon.fr/2026/10/20/ai-pulse-2026-scaleway-ecosysteme-europeen/",
+      "pubDate": "2026-10-20T15:16:52.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/IMG_5556.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "4d73d315c514",
       "title": "LLM local sur iOS 27 : ce qu'Apple ne dit pas dans la doc",
       "description": "iOS 27 fait tourner un LLM local sur iPhone : Core AI charge un modèle .aimodel derrière les mêmes API que FoundationModels, en une dizaine de lignes. Mesures sur iPhone 16, iOS 27.0 : 3 des 10 familles du catalogue exportables, 874 Mo pour Qwen2.5-1.5B, 2 min au premier lancement, 14 à 25 s par génération, contre 4,4 à 5,8 s en Apple I",

@@ -380,6 +380,20 @@
       "type": "blog"
     },
     {
+      "id": "4e3ca8a95d36",
+      "title": "Introducing Claude Sonnet 5.5",
+      "description": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9de028fbe46c",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -702,6 +716,20 @@
       "type": "blog"
     },
     {
+      "id": "73e86071f981",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "description": "We’re announcing a new life sciences research group and laboratory at Anthropic. This post introduces the team behind this work and shares early results in which Claude discovered a novel enzyme system with properties reminiscent of CRISPR.",
+      "link": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6767b35fae00316d8cd744f50a38fb72a01f6c75-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "f9027d80e820",
       "title": "Better prompt caching for GPT-6",
       "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
@@ -814,6 +842,20 @@
       "type": "blog"
     },
     {
+      "id": "0dd3bed5c7dd",
+      "title": "Introducing Claude Opus 5.5",
+      "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
+      "type": "blog"
+    },
+    {
       "id": "d84d5932ca4e",
       "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
       "description": "Custom-made molecules are advancing medicine, materials, and agriculture, but producing them is slow and expensive. A new Nature paper highlights RetroChimera, a predictive model that helps accelerate chemical synthesis, helping researchers explore a wide range of molecules. The post Improving synthesis prediction of small molecules at scale with RetroChimera appeared first on Microsoft Research.",
@@ -923,6 +965,20 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "2e5583115501",
+      "title": "The Situation Report",
+      "description": "A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible.",
+      "link": "https://www.anthropic.com/features/ebola-response",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/01a7f8f55e83f615a5d9c0fad56863f1863a41d9-1200x630.jpg",
       "type": "blog"
     },
     {
@@ -1273,6 +1329,20 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e7232d52f37f",
+      "title": "Introducing Claude Mythos and Fable 5.1",
+      "description": "They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress.",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/932ca7d6f414ca22fd5a26dcc131410575b9b3e5-1200x630.jpg",
       "type": "blog"
     },
     {
@@ -1651,6 +1721,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/25a7c99743ebfb3b79cb98ffa2b9e928ad7e712b-2000x1125.webp",
+      "type": "blog"
+    },
+    {
+      "id": "eaff98a3f977",
+      "title": "Scenarios for our economic future",
+      "description": "Anthropic’s Economics team is sharing a new model of how AI may affect economic growth, jobs, wages, and more by 2030. The model lets you explore the scenarios, tell us what you think will happen, and see how your answers compare to +10,000 Americans.",
+      "link": "https://www.anthropic.com/institute/econ-scenarios",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2fc2aaa692554fc9976fcd333892cbb9e888e0bc-1200x630.png",
       "type": "blog"
     },
     {
