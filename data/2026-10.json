@@ -2,6 +2,49 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4c080fcb5b4e",
+      "title": "Votre VPN est-il prêt pour les menaces futures ? #sponso",
+      "description": "Dans un article partenaire, Surfshark annonce une version de WireGuard entièrement post-quantique, combinant ML-KEM et certificats ML-DSA, d'abord sur iOS et macOS. Le VPN ajoute aussi une rotation d'IP toutes les 5 à 10 minutes sans coupure, ainsi qu'une option Multi IP, réservée pour l'instant à macOS.",
+      "link": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-10-22T07:15:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/votre-vpn-est-il-pret-pour-les-menaces-futures/votre-vpn-est-il-pret-pour-les-menaces-futures-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "164285eb7917",
+      "title": "Why « Gemini at Work 2026 » is transforming the way we work",
+      "description": "Google Cloud has announced Gemini at Work 2026, marking a turning point in the integration of AI into work. Unlike Microsoft Copilot, Gemini acts as a proactive agent, learning company methods and orchestrating missions via sub-agents. This evolution aims to improve efficiency without replacing humans, thereby transforming the way we work. L’article Why « Gemini at Work 2026 » is transforming the way we work est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/21/why-gemini-at-work-2026-is-transforming-the-way-we-work/",
+      "pubDate": "2026-10-21T14:07:32.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Amber-Automated-Office-Factory-1024x576.png",
+      "type": "blog"
+    },
+    {
+      "id": "5ab7932c9488",
+      "title": "Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ?",
+      "description": "L’article Et si remplir son CRM devenait aussi simple que raconter son rendez-vous ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/21/et-si-remplir-son-crm-devenait-aussi-simple-que-raconter-son-rendez-vous/",
+      "pubDate": "2026-10-21T11:59:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Capture-decran-2026-10-21-a-13.57.22-1024x586.png",
+      "type": "blog"
+    },
+    {
       "id": "3beb6a1a3603",
       "title": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
       "description": "\"On se fiche de savoir quelle est l'architecture du legacy. La seule chose qui est importante, c'est qu'est-ce qu'on veut à la fin.\" Le D.E.V. de la semaine est Quentin Pleplé, CTO de la practice de modernisation par l'IA chez Théodo. Depuis un an, ses équipes réécrivent des applications legacy entières avec du code généré à 100% par l'IA, tout en gardant le contrôle qualité grâce à des usines agentiques rigoureusement outillées. Dans cet épisode, il détaille sa méthode en trois phases (spec,…",
@@ -18,6 +61,53 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/7f6177aa-a4f3-4ae9-a71b-83c5b350b8b0.mp3?_=1792497680",
       "duration": "01:10:47"
+    },
+    {
+      "id": "b581e76f42d7",
+      "title": "News octobre 2026 RC2, Deno file chez Cloudflare, qui possède l'open source JS et PHP sonne l'alerte",
+      "description": "Nous évoquons Deno qui rejoint Cloudflare et la fin annoncée de Deno Deploy, la vague de rachats de l'open source JS par Cloudflare, Vercel, Anthropic et OpenAI, la course aux compilateurs TypeScript avec tsgo, bun check, tsc-rs, tsrs et tsc-ts, les deux failles critiques annoncées côté PHP, OSS Scanner d'Anthropic, OpenCode 2.0, Bootstrap 6 alpha, PrimeNG 22 qui quitte l'open source, les agent skills dans pnpm, et quelques outils comme Nuxt Fonts, TanStack Hotkeys ou lessrusty. Retrouvez…",
+      "link": "https://double-slash.dev/podcasts/news-oct-26-rc2/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1792571027/episode/ART_144_xz4non.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_144_news-oct-rc2.mp3",
+      "duration": "2698"
+    },
+    {
+      "id": "febbdc79fa0a",
+      "title": "Linux Essentials&nbsp;: la version 2.0 est en ligne",
+      "description": "Linux Essentials : la version 2.0 est en ligne {align=right} Quelques mois en arrière, je vous ai parlé de la [refonte complète de la documentation Linux Essentials][1] du Linux Professional Institute, dont j'avais entamé la traduction à raison de plusieurs pages par jour.",
+      "link": "https://www.microlinux.fr/blog/linux-essentials-v2/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/lpi-logo.png",
+      "type": "blog"
+    },
+    {
+      "id": "c0c66060de1e",
+      "title": "Qui comprend encore ce qui est livré ?",
+      "description": "Avec l’IA, tout va plus vite, parfois beaucoup trop vite. Un ticket arrive, il est pris en charge par un agent. Dans les minutes qui suivent, une PR est ouverte, la demande est implémentée, testée et vérifiée. Dans un cycle de livraison continue, elle peut alors être déployée dans la foulée. Tout cela ressemble à un processus parfait. Tous les voyants sont au vert : les demandes sont traitées rapidement et avec le niveau de qualité souhaité. Pourtant, avec cette accélération, il est facile de…",
+      "link": "https://www.jdecool.fr/blog/2026/10/21/qui-comprend-encore-ce-qui-est-livre.html",
+      "pubDate": "2026-10-20T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "a2655b963a8b",
