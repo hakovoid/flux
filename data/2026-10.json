@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "89aac718bd43",
+      "title": "Dans les coulisses de mon dernier side project: les tests automatisés",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés (cet article) L’architecture et le cadre fourni à l’IA ne suffisent pas à garantir ce qui va être produit. C’est pour cela qu’en plus de tout ça, de nombreux outils de vérification et de tests, cette fois-ci déterministes,…",
+      "link": "https://www.jdecool.fr/blog/2026/10/26/dans-les-coulisses-de-mon-dernier-side-project-les-tests-automatises.html",
+      "pubDate": "2026-10-25T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e93b2188ee4c",
       "title": "Dans les coulisses de mon dernier side project: le harness",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness (cet article) L’article précédent a présenté l’architecture technique du projet, dont le code a été écrit en grande partie par des agents. Pour que ces derniers puissent respecter les standards que je me suis fixés et livrent des fonctionnalités qui…",
