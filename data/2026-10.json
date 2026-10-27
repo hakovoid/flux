@@ -2,6 +2,82 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d3f879c1aa3d",
+      "title": "Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ?",
+      "description": "L'article souligne un angle souvent ignoré de l'IA : le temps qu'elle entraîne en supervision et en corrections, qui peut annuler les gains de productivité prometteurs. Une étude de G2 révèle que 45 % des utilisateurs perdent des heures à surveiller les IA, ce qui nécessite une réflexion sur leur réelle efficacité dans l'entreprise. L’article Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ? est apparu en premier sur OlivierSauvage.com.",
+      "link": "https://oliviersauvage.com/2026/10/27/agents-ia-qui-surveille-les-machines-pendant-que-vous-etes-cense-gagner-du-temps/",
+      "pubDate": "2026-10-27T07:32:56.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/10/Superviseur-surplombant-une-usine-robotisee-en-degrade-1024x576.png",
+      "type": "blog"
+    },
+    {
+      "id": "d937815092fb",
+      "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
+      "description": "Ce volet est consacré à un sujet délicat : le désapprentissage. Contrairement à ce que l'on pourrait croire, se défaire d'un savoir demande souvent plus d'effort que d'en acquérir un nouveau. Dans notre cas, nous avons longuement tâtonné pour construire un harnais qui nous semblait satisfaisant.",
+      "link": "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
+      "pubDate": "2026-10-27T06:53:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12d9e161a205",
+      "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure (cet article) Avant l’IA, travailler sur un projet Web ne présentait pas de difficulté particulière: il suffisait de lancer les serveurs de développement qui étaient généralement directement intégrés…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "35d357fc7620",
+      "title": "China just dropped a new frontier model... and nobody can explain how",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "pubDate": "2026-10-26T18:55:29.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18d38e948c88",
+      "title": "Sortir de Google Workspace : mail, agendas, visio et bureautique sur un serveur dédié, un seul SSO",
+      "description": "Ce qui tourne aujourd’hui Le 24 octobre 2026, l’enregistrement MX de mon domaine a cessé de pointer vers Google. Depuis, le mail arrive sur un serveur dédié, dans Stalwart, et je le lis dans Bulwark, un webmail installé comme application sur le bureau et sur Android. Les agendas et les contacts sont dans Stalwart aussi, qui fait Calendrier et Contact sans rien ajouter. La page de prise de rendez-vous que les prospects utilisent n’est plus un lien Google Calendar. La visio n’est plus Meet. Les…",
+      "link": "https://kolapsis.com/blog/how-to-exit-google-workspace/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": "https://kolapsis.com/img/exit-google-workspace-hero.png",
+      "type": "blog"
+    },
+    {
       "id": "89aac718bd43",
       "title": "Dans les coulisses de mon dernier side project: les tests automatisés",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés (cet article) L’architecture et le cadre fourni à l’IA ne suffisent pas à garantir ce qui va être produit. C’est pour cela qu’en plus de tout ça, de nombreux outils de vérification et de tests, cette fois-ci déterministes,…",

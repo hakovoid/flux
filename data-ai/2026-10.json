@@ -2,6 +2,160 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a9c488820a62",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "pubDate": "2026-10-26T22:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/41HmEnWTxiRSX2JLf1g8IJ/86b6e146a0620d83db05f4010e6b058e/greptile-connections-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "b1d7eb2dedce",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "pubDate": "2026-10-26T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8eb6001a836a",
+      "title": "Working with academic communities to build scientific understanding",
+      "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "pubDate": "2026-10-26T14:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7d972df501d0",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "pubDate": "2026-10-26T13:45:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ksgDNZQ7aw2uHUY6xbaVm/0ffd141428e2cea70f4dcbf67ccd6245/gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "27334100e818",
+      "title": "ChatGPT’s expanding world of work",
+      "description": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "pubDate": "2026-10-26T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6K9gMLTc6r3aFUbyZ2uZDN/d05f2ece956d33201cab06373febac3a/how-workers-use-chatgpt-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7e73eebe3e90",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "pubDate": "2026-10-26T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4HesvKzyeH10Tdn3X9RNpq/28039b261753134c4addc73a90aa3103/fanatics-seo-image.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "742d30efdc40",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "description": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "pubDate": "2026-10-26T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6H0c65mearAtOzTfg4UZNj/28cc9c689c98e9bd68ca92f8c40d9818/oai-ultrafast-series-og-2048.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "35e334c19874",
+      "title": "Introducing GPT-6.1 Terra",
+      "description": "Bringing fast and capable computer use to everyone",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-16x9.0394724b.png",
+      "type": "blog"
+    },
+    {
+      "id": "9a064d95901e",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "description": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7f92c8b1f5ed",
+      "title": "PitchBook in North: Private market intelligence for enterprise teams",
+      "description": "Connect PitchBook to access company financials, funding history, investor activity, and market benchmarks - all within the workflows your teams already use in North.",
+      "link": "https://cohere.com/blog/pitchbook-integration",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/bd462488492399f45500e9b3b04295d8f1d23f06-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "27779e2e3a96",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "description": "Inside a closed testing sandbox managed by Cohere, one of Alibaba's newest Qwen3.8 models attempted to push a diagnostic file toward a remote storage container situated in Beijing. Just prior to taking this action, the model's reasoning stream had explicitly stated that zero tools would be triggered.",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/658e160a6519a049e260213d409551e67399113a-1352x754.png?rect=0,22,1352,710&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "ee4c22366ef7",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",

@@ -2,6 +2,21 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "1e1fba5f8d3e",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "EasyAdmin Symfony est la solution idéale pour un back-office léger. Installez-le rapidement en suivant ce guide et gérez efficacement vos entités Doctrine.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin/",
+      "pubDate": "2026-04-30T18:47:42.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/c-est-parti-pour-installer-easyadmin.png",
+      "type": "blog"
+    },
+    {
       "id": "4acb7dd428d9",
       "title": "GitHub is having some major issues right now…",
       "description": "",
@@ -316,6 +331,21 @@
       "type": "blog"
     },
     {
+      "id": "128f9261a357",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Doctrine présente 3 stratégies d'héritage ORM : STI, CTI et Mapped Superclass. Découvrez cette 3e option souvent oubliée pour vos entités complexes.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre/",
+      "pubDate": "2026-04-29T11:18:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre.png",
+      "type": "blog"
+    },
+    {
       "id": "76b09e49d668",
       "title": "Xiaomi ouvre MiMo-V2.5 et MiMo-V2.5-Pro en open source sous licence MIT",
       "description": "Xiaomi a publié hier MiMo-V2.5 et MiMo-V2.5-Pro, deux modèles d'IA qu'il met directement en open source sous licence MIT. Le plus gros, le Pro, fait 1 020 milliards de paramètres dont 42 milliards activés en simultané, avec une fenêtre de contexte d'un million de tokens. À noter que tout est téléchargeable sur Hugging Face avec poids, tokenizer et fiche modèle complète. L'architecture est un Mixture-of-Experts à attention hybride, conçue pour tenir des tâches longues avec plus de mille appels…",
@@ -620,6 +650,21 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4276e0e6f4e8",
+      "title": "Fibers PHP : anatomie d'une primitive mal aimée",
+      "description": "Les Fibers PHP, bien que peu utilisées directement, sont le moteur des bibliothèques async modernes comme Amphp. Découvrez leur fonctionnement bas niveau.",
+      "link": "https://lecodeestdanslepre.fr/billets/fibers-php-anatomie-d-une-primitive-mal-aimee/",
+      "pubDate": "2026-04-28T19:34:01.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/fibers-php-anatomie-d-une-primitive-mal-aimee.png",
       "type": "blog"
     },
     {
