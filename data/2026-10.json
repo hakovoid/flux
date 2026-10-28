@@ -2,6 +2,106 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2b4397f5ada5",
+      "title": "#382.src - Rapprocher la CI: L'IA a 20x la cadence, nos CI doivent suivre avec Yves Brissaud",
+      "description": "\"Aujourd'hui, c'est illusoire de se dire qu'on va relire le code. Je n'écris plus de code, pourquoi j'irais le relire ?\" Le D.E.V. de la semaine est Yves Brissaud, SSE chez Dagger et Docker Captain. Avec l'explosion du nombre de pull requests générées par les agents IA, nos CI craquent sous la charge et révèlent des problèmes qui existaient déjà bien avant : lenteur, flakiness, absence de cache fin, gaspillage de ressources. Yves nous explique comment repenser la CI en profondeur grâce à un…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/382-032793d4d61c",
+      "pubDate": "2026-10-28T04:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/3f1a2f27-c8d2-4044-8518-5f1b5ef90a81.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/dc7844a9-0048-43f3-90d2-032793d4d61c.mp3?_=1793106084",
+      "duration": "01:03:34"
+    },
+    {
+      "id": "4bbee201cf0f",
+      "title": "Une année est passée, on dirait une éternité",
+      "description": "Cette semaine, je retourne à BDX I/O, à Bordeaux. J'ai deux talks à donner, plein de gens que j'ai envie de retrouver, et pas mal de choses dans la tête. L'année dernière, j'y avais parlé de l'avenir du métier de développeur. De l'arrivée des LLM, de ce qu'ils changeaient dans notre façon de travailler, et de cette question qui revenait partout : est-ce qu'on aura encore besoin de développeurs ? Pour prendre un peu de recul, je racontais les autres révolutions que notre métier avait traversées.…",
+      "link": "https://lostinbrittany.dev/fr/une-annee-est-passee/",
+      "pubDate": "2026-10-28T00:00:00.000Z",
+      "source": "Lost in Brittany (Horacio Gonzalez)",
+      "sourceUrl": "https://lostinbrittany.dev/fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://lostinbrittany.dev/img/posts/2026-10-28-a-year-has-passed/a-year-has-passed-social-fr.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e98e232ace64",
+      "title": "En finir avec le mème de la conquête lunaire",
+      "description": "Suggestion de lecture au passionné·es d’espace, d’astrophysique, de planétologie : le numéro 24 de la magnifique revue Reliefs (« Lunes »), qui traite de l’astre sélène sous tous les angles, avec un texte de l’astrophysicien Roland Lehoucq sur la science-fiction, un autre En finir avec le mème de la conquête lunaire first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/en-finir-avec-le-meme-de-la-conquete-lunaire/",
+      "pubDate": "2026-10-27T19:46:54.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://maisouvaleweb.fr/wp-content/uploads/2026/10/Relief.png",
+      "type": "blog"
+    },
+    {
+      "id": "deef225c6f20",
+      "title": "Que s'est-il passé avec les packages npm sur ces 12 derniers mois ?",
+      "description": "Depuis septembre 2025, les compromissions de paquets npm se sont multipliées : Shai-Hulud, axios, Mastra, ChainDrop. Retour sur un an et demi d’attaques, les propriétés de l’écosystème node qui les rendent possibles, et les mesures concrètes (délai avant installation, blocage des scripts, CI, OIDC) pour réduire votre exposition.",
+      "link": "https://blog.octo.com/octo-que-s'est-il-passe-avec-les-packages-npm-sur-ces-12-derniers-mois",
+      "pubDate": "2026-10-27T15:29:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06c088aad99d",
+      "title": "PHP, failles de sécurité et communs numériques : qui tient le Web ?",
+      "description": "70 % du Web tourne sur PHP, mais sa sécurité repose sur une poignée de développeur·ses. Les récentes failles critiques le rappellent : les communs numériques ont besoin de financements pérennes. Cet article, PHP, failles de sécurité et communs numériques : qui tient le Web ?, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/php-failles-securite-communs-numeriques",
+      "pubDate": "2026-10-27T14:38:39.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-php-1024x571.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0cd449e39ccd",
+      "title": "BDX I/O 2026 : dédicace de mon livre, jeudi matin !",
+      "description": "C’est officiel ! Dans mon post de septembre, je vous teasais qu’une troisième chose mijotait peut-être pour BDX I/O… Je serai bien présent à l’édition 2026, mais uniquement le jeudi matin, pour une séance de dédicaces ! Les infos pratiques Quand : jeudi 29 octobre 2026, le matin uniquement Où : sur le stand de la librairie Mollat, à l’ENSEIRB-MATMECA (Talence) Quoi : dédicaces de “Kubernetes : 50 solutions pour les postes de développement et les clusters de production” (Éditions Eyrolles) Les…",
+      "link": "https://blog.zwindler.fr/2026/10/27/bdxio-2026-dedicace-livre/",
+      "pubDate": "2026-10-27T08:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2025/10/kubernetes-50-solutions-cover.webp",
+      "type": "blog"
+    },
+    {
       "id": "d3f879c1aa3d",
       "title": "Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ?",
       "description": "L'article souligne un angle souvent ignoré de l'IA : le temps qu'elle entraîne en supervision et en corrections, qui peut annuler les gains de productivité prometteurs. Une étude de G2 révèle que 45 % des utilisateurs perdent des heures à surveiller les IA, ce qui nécessite une réflexion sur leur réelle efficacité dans l'entreprise. L’article Agents IA : qui surveille les machines pendant que vous êtes censé gagner du temps ? est apparu en premier sur OlivierSauvage.com.",
@@ -37,6 +137,21 @@
       "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
       "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure (cet article) Avant l’IA, travailler sur un projet Web ne présentait pas de difficulté particulière: il suffisait de lancer les serveurs de développement qui étaient généralement directement intégrés…",
       "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e10067685de",
+      "title": "Dans les coulisses de mon dernier side project: les chiffres",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/5 - L’architecture technique 2/5 - Le harness 3/5 - Les tests automatisés 4/5 - L’infrastructure 5/5 - Les chiffres (cet article) Cet article sera le cinquième et dernier de la série “Dans les coulisses de mon dernier side project”. Au travers de ces articles, vous avez pu découvrir tout ce que…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-les-chiffres.html",
       "pubDate": "2026-10-26T23:00:00.000Z",
       "source": "Jérémy Decool",
       "sourceUrl": "https://www.jdecool.fr/feed.xml",
