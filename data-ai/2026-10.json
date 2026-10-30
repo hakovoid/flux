@@ -2,6 +2,90 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d368308dafb9",
+      "title": "Microsoft Research Focus – Edition #97",
+      "description": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+      "pubDate": "2026-10-29T19:19:16.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9349f418e7bc",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "description": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "link": "https://openai.com/index/updated-model-spec",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "e508e29ae812",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "pubDate": "2026-10-29T13:37:07.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
+      "type": "blog"
+    },
+    {
+      "id": "5a25565ab71a",
+      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+      "description": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+      "link": "https://mistral.ai/news/mistral-large-4-oss",
+      "pubDate": "2026-10-29T12:00:07.000Z",
+      "source": "Mistral AI",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0f01adb2acab",
+      "title": "How we detect frontier model misalignment",
+      "description": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "pubDate": "2026-10-29T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d948735545c2",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "description": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "pubDate": "2026-10-29T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4lObA1HwFj5BMe9aLY4VTn/43b3536d7726d9f7b2a5ed27183a3cda/ropes-gray-ai-diligence-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "1cb235fae639",
       "title": "Build a Financial Research Assistant with Cohere AI on AWS",
       "description": "Build a Financial Research Assistant with Cohere AI on AWS",
@@ -13,6 +97,62 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/a9f5cf4c07f32484927a5f451a4763453a1cd062-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "718617961cab",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "description": "",
+      "link": "https://huggingface.co/blog/announcing-project-protostar",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/announcing-project-protostar/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b6b30743068c",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "description": "",
+      "link": "https://huggingface.co/blog/mistral-large4",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "6394645bd510",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "description": "",
+      "link": "https://huggingface.co/blog/anydecisionmodel",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/anydecisionmodel/banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "93582f69635a",
+      "title": "Who Gets to Build the Frontier for AI",
+      "description": "Why the democratic world needs more frontier AI builders and how we intend to compete.",
+      "link": "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d85c3bd46cc053746d65742a240a1d1ccea79212-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
