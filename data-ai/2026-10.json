@@ -2,6 +2,90 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "037154e824aa",
+      "title": "nemotron-halloween",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "pubDate": "2026-10-30T17:57:24.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f76fde50a9a",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "description": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "pubDate": "2026-10-30T13:05:28.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FromSyntheticEnterprise-BlogHeroFeature-1400x788-1-1024x576.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "84abd1857de5",
+      "title": "Making it easier for websites to express AI training preferences",
+      "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4fvNR0KxKmPYu4fRXtEgKp/4a522ef61a6f983b0b65ad39c2a71e4c/websites-toeexpress-ai-training-preferences-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a86d24c59c82",
+      "title": "Community safety report and new protections for teens",
+      "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Bjdb6r2RnzPzTHsby9gGq/d1b04269dc8a4df875d201341fe6d254/51GTG8rZQTzq9iEcTVFvUi--seo-v003.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "574dbaf7fc87",
+      "title": "Fair use benefits everyone",
+      "description": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/40dN0khAbqCa0KpP5e4879/5d3e710f50e44711bc40ca55c175726a/fair-use-benefits-everyone-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "7909eda5a0dd",
+      "title": "Cohere advances C$4 billion commitment to strengthen Canada’s AI leadership and significantly expand its national workforce",
+      "description": "This will help strengthen Canada's sovereign AI capabilities through investments in talent, research, infrastructure, and commercialization",
+      "link": "https://cohere.com/blog/cohere-canada-commitment",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6f3e91a2db90382d96ee92b134a8b86b62d94417-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "d368308dafb9",
       "title": "Microsoft Research Focus – Edition #97",
       "description": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsoft Research.",
@@ -153,6 +237,20 @@
         "IA"
       ],
       "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d85c3bd46cc053746d65742a240a1d1ccea79212-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
+      "id": "85f94c0fe8f0",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "link": "https://openai.com/index/credit-saison",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/34e23f2L963CB20dvVX3gz/c3f268bf07335f43f4a63e78535105ec/credit-saison-stacked-social.png?w=1600&amp;h=900&amp;fit=fill",
       "type": "blog"
     },
     {
