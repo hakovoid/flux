@@ -2,6 +2,38 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e73ca8e644f3",
+      "title": "Plugin Modernization by Anthropic ",
+      "description": "Avant l’essor des approches agentiques, moderniser un système legacy exigeait du courage, de la persévérance et une solide maîtrise technique. Ces projets pouvaient mobiliser pendant plusieurs mois de nombreux professionnels, avec un budget parfois difficile à engager.",
+      "link": "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
+      "pubDate": "2026-11-02T10:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b58b8ec0e5cf",
+      "title": "Arnaques dopées à l'IA - Comment ne pas tomber dans le panneau #sponso",
+      "description": "Une commande à coller, un lien, du code, un agent : des pièges où l'IA sert de décor de confiance, avec le réflexe gratuit pour chacun et ce que l'analyse des conversations d'ESET couvre ou pas.",
+      "link": "https://korben.info/arnaques-dopees-ia-comment-se-proteger.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-02T07:20:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arnaques-dopees-ia-comment-se-proteger/arnaques-dopees-ia-comment-se-proteger-2.png",
+      "type": "blog"
+    },
+    {
       "id": "27b20530b3ee",
       "title": "Labo virtuel avec QEMU",
       "description": "J’utilisais jusqu’ici des pour toutes mes expérimentations relatives au réseau. De nombreuses alternatives existent : , , ou . Malgré leurs qualités, je considère encore ma propre solution comme la plus adaptée à mes attentes :machines virtuelles UMLGNS3NetkitMarionnetCloonix L’utilisation d’ me posait quelques soucis :UML Toutefois, l’un des points forts d’ est la présence de , un système de fichiers donnant accès à une partie du système de fichiers de l’hôte. C’est une fonctionnalité clé pour…",

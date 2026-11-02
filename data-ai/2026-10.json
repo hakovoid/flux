@@ -16,6 +16,20 @@
       "type": "blog"
     },
     {
+      "id": "1b296d8bb115",
+      "title": "Speeding up planning decisions with AI",
+      "description": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "pubDate": "2026-10-30T14:18:30.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "7f76fde50a9a",
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
       "description": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research.",
