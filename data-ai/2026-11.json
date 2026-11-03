@@ -1,0 +1,159 @@
+{
+  "month": "2026-11",
+  "articles": [
+    {
+      "id": "fc87a45dcfbf",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "link": "https://openai.com/index/heimstaden",
+      "pubDate": "2026-11-03T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/BJ4nJzcUdBNquMyox1gEz/27e1824d4f3565364c2a0aa36c28131d/heimstaden-bostad-terracotta-seo-image-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a6f54d325d31",
+      "title": "Transformers Model Integration Contracts",
+      "description": "",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+      "type": "blog"
+    },
+    {
+      "id": "bca108e4c77b",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6YGqAlQzlUWYvYNTeDnfcM/e5455b9d34b33916246eadda9c1b0959/rewarding-defenders-with-bigger-bug-bounties-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "0d297090385a",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3I6XNOAyDMl6T0tummrXmo/b10602bfeb5ca42409706b86011ceacb/preparing-our-next-security-sprint-to-harden-openai-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c45a0b6d7de1",
+      "title": "The latest AI news we announced in October 2026",
+      "description": "Here are Google’s latest AI updates from October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "pubDate": "2026-11-02T17:45:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "277870ffc8d7",
+      "title": "Scaling Git at OpenAI",
+      "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "pubDate": "2026-11-02T15:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/CMZECnCACxZO52Dqy7SnB/d7451310a4c165a396517dc7387b9b71/scaling-git-at-openai-seo-card.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5d33ed0c66ac",
+      "title": "Introducing the Grid Protectors Program",
+      "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "pubDate": "2026-11-02T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/0147SbQFof5ozkgFJTdG0j/1daae8bb107fb504ef83be52e10e550f/introducing-the-grid-protectors-program-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "5a014341bc3f",
+      "title": "LifeVal",
+      "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "link": "https://openai.com/index/lifeval",
+      "pubDate": "2026-11-02T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3Iad2h8cMUadlldiZqbsAo/69264040a908479aa8843b590b0015b5/lifeval-social-crayon.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "4094d4340f9e",
+      "title": "Qodo builds context into AI code review with Codex",
+      "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/388S4jJRtLn7LVaUJU9lUc/662cc99212751754f89d370e4b8901aa/qodo-codex-frosted-acrylic-seo-image-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "945f879ef3a4",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "description": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5KVBxyiipFJUDP8ePhzCFt/7ed307cd82ba4699dcf2ed9f349ea750/dan-driscoll-joins-openai-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "43862ef771df",
+      "title": "Progress on provable inference for large language models",
+      "description": "Progress on provable inference for large language models",
+      "link": "https://www.anthropic.com/research/provable-inference",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg",
+      "type": "blog"
+    }
+  ]
+}

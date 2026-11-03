@@ -2,6 +2,53 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "20af80813b4d",
+      "title": "HackerBooks - Les bouquins préférés des geeks, triés par Claude",
+      "description": "Après le HackerTube de Karpathy, HackerBooks classe 15 766 livres cités sur Hacker News en séparant ceux qu'on cite de ceux qu'on recommande, un tri fait par Claude. Le CSV est à télécharger, comme le zip de HackerTube pour monter votre propre version.",
+      "link": "https://korben.info/hackerbooks-hackertube-hacker-news.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-02T14:06:23.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hackerbooks-hackertube-hacker-news/hackerbooks-hackertube-hacker-news-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "532e039d30fe",
+      "title": "Mods Claude Code : et si votre session pouvait se piloter elle-même ?",
+      "description": "Skills, hooks et MCP agissent autour de la session ; les mods agissent dedans. Routage du modèle selon la tâche, mémoire persistante, installation et précautions de sécurité à connaître avant d'essayer.",
+      "link": "https://blog.ippon.fr/2026/11/02/mods-claude-code-routage-memoire/",
+      "pubDate": "2026-11-02T13:25:01.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-30----11.48.53.png",
+      "type": "blog"
+    },
+    {
+      "id": "948b6a96efcc",
+      "title": "Applis d'alerte piratées - FR-Alert est-il à l'abri ?",
+      "description": "Les applis d'alerte ukrainienne et russe ont diffusé de fausses alertes nucléaires dans la même nuit. FR-Alert passe par les antennes, sans appli, mais le Brésil a montré en juin qu'un compte d'émission détourné suffit.",
+      "link": "https://korben.info/fausses-alertes-air-alert-fr-alert.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-02T12:57:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/fausses-alertes-air-alert-fr-alert/fausses-alertes-air-alert-fr-alert-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "e73ca8e644f3",
       "title": "Plugin Modernization by Anthropic ",
       "description": "Avant l’essor des approches agentiques, moderniser un système legacy exigeait du courage, de la persévérance et une solide maîtrise technique. Ces projets pouvaient mobiliser pendant plusieurs mois de nombreux professionnels, avec un budget parfois difficile à engager.",
