@@ -2,6 +2,76 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "8d8667671049",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "pubDate": "2026-11-03T17:15:21.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/5g9HfQLFFaQE0fslWrxh0.png",
+      "type": "blog"
+    },
+    {
+      "id": "e790a34c95d4",
+      "title": "Learn the rules: The hacker mindset",
+      "description": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+      "pubDate": "2026-11-03T17:14:38.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/WeishungMike-MSRPod_TW_LI_FB_1920x1080-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "da38bc697163",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "pubDate": "2026-11-03T17:01:49.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4d3938441f21",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "pubDate": "2026-11-03T16:35:36.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/63890e3843d8b0797a0ad606/5pHD09UHuAK-6OyKGKimD.png",
+      "type": "blog"
+    },
+    {
+      "id": "25493a43cba5",
+      "title": "Accelerating engineering for the physical world",
+      "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "pubDate": "2026-11-03T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3NAeFNOstkEE0aSxayt8NT/cedb470d8c0bcd7e6a2ca828c1db136c/accelerating-engineering-physical-world-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "fc87a45dcfbf",
       "title": "Heimstaden is changing residential real estate management with AI",
       "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
@@ -16,6 +86,20 @@
       "type": "blog"
     },
     {
+      "id": "34e7d6261520",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "link": "https://openai.com/index/cisco-cyber",
+      "pubDate": "2026-11-03T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/36h62E2b83Pzjfkrm6ZnOF/e611d7923f6c0533eed4d76ea9b48c08/cisco-cyber-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "a6f54d325d31",
       "title": "Transformers Model Integration Contracts",
       "description": "",
@@ -27,6 +111,48 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+      "type": "blog"
+    },
+    {
+      "id": "019edb616369",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/12cWiOrhEJBVjJpSKoRNzC/62cac2e1b99cd5ba56661755d6945157/jill-hazelbaker-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "63945bc79480",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "description": "",
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/cwe-bench/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5ed257b754ba",
+      "title": "The world's leading open models, fully under your control",
+      "description": "The right model for the right job, all under your jurisdiction.",
+      "link": "https://cohere.com/blog/open-source-model-vault",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/94683ad16fe28268fa577a6c84a3556bb7fc1a43-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {

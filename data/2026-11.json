@@ -2,6 +2,147 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6cda0fb68389",
+      "title": "PHP 8.6 : l’essentiel des nouveautés",
+      "description": "PHP 8.6 sort le 19 novembre 2026. Découvrez dans cet article ce qu'il faut retenir de cette version. Cet article, PHP 8.6 : l’essentiel des nouveautés, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ce-quil-faut-retenir-des-nouveautes-de-php-8-6",
+      "pubDate": "2026-11-04T10:00:28.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/laptop-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b5f914892ad8",
+      "title": "Revolut vire Claude Code pour une IA chinoise et divise ses coûts par dix",
+      "description": "Revolut affirme avoir réduit d'environ 90 % sa facture d'IA de codage en un an, en remplaçant Claude Code par GLM, un modèle ouvert du chinois Z.ai auto-hébergé sur 56 cartes Nvidia B200. Le coût tombe à 0,30 dollar le million de tokens, et le temps de codage de ses 2 000 ingénieurs s'améliorerait de 60 %.",
+      "link": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-04T09:39:50.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix/revolut-vire-claude-code-pour-une-ia-chinoise-et-divise-ses-couts-par-dix-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f8faa77575d1",
+      "title": "Google coupe la recherche aux écoles qui refusent son IA",
+      "description": "Google désactivera par défaut Gemini, Gemini Notebook et Search sur les comptes d'élèves américains, de la maternelle au lycée, avec une bascule début 2027. Un responsable a confirmé qu'une école refusant l'IA perdra l'accès à la recherche, ce que Google a nuancé en parlant d'activation service par service.",
+      "link": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-04T08:05:09.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia/google-coupe-la-recherche-aux-ecoles-qui-refusent-son-ia-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b9fea9bfc31b",
+      "title": "Astra a retouché les poids de Qwen pour qu'il puisse aller jusqu'au bout de sa réflexion",
+      "description": "GPT-6 Astra a modifié 0,016 % des poids de Qwen3.5-0.8B et fait passer MATH-500 de 7,9 % à 48,1 %. Sauf que la retouche répare surtout des boucles de réflexion : réflexion coupée, son réglage par défaut, le modèle d'origine fait déjà 45,8 %.",
+      "link": "https://korben.info/gpt-6-astra-poids-qwen.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-04T04:44:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "f68620583e2f",
+      "title": "DiscImageStudio - Un dessin gravé dans les données du disque",
+      "description": "DiscImageStudio convertit une image en données qui, une fois gravées sur un CD, un DVD ou un BD-R, font apparaître ce dessin à la surface du disque. Héritier de CDImage, il calibre les disques par photo sous Windows, et sa ligne de commande génère les images sur Mac et Linux.",
+      "link": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-04T04:25:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/discimagestudio-graver-image-cd-dvd-blu-ray/discimagestudio-graver-image-cd-dvd-blu-ray-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "535565d1c594",
+      "title": "#383.src - Contexte Engineering: Dresser ses agents IA avec Florian Bruniaux",
+      "description": "\"Il vaut mieux un très bon harnais et un modèle plus low cost qu'un très bon modèle avec un mauvais harnais.\" Le D.E.V. de la semaine est Florian Bruniaux, développeur et harness engineer chez Méthode Aristote. Après un parcours tech passant par le dev, le lead dev, l'EM, le VP et le CTO, il est revenu au code pour se spécialiser dans le context engineering et le harness engineering. Il nous explique comment construire des harnais fiables pour piloter des agents IA, pourquoi il ne relit plus la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/383-5fb716849506",
+      "pubDate": "2026-11-04T04:00:40.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d40de32c-7def-46fa-940a-2f0bf6ed8f71.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
+      "duration": "01:00:26"
+    },
+    {
+      "id": "e1c1137511c6",
+      "title": "The worst week in cybersecurity history... so far",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+      "pubDate": "2026-11-03T19:47:10.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "72042431b7f1",
+      "title": "Talos : un certificat en lecture seule qui reboot votre serveur",
+      "description": "TL;DR Sur Talos Linux reboot # rpc error: code = PermissionDenied desc = not authorized Ensuite, un test inoffensif pour prouver que la traversée passe : talosctl -n time --check \"/dev/../proc/version\" # rpc error ... error querying PTP device \"/dev/../proc/version\": invalid argument # open() a reussi (le fichier existe), c'est l'ioctl PTP qui echoue talosctl -n time --check \"/dev/../nonexistent\" # rpc error ... \"/dev/../nonexistent\": no such file or directory # open() a echoue : le fichier…",
+      "link": "https://blog.zwindler.fr/2026/11/03/talos-timecheck-watchdog-os-reader-reboot/",
+      "pubDate": "2026-11-03T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/10/talos.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e74a3c5d7295",
+      "title": "Test du télémètre laser de poche HOTO - précis à 2 mm",
+      "description": "Le télémètre laser de poche HOTO, marque de l'écosystème Xiaomi, mesure de 5 centimètres à 30 mètres avec une précision de 2 millimètres. Il pèse 36 grammes, se recharge en USB-C, affiche la distance sur un écran OLED et coûte environ trente euros.",
+      "link": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-03T16:11:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm-2.jpg",
+      "type": "blog"
+    },
+    {
       "id": "20af80813b4d",
       "title": "HackerBooks - Les bouquins préférés des geeks, triés par Claude",
       "description": "Après le HackerTube de Karpathy, HackerBooks classe 15 766 livres cités sur Hacker News en séparant ceux qu'on cite de ceux qu'on recommande, un tri fait par Claude. Le CSV est à télécharger, comme le zip de HackerTube pour monter votre propre version.",

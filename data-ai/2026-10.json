@@ -268,6 +268,20 @@
       "type": "blog"
     },
     {
+      "id": "16681fd606d5",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "description": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "link": "https://openai.com/ads/customers/evernote",
+      "pubDate": "2026-10-28T19:40:49.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.openai.com/mdx-assets/8d4159ab-7f99-40bb-8511-058aa7473e23/evernote-folded-paper-open-graph.d8a6d636.png",
+      "type": "blog"
+    },
+    {
       "id": "e8e0cb1d0e68",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "description": "",
