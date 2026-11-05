@@ -97,6 +97,22 @@
       "type": "blog"
     },
     {
+      "id": "5e80d528cfb8",
+      "title": "Je n’ai jamais utilisé Hugging Face, mais son rachat par Nvidia m’inquiète quand même",
+      "description": "La neutralité qui faisait sa valeur pourrait-elle disparaître ? OpenAI coupe l’accès à ses modèles pour Cursor, Zed Industries et Anthropic ont du nouveau !",
+      "link": "https://codecodecoders.substack.com/p/je-nai-jamais-utilise-hugging-face",
+      "pubDate": "2026-08-30T10:48:10.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!7RCH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe420bd09-0174-47da-960b-0a63a8c37d9d_1920x1080.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "363f0c562e00",
       "title": "OpenAI coupe ses modèles à Cursor après son rachat par le SpaceXAI de Musk",
       "description": "OpenAI coupera l'accès de ses modèles à Cursor le 12 novembre 2026 après son rachat par SpaceXAI.",
@@ -1128,6 +1144,22 @@
       "type": "blog"
     },
     {
+      "id": "aecb33a76a29",
+      "title": "Pourquoi le filigrane de Claude est une bonne nouvelle",
+      "description": "Cette semaine, on fait un point sur le fameux filigrane à venir, Google et Microsoft ont du nouveau et je vous propose de découvrir une librairie React animée, basée sur la physique !",
+      "link": "https://codecodecoders.substack.com/p/pourquoi-le-filigrane-de-claude-est",
+      "pubDate": "2026-08-16T13:58:51.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://images.unsplash.com/photo-1728739529355-31dcaefd82b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyN3x8aG9sb2dyYW18ZW58MHx8fHwxNzg2ODg4NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "type": "blog"
+    },
+    {
       "id": "3174d46201ca",
       "title": "WinPodX - Un système Windows intégré dans votre Linux",
       "description": "WinPodX affiche chaque application Windows comme une fenêtre Linux native, et fait remonter vos applications Linux dans les menus de Windows. C'est sa fonction distinctive, et c'est aussi celle qu'il a passé l'été à réparer.",
@@ -1781,6 +1813,22 @@
       "type": "blog"
     },
     {
+      "id": "bc4b5f605812",
+      "title": "Trois IA ont piraté une entreprise en moins de 3 semaines",
+      "description": "Étrange non ? Pendant ce temps, GitHub sort une nouvelle feature attendue, Anthropic laisse fuiter des conversations privées... et bien plus encore !",
+      "link": "https://codecodecoders.substack.com/p/trois-ia-ont-pirate-une-entreprise",
+      "pubDate": "2026-08-09T10:33:14.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://images.unsplash.com/photo-1666615435088-4865bf5ed3fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzfHxoYWNrfGVufDB8fHx8MTc4NjI3MDg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "type": "blog"
+    },
+    {
       "id": "6985f58228fe",
       "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
       "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
@@ -1841,6 +1889,22 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cf15ef3e492a",
+      "title": "Je n’ai jamais cru que l’IA remplacerait les devs, ces chiffres le confirment",
+      "description": "55% des dirigeants regrettent déjà leur pari et la tendance ne va pas s'inverser",
+      "link": "https://codecodecoders.substack.com/p/je-nai-jamais-cru-que-lia-remplacerait",
+      "pubDate": "2026-08-06T16:01:20.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!i2OV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66b216ee-aa8e-4461-814c-0bd05a25e677_1201x630.jpeg",
       "type": "blog"
     },
     {
@@ -2121,6 +2185,22 @@
         "IA"
       ],
       "image": "https://philippart-s.github.io/blog/2026-08-03-java-and-ai-part2/cover.webp",
+      "type": "blog"
+    },
+    {
+      "id": "cdd646862c27",
+      "title": "Une loi européenne débarque aujourd'hui, et personne n’est prêt",
+      "description": "Anthropic sur les pas d'OpenAI, Doctolib collecte vos données mais vous pouvez vous y opposer et Buzz fait le buzz !",
+      "link": "https://codecodecoders.substack.com/p/une-loi-europeenne-debarque-aujourdhui",
+      "pubDate": "2026-08-02T10:48:55.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4fHxsYXd8ZW58MHx8fHwxNzg1NjAwODU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "type": "blog"
     },
     {

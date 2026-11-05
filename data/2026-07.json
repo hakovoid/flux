@@ -2492,6 +2492,22 @@
       "type": "blog"
     },
     {
+      "id": "d7cf75e04a17",
+      "title": "Quoi de neuf les devs ? — Apple vs OpenAI : la guerre des talents qui va changer la face de la tech",
+      "description": "Les news devs de la semaine avec l'interview de Twinded. Au menu ✅ Apple vs OpenAI ✅ TypeScript 7.0 ✅ Rust 1.97 ✅ GhostLock ✅ Swival ✅ GitLost ✅ EU poursuit France pour NIS 2, ...",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-apple-vs-openai",
+      "pubDate": "2026-07-14T08:54:06.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hj4v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f0cd3e-f9fe-4bc4-b680-0efc8e277f2d_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "f3ecd37da202",
       "title": "Pousser une fois, publier partout: le remote Git multi-cibles",
       "description": "Bien que cela commence à changer, Github reste aujourd’hui la forge de référence pour l’hébergement de projet autour de Git. Néanmoins, dans une démarche d’autonomie numérique, je ne souhaite pas dépendre uniquement de cette plateforme. Pour réduire cette dépendance, j’ai décidé de dupliquer et “mirrorer” l’ensemble de mes dépôts (publics et privés) sur Codeberg, une forge européenne et associative. On a l’habitude de voir un remote Git comme étant une simple association avec une URL (un remote…",
@@ -3221,6 +3237,22 @@
         "Web"
       ],
       "image": "https://korben.info/desactiver-gdid-windows/desactiver-gdid-windows-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "6cc19186b09b",
+      "title": "Quoi de neuf les devs - GitLost : et si votre agent IA devenait la fuite ?",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Julie. On parlera aussi de ✅ GitLost, ✅ Rust, ✅ Unreal Engine 6, ✅ IPTV, ✅ Home Made GPU, ✅ …",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-gitlost-et",
+      "pubDate": "2026-07-08T15:30:33.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XsGj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F011fbc59-a683-4995-9046-e7a7e46c4b59_1280x832.webp",
       "type": "blog"
     },
     {
@@ -4847,6 +4879,22 @@
         "Web"
       ],
       "image": "https://korben.info/apple-hide-my-email-faille-adresse-reelle/apple-hide-my-email-faille-adresse-reelle-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "81ee829e7a18",
+      "title": "Quoi de neuf les devs - Le prix du million de token IA va t-il baisser ou augmenter ?",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de de Cécile. On parlera aussi de ✅ IA locale, ✅ Slopsquatting, ✅ Canicule & Datacenter, ✅ Linux et MegaDrive, ✅ Browser Agent",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-le-prix-du",
+      "pubDate": "2026-07-01T10:42:57.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!j-kU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcab7ad12-5f7f-44ff-9161-2d18e3fdb94a_1280x833.webp",
       "type": "blog"
     },
     {

@@ -282,6 +282,20 @@
       "type": "blog"
     },
     {
+      "id": "a566ddf4df08",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "description": "What eras bookend our interregnum?",
+      "link": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "pubDate": "2026-06-29T13:03:27.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "de3d3d71c6c3",
       "title": "Everything About the Context Facade",
       "description": "A deep dive into Laravel Context, from request metadata and automatic log enrichment to hidden context, scoped values, queues, scheduled commands, and internals. Read more",
@@ -1092,6 +1106,20 @@
         "Web"
       ],
       "image": "/wp-content/uploads/2026/06/2026-04-11-pipe-operator.png",
+      "type": "blog"
+    },
+    {
+      "id": "b345a91f0491",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "description": "How religious are beliefs in the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "pubDate": "2026-06-22T12:31:45.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -2015,6 +2043,20 @@
       "type": "blog"
     },
     {
+      "id": "369271d4ab79",
+      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "description": "Where are your agents right now?",
+      "link": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+      "pubDate": "2026-06-15T11:30:53.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "type": "blog"
+    },
+    {
       "id": "9c7820ad9167",
       "title": "Who Owns the Code Claude Wrote?",
       "description": "The following article originally appeared on Sena Evren’s Legal Layer newsletter and is being reposted here with the author’s permission. TL; DR Agentic coding tools like Claude Code, Cursor, and Codex generate code that may be uncopyrightable, owned by your employer, or contaminated by open source licenses you cannot see. Some of this is settled […]",
@@ -2914,6 +2956,20 @@
         "Web"
       ],
       "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner-2026-04-17T163921-336.png",
+      "type": "blog"
+    },
+    {
+      "id": "783d75fc8051",
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+      "description": "When will markets price the singularity?",
+      "link": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+      "pubDate": "2026-06-08T12:31:32.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

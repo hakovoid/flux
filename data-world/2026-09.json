@@ -31,6 +31,20 @@
       "type": "blog"
     },
     {
+      "id": "aad99c49c5df",
+      "title": "Can companies like OpenAI keep getting away with what they are doing? An interview with Fordham law professor Zephyr Teachout",
+      "description": "“The most powerful tool is the power to dissolve corporations that engage in repeat lawbreaking.”",
+      "link": "https://garymarcus.substack.com/p/can-companies-like-openai-keep-getting",
+      "pubDate": "2026-09-30T16:45:58.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/b4e9ced6-7b69-4006-96be-3dcbbf300321_1292x1304.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "9b27f46b5e13",
       "title": "The Agentic Data Science Playbook",
       "description": "The following article originally appeared on Vanishing Gradients and is being republished here with the authors’ permission When an AI agent can explore a dataset, choose a modeling approach, run the analysis, and explain its findings, what should the data scientist do? Traditionally, data scientists chose each step and implemented much of the analysis themselves. […]",
@@ -163,6 +177,20 @@
       "type": "blog"
     },
     {
+      "id": "915ef3469234",
+      "title": "Hot take on a weak White House Accord on “Super Intelligence”",
+      "description": "What was signed, and what wasn’t said",
+      "link": "https://garymarcus.substack.com/p/hot-take-on-a-weak-white-house-accord",
+      "pubDate": "2026-09-29T23:39:34.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!O88I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41ed8af8-4ad5-43c4-9e99-814bb3abf814_611x791.png",
+      "type": "blog"
+    },
+    {
       "id": "c48f1ff5058b",
       "title": "Quoting Anthropic Frontier Red Team",
       "description": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below Claude Mythos Preview here, a meaningful threshold has clearly been crossed: earlier models, like Claude Opus 4.6 and GLM-5.2, do not succeed in any of them. &mdash; Anthropic Frontier Red Team, GLM-5.3 and the spread of advanced cyber…",
@@ -189,6 +217,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!nkXy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc52738e-a074-4582-8dc0-6c2b8b8f1ceb_960x675.gif",
+      "type": "blog"
+    },
+    {
+      "id": "09da02bf5815",
+      "title": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
+      "description": "They raced ahead, anyway",
+      "link": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
+      "pubDate": "2026-09-29T19:18:57.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!FkAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTZqmNvXUAEM78B.jpg",
       "type": "blog"
     },
     {
@@ -414,6 +456,20 @@
       "type": "blog"
     },
     {
+      "id": "0e6858a9c097",
+      "title": "BREAKING: Florida seeks injunction against OpenAI",
+      "description": "And potentially important news from Nvidia",
+      "link": "https://garymarcus.substack.com/p/breaking-florida-seeks-injunction",
+      "pubDate": "2026-09-28T20:54:59.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ME3B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTUDGmOXEAE-5_4.jpg",
+      "type": "blog"
+    },
+    {
       "id": "ddc53f40aa22",
       "title": "Quoting @joedaroo",
       "description": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden…",
@@ -440,6 +496,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!abQm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6bd91f97-33fb-4f35-9daf-975e00b7f7d7_2160x2160.png",
+      "type": "blog"
+    },
+    {
+      "id": "8ee5399f14be",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "description": "Where do you exceed the capabilities of an LLM?",
+      "link": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "pubDate": "2026-09-28T12:32:03.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -592,6 +662,20 @@
       "type": "blog"
     },
     {
+      "id": "2e7dc6e0c19c",
+      "title": "BREAKING: AI agent incident toll has risen to tens of thousands",
+      "description": "Meanwhile, the US government appears to be paralyzed",
+      "link": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "pubDate": "2026-09-26T23:55:49.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!nxki!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c9151fe-ff2a-4d88-8a63-fcd6da44355b_1725x1589.png",
+      "type": "blog"
+    },
+    {
       "id": "669d8cd0cb0c",
       "title": "Kākāpō Party",
       "description": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos from Google image search and dropped them into Claude with this prompt: Here are some photos of…",
@@ -618,6 +702,20 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!YP7f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b5b579f-7cee-4874-b514-3df6bed90a17_2360x1866.png",
+      "type": "blog"
+    },
+    {
+      "id": "93178e9f5ebf",
+      "title": "BREAKING: OpenAI’s security fiasco explodes — and could tank Jensen Huang’s reputation",
+      "description": "OpenAI’s software didn’t just attack HuggingFace.",
+      "link": "https://garymarcus.substack.com/p/breaking-openais-security-fiasco",
+      "pubDate": "2026-09-25T21:58:42.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!OIXb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTFt6y7bAAA1ZvY.png",
       "type": "blog"
     },
     {
@@ -829,6 +927,20 @@
       "type": "blog"
     },
     {
+      "id": "12849557d144",
+      "title": "“I think the answer is we have to shut the labs down” - Jensen Huang",
+      "description": "OpenAI hacks a foreign government — and the US faces its most critical AI test yet.",
+      "link": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "pubDate": "2026-09-24T12:27:50.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Skco!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0fc75aa-3739-41c0-8e55-a0dffc285491_1309x1472.png",
+      "type": "blog"
+    },
+    {
       "id": "bfc6a8a661f1",
       "title": "New in Symfony 8.2: Provider-Hosted Email Templates and Tracking Control",
       "description": "Provider-Hosted Templates Contributed by Florent Blaison and Nicolas…",
@@ -856,6 +968,20 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "62bbb765a39c",
+      "title": "Historic UN Security Council Briefing on AI ",
+      "description": "We all agree on what needs to be done. Now let’s do it.",
+      "link": "https://garymarcus.substack.com/p/historic-un-security-council-briefing",
+      "pubDate": "2026-09-23T21:46:40.000Z",
+      "source": "Marcus on AI",
+      "sourceUrl": "https://garymarcus.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!o-j6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F200fe44c-3100-431d-a1ee-03769f94f835_2420x1384.jpeg",
       "type": "blog"
     },
     {
@@ -1252,6 +1378,20 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/5148f88d-8aa7-49ef-8992-08478a442b44_680x272.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5cf7b0af1c9",
+      "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics ",
+      "description": "Is the wall AI is hitting in the room with us right now?",
+      "link": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+      "pubDate": "2026-09-21T12:31:04.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {
@@ -3115,6 +3255,20 @@
         "Web"
       ],
       "image": "https://freek.dev/og-image/2089c23566cfddab4d68279b5e38c4ea.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "eac2b5a58a09",
+      "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman ",
+      "description": "Plus, a machine hermeneutics story",
+      "link": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+      "pubDate": "2026-09-07T12:26:31.000Z",
+      "source": "Import AI",
+      "sourceUrl": "https://importai.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "type": "blog"
     },
     {

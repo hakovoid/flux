@@ -325,6 +325,22 @@
       "type": "blog"
     },
     {
+      "id": "7fc486ffaddc",
+      "title": "Comment rendre votre CV visible par les recruteurs",
+      "description": "Je passe mon CV dans trois parseurs PDF : mots coupés, contact mélangé. La méthode et la skill pour que les ATS lisent enfin votre CV !",
+      "link": "https://codecodecoders.substack.com/p/comment-rendre-votre-cv-visible-par",
+      "pubDate": "2026-10-27T07:01:05.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!LUUu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bbc93c6-6ced-4991-ac3c-d8d5c93fab84_2912x1632.png",
+      "type": "blog"
+    },
+    {
       "id": "d937815092fb",
       "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
       "description": "Ce volet est consacré à un sujet délicat : le désapprentissage. Contrairement à ce que l'on pourrait croire, se défaire d'un savoir demande souvent plus d'effort que d'en acquérir un nouveau. Dans notre cas, nous avons longuement tâtonné pour construire un harnais qui nous semblait satisfaisant.",
@@ -339,6 +355,38 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a261c950f68a",
+      "title": "Le workflow est un produit : un jeu complet en neuf jours avec Claude Code",
+      "description": "Neuf jours, un développeur seul, un agent de code et un kebab en pixel art. Ce que j'ai dû écrire, brancher et auditer autour de Claude Code pour qu'il écrive tout le code d'un jeu sans que la qualité s'écroule, et ce que ce workflow ne fait pas.",
+      "link": "https://blog.eleven-labs.com/fr/workflow-claude-code-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-10-27-workflow-claude-code-kebab-roguelite/cover-w1200-h630-x1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "541e5855509d",
+      "title": "The workflow is a product: a complete game in nine days with Claude Code",
+      "description": "Nine days, one developer, a coding agent and a pixel-art kebab shop. What I had to write, wire up and audit around Claude Code so that it could write all the code of a game without quality collapsing, and what that workflow doesn't do.",
+      "link": "https://blog.eleven-labs.com/en/claude-code-workflow-kebab-roguelite/",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-10-27-workflow-claude-code-kebab-roguelite/cover-w1200-h630-x1.jpeg",
       "type": "blog"
     },
     {
@@ -414,6 +462,22 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d062a10c9394",
+      "title": "Anthropic perd 80 milliards et vise quand même la plus grosse IPO de l’histoire",
+      "description": "Pendant qu'OpenAI réduit sa valorisation, qu’une faille PHP met des sites publics hors ligne et que l'agent Muse de Meta donne une adresse sans prévenir",
+      "link": "https://codecodecoders.substack.com/p/anthropic-perd-80-milliards-et-vise",
+      "pubDate": "2026-10-25T12:05:09.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!eTw5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4557a7ef-31b9-47e5-950f-b87d376df7ba_2912x1632.png",
       "type": "blog"
     },
     {
@@ -665,6 +729,22 @@
       "type": "blog"
     },
     {
+      "id": "bfb34ec43db6",
+      "title": "Portrait de Mark Zuckerberg : Facebook, Meta, Trump et Llama",
+      "description": "Je retrace vingt ans de la vie de Mark Zuckerberg, de Harvard à Meta, pour comprendre l’homme derrière les applications que vous utilisez chaque jour.",
+      "link": "https://codecodecoders.substack.com/p/portrait-de-mark-zuckerberg-facebook",
+      "pubDate": "2026-10-22T06:02:04.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!MhR5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4664c450-9fec-4c0c-be3c-a039a15f5b13_2912x1632.png",
+      "type": "blog"
+    },
+    {
       "id": "164285eb7917",
       "title": "Why « Gemini at Work 2026 » is transforming the way we work",
       "description": "Google Cloud has announced Gemini at Work 2026, marking a turning point in the integration of AI into work. Unlike Microsoft Copilot, Gemini acts as a proactive agent, learning company methods and orchestrating missions via sub-agents. This evolution aims to improve efficiency without replacing humans, thereby transforming the way we work. L’article Why « Gemini at Work 2026 » is transforming the way we work est apparu en premier sur OlivierSauvage.com.",
@@ -864,6 +944,22 @@
       "type": "blog"
     },
     {
+      "id": "afa88b6c5245",
+      "title": "L'IA augmente les bugs de 54 % : ma méthode pour relire mes diffs sans y passer la nuit",
+      "description": "Je vous montre comment relire un diff écrit par l’IA quand on travaille seul : niveaux de risque, CI, skill Claude et les conseils qu’on garde d’Anthropic.",
+      "link": "https://codecodecoders.substack.com/p/lia-augmente-les-bugs-de-54-ma-methode",
+      "pubDate": "2026-10-20T05:31:01.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!BFM_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2180a7a1-c2ee-432e-b60a-5be08b581733_2912x1632.png",
+      "type": "blog"
+    },
+    {
       "id": "e6059e780b38",
       "title": "La Disquette - Un vieux jeu PC par semaine, sans rien installer",
       "description": "La Disquette fait tourner chaque semaine un ancien jeu PC Windows sur ses serveurs et l'affiche dans votre navigateur, gratuitement, dans un faux bureau XP. GTA 2 jusqu'au 26 octobre, sans compte ni installation. Le site tout neuf ne dit rien des droits des jeux, alors profitez-en tant que ça tourne.",
@@ -1036,6 +1132,22 @@
         "IA"
       ],
       "image": "https://lostinbrittany.dev/img/posts/2026-10-19-jack-cherche-un-taf/jack.png",
+      "type": "blog"
+    },
+    {
+      "id": "691583887dcd",
+      "title": "Les agents rogues sont de retour !",
+      "description": "Pendant que Meta sort son modèle dit frontière, que Replit lâche Anthropic par défaut et que Postgres 19 prend du retard à cause des relectures par IA",
+      "link": "https://codecodecoders.substack.com/p/les-agents-rogues-sont-de-retour",
+      "pubDate": "2026-10-18T14:02:21.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hVz7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e9b5087-2140-4541-b841-91631ff9ac46_2912x1632.png",
       "type": "blog"
     },
     {
@@ -1924,6 +2036,22 @@
       "type": "blog"
     },
     {
+      "id": "e1487b0b724d",
+      "title": "Mistral sort Le Chonk, son plus gros modèle, pour rester dans la course",
+      "description": "Pendant ce temps, Anthropic sort un Haiku à prix cassé, ferme déjà son programme startups et OpenAI rate ses objectifs de 20 milliards",
+      "link": "https://codecodecoders.substack.com/p/mistral-sort-le-chonk-son-plus-gros",
+      "pubDate": "2026-10-11T05:30:54.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!IeLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1debbd7f-36e3-4610-b3bb-397ac94d9a51_1607x881.png",
+      "type": "blog"
+    },
+    {
       "id": "ebb316520f2a",
       "title": "« J'ai livré mon ticket, mais je ne sais plus ce que j'ai livré »",
       "description": "Livrer sans comprendre : ce qu'en disent les chiffres, les anciens, la doc d'Anthropic, et ce que je recommande aux équipes.",
@@ -2211,6 +2339,22 @@
         "Web"
       ],
       "image": "https://korben.info/surfshark-one-bloque-les-sites/surfshark-one-bloque-les-sites-2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c591db87d1b9",
+      "title": "Claude mods : personnalisez Claude Code",
+      "description": "Qu’est-ce que c’est, à quoi ça sert et comment on les crée : on voit tout dans ce guide 2026 !",
+      "link": "https://codecodecoders.substack.com/p/transformez-claude-code-avec-les",
+      "pubDate": "2026-10-08T07:25:23.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fmg8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4858c23-a86f-4541-8aa7-65a59e7cd288_1376x768.png",
       "type": "blog"
     },
     {

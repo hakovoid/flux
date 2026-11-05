@@ -1751,6 +1751,22 @@
       "type": "blog"
     },
     {
+      "id": "e458f706ab61",
+      "title": "Quoi de neuf les devs? FailleFox, boycott de l’IA et obscurantisme : ces dingueries qui ont failli me mettre en burnout",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de de Mazlum. On parlera aussi de ✅ FailleFox, ✅ Hermes, ✅ Emacs, ✅ MCP, ✅ GemPlus, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-faillefox-boycott",
+      "pubDate": "2026-06-22T22:58:01.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!BYNx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F771d4271-ee5c-4615-97dc-2be7a111a6c1_1280x833.webp",
+      "type": "blog"
+    },
+    {
       "id": "3769e5a2ff9c",
       "title": "Relay attack - Ils volent une voiture avec un babyphone",
       "description": "Vous vous souvenez du streamer Twitch qui s'était fait piquer sa caisse en plein live, à cause d'un boîtier bizarre posé contre sa porte d'entrée ? Tout le monde a crié au fake évidemment, sauf que dans une certaine mesure, c'était vrai ! Et le voleur, c'était Mark Rober en personne, l'ex-ingénieur de la NASA devenu YouTubeur, qui a inventé toute cette mise en scène pour démontrer une bonne fois pour toutes comment on vole une voiture récente sans même toucher à la serrure.",
@@ -2436,6 +2452,22 @@
         "DevOps"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "593c99f0a719",
+      "title": "Quoi de neuf les devs? #180 - Avec Alex, on y parle Vue, Cut IA, Let’s Encrypt, Sécurité, Angular, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de d'Alex. On parlera aussi de ✅ Vue, ✅ Cut IA, ✅ Let’s Encrypt, ✅ Sécurité, ✅ Angular, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-180-avec-alex",
+      "pubDate": "2026-06-16T16:30:53.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!DKUu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc35caefc-2945-4be1-ac43-4cc71f44355f_1280x833.webp",
       "type": "blog"
     },
     {
@@ -3179,6 +3211,22 @@
         "Programmation"
       ],
       "image": "https://blog.seboss666.info/wp-content/uploads/2015/12/letsencrypt-logo-horizontal.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "05e6b76b9033",
+      "title": "Quoi de neuf les devs? #179 - Avec Lucas, on y parle Rust, Tchap, Fabrice Bellard, Apple Container, OWASP ZAP, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Lucas. On parlera aussi de ✅ Rust, ✅ Tchap, ✅ Fabrice Bellard, ✅ Apple Container, ✅ OWASP ZAP, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-179-avec-lucas",
+      "pubDate": "2026-06-10T16:03:26.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!hnzN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d632edb-038e-4ea5-a663-573fa68aac98_1280x833.webp",
       "type": "blog"
     },
     {
@@ -4678,6 +4726,22 @@
         "Web"
       ],
       "image": "https://korben.info/instagram-faille-support-ia-piratage-comptes/instagram-faille-support-ia-piratage-comptes-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b6e2a8ea894",
+      "title": "Quoi de neuf les devs? #178 - Avec Bastien de SYRN, on y parle Bash, Mythos, IDOR, LiDAR, Commodore 64, Mistral Workflows, etc",
+      "description": "Votre dose d'infos tech infusée par un dev pour les devs avec l'interview de Bastien. On parlera aussi de ✅ Bash, ✅ Mythos, ✅ IDOR, ✅ LiDAR, ✅ Commodore 64, ✅ Mistral Workflows, etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-178-veille",
+      "pubDate": "2026-06-01T19:50:00.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Wnnv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e2f779-26c7-4a29-b0ab-b0e68c63f0e0_1920x1249.webp",
       "type": "blog"
     },
     {

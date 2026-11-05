@@ -2,6 +2,146 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "25fa4dd18ec7",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "pubDate": "2026-11-05T02:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3tfG1ium2HchPnPJartCV6/bd2d0a4c101b0a41440cc45adefa35cd/setting-a-new-standard-for-responsible-ai-infrastructure-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c65c7708e939",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "32d4e91d243e",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "pubDate": "2026-11-04T17:50:10.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
+      "type": "blog"
+    },
+    {
+      "id": "1be4fdd8e6ca",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "pubDate": "2026-11-04T14:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "fbaa86a829ad",
+      "title": "A thousand fewer paths to root",
+      "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "pubDate": "2026-11-04T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a3433e936d2c",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "pubDate": "2026-11-04T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5kxMZV1Js4071yUAa9rsyx/2ac76c7318411b493ec032afb3d7aaf9/daybreak-red-aws-govcloud-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "295354ff422b",
+      "title": "Introducing Images 2.6",
+      "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "981785a01550",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/wbLuf3JmoXr8PLJs6ENpY/a84a25ea67b1c35ae01cfad0ee60e1c7/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "49b5a8702a50",
+      "title": "Investigating vault particles with Claude",
+      "description": "We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells. Here, we describe how Claude helped at each step of this research.",
+      "link": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/99ce1c2ac2d0649d677f097132829da2ab3c4e18-1280x1280.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a802fb742457",
+      "title": "Embed 5 and Rerank 5 now on OpenRouter",
+      "description": "Access Cohere’s state-of-the-art retrieval models through a single API, with unified billing and no additional SDKs.",
+      "link": "https://cohere.com/blog/embed-rerank-5-openrouter",
+      "pubDate": "2026-11-04T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2bf7ca0269bb95916830cc2a5116d517ddf6353f-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "8d8667671049",
       "title": "StateBench: Testing how language models track state changes over long documents",
       "description": "",

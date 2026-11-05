@@ -2,6 +2,115 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "99f95862c190",
+      "title": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
+      "description": "David Catuhe, le créateur de Babylon.js, sort CottageCore, un jeu de construction de village tout doux. J'y ai joué en bêta : c'est très chill, joli et ultra personnalisable, avec quelques accrocs à corriger avant la sortie d'avril 2027. La démo est gratuite sur Steam.",
+      "link": "https://korben.info/cottagecore-village-david.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-05T08:27:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hqdefault_7148445591321856131_hu_c97909a6c9227b5d.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2316ad664ee3",
+      "title": "Pourquoi utiliser un VPN avec Starlink #sponso",
+      "description": "Starlink fournit environ 150 Mbps, mais reste un FAI américain qui voit votre navigation, utilise du CGNAT (IP partagée, CAPTCHAs, blocages) et ne gère pas le VPN sur son routeur. Selon l'article, sponsorisé par Surfshark, WireGuard limite la latence ajoutée à 10-20 ms contre 30-50 ms pour OpenVPN.",
+      "link": "https://korben.info/pourquoi-utiliser-un-vpn-avec-starlink.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-05T08:05:01.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pourquoi-utiliser-un-vpn-avec-starlink/pourquoi-utiliser-un-vpn-avec-starlink-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5e4955fa49f",
+      "title": "Wing Commander - Volez en coop dans votre navigateur",
+      "description": "Deux frères ont greffé une vraie coop sur le premier Wing Commander sous DOS à coups de dumps mémoire et de code détourné. Le projet a dormi six ans, et il se joue maintenant dans le navigateur avec un code de salon, à condition que chaque pilote apporte sa copie du jeu.",
+      "link": "https://korben.info/wing-commander-coop-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-05T07:33:13.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_13408306256414116074_hu_cc80ac3e0014c5c6.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e23e234e7683",
+      "title": "HatchZip - Décompresser une archive énorme sur un disque plein",
+      "description": "HatchZip extrait une archive ZIP, 7z, RAR ou tar en la coupant par la fin au fur et à mesure : un jeu de 180 Go qui en fait 200 ne demande plus 380 Go de disque. Gratuit et open source, il vérifie la place avant de toucher à quoi que ce soit, mais reste un projet très jeune.",
+      "link": "https://korben.info/hatchzip.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-05T06:24:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/hatchzip/hatchzip-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "2e1d2b250451",
+      "title": "React Native, encore valable en 2026 ? avec David Leuliette",
+      "description": "React Native et Expo tiennent-ils toujours la route face à une IA qui sait écrire du Swift et du Kotlin pour faire du natif ? David Leuliette, qui livre des apps React Native depuis plus de 10 ans pour des startups comme pour des grands comptes, nous donne sa vision du terrain : ce qui marche, ce qui est encore compliqué et comment il choisit ses outils aujourd'hui. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/react-native/",
+      "link": "https://double-slash.dev/podcasts/react-native/",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1793787451/episode/ART_146_utower.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_146_react-native.mp3",
+      "duration": "3687"
+    },
+    {
+      "id": "2a30922557d9",
+      "title": "J'ai demandé un PowerPoint à des agents : le premier, on voulait l'oublier ; le dernier, tout le monde l'a accepté",
+      "description": "Répondre vite à un appel d'offres avec un deck PowerPoint soigné sur le fond comme sur la forme, en le confiant à des agents. 113 scripts jetables plus tard, le deck est devenu des données qu'un script reconstruit sans tokens, sous des gardes qui refusent d'abîmer ce qui est fini. Le récit, la méthode, et huit gestes à reprendre.",
+      "link": "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
+      "pubDate": "2026-11-04T17:04:48.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "61f0e694a83f",
+      "title": "Botnet XCPE - La backdoor restera en place dans les box Android TV",
+      "description": "Google et ses partenaires ont coupé les serveurs du botnet XCPE et banni Videostrong, qui avait piégé le firmware de plus de 1,3 million d'appareils Android. Mais l'implant reste dans les box déjà vendues, et les partenaires ne donnent pas la même parade : reset d'usine pour Plume, poubelle pour Synthient.",
+      "link": "https://korben.info/botnet-xcpe-videostrong-box-android-tv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-04T12:44:28.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/botnet-xcpe-videostrong-box-android-tv/botnet-xcpe-videostrong-box-android-tv-2.png",
+      "type": "blog"
+    },
+    {
       "id": "6cda0fb68389",
       "title": "PHP 8.6 : l’essentiel des nouveautés",
       "description": "PHP 8.6 sort le 19 novembre 2026. Découvrez dans cet article ce qu'il faut retenir de cette version. Cet article, PHP 8.6 : l’essentiel des nouveautés, est paru en premier sur Les-Tilleuls.coop.",
@@ -97,6 +206,21 @@
       "duration": "01:00:26"
     },
     {
+      "id": "bd4e3af20e1a",
+      "title": "Quand l'IA devient un réflexe",
+      "description": "Il y a un dicton assez connu en informatique : “quand on a un marteau, tout ressemble à un clou”. Depuis l’arrivée de l’IA, j’ai l’impression de le voir appliqué dans de nombreuses équipes de développement. L’IA est une révolution, c’est certain. Elle rend faciles des tâches qui étaient longues ou pénibles. Mais je la vois aussi utilisée pour des tâches simples, qui pourraient très bien être faites autrement. Des rebases, des cherry-picks sans conflit, confiées à un agent simplement par…",
+      "link": "https://www.jdecool.fr/blog/2026/11/04/quand-l-ia-devient-un-reflexe.html",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
       "id": "e1c1137511c6",
       "title": "The worst week in cybersecurity history... so far",
       "description": "",
@@ -140,6 +264,22 @@
         "Web"
       ],
       "image": "https://korben.info/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm/test-du-telemetre-laser-de-poche-hoto-precis-a-2-mm-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "faa5b8b95d15",
+      "title": "Claude Design : créer une interface SaaS pro sans designer",
+      "description": "Pourquoi le premier rendu ressemble souvent à tous les autres et comment je lui donne un vrai design system.",
+      "link": "https://codecodecoders.substack.com/p/claude-design-creer-une-interface",
+      "pubDate": "2026-11-03T06:31:07.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yUD0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38deaa80-47c8-4077-a6c1-7a36dddb5df3_2912x1632.png",
       "type": "blog"
     },
     {
@@ -219,6 +359,22 @@
         "Web"
       ],
       "image": "https://korben.info/arnaques-dopees-ia-comment-se-proteger/arnaques-dopees-ia-comment-se-proteger-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "44b52f0949d5",
+      "title": "Veille : Claude Code, moteur de la croissance d’Anthropic",
+      "description": "Google lance Gemini 4 Carbon, 40 % des pull requests GitHub démarrent avec un agent et l’abonnement Max 20x de Claude devient Ultra",
+      "link": "https://codecodecoders.substack.com/p/veille-claude-code-moteur-de-la-croissance",
+      "pubDate": "2026-11-01T16:21:50.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EEYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F618e2806-bf2a-4680-9a68-1197f77d6950_2912x1632.png",
       "type": "blog"
     },
     {
