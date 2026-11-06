@@ -2,6 +2,68 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "619cd6e96ea5",
+      "title": "War.app - Le jeu de conquête où personne n'attend son tour",
+      "description": "Warzone s'appelle War.app depuis avril, après un accord avec Activision. Le jeu ne change pas : une carte du monde, des ordres donnés par tous en même temps, pas de dés par défaut, et c'est gratuit dans le navigateur, avec de la pub.",
+      "link": "https://korben.info/war-app-warzone-risk-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-06T09:58:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/war-app-warzone-risk-navigateur/war-app-warzone-risk-navigateur-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "c56c86a0f551",
+      "title": "Comment activer XeSS et sa génération de frames en x4 dans vos jeux Linux",
+      "description": "Le projet communautaire xess-xmx-linux fait tourner la vraie XeSS d'Intel sur les unités XMX des Arc dans les jeux Proton, frame generation 3x et 4x comprise. Matériel concerné, installation, options de lancement, vérification et retour arrière, d'après le README et la release 20261104, pour un projet encore expérimental.",
+      "link": "https://korben.info/xess-xmx-linux-proton.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-06T09:44:47.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/xess-xmx-linux-proton/xess-xmx-linux-proton-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d93d4eca24e2",
+      "title": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
+      "description": "Pour l'épisode #371 je recevais Alexandre Gerlic. On en débrief avec Yves. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/371-e25b74a02356",
+      "pubDate": "2026-11-06T04:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/ddeb6928-74b0-4076-94a3-e25b74a02356.mp3?_=1793883661",
+      "duration": "17:26"
+    },
+    {
+      "id": "01d0ce52524d",
+      "title": "Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider.",
+      "description": "Dans la vente complexe B2B, l’humain reste au centre. Mais une IA intégrée aux connaissances et aux processus de l’entreprise peut lui donner de bien meilleurs moyens de convaincre. Le résumé : L’IA permet aux acheteurs de comparer des offres et de préparer leurs questions. Elle ne suffit pas à déterminer quelle solution fonctionnera dans […] The post Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider. appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/vos-clients-ont-lia-pour-sinformer-ils-ont-encore-besoin-de-vous-pour-decider/",
+      "pubDate": "2026-11-05T12:01:25.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/11/Representant-industriel-et-negociation-sur-fond-metallique-1024x576.png",
+      "type": "blog"
+    },
+    {
       "id": "99f95862c190",
       "title": "J'ai testé CottageCore, le jeu cosy d'une vieille connaissance",
       "description": "David Catuhe, le créateur de Babylon.js, sort CottageCore, un jeu de construction de village tout doux. J'y ai joué en bêta : c'est très chill, joli et ultra personnalisable, avec quelques accrocs à corriger avant la sortie d'avril 2027. La démo est gratuite sur Steam.",
