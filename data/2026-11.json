@@ -2,6 +2,54 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "700dc7627950",
+      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+      "pubDate": "2026-11-06T16:42:38.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "834cae4e5f19",
+      "title": "Hacktoberfest 2026",
+      "description": "Comme en 2025 (cf https://blog.zenika.com/2025/12/15/hacktoberfest-25-ledition-zenika-open-source/) et depuis plusieurs années, Zenika célèbre l’Hacktoberfest durant le mois d’octobre. Cet événement mondial de",
+      "link": "https://blog.zenika.com/2026/11/06/hacktoberfest-2026/",
+      "pubDate": "2026-11-06T14:44:39.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-e4916c55.png?resize=505%2C439&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "394068472197",
+      "title": "GeoDNS programmable : migration d'AWS vers Bunny",
+      "description": "Pour optimiser les performances de ce blog, je m'appuyais sur pour servir les ressources statiques et sur pour un DNS géolocalisé qui dirige les lecteurs vers le serveur le plus proche. Mais Route 53 coûte cher : , auxquels s'ajoute nécessaire à la signature des zones avec DNSSEC. Quand j'ai découvert que Bunny DNS est jusqu'à 500 domaines et propose des réponses programmables, j'ai sauté sur l'occasion! En prime, c'est une entreprise européenne, installée en Slovénie.Amazon CloudFrontRoute…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-bunny-geodns",
+      "pubDate": "2026-11-06T13:29:34.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/bunny-dns-map.05f55a00ae040e.svg",
+      "type": "blog"
+    },
+    {
       "id": "619cd6e96ea5",
       "title": "War.app - Le jeu de conquête où personne n'attend son tour",
       "description": "Warzone s'appelle War.app depuis avril, après un accord avec Activision. Le jeu ne change pas : une carte du monde, des ordres donnés par tous en même temps, pas de dés par défaut, et c'est gratuit dans le navigateur, avec de la pub.",

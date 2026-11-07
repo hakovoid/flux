@@ -2,6 +2,34 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "5a90caffb2c8",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "pubDate": "2026-11-06T14:00:48.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "a0a44ed09dc9",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "pubDate": "2026-11-06T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6567aD1rFerr0QBajJ0uig/50339d375097da8d96ce12e925130276/partnering-with-hacktron-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "13e4c95dcbaa",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "description": "",
@@ -13,6 +41,48 @@
         "IA"
       ],
       "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "5f721228af36",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3lNbSQIg31Dg9aBrUjuQMI/131fea8d534499ca30f7a9f880269d74/biobasicsbench-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "8a424d75a526",
+      "title": "Teaching AI to build scientific models",
+      "description": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation.",
+      "link": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/ef92f028259401d07c41e3ea51f5ec32b958584d-2000x1125.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f0247d2be6d2",
+      "title": "The components of agent memory",
+      "description": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes.",
+      "link": "https://www.anthropic.com/research/components-of-agent-memory",
+      "pubDate": "2026-11-06T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6ab2663a2c0bd6a41409d90136a59a5d72995ea5-1200x630.jpg",
       "type": "blog"
     },
     {
