@@ -2,6 +2,24 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "48edcf566e62",
+      "title": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
+      "description": "Il y a 3 ans, dans l'épisode #237 je recevais Sophie Paquereau. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/237-3130cbe7b951",
+      "pubDate": "2026-11-09T04:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/9e7c0f1d-cfb3-4c63-81e3-3130cbe7b951.mp3?_=1794142829",
+      "duration": "01:04:44"
+    },
+    {
       "id": "700dc7627950",
       "title": "The one thing holding theoretical CS together just broke... kinda",
       "description": "",
