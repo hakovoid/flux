@@ -2,6 +2,146 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "69d4d9d74efa",
+      "title": "Closing the AI guidance gap in education",
+      "description": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "pubDate": "2026-11-10T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/31dARlakgeBjEGDjdpJO19/7f707711c640f606dafacb1854d2a673/closing-the-ai-guidance-gap-in-education-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "84757a8b6e04",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "description": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "caa9073cefb4",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "pubDate": "2026-11-09T19:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5DGBSgbf6fNNvNwn1uSuuS/b1cb4070d26ff221cd7f08bbc171b268/chatgpt-enterprise-now-available-in-aws-marketplace-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "ac8f18750241",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "pubDate": "2026-11-09T15:05:57.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/604ad59e2fad27aca4515dab/-hyd03JaQoRhMbmlw9-uJ.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "952d2516af2e",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "link": "https://openai.com/index/control-room",
+      "pubDate": "2026-11-09T13:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "55d059b88c6c",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "description": "",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "pubDate": "2026-11-09T12:34:29.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
+      "type": "blog"
+    },
+    {
+      "id": "02e9abf47eaf",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "pubDate": "2026-11-09T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5TAanXWCpBQ0R0n2AFa89t/34f319750f5ffc9ebc78901cb054b866/coderabbit-seo-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2e34e84f0999",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "link": "https://openai.com/index/kuken",
+      "pubDate": "2026-11-09T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/R7jAHAGqWOWrYCWsKdqvh/ae1842d55734f243d187c8c3e3a93c19/kuken-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "a989f1582084",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "description": "Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+      "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "source": "Anthropic News",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "0c77ff5e2b26",
+      "title": "Testing Claude on real-world electronics design",
+      "description": "We asked Claude Fable 5.2 to design three electronic devices from short prompts: a speakerphone, a voice-assistant hub, and a handheld virtual pet. Diode Computers built working prototypes from its files.",
+      "link": "https://www.anthropic.com/research/claude-electronics-design",
+      "pubDate": "2026-11-09T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b953cc611ebe78f0b84e996dd54a614efd38b3f4-2000x1125.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5a90caffb2c8",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "description": "",

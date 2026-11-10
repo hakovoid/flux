@@ -1588,6 +1588,21 @@
       "type": "blog"
     },
     {
+      "id": "ac1347105011",
+      "title": "Forum PHP 2026 : 221 téléphones, 7 minutes de jeu et zéro droit à l'erreur",
+      "description": "Pour l'ouverture du Forum PHP 2026, l'AFUP nous a confié un ice breaker : un jeu multijoueur en temps réel, joué par toute la salle sur téléphone. Retour sur le projet, la stack et les chiffres de la partie.",
+      "link": "https://www.elao.com/blog/elao/forum-php-2026-icebreaker",
+      "pubDate": "2026-10-15T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/elao/afup-icebreaker/thumbnail.jpg/4f00a1599d3e3c07d6fe2e0ec81606e7.jpg",
+      "type": "blog"
+    },
+    {
       "id": "297f78f6f368",
       "title": "OpenAI’s lead engineer was secretly a spy...",
       "description": "",

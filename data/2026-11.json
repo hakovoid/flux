@@ -2,6 +2,189 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3abdf2d7994f",
+      "title": "Platypus - L'ornithorynque qui vous fait cligner des yeux",
+      "description": "Platypus Companion fait passer quelques secondes un ornithorynque en bas de l'écran, sur Mac et Windows, pour vous rappeler de cligner des yeux, de vous étirer ou de faire une pause. Version gratuite, complète à quelques euros.",
+      "link": "https://korben.info/platypus-cligner-des-yeux-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-10T06:49:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/platypus-cligner-des-yeux-ecran/platypus-cligner-des-yeux-ecran-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "2f1714a0cd01",
+      "title": "Mise en place de Ntfy : un point d'entrée unique pour toutes vos notifications",
+      "description": "Alertes éparpillées entre mails, Telegram et applis dédiées ? Un serveur Ntfy auto-hébergé réunit tout et vous laisse décider de leur destination.",
+      "link": "https://domopi.eu/mise-en-place-de-ntfy-un-point-dentree-unique-pour-toutes-vos-notifications/",
+      "pubDate": "2026-11-10T06:45:00.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/Notification-bleue-dans-un-espace-tech.webp",
+      "type": "blog"
+    },
+    {
+      "id": "897df3abfa12",
+      "title": "Nylon - Le VPN WireGuard qui trouve seul son chemin",
+      "description": "Nylon relie vos machines en WireGuard sans serveur de coordination : chaque nœud relaie pour les autres et le trafic suit la route de plus faible latence. À condition d'avoir un bout joignable par lien et des machines de confiance.",
+      "link": "https://korben.info/nylon-vpn-mesh-wireguard.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-10T06:21:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/nylon-vpn-mesh-wireguard/nylon-vpn-mesh-wireguard-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "86dacdeb5bd4",
+      "title": "DockEcho - Un Dock sur chacun de vos écrans Mac",
+      "description": "DockEcho pose une copie synchronisée du Dock de macOS sur chaque écran externe, avec vos réglages. Open source, sous licence MIT, à compiler soi-même.",
+      "link": "https://korben.info/dockecho-dock-macos-chaque-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-10T05:44:55.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dockecho-dock-macos-chaque-ecran/dockecho-dock-macos-chaque-ecran-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "a47b0960ee05",
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
+      "pubDate": "2026-11-09T21:04:16.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4833b6ab94b7",
+      "title": "Évolution des performances de la table de routage sous Linux",
+      "description": "Dans des articles précédents, j'ai expliqué comment le noyau Linux gérait les tables de routage et . J'ai suivi l'évolution des performances de recherche , avec l'impact des , ainsi qu'. Cet article met à jour ces chiffres jusqu'à Linux 7.3 et expose les responsables de chaque régression ! 🕵️‍♂️IPv4IPv6entre Linux 2.6.32 et 4.16 pour IPv4mitigations contre Meltdown et Spectreentre Linux 2.6.39 et 4.18 pour IPv6 J'ai mesuré les performances sur un , un loué à tournant à 2,4 GHz sans le mode…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-linux-performance-ipv4-ipv6-table-routage",
+      "pubDate": "2026-11-09T20:07:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/linux/ipv6-radix-perf-2026.b057a30dbcf68e.svg",
+      "type": "blog"
+    },
+    {
+      "id": "e196d26b6ca0",
+      "title": "Test du câble UGREEN Nexode 240W - avec un écran qui révèle la puissance en temps réel",
+      "description": "Korben teste depuis trois semaines le câble USB-C UGREEN Nexode 240W, qui intègre un écran LCD affichant la puissance réelle en watts. Compatible USB PD 3.1 (48 V, 5 A) avec puce E-Mark, il existe en 1, 2 ou 3 mètres, de 13 à 20 euros selon le modèle ou le lot.",
+      "link": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-09T15:43:45.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel/test-du-cable-ugreen-nexode-240w-avec-un-ecran-qui-revele-la-puissance-en-temps-reel-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "adf74a2081f4",
+      "title": "Jane 8: modern PHP models, Symfony HttpClient and lazy API calls",
+      "description": "Jane 7.14 shipped on September 1st. Exactly one month later, we tagged 8.0.0: a major version, with breaking changes we chose one by one. A major version of a code generator is a strange beast: it changes the code it writes, and therefore the code you write. We did not take that lightly. Jane generated PSR-18 clients with HTTPlug plugins and getter/setter models for years, and they worked. They also stacked three abstraction layers over an HTTP transport, hid the real shape of your data behind…",
+      "link": "https://jolicode.com/blog/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls",
+      "pubDate": "2026-11-09T15:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/jane-8-modern-php-models-symfony-httpclient-and-lazy-api-calls.png",
+      "type": "blog"
+    },
+    {
+      "id": "d4f897bbce96",
+      "title": "NomadNet - Votre site et vos fichiers sur Reticulum",
+      "description": "Installer NomadNet, activer un nœud, écrire sa page index.mu et proposer des fichiers sur Reticulum, tuto testé sur deux machines Ubuntu 24.04. Avec ce qu'il faut savoir avant d'allumer le nœud : il annonce son nom, partage l'identité de votre messagerie, et Reticulum n'a fait l'objet d'aucun audit de sécurité externe.",
+      "link": "https://korben.info/reticulum-nomadnet-site-fichiers.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-09T13:18:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/reticulum-nomadnet-site-fichiers/reticulum-nomadnet-site-fichiers-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "26575bbab076",
+      "title": "Chicago95 - Votre Xubuntu déguisé en Windows 95",
+      "description": "Le thème Chicago95 habille XFCE en Windows 95, des fenêtres à l'invite MS-DOS. Le tuto, testé sur une Xubuntu 26.04, signale ce qui coince : greffon du tableau de bord, fond d'écran, polices bitmap, paquet des sons, et comment revenir en arrière.",
+      "link": "https://korben.info/chicago95-xfce-windows-95.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-09T13:16:31.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/chicago95-xfce-windows-95/chicago95-xfce-windows-95-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "3fbcc14ea29a",
+      "title": "iKnow - Ce que votre Mac sait de votre famille",
+      "description": "Deux chercheurs d'Eighth Rank décrivent le graphe de vos proches que macOS remplit en local, avec deux classificateurs qui notent qui est de la famille. Ce qui est recoupé, ce qui ne l'est pas, et comment l'ouvrir en lecture seule avec iKnow, essai à l'appui sur deux Mac.",
+      "link": "https://korben.info/graphe-connaissances-apple-iknow.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-09T12:12:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/graphe-connaissances-apple-iknow/graphe-connaissances-apple-iknow-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "37c7521a0877",
+      "title": "Kubedock et GitLab Runner : exécuter vos tests d'intégration avec Testcontainers sur Kubernetes sans Docker-in-Docker",
+      "description": "Comment faire tourner Testcontainers dans un job GitLab Runner sur Kubernetes sans conteneur privilégié : sidecar Kubedock, permissions RBAC, parallélisme, nettoyage, et les cas où un simple service GitLab CI suffit.",
+      "link": "https://blog.ippon.fr/2026/11/09/kubedock-gitlab-runner-testcontainers-kubernetes/",
+      "pubDate": "2026-11-09T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdpdGxhYnxlbnwwfHx8fDE3OTQyMzA3OTN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
+      "type": "blog"
+    },
+    {
       "id": "48edcf566e62",
       "title": "#237.diff - Exotec: Une reine et une armée de robots avec Sophie Paquereau",
       "description": "Il y a 3 ans, dans l'épisode #237 je recevais Sophie Paquereau. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch |…",
