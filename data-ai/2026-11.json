@@ -2,6 +2,160 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "8e8e851f9ac3",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "pubDate": "2026-11-11T09:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ac94b61a25ad",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "pubDate": "2026-11-11T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1xM6UVTcHLBSPyEgaezNtb/9e28e813c1d3f25564da209e17526702/chatgpt-plus-for-veterans-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "19b4fcb1faac",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "description": "",
+      "link": "https://huggingface.co/blog/qvac/botpsy",
+      "pubDate": "2026-11-11T05:01:16.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+      "type": "blog"
+    },
+    {
+      "id": "e1742b0ed40e",
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "description": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, […] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "pubDate": "2026-11-10T20:52:56.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/0-lazarus-riso-large.mp4",
+      "type": "blog"
+    },
+    {
+      "id": "c0101f36ad82",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "description": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "pubDate": "2026-11-10T19:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "6d8eb3bcd497",
+      "title": "Gemini 4 Carbon is now available",
+      "description": "",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "pubDate": "2026-11-10T16:03:47.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "59a8a5dd3afc",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "pubDate": "2026-11-10T14:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ef83b8dc18b1",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "pubDate": "2026-11-10T13:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f321c904268b",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "description": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "pubDate": "2026-11-10T12:02:28.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0f0020abcf73",
+      "title": "Helping caregivers use AI in everyday life",
+      "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "pubDate": "2026-11-10T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5hU7ON7hfir24W1E1vtQLV/8eb49679510e09c2d19d0ad918229de4/helping-caregivers-use-ai-in-everyday-life-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "991ad48e8559",
+      "title": "Introducing Businesses in ChatGPT",
+      "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "pubDate": "2026-11-10T10:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7Eicp7g84HA3PCzyVJTfbT/d423890d5a1a863bf69a57bcbbbf6e99/business-agents-blog-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "69d4d9d74efa",
       "title": "Closing the AI guidance gap in education",
       "description": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
@@ -16,6 +170,34 @@
       "type": "blog"
     },
     {
+      "id": "9092d5eb66f2",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "link": "https://openai.com/index/singapore-airlines-travel-work",
+      "pubDate": "2026-11-10T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6geJn9bNCJzHk6tuvkrIIJ/68eaf731ef9d75adb5f7f8c15f6cf867/singapore-airlines-curved-satin-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "f3fc54cd1d78",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "pubDate": "2026-11-10T07:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6uOuGMP8uXe0QmAClG9qAN/692ade63f2f37280ed6b8ffb00f9f53b/ai-effect-on-freelance-work-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "84757a8b6e04",
       "title": "Anthropic launches roadshow for proposed initial public offering",
       "description": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
@@ -27,6 +209,62 @@
         "IA"
       ],
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "37e4452e64c8",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "link": "https://openai.com/index/cogent-security",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6yvbDz3WNgZACuqR1Bllrv/eea6d3b2ec1cf6115a5738c06073259b/cogent-security-social-sienna.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "cb93d68b445c",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "description": "",
+      "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5f3963726dbe",
+      "title": "Decision Models in Hugging Face",
+      "description": "",
+      "link": "https://huggingface.co/blog/decision",
+      "pubDate": "2026-11-10T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "8827aad4505e",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "pubDate": "2026-11-09T19:51:47.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
