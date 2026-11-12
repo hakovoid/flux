@@ -2,6 +2,37 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e4ecd213843f",
+      "title": "L'usine à vulnérabilités : R0 planifie, R1 audite, R2 contre-expertise",
+      "description": "TL;DR Suite de l’article de septembre : je concluais que trouver des vulns était devenu trivial et que le goulot d’étranglement, c’était moi, l’humain dans la boucle. Depuis, j’ai industrialisé la partie triage : mon repo d’audit est devenu une usine à findings, avec des agents aux rôles distincts (planification, audit, contre-expertise) et une base qui mémorise toutes les pistes, y compris celles qu’on a écartées. Les chiffres qui justifient l’usine : mes rapports n’étaient presque jamais…",
+      "link": "https://blog.zwindler.fr/2026/11/12/usine-agentique-a-findings/",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/20250611_191900.webp",
+      "type": "blog"
+    },
+    {
+      "id": "22b0e9261e2c",
+      "title": "Modern Web Guidance - Votre agent IA va enfin goûter au code web moderne",
+      "description": "Modern Web Guidance glisse dans votre agent de code des guides sur les fonctionnalités natives du navigateur. Installation, scan, télémétrie et limites.",
+      "link": "https://korben.info/modern-web-guidance-agents-web.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-12T08:00:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_16736446616422883218_hu_c8605f1ef708f993.webp",
+      "type": "blog"
+    },
+    {
       "id": "0bb39bcddf9c",
       "title": "Road trip vers l'Espagne, partie 1",
       "description": "Jour 1 : Paris - Rambouillet – Chartres - Saumur Ça faisait longtemps que j’avais dans la tête cette idée d’aller faire un grand tour de moto prendre plusieurs semaines de vacances, et rouler dans des paysages magnifiques dans des endroits où il y a du soleil seul ou avec des potes et retrouver des potes sur la route. Et le hasard de la vie on fait que c’est devenu possible le 19 octobre 2026, qui se trouve être le jour de mes 60 ans. J’ai chargé la moto, embrassé ma femme lundi matin, jour…",
@@ -48,6 +79,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
       "duration": "01:01:41"
+    },
+    {
+      "id": "e0b2e468d3ea",
+      "title": "Les tests passent. Ça ne dit pas que ça marche.",
+      "description": "Je développe mes produits avec un agent de code. Il écrit, je cadre, je relis, je décide. Cette façon de travailler pose une question que tout le monde finit par se poser : comment savoir que ce qui a été produit fait vraiment ce qui était demandé ? Ma réponse tient en deux étages. Le premier s’appelle speckit-guard. Le second est un banc de test dans une machine virtuelle. Cet article explique pourquoi le premier ne suffit pas, et ce que le second apporte.",
+      "link": "https://kolapsis.com/blog/how-to-validate-ai-written-code/",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": "https://kolapsis.com/img/validate-ai-code-hero.png",
+      "type": "blog"
     },
     {
       "id": "7f619e54dfca",

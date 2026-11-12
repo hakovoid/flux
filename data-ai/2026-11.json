@@ -2,6 +2,90 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "4922ca6fb0dd",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "pubDate": "2026-11-12T09:30:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/YQ7iIOI0bWh6X0QxSJfhc/52dfd3404ac0611fbab3c54ed6178bce/holiday-extras-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d7c1da8cb7dc",
+      "title": "Supporting research on AI and children’s safety",
+      "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "link": "https://openai.com/index/children-first-declaration",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4Sf0H3Wms7pT8ElWHCBqtC/dc443a9424134ea7518258ed6bdd9ffa/supporting-research-on-ai-and-childrens-safety-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "65b96c238445",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/34qb6se5e4WPds4qMTRVll/e5de73acb5100416606cc7cd390693bd/EF_Ep21_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "c06fca3b9549",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "pubDate": "2026-11-11T18:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+      "type": "blog"
+    },
+    {
+      "id": "eac4d84ef949",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "pubDate": "2026-11-11T16:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "833534b672b8",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "pubDate": "2026-11-11T15:00:15.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8e8e851f9ac3",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
@@ -41,6 +125,34 @@
         "IA"
       ],
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
+      "type": "blog"
+    },
+    {
+      "id": "55ff14dc4213",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6yXeyZ5Lph5wYnDiSxL1Rf/fe6264331b54720f59b3c7e90a05b2b8/EF_Ep20_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "11568aa8dfcf",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "description": "",
+      "link": "https://huggingface.co/blog/token-pooling",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
       "type": "blog"
     },
     {
