@@ -2,6 +2,90 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "16dbc3338bdc",
+      "title": "Microsoft Research Focus – Edition #98",
+      "description": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research.",
+      "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+      "pubDate": "2026-11-12T21:31:57.000Z",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ResearchFocus-BlogHeroFeature-1400x788-1-scaled-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "67672a694e38",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7xyAtQVA8C5CZGHW7aQidr/a71aedc6e0ed7395f081f75411af6d03/amplitude-wave-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "84ec87286cb3",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "description": "",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "pubDate": "2026-11-12T19:07:35.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
+      "type": "blog"
+    },
+    {
+      "id": "c7a410ad3b86",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "description": "",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "pubDate": "2026-11-12T18:00:50.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f19cddd04797",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "description": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "pubDate": "2026-11-12T18:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "b9840fd67063",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "pubDate": "2026-11-12T12:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2gyH3WDalGtGbAK3JBzNl2/29480242d3537e70529f699d9662e99c/Gondola-Option-A-SEO-1920x1080.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "4922ca6fb0dd",
       "title": "Holiday Extras is rethinking what it can build with Codex",
       "description": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
@@ -41,6 +125,34 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/34qb6se5e4WPds4qMTRVll/e5de73acb5100416606cc7cd390693bd/EF_Ep21_16.9.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "cbda9238a368",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "description": "",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
+      "type": "blog"
+    },
+    {
+      "id": "128572cdc4ce",
+      "title": "Welcoming Jaya Baloo as Cohere's First CISO",
+      "description": "The cybersecurity leader and AISLE co-founder joins Cohere to help build the world's most trusted platform for sovereign AI",
+      "link": "https://cohere.com/blog/cohere-welcomes-jaya-baloo-as-first-ciso",
+      "pubDate": "2026-11-12T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c5b5cf50ad25cbebcf668c622084c0208f89945-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
       "type": "blog"
     },
     {
