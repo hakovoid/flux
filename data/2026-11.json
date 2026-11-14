@@ -2,6 +2,38 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "91da0ae934ad",
+      "title": "Stela - Le retour du Hackintosh ?",
+      "description": "Stela démarre macOS 27 pour Apple Silicon, sans le modifier, sur un PC x86 équipé d'une carte NVIDIA, en lui faisant croire qu'il tourne sur un Mac mini M2. Ce qu'il faut comme matériel, comment fabriquer la clé, et pourquoi le garder pour une machine de test.",
+      "link": "https://korben.info/stela-macos-pc-x86-hackintosh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-14T01:03:37.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/stela-macos-pc-x86-hackintosh/stela-macos-pc-x86-hackintosh-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5540bde74641",
+      "title": "Être fail-safe, c'est avant tout une question produit",
+      "description": "La résilience n'est pas qu'une affaire de retry et de DLQ : sans décision produit, ces mécanismes provoquent doublons, fausses alertes et incohérences. Une méthode pour cadrer les failure paths dès les ateliers produit.",
+      "link": "https://blog.ippon.fr/2026/11/13/resilience-fail-safe-question-produit/",
+      "pubDate": "2026-11-13T12:58:20.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/fail-safe-safe-to-fail.jpg",
+      "type": "blog"
+    },
+    {
       "id": "7ec77935e230",
       "title": "Agent-desktop pilote vos applis sans regarder l'écran",
       "description": "agent-desktop, de Vercel Labs, fait piloter vos applications de bureau par un agent IA en lisant l'arbre d'accessibilité plutôt que des captures d'écran. Essai sur Mac, avec TextEdit et une appli Electron, et la limite qui compte.",
@@ -33,6 +65,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/a1a2f062-9387-43eb-ab07-60d955870338.mp3?_=1794488441",
       "duration": "15:00"
+    },
+    {
+      "id": "a8810e64bbab",
+      "title": "GRUB vs. RAID sur les systèmes Red Hat",
+      "description": "GRUB vs. RAID sur les systèmes Red Hat {align=right} Ce matin j'ai fait un peu de maintenance informatique dans mon réseau local, et j'en ai profité pour intégrer la dernière mouture de mes playbooks Ansible. Résultat des courses : deux machines qui ne démarrent plus. Il semble bien que je me suis mis deux coups de douze dans le pied.",
+      "link": "https://www.microlinux.fr/blog/grub-raid-rhel/",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "source": "Microlinux (Nicolas Kovacs)",
+      "sourceUrl": "https://www.microlinux.fr/feed_rss_created.xml",
+      "categories": [
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
     },
     {
       "id": "634b4ee46f37",

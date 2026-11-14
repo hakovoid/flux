@@ -2,6 +2,124 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0ef4adc7ead8",
+      "title": "New in Symfony 8.2: Link Sets and Link Templates",
+      "description": "Contributed by Florent Morselli in #65428…",
+      "link": "https://symfony.com/blog/new-in-symfony-8-2-link-sets-and-link-templates?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-14T08:03:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://connect.symfony.com/profile/spomky_.picture",
+      "type": "blog"
+    },
+    {
+      "id": "b628951e5f52",
+      "title": "How to Deploy Agent Teams Across Your Company (Complete Guide)",
+      "description": "...explained visually, plus a four-agent Alook and Nimble walkthrough.",
+      "link": "https://blog.dailydoseofds.com/p/how-to-deploy-agent-teams-across",
+      "pubDate": "2026-11-14T00:00:46.000Z",
+      "source": "Daily Dose of Data Science",
+      "sourceUrl": "https://blog.dailydoseofds.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/d427c98d-fc2d-4dc4-8a32-221c768e0229_1983x793.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "4cb58a6ed2a6",
+      "title": "datasette-cluster-map 0.19",
+      "description": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&amp;E, also demonstrating Datasette's recently redesigned facets: Tags: datasette, geospatial, openstreetmap",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "pubDate": "2026-11-13T23:02:45.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e1058067669e",
+      "title": "datasette-leaflet 0.3",
+      "description": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header. Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin,…",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "pubDate": "2026-11-13T22:30:54.000Z",
+      "source": "Simon Willison's Weblog",
+      "sourceUrl": "https://simonwillison.net/atom/everything/",
+      "categories": [
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d4c4ce441453",
+      "title": "Symfony 8.2.0-BETA2 released",
+      "description": "Symfony 8.2.0-BETA2 has just been released. This is a pre-release version of Symfony 8.2. If you want to test it in your own applications before its final release, run the following commands: 1 2 3 $ composer config minimum-stability…",
+      "link": "https://symfony.com/blog/symfony-8-2-0-beta2-released?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-13T17:33:24.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/images/opengraph/symfony.png",
+      "type": "blog"
+    },
+    {
+      "id": "34a17cada879",
+      "title": "SymfonyCon Warsaw 2026: The building blocks of an agentic software factory",
+      "description": "Join the global Symfony ecosystem in Warsaw on November 26-27 for SymfonyCon Warsaw 2026. A relaxed environment to learn from 3 talk tracks and hang out with peer developers. 🎤 Speaker announcement We're proud to feature Guillaume Moigneu, Field…",
+      "link": "https://symfony.com/blog/symfonycon-warsaw-2026-the-building-blocks-of-an-agentic-software-factory?utm_source=Symfony%20Blog%20Feed&utm_medium=feed",
+      "pubDate": "2026-11-13T13:30:00.000Z",
+      "source": "Symfony Blog",
+      "sourceUrl": "https://feeds.feedburner.com/symfony/blog",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://symfony.com/uploads/assets/blog/NL-BLOG-Banner.png",
+      "type": "blog"
+    },
+    {
+      "id": "3fe2a7daa28f",
+      "title": "One question at a conference became a $50K a month one-person business",
+      "description": "A nice profile of Jason McCreary and how Laravel Shift grew into a one-person business doing about $50K MRR. The most interesting bit is how raising prices, slowly and deliberately, turned it from a side project into a real business. Read more",
+      "link": "https://freek.dev/3220-one-question-at-a-conference-became-a-50k-a-month-one-person-business",
+      "pubDate": "2026-11-13T12:31:04.000Z",
+      "source": "Freek Van der Herten",
+      "sourceUrl": "https://freek.dev/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://freek.dev/og-image/7ebadbc2410b322c73680bf0e5726e9d.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "74e104ffccbb",
+      "title": "What Makes an Agent Self-Evolving?",
+      "description": "An agent can get better at its job without a new model. It can learn to find useful information, choose the right tool, or check that a task is finished before reporting success. For that experience to help with the next task, something has to carry over: an updated instruction, a lesson saved in memory, […]",
+      "link": "https://www.oreilly.com/radar/what-makes-an-agent-self-evolving/",
+      "pubDate": "2026-11-13T11:54:22.000Z",
+      "source": "O'Reilly Radar — AI/ML",
+      "sourceUrl": "https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/What-makes-an-agent-self-evolving-Image-created-with-Gemini-1600x893.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "fb4e96acbc6d",
       "title": "New in Symfony 8.2: Validator Improvements",
       "description": "Inline Rules with the Callback Constraint Contributed by Javier Eguiluz in…",

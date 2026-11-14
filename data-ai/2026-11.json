@@ -2,6 +2,104 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "cdc8eef67bc5",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "pubDate": "2026-11-13T18:00:39.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
+      "type": "blog"
+    },
+    {
+      "id": "96c7f67bef86",
+      "title": "XYBench: Helping with the problem behind the question",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "pubDate": "2026-11-13T17:02:35.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
+      "type": "blog"
+    },
+    {
+      "id": "7d4d71d056da",
+      "title": "Introducing ChatGPT Wallet",
+      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "pubDate": "2026-11-13T15:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "6841e619fcd7",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "description": "",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "pubDate": "2026-11-13T14:05:22.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/63148d3b996c52bf0142cdbe/2PgU1GxpJX_LVORaP2RRy.png",
+      "type": "blog"
+    },
+    {
+      "id": "a99dfdd20d85",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "pubDate": "2026-11-13T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/2k2eu0bdwRQBf4AXMBdKfl/44d9a8963dee51ba8283d49a0cfa4721/og.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "3007f82c3813",
+      "title": "Building strong safety evaluations",
+      "description": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+      "link": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://assets.claude.com/04a298be2efa241bd5a4a810b97c62bb8ef257dc.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "30153793f11c",
+      "title": "Cohere Expands Its Sovereign AI Platform with AISLE and cubic",
+      "description": "Expanding the sovereign AI platform with new capabilities for cyber defense, secure software development, and mission-critical enterprise workflows",
+      "link": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "pubDate": "2026-11-13T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/7a06e826c9fb34189fdd3344a3de747cc99d53a6-7680x4320.png?rect=0,144,7680,4032&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "16dbc3338bdc",
       "title": "Microsoft Research Focus – Edition #98",
       "description": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and advances making AI coding agents faster and more efficient. The post Microsoft Research Focus – Edition #98 appeared first on Microsoft Research.",
@@ -363,6 +461,20 @@
         "IA"
       ],
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5hU7ON7hfir24W1E1vtQLV/8eb49679510e09c2d19d0ad918229de4/helping-caregivers-use-ai-in-everyday-life-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "d0f9bf46fa9d",
+      "title": "Opening the datasets behind our AI weather models",
+      "description": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "pubDate": "2026-11-10T11:13:04.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
