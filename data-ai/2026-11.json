@@ -2,6 +2,62 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ff7833693fa2",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "pubDate": "2026-11-16T09:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/34LfcwNBjpeCtav2XM8FhI/462f77d234875c50af8cc3368e9c529c/lvmh-media-division-partnership-seo-v2.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "60f3c7381bc6",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "description": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/56F7tT9829W28yYUsIwxk0/fa52b7a1f91fc5b65a70ac92be2150c9/the-king-s-trust-and-openai-launch-1m-partnership-seo.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "2e8f421d2ee2",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "pubDate": "2026-11-15T22:00:01.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1RdsG8XilINGFZUscLvAnj/b3bfb7912b44166e8075581574a7b777/toward-defining-the-standard-model-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "33b95c2112c4",
+      "title": "Our new blog for science",
+      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "pubDate": "2026-11-15T22:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/ZyKta7ePADbiaWqX3EARs/81a2a593e66096fb001987910330e24e/our-new-blog-for-science-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
       "id": "cdc8eef67bc5",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "description": "",

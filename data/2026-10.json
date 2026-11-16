@@ -2,6 +2,21 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "9b9dabc3bc05",
+      "title": "PDT",
+      "description": "– On mange quoi ce midi ? rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-pdt/",
+      "pubDate": "2026-10-31T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_132:PDT,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_132:PDT,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9e88533d52d0",
       "title": "Cloud Nord 2026 - Récap de ma journée à Lille",
       "description": "De retour de Cloud Nord 2026 Comme je vous l’avais annoncé en septembre, j’étais cette année à Cloud Nord, à Lille, pour y donner un talk “inédit” : “J’ai mis Kubernetes dans 512 Mo de RAM. Et il restait de la place pour DOOM.” Enchaînement un peu sportif pour moi, puisque la veille au matin j’étais encore à BDX I/O pour dédicacer mon livre (cf mon post précédent). Direction ensuite Lille dans le train, puisque Cloud Nord, c’était le vendredi 30 octobre. Pour ceux qui ne connaissent pas : Cloud…",
@@ -1755,6 +1770,21 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1d6bdf646661",
+      "title": "Obtenir une réponse",
+      "description": "Obtenir une réponse simple, c’est parfois une aventure. – C’est dans quelle matière que tu étais avec Gabin la dernière fois ? Tu sais, quand il n’avait pas fait sa partie ? Ah, quand même ! rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-10-obtenir-une-reponse/",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_118:Obtenir%20une%20r%C3%A9ponse,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_118:Obtenir%20une%20r%C3%A9ponse,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {

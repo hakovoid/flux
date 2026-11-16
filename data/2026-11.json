@@ -2,6 +2,35 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e4cc86c6f8f5",
+      "title": "Faut-il encore faire venir du trafic sur son site ?",
+      "description": "Faut-il chercher à faire venir du trafic sur son site ? À partir du livre Zero Click Marketing, je décrypte ce que le zéro clic change pour les entreprises B2B : visibilité, intention d’achat, mesure des résultats et rôle du site. Moins de visites ne signifie pas moins de clients. The post Faut-il encore faire venir du trafic sur son site ? appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/trafic-site-marketing-zero-clic/",
+      "pubDate": "2026-11-16T09:37:19.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "702c931ad091",
+      "title": "Liens Tech - Novembre 2026",
+      "description": "Au menu ce mois-ci : du stockage cloud hébergé en Europe, un outil d'accessibilité pour les mathématiques, un outil de traitement de fichiers auto-hébergé, un téléchargeur de vidéos, un serveur MCP pour sa médiathèque et un outil de visualisation de données, avec un webinar cybersécurité en clôture.",
+      "link": "https://domopi.eu/liens-tech-novembre-2026/",
+      "pubDate": "2026-11-16T06:45:58.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "ab4e5874de39",
       "title": "Travail des juniors et IA : avant de savoir prompter, il faut savoir penser.",
       "description": "Quel avenir pour le travail des juniors face à l’IA ? Expérience, esprit critique et compétences transversales : pourquoi savoir penser compte plus que savoir prompter. The post Travail des juniors et IA : avant de savoir prompter, il faut savoir penser. appeared first on Oliviersauvage.com.",
@@ -43,6 +72,38 @@
         "Web"
       ],
       "image": "https://korben.info/vectors-jeu-controle-aerien-navigateur/vectors-jeu-controle-aerien-navigateur-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ecfbacc85c4f",
+      "title": "J'ai construit un projet troué de partout : ce que voit stackalarm, et pas vos audits",
+      "description": "composer audit et npm audit trouvent des failles. Mais pas dans le runtime, l'image Docker, la forge auto-hébergée ni le code copié. Démonstration sur La Passoire, un monorepo Symfony, Next.js et Python troué de partout.",
+      "link": "https://yoandev.co/stackalarm-la-passoire",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/stackalarm-la-passoire.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ea036d6a52e6",
+      "title": "Presque",
+      "description": "Sa mère s’agace car ses devoirs ne sont pas faits, ou mal. – Allez on passe au français : montre-moi le fruit de tes recherches sur la filmographie de Hitchcock. Je ne dirais pas qu’il n’y a pas d’effort. Il n’y a juste pas les résultats. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-presque/",
+      "pubDate": "2026-11-14T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_128:Presque,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_128:Presque,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -103,6 +164,36 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "68a053bd50f3",
+      "title": "Quizz cinéma",
+      "description": "– … mais si, un film avec Moïse ! C’était Maui dans Vaiana. – Je l’ai vu, moi, “Rafle” ? C’était Ralph 2.0. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-quizz-cinema/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_124:Quizz%20cin%C3%A9ma,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_124:Quizz%20cin%C3%A9ma,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "aa05cc8f9419",
+      "title": "Plus sympa cette année",
+      "description": "Discussion autour de la réunion parents-profs : – J’ai pris des rendez-vous, regarde, ça te convient ? 1, par contre. 1 ? Le sens de l’observation. Les noms sont modifiés. ↩ rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-prof/",
+      "pubDate": "2026-11-13T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_116:Plus%20sympa%20cette%20ann%C3%A9e,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_116:Plus%20sympa%20cette%20ann%C3%A9e,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -168,6 +259,21 @@
         "Cloud"
       ],
       "image": "https://www.microlinux.fr/img/raid.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca20fd1b1bce",
+      "title": "XVIII",
+      "description": "J’entends Tanjiro réviser ses leçons à voix haute. “Au gngngn siècle…” Pff, alors… croix-v-baton, c’est seize. Donc là, ça fait 16-baton-baton… donc 18. On reprend : “Au 18e siècle,…” rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-xviii/",
+      "pubDate": "2026-11-12T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_130:XVIII,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_130:XVIII,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
@@ -682,6 +788,21 @@
       "duration": "17:26"
     },
     {
+      "id": "0a4384f687e3",
+      "title": "Caillou",
+      "description": "Je mets mes chaussures qui étaient dans l’entrée. Au fond du pied droit, je sens un caillou. Pas un truc minuscule, un truc qui se ressent vraiment, et dont la forme est très étrange, très sphérique. Je retire ma chaussure, la retourne : un M&M’s. Aucun des deux garçons n’est capable de me fournir une explication. rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-caillou/",
+      "pubDate": "2026-11-05T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_128:Caillou,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_128:Caillou,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
+      "type": "blog"
+    },
+    {
       "id": "01d0ce52524d",
       "title": "Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider.",
       "description": "Dans la vente complexe B2B, l’humain reste au centre. Mais une IA intégrée aux connaissances et aux processus de l’entreprise peut lui donner de bien meilleurs moyens de convaincre. Le résumé : L’IA permet aux acheteurs de comparer des offres et de préparer leurs questions. Elle ne suffit pas à déterminer quelle solution fonctionnera dans […] The post Vos clients ont l’IA pour s’informer. Ils ont encore besoin de vous pour décider. appeared first on Oliviersauvage.com.",
@@ -912,6 +1033,21 @@
         "Web"
       ],
       "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "68973cca9040",
+      "title": "Oups",
+      "description": "Nous sommes mercredi midi. J’arrête de travailler pour préparer le repas. Tanjiro a fini les cours à 10h. Je le retrouve devant la TV et lui demande de venir m’aider à mettre la table. Il descend avec moi, pose deux assiettes et me demande : – Elle rentre quand, maman ? Je me retourne, il a disparu. J’en connais un qui n’a sûrement pas fait tous les devoirs qu’il avait promis de faire… rédigés en français. ce flux.",
+      "link": "https://boris.schapira.dev/notes/2026-11-oups/",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Boris Schapira",
+      "sourceUrl": "https://boris.schapira.dev/feed.xml",
+      "categories": [
+        "Web",
+        "Programmation"
+      ],
+      "image": "https://res.cloudinary.com/borisschapira/image/fetch/e_blur:200,c_crop,ar_1200:600,b_white/e_grayscale/w_1200/b_rgb:008000,o_20/w_1000,c_fit,l_text:PT%20Sans_131:Oups,x_2,y_-68,co_black,o_80/w_1000,c_fit,l_text:PT%20Sans_131:Oups,y_-70,co_white/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_64,y_65,co_black,o_20/l_text:PT%20Sans_50:@borisschapira@framapiaf.org,g_south_east,x_66,y_67,co_white/c_fill,g_south_east,r_max,h_45,l_masto,w_45,x_750,y_60/c_scale,g_south_west,l_avataar,w_150,x_60,y_40/https://boris.schapira.dev/assets/images/category/papa.jpg",
       "type": "blog"
     },
     {
