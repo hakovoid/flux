@@ -2,6 +2,194 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "837810a3d42e",
+      "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
+      "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de discriminations. À ce jour, 111 000 dons effectués par plus […] Cet article, Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/etude-de-cas-caisse-de-solidarite",
+      "pubDate": "2026-11-17T10:44:57.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/Vignette-blog-1200×630@1x-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "2a1e0fd582dd",
+      "title": "Comment LinkedIn recommande vos posts au-delà de votre réseau",
+      "description": "Comment LinkedIn recommande-t-il vos publications à des personnes hors de votre réseau ? Son équipe d’ingénierie explique le rôle du profil professionnel, du pays et des premières interactions. Voici ce que les dirigeants et commerciaux de PME industrielles peuvent en tirer pour écrire des posts qui parlent à leurs clients. The post Comment LinkedIn recommande vos posts au-delà de votre réseau appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/algorithme-linkedin-recommandation-posts/",
+      "pubDate": "2026-11-17T07:11:48.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "cc4a8842410a",
+      "title": "Votre agent n’ignorera plus vos règles",
+      "description": "Je vous montre comment l’empêcher de contourner vos règles.",
+      "link": "https://codecodecoders.substack.com/p/votre-agent-nignorera-plus-vos-regles",
+      "pubDate": "2026-11-17T06:01:58.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qGvI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7bf9454-a3af-4fa2-92a7-924c6b6c46b3_1456x816.png",
+      "type": "blog"
+    },
+    {
+      "id": "e15beb8636c0",
+      "title": "Vue et React : même route, deux boîtes de vitesses",
+      "description": "Vue, c'est l'automatique ; React, la manuelle. Un même composant écrit dans les deux, ce qui se passe sous le capot (réactivité, setup et hooks, écosystème), comment les deux se rapprochent par le compilateur, et les questions à poser avant de choisir.",
+      "link": "https://blog.eleven-labs.com/fr/vue-react-meme-route-deux-boites-de-vitesses/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-11-17-vue-react-meme-route-deux-boites-de-vitesses/cover-w1200-h630-x1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0bc8b05b85a0",
+      "title": "Vue and React: same road, two gearboxes",
+      "description": "Vue is the automatic; React, the stick shift. The same component written in both, what happens under the hood (reactivity, setup and hooks, ecosystem), how the two are converging through the compiler, and the questions to ask before choosing.",
+      "link": "https://blog.eleven-labs.com/en/vue-react-same-road-two-gearboxes/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-11-17-vue-react-meme-route-deux-boites-de-vitesses/cover-w1200-h630-x1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "fc15d5a70bf9",
+      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=ytmawkPTP24",
+      "pubDate": "2026-11-16T20:18:59.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "135863e501b6",
+      "title": "Stage optimisation d'un calcul haute performance pour ingénieur⋅e fin d'études ",
+      "description": "Contrat : Stage de 6 mois Lieu : Toulouse",
+      "link": "https://makina-corpus.com/devops/stage-optimisation-dun-calcul-haute-performance-pour-ingenieure-fin-detudes",
+      "pubDate": "2026-11-16T18:32:30.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://makina-corpus.com/sites/default/files/2026-11/IMG_2845.png",
+      "type": "blog"
+    },
+    {
+      "id": "4067a06f16b1",
+      "title": "Combien est payée une semaine d'astreinte dans la tech en France ?",
+      "description": "TL;DR Une semaine d’astreinte “complète” (4 nuits de semaine + un week-end, soit 123 heures où on peut te réveiller) est payée entre 150 € (fonction publique) et 765 € brut (le haut du panier dans le privé), hors majorations. La médiane de mon échantillon tourne autour de 500 €, soit à peine plus de 4 € de l’heure pour accepter d’avoir le laptop dans le sac au restaurant. Le montant affiché ne fait pas tout : majorations de nuit et de week-end, paiement des interventions, fréquence de rotation…",
+      "link": "https://blog.zwindler.fr/2026/11/16/combien-paye-astreinte-tech-france/",
+      "pubDate": "2026-11-16T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/astreinte-marathon.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8f2e05b33517",
+      "title": "Lean, AI et Delivery Tech - J’ai observé le futur du développement",
+      "description": "Comment travaille une équipe qui a une longueur d’avance sur l’IA ? J’ai passé du temps avec Sara, Lead Tech, pour le découvrir. Documentation dans le repo, standards Lean devenus le carburant de l’IA, Jidoka retrouvé… et une question qui reste ouverte : développons-nous encore les personnes ?",
+      "link": "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
+      "pubDate": "2026-11-16T16:45:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c52d7f58f06d",
+      "title": "Les lunettes connectées d'Apple arriveraient en 2027",
+      "description": "Selon Mark Gurman de Bloomberg, Apple viserait une présentation de ses premières lunettes connectées (code N50) à la WWDC de juin 2027, avec des livraisons avant fin 2027. Sans affichage dans les verres, elles reposent sur Siri et l'iPhone appairé, avec un retard possible lié au nouveau Siri.",
+      "link": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-16T15:49:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/les-lunettes-connectees-dapple-arriveraient-en-2027/les-lunettes-connectees-dapple-arriveraient-en-2027-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "35b537255280",
+      "title": "Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF",
+      "description": "Coraza dans FrankenPHP : benchmarks WAF et coût Kubernetes Cet article, Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/coraza-frankenphp-waf-benchmarks-kubernetes",
+      "pubDate": "2026-11-16T14:58:10.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/magnific_MBsFFMbDCm-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c48b20cb5584",
+      "title": "Cisco Missed the Cloud. Now It’s Selling the Roads the AI Economy Can’t Run Without.",
+      "description": "Cisco expects $9 billion in AI infrastructure revenue from hyperscalers in fiscal 2027. The remarkable part isn’t the number. It’s the seven-year-old strategic bet that made it possible.",
+      "link": "https://upskiller.substack.com/p/cisco-missed-the-cloud-now-its-selling",
+      "pubDate": "2026-11-16T12:05:42.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ag65!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1bae74-a3eb-4710-a14a-ea22da8fda04_886x470.png",
+      "type": "blog"
+    },
+    {
       "id": "e4cc86c6f8f5",
       "title": "Faut-il encore faire venir du trafic sur son site ?",
       "description": "Faut-il chercher à faire venir du trafic sur son site ? À partir du livre Zero Click Marketing, je décrypte ce que le zéro clic change pour les entreprises B2B : visibilité, intention d’achat, mesure des résultats et rôle du site. Moins de visites ne signifie pas moins de clients. The post Faut-il encore faire venir du trafic sur son site ? appeared first on Oliviersauvage.com.",
@@ -28,6 +216,20 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "687d8d561b76",
+      "title": "Sequoia Is Leaving London. Silicon Valley Just Delivered Its Verdict on Europe.",
+      "description": "Sequoia came to Europe looking for the next big thing. Six years later, it decided the talent was worth investing in, but the continent wasn’t worth staying for.",
+      "link": "https://upskiller.substack.com/p/sequoia-is-leaving-london-silicon",
+      "pubDate": "2026-11-15T22:15:04.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y-Fs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F431e60d4-8484-4667-88bf-838e5f87742a_978x617.jpeg",
       "type": "blog"
     },
     {
@@ -107,6 +309,20 @@
       "type": "blog"
     },
     {
+      "id": "1615340cb368",
+      "title": "Jensen Huang is gone. Nvidia is Discovering what it really lost.",
+      "description": "Investors are threatening to stop investing. Employees want their founder back. Musk says critical deals could disappear. Nvidia’s board may have removed its CEO, but it has exposed a bigger problem.",
+      "link": "https://upskiller.substack.com/p/jensen-huang-is-gone-nvidia-is-discovering",
+      "pubDate": "2026-11-14T16:36:00.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!d1AU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ae9ec4c-5e31-4531-9074-7b9ea370b552_1926x1342.png",
+      "type": "blog"
+    },
+    {
       "id": "d9a0cd1caf22",
       "title": "PHP, Brotli et autres raisons de devenir ébéniste",
       "description": "Deux failles critiques dans PHP, une vulnérabilité dans Brotli et quelques envies de reconversion. Retour sur un mois d'octobre mouvementé.",
@@ -119,6 +335,20 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/og/billets/php-brotli-et-autres-raisons-de-devenir-ebeniste.png",
+      "type": "blog"
+    },
+    {
+      "id": "afc6ec9eb69f",
+      "title": "Microsoft went down. The real problem is that everyone else went down With It.",
+      "description": "The cloud promised to make businesses more resilient. Microsoft's latest outage raises an uncomfortable question: have we simply made the entire economy dependent on the same points of failure?",
+      "link": "https://upskiller.substack.com/p/microsoft-went-down-the-real-problem",
+      "pubDate": "2026-11-14T12:39:28.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!_G0-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebf4de6-c812-4c43-8131-cfde060eff4d_2400x1662.png",
       "type": "blog"
     },
     {
@@ -197,6 +427,20 @@
       "type": "blog"
     },
     {
+      "id": "0a766b8eeb41",
+      "title": "Anthropic’s $1.4 Trillion IPO: The Most Fascinating Part Isn’t the Valuation. It’s Who Gets Paid.",
+      "description": "Anthropic could be worth $1.4 trillion. But what if the biggest winners of the AI revolution aren't the companies building the models, but the ones selling them the infrastructure?",
+      "link": "https://upskiller.substack.com/p/anthropics-14-trillion-ipo-the-most",
+      "pubDate": "2026-11-13T16:18:29.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XRhA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7968f910-1505-4401-82f9-2ee13e467bc0_1542x1042.png",
+      "type": "blog"
+    },
+    {
       "id": "5540bde74641",
       "title": "Être fail-safe, c'est avant tout une question produit",
       "description": "La résilience n'est pas qu'une affaire de retry et de DLQ : sans décision produit, ces mécanismes provoquent doublons, fausses alertes et incohérences. Une méthode pour cadrer les failure paths dès les ateliers produit.",
@@ -226,6 +470,22 @@
         "Web"
       ],
       "image": "https://korben.info/agent-desktop/agent-desktop-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "fbb52ad2818f",
+      "title": "30 heures au lieu de 11 jours",
+      "description": "Mais aussi : Jensen Huang quitte Nvidia, Claude s’invite dans Google Meet et Meta sort un modèle à 0,10 dollar",
+      "link": "https://codecodecoders.substack.com/p/30-heures-au-lieu-de-11-jours",
+      "pubDate": "2026-11-13T09:47:22.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fdlD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2677488-e8bb-4550-ba75-82acad07019b_1456x816.png",
       "type": "blog"
     },
     {
@@ -289,6 +549,34 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "428019f12eea",
+      "title": "Trump Wants Tim Cook to Run Nvidia. But is Apple’s greatest operator the right man for the Job?",
+      "description": "Jensen Huang is out. Donald Trump has already suggested his replacement: Tim Cook. But behind this unexpected recommendation lies a fascinating question about leadership and innovation.",
+      "link": "https://upskiller.substack.com/p/trump-wants-tim-cook-to-run-nvidia",
+      "pubDate": "2026-11-12T21:14:22.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3gib!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3668a5d-b38c-4d9d-9b40-7a5e06e088c1_1860x1582.png",
+      "type": "blog"
+    },
+    {
+      "id": "526faf545051",
+      "title": "Pattern to Revenue: Stop Scaling Activity. Scale What Actually Works. ",
+      "description": "The future of Go-to-Market isn’t about prospecting more. It’s about identifying the precise patterns that actually generate revenue. Understand what works, reproduce it, and scale it.",
+      "link": "https://upskiller.substack.com/p/pattern-to-revenue-stop-scaling-activity",
+      "pubDate": "2026-11-12T20:22:19.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Su1w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7946958-06c4-4491-b9bb-51920ce855d3_572x308.png",
       "type": "blog"
     },
     {
@@ -396,6 +684,20 @@
         "Web"
       ],
       "image": "https://korben.info/maxresdefault_16736446616422883218_hu_c8605f1ef708f993.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f2983d101f2f",
+      "title": "Le Pattern-to-Revenue : arrêtons de scaler l’activité, scalons simplement ce qui marche",
+      "description": "Le futur du Go-to-Market ne consiste pas à prospecter davantage, mais à identifier les patterns précis qui génèrent réellement du revenu. Comprendre, reproduire et scaler ce qui fonctionne.",
+      "link": "https://upskiller.substack.com/p/le-pattern-to-revenue-arretons-de",
+      "pubDate": "2026-11-11T15:06:42.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y81u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf2041f1-90bc-4a81-b522-26ad2a7a3a91_2396x1306.png",
       "type": "blog"
     },
     {
@@ -533,6 +835,22 @@
         "Web"
       ],
       "image": "https://korben.info/nylon-vpn-mesh-wireguard/nylon-vpn-mesh-wireguard-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "5d154170e90a",
+      "title": "Ce réglage n’est pas dans la doc de Claude Code. Il devrait.",
+      "description": "Votre quota fond sans que vous le sachiez. Voici comment reprendre la main en 15 minutes.",
+      "link": "https://codecodecoders.substack.com/p/15-minutes-pour-economiser-des-tokens",
+      "pubDate": "2026-11-10T06:16:15.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tHff!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5946b9-aa13-48cd-91c0-ad08fbbf7449_1456x816.png",
       "type": "blog"
     },
     {
@@ -767,6 +1085,22 @@
         "Web"
       ],
       "image": "https://korben.info/xess-xmx-linux-proton/xess-xmx-linux-proton-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "dddbd45ce516",
+      "title": "Le coût de l'IA rattrape Anthropic, Apple et Canva",
+      "description": "Mais aussi : Google menace de couper sa recherche aux écoles, ChatGPT et Codex vont partager un seul quota et Meta rachète Conductor",
+      "link": "https://codecodecoders.substack.com/p/le-cout-de-lia-rattrape-anthropic",
+      "pubDate": "2026-11-06T09:27:36.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KC_3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a4d9c6b-6e8e-4fee-9697-0ef27b68ff6e_1456x816.png",
       "type": "blog"
     },
     {
