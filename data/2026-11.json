@@ -2,6 +2,143 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "9a8e874ff5ed",
+      "title": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
+      "description": "L'article, en partenariat avec Surfshark, détaille six formes de vol d'identité : financier, fiscal, médical, judiciaire, biométrique (voix clonée avec 30 secondes d'audio) et synthétique. Il explique que le VPN protège sur les Wi-Fi publics et masque l'IP, mais pas du phishing ni des fuites de données.",
+      "link": "https://korben.info/comment-ne-plus-perdre-votre-identite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T10:21:33.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/comment-ne-plus-perdre-votre-identite/comment-ne-plus-perdre-votre-identite-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "590bb46a0d7c",
+      "title": "Unreal Tournament 2004 est de retour !",
+      "description": "Unreal Tournament 2004 se lance maintenant dans un onglet sur ut2004.dev, sans rien installer : 2 Go stockés une fois, une dizaine de cartes et du multi en WebRTC. Les navigateurs qu'il faut, et où récupérer le jeu complet si la page tombe.",
+      "link": "https://korben.info/unreal-tournament-2004-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T08:47:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/unreal-tournament-2004-navigateur/unreal-tournament-2004-navigateur-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c1fc40e34a09",
+      "title": "Dreamcart - Vos cartouches N64 sur la Dreamcast",
+      "description": "Throaty Mumbo branche de vraies cartouches N64 sur le port manette d'une Dreamcast et les fait tourner grâce à un recompilateur, sauvegardes comprises. Les jeux qui passent, et ce qu'il faut réunir pour essayer.",
+      "link": "https://korben.info/dreamcast-cartouches-n64.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T08:29:34.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_3715913905038070583_hu_a4badad08554bd60.webp",
+      "type": "blog"
+    },
+    {
+      "id": "18de0c9f546a",
+      "title": "Modèle et effort de raisonnement : trouver le bon équilibre pour vos agents",
+      "description": "La plupart des fournisseurs de modèles d’intelligence artificielle permettent aujourd’hui d’ajuster le niveau d’effort de raisonnement consacré à une tâche. Cette possibilité constitue un levier important pour maîtriser la consommation de tokens, optimiser les coûts et adapter les performances à la complexité des traitements.",
+      "link": "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
+      "pubDate": "2026-11-19T08:24:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "93ce1c1c1b43",
+      "title": "nginx2root - Votre nginx est-il vraiment exposé ?",
+      "description": "nginx 1.31.9 et 1.30.7 corrigent cinq failles d'exécution de code à distance, et un PoC est déjà public. Mais c'est HTTP/2 activé, plus que le numéro de version, qui ouvre la porte : voici comment vérifier votre serveur, quoi couper en attendant le paquet de votre distrib, et comment patcher.",
+      "link": "https://korben.info/nginx2root-faille-http2.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T06:57:06.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "abb6af47e709",
+      "title": "Ubuntu - Les futurs correctifs seront écrits par une IA",
+      "description": "Canonical lance Surge, des agents IA qui écrivent des correctifs de sécurité pour les paquets Ubuntu, que son équipe qualifie ensuite pour tout le monde. L'archive Edge permet de les recevoir avant cette qualification via Ubuntu Pro : voici ce que ça change, comment l'activer et comment en sortir.",
+      "link": "https://korben.info/canonical-surge-agents-correctifs-ubuntu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T05:56:20.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/canonical-surge-agents-correctifs-ubuntu/canonical-surge-agents-correctifs-ubuntu-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8bb2ac688178",
+      "title": "Road trip vers l'Espagne, partie 3",
+      "description": "Jours 13 à 18 : Pays Basque « du Nord » Pour notre séjour à Biarritz avec mon épouse Bénédicte, nous avons choisi un logement un peu à l’écart du centre-ville. Au programme, pas mal de balades à pied, une journée à vélo de location, le reste à moto pour découvrir les environs. La ville de Biarritz superbe, le surf y est omniprésent, les gens sont sympas et on y mange bien. On prend la moto pour aller visiter Saint-Jean-Pied-de-Port, on en profite pour aller faire un tour au Pays basque espagnol…",
+      "link": "https://standblog.org/blog/post/2026/11/18/Road-trip-vers-l-Espagne-partie-3",
+      "pubDate": "2026-11-18T18:25:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://pix.diaspodon.fr/storage/m/_v2/40/4796c06ff-5eacf7/T07W2ndZH2NP/IifoxOTyMTZxXZ0VXpscdNnzDp818fFezgLbX6LT.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "bf81ff04eb9c",
+      "title": "SkillEvaluator - Vos skills IA ont peut-être un YAML pété ?",
+      "description": "SkillEvaluator, l'outil open source de NVIDIA, évalue les skills d'agents IA en trois étages. Testé sur mes douze skills : un YAML cassé noté A, et des skills que l'agent oublie souvent de charger.",
+      "link": "https://korben.info/skillevaluator-nvidia-skills-agents.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-18T15:10:16.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/skillevaluator-nvidia-skills-agents/skillevaluator-nvidia-skills-agents-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7f56f47d0a83",
+      "title": "Nextcloud Office - La suite libre qui se passe du cloud",
+      "description": "Nextcloud Office, la distribution signée d'Euro-Office, est prête à télécharger en appli de bureau gratuite sous AGPL v3 : édition hors ligne, signature numérique, dépôts APT et DNF, mais rien pour les Mac Intel.",
+      "link": "https://korben.info/nextcloud-office-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-18T14:50:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/nextcloud-office-desktop/nextcloud-office-desktop-2.png",
+      "type": "blog"
+    },
+    {
       "id": "7db11e469128",
       "title": "Défi Zéro Déchet : 10 ans aux côtés des collectivités",
       "description": "Défi Zéro Déchet : la plateforme libre des collectivités créée par Les-Tilleuls.coop Cet article, Défi Zéro Déchet : 10 ans aux côtés des collectivités, est paru en premier sur Les-Tilleuls.coop.",
@@ -35,6 +172,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
       "duration": "01:04:25"
+    },
+    {
+      "id": "db953577ceec",
+      "title": "Comment l'IA pourrait faire disparaitre l'humanité ?",
+      "description": "Entre 1 et 99 % de risque selon les experts. Mais concrètement, comment l'IA nous ferait disparaître ? Cinq scénarios, du plus proche au plus lointain.",
+      "link": "https://eventuallycoding.com/p/comment-l-ia-pourrait-faire-disparaitre-l-humanite",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
+      "type": "blog"
     },
     {
       "id": "2a3a4ec1ea73",
