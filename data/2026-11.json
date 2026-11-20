@@ -2,6 +2,194 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d112d3cf21a0",
+      "title": "DevFest Toulouse 2026 - Récap express",
+      "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et DOOM), donc malgré des contraintes persos et un talk de seulement 15 minutes, j’ai fait le déplacement dans la journée (5h de route aller-retour). Ce récap est donc un peu moins riche que ce que je fais…",
+      "link": "https://blog.zwindler.fr/2026/11/20/recap-devfest-toulouse-2026/",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/devfest-toulouse-2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "ca98b90e796a",
+      "title": "Signal bloque les captures pour tenir Gemini et Siri à distance",
+      "description": "Signal bloque les captures d'écran sur iOS 27 et active sa protection sur Android quand un assistant IA lit l'écran. Ce n'est pas une faille, la parade a des trous, et Signal réclame aux éditeurs d'OS un vrai droit de refus pour les applis.",
+      "link": "https://korben.info/signal-bloque-captures-ecran-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T10:36:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/signal-bloque-captures-ecran-ia/signal-bloque-captures-ecran-ia-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "0f0fc19b63f7",
+      "title": "Trop d’outils IA pour développer : lequel installer ?",
+      "description": "Trop d’outils IA pour développer ? ADE, IDE, terminal : notre tour des environnements pour orchestrer des agents. Cet article, Trop d’outils IA pour développer : lequel installer ?, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/outils-ia-developpement-agentique-ade",
+      "pubDate": "2026-11-20T09:48:30.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/artisanat-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cf94b9e3e42f",
+      "title": "Black Friday pCloud - Plans à vie, Photos AI, Docs et NAS #sponso",
+      "description": "Du 13 au 28 novembre, pCloud met ses plans de stockage à vie en promo et pousse trois fonctions : Photos AI, Docs et la sauvegarde de NAS. Ce que chacune demande, et ce que « à vie » veut dire dans ses CGU.",
+      "link": "https://korben.info/pcloud-black-friday-2026.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T09:09:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pcloud-black-friday-2026/pcloud-black-friday-2026-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "f663b4056535",
+      "title": "Youtubeurs engagés - L'Arcom impose un temps de parole",
+      "description": "Pour la présidentielle 2027, l'Arcom applique aux grosses chaînes vidéo qui parlent de politique l'équité puis l'égalité du temps de parole des télés. Qui est visé, ce que ça impose aux chaînes engagées, ce qu'elles risquent, et pourquoi c'est une très mauvaise idée.",
+      "link": "https://korben.info/arcom-pluralisme-createurs-presidentielle.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T08:56:52.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/arcom-pluralisme-createurs-presidentielle/arcom-pluralisme-createurs-presidentielle-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ab940129dc4c",
+      "title": "Farcall - Un PC de 1981 qui s'ouvre dans votre terminal",
+      "description": "Farcall émule le premier IBM PC et son 8088, écrit en Rust par un développeur qui voulait comprendre la machine. Son serveur SSH public sert FreeDOS, Zork ou NetHack dans le terminal. Ce que l'auteur annonce, et ce qui manque encore.",
+      "link": "https://korben.info/farcall-emulateur-dos-ssh.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T08:10:36.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/farcall-emulateur-dos-ssh/farcall-emulateur-dos-ssh-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "326e249396d0",
+      "title": "Faire tourner une RTX 5060 sous Windows 7, à vos risques et périls",
+      "description": "WDDM2Win7 porte WDDM 2 sur Windows 7 : RTX 5060, RX 9060 XT et DirectX 12 apparaissent sur les captures. Mais ce sont des pilotes non vérifiables sur un OS sans correctifs, donc machine de bidouille uniquement.",
+      "link": "https://korben.info/directx-12-windows-7-wddm2win7.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T07:55:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/directx-12-windows-7-wddm2win7/directx-12-windows-7-wddm2win7-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8faabefc1d8b",
+      "title": "#360.exe - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs par Quentin de Quelen",
+      "description": "Pour l'épisode #360 je recevais Guillaume Lours. On en débrief avec Quentin. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/360-6e8e07e7ad53",
+      "pubDate": "2026-11-20T04:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/c87ad1ee-c3c1-4a4a-b813-6e8e07e7ad53.mp3?_=1795093235",
+      "duration": "14:43"
+    },
+    {
+      "id": "d623e798567f",
+      "title": "The only software that didn’t break this week...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
+      "pubDate": "2026-11-19T17:40:33.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "de838c6be9dc",
+      "title": "Windows 11 va bientôt noter le niveau de sécurité de votre PC",
+      "description": "Avec la baseline protection, en préversion, Windows 11 résume huit protections en un seul oui ou non que les applis pourront lire. Ce qui est vérifié, ce que les éditeurs peuvent en faire, et quels PC risquent de se faire recaler.",
+      "link": "https://korben.info/windows-baseline-protection.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T17:08:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-baseline-protection/windows-baseline-protection-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "8f316f6ad7a6",
+      "title": "Test des devolo BE9300 et BE6500, le mesh WiFi 7 que j'installe chez tous mes potes",
+      "description": "Korben teste le pack de trois devolo WiFi 7 Mesh BE9300 (environ 700 euros), tri-bande avec 9,3 Gbit/s annoncés, un port 2,5 Gbit/s et trois ports Gigabit. Le BE6500, à 150 euros la borne, 6,5 Gbit/s et deux bandes, suffit pour une fibre autour du gigabit.",
+      "link": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-19T14:26:40.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes/test-des-devolo-be9300-et-be6500-le-mesh-wifi-7-que-jinstalle-chez-tous-mes-potes-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3353b6af7447",
+      "title": "Maintenir ses projets open source à jour avec Renovate et Antigravity",
+      "description": "Renovate Renovate est un outil que j’apprécie et que j’utilise beaucoup. J’ai d’ailleurs écrit un article de blog à son",
+      "link": "https://blog.zenika.com/2026/11/19/maintenir-ses-projets-open-source-a-jour-avec-renovate-et-antigravity/",
+      "pubDate": "2026-11-19T14:07:37.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-797095ae.png?resize=800%2C237&#038;ssl=1",
+      "type": "blog"
+    },
+    {
       "id": "9a8e874ff5ed",
       "title": "Quelqu'un vit peut-être votre vie en ce moment. Comment ne plus perdre votre identité ? #sponso",
       "description": "L'article, en partenariat avec Surfshark, détaille six formes de vol d'identité : financier, fiscal, médical, judiciaire, biométrique (voix clonée avec 30 secondes d'audio) et synthétique. Il explique que le VPN protège sur les Wi-Fi publics et masque l'IP, mais pas du phishing ni des fuites de données.",
@@ -187,6 +375,23 @@
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
       "type": "blog"
+    },
+    {
+      "id": "36ec626d73b3",
+      "title": "News novembre 2026, Discord lâche Electron, OVH lance son premier LLM et Cactus met l'IA dans une montre",
+      "description": "Nous évoquons un répertoire des newsletters tech francophones, Discord qui prépare Project Phoenix en Rust et GPUI, Kiri et Colima pour se passer de Docker Desktop, KiviDB compatible Redis, my-bad de Daniel Roe, eve 1.0 de Vercel, les modèles Cactus de moins de 30 Mo, Olala mini d'OVHcloud, SkipLabs qui rejoint Mistral, Meta qui rachète Conductor, Infinity d'AWS pour faire tourner des milliers d'agents en parallèle, et quelques outils comme Kodza. Retrouvez toutes les notes et les liens de…",
+      "link": "https://double-slash.dev/podcasts/news-nov-26-rc1/",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1794997906/ART_147_lyu4f7.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_147_news-nov26.mp3",
+      "duration": "2733"
     },
     {
       "id": "2a3a4ec1ea73",
@@ -447,6 +652,22 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2be317edd4f7",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 5 : le function calling",
+      "description": "Enhance 224 to 176. Enhance, stop. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-11-16-java-and-ai-part5/",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://philippart-s.github.io/blog/2026-11-16-java-and-ai-part5/cover.jpeg",
       "type": "blog"
     },
     {
