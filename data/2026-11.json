@@ -2,6 +2,53 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "599e6a099267",
+      "title": "If you’ve deployed anything since 2015, I have bad news...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+      "pubDate": "2026-11-20T19:49:02.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a6cce5e01116",
+      "title": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
+      "description": "La Commission européenne a reconnu le 19 novembre une campagne de piratage débutée le 22 octobre, qui a paralysé Sysper et MyPMO pendant plus de dix jours. Le CERT-EU pointe ARTEX, un outil open source chinois d'agents IA détourné, déjà lié à des attaques contre ConnectWise et des firmes sud-coréennes.",
+      "link": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-20T14:50:58.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "d06762e0c01b",
+      "title": "Qualité interne et ralentissement du rythme de livraison : pourquoi le code se dégrade et comment l'éviter",
+      "description": "Un étonnement revient souvent dans les équipes avec qui je travaille : and quot;Pourquoi est-ce que faire un changement prend deux semaines ? Il y a deux ans, faire un changement similaire prenait deux jours. and quot; Qu'est-ce qui cause ce phénomène ? Comment le mitiger ?",
+      "link": "https://blog.octo.com/qualite-interne-et-rythme-de-livraison--pourquoi-le-code-se-degrade-et-comment-l'eviter",
+      "pubDate": "2026-11-20T14:41:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d112d3cf21a0",
       "title": "DevFest Toulouse 2026 - Récap express",
       "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et DOOM), donc malgré des contraintes persos et un talk de seulement 15 minutes, j’ai fait le déplacement dans la journée (5h de route aller-retour). Ce récap est donc un peu moins riche que ce que je fais…",
