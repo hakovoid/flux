@@ -2,6 +2,83 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "fc13e0057adf",
+      "title": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
+      "description": "Le tribunal britannique des pouvoirs d'enquête confirme que le Home Office a remis à Apple une injonction technique, secret que même le chatbot de Google connaissait. Son contenu reste caché, la Protection avancée des données reste fermée aux Britanniques qui ne l'avaient pas activée, et en France elle s'active toujours dans les Réglages.",
+      "link": "https://korben.info/apple-porte-derobee-icloud-royaume-uni.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-21T19:40:41.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/apple-porte-derobee-icloud-royaume-uni/apple-porte-derobee-icloud-royaume-uni-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "56e0e6fc57f8",
+      "title": "Windows NT 4.0 sur un Raspberry Pi, c'est inutile donc indispensable",
+      "description": "PINT fait démarrer Windows NT 4.0 sur les Raspberry Pi 2, 3, 4 et Zero 2 W, avec Wi-Fi, son et Pinball rangé à sa place. Mais aucune image n'est fournie : il faut compiler avec des sources Windows que le dépôt ne contient pas.",
+      "link": "https://korben.info/pint-windows-nt-raspberry-pi.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-21T18:34:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/pint-windows-nt-raspberry-pi/pint-windows-nt-raspberry-pi-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "132a3c1e7024",
+      "title": "Plex lâche TheTVDB",
+      "description": "Le 3 décembre, Plex ne récupère plus rien chez TheTVDB. Rien n'est effacé, mais l'ancien agent cesse de fonctionner, et les séries en cours suivies en ordre DVD ou absolu risquent de mal ranger leurs nouveaux épisodes. Voici quoi régler, et quoi laisser tranquille.",
+      "link": "https://korben.info/plex-abandonne-thetvdb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-21T18:19:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/plex-abandonne-thetvdb/plex-abandonne-thetvdb-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "fef077ff0bb6",
+      "title": "J'ai testé l'API d'ibou",
+      "description": "L'API de recherche du moteur français ibou se branche en quelques lignes de Python sur un agent IA ou sur une veille de nom. Coût mesuré, opérateurs qui marchent, et un index qui ne voit pas encore l'actu des derniers jours.",
+      "link": "https://korben.info/ibou-api-recherche-tuto.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-21T16:52:08.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ibou-api-recherche-tuto/ibou-api-recherche-tuto-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b0f10c50b77e",
+      "title": "Les news d'août et septembre 2026 : la rentrée du durcissement",
+      "description": "FlyD sur Unsplash Je vous avais donné rendez-vous en septembre… et nous voici bientôt en décembre. Je n’ai pas chômé pour autant : la rentrée a été dense côté pro, et je n’ai pas pris le temps d’écrire de nouveaux articles même si mon backlog déborde d’idées ou de thèmes pour l’alimenter. Cela fait un an que j’ai ouvert ce blog : j’en ai profité pour offrir au blog une nouvelle identité, plus sobre et, je l’espère, plus agréable à lire. Initialement, j’avais prévu de le faire à l’ouverture de…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/09/news-aout-septembre/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/09/news-aout-septembre/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "599e6a099267",
       "title": "If you’ve deployed anything since 2015, I have bad news...",
       "description": "",
