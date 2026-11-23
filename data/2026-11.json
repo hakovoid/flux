@@ -2,6 +2,81 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "95bb2281b78d",
+      "title": "Spelunkr - La télé où l'on ne choisit plus ce qui passe",
+      "description": "Spelunkr propose une trentaine de chaînes qui diffusent en continu des vidéos tirées de l'Internet Archive, avec films de monstres, dessins animés et VHS d'époque pubs comprises. Tous les spectateurs d'une chaîne voient le même programme au même moment, sans compte à créer.",
+      "link": "https://korben.info/spelunkr-tv-internet-archive.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T11:39:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/spelunkr-tv-internet-archive/spelunkr-tv-internet-archive-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "ad400db4e69e",
+      "title": "RDMA sur USB4 - Le cluster d'IA de Windows enfin possible",
+      "description": "Microsoft prépare le RDMA sur USB4 dans Windows 11 pour faire tourner un gros modèle d'IA sur plusieurs PC reliés par câble. Mais la préversion exige test signing, Secure Boot coupé et une réinstallation pour en sortir.",
+      "link": "https://korben.info/rdma-usb4-windows-ia-locale.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T11:23:25.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/rdma-usb4-windows-ia-locale/rdma-usb4-windows-ia-locale-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b009f089791d",
+      "title": "Cambodge - Mon premier voyage en Asie",
+      "description": "Invité à Phnom Penh pour le Sommet de la Francophonie et FrancoTech, j'ai découvert un Cambodge facile à vivre, des gens adorables, et un sommet secoué par la lettre de Macron à Kagame. Premier épisode d'une série de trois.",
+      "link": "https://korben.info/cambodge-voyage-phnom-penh-francophonie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T10:13:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/cambodge-voyage-phnom-penh-francophonie/cambodge-voyage-phnom-penh-francophonie-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "ff0a2b0d4ed6",
+      "title": "Morfo sème des forêts par drone sur d'anciennes mines",
+      "description": "Morfo largue par drone des capsules de graines sur des sols ravagés par les mines. En Guyane, le couvert végétal est passé de 0 à 81 % en quatre ans, mais sur une mine de bauxite au Brésil, le premier semis a buté sur le sol.",
+      "link": "https://korben.info/morfo-drones-restauration-forets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T05:40:12.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/morfo-drones-restauration-forets/morfo-drones-restauration-forets-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "54081bab0dc6",
+      "title": "On a trouvé l'adresse de 8 chefs d'entreprise sur 10 en moins de 10 minutes. Sans pirater quoi que ce soit. #sponso",
+      "description": "Incogni a localisé en moins de 10 minutes l'adresse de 80 % des CEO testés dans la finance, via Google et des sites de recherche de personnes. Le rapport couvre plus de 2 400 entreprises cotées et environ 700 dirigeants : 40 % de ceux de la finance sont découvrables, contre 30,6 % dans la santé.",
+      "link": "https://korben.info/incogni-adresses.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T05:07:10.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/incogni-adresses/incogni-adresses-1.png",
+      "type": "blog"
+    },
+    {
       "id": "fc13e0057adf",
       "title": "Apple - Londres ne peut plus cacher son injonction sur iCloud",
       "description": "Le tribunal britannique des pouvoirs d'enquête confirme que le Home Office a remis à Apple une injonction technique, secret que même le chatbot de Google connaissait. Son contenu reste caché, la Protection avancée des données reste fermée aux Britanniques qui ne l'avaient pas activée, et en France elle s'active toujours dans les Réglages.",
