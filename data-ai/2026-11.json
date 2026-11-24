@@ -2,6 +2,132 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b0689cf87ab5",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "pubDate": "2026-11-23T21:20:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "eb2701ff66fe",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "pubDate": "2026-11-23T17:20:37.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6fdac3c20f4",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "description": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "pubDate": "2026-11-23T17:00:00.000Z",
+      "source": "Google AI",
+      "sourceUrl": "https://blog.google/technology/ai/rss",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3ffa5c39e01e",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "pubDate": "2026-11-23T16:59:40.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "10878202550b",
+      "title": "Connected intelligence for in-house legal",
+      "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "pubDate": "2026-11-23T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/40q0vnGDp1zwWuJrVjXtu6/79ebb13b84e11ce1711a27adfd6ffafe/connected-intelligence-for-in-house-legal-cover.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "1259b534687d",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "pubDate": "2026-11-23T08:00:00.000Z",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/news/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "type": "blog"
+    },
+    {
+      "id": "00d52199bef2",
+      "title": "How to build and maintain an agentic evaluation",
+      "description": "",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "36fb5b1c7a9f",
+      "title": "Working with AI",
+      "description": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it.",
+      "link": "https://www.anthropic.com/research/working-with-ai",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://assets.claude.com/cd30ce2e82eb423476801098073b39e025839018.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "dc9cc8d98ef5",
+      "title": "AI readiness assessment: Is your enterprise prepared?",
+      "description": "AI readiness assessment: Is your enterprise prepared?",
+      "link": "https://cohere.com/blog/ai-readiness-assessment",
+      "pubDate": "2026-11-23T00:00:00.000Z",
+      "source": "Cohere",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2fe8f3315b7d7b2dde0fec7473be95dd5249460f-3840x2160.png?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;q=80&amp;fit=crop&amp;auto=format",
+      "type": "blog"
+    },
+    {
       "id": "1a10f1676d46",
       "title": "Perplexity and Intelligence",
       "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",

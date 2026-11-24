@@ -2,6 +2,126 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "064cd1a5d210",
+      "title": "Comment ajouter des agrégations à une collection API Platform",
+      "description": "En juillet 2023, j'ai demandé sur les discussions d'API Platform comment renvoyer des données en plus dans une GetCollection, et surtout comment les documenter. J'avais proposé d'écrire un article si ça intéressait quelqu'un, et en septembre, quelqu'un a dit oui. Le voici, avec trois ans de retard 😅 Le besoin J’ai eu ce besoin pour des endpoints d’API sur redirection.io. Mais pour simplifier l’article nous allons prendre un autre exemple concret : une liste d'articles, sur GET /api/articles. À…",
+      "link": "https://jolicode.com/blog/comment-ajouter-des-agregations-a-une-collection-api-platform",
+      "pubDate": "2026-11-24T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com/media/social-preview/comment-ajouter-des-agregations-a-une-collection-api-platform.png",
+      "type": "blog"
+    },
+    {
+      "id": "0d77c5c7233e",
+      "title": "dumbtv - Le Fire TV sans pub ni mouchard (et sans root)",
+      "description": "dumbtv désactive par ADB les pubs, la télémétrie et l'empreinte d'écran d'un Fire TV sous Fire OS, pose un filtre DNS local et un accueil sans pub, et tout s'annule d'une commande. Les nouveaux sticks sous Vega OS restent hors de portée.",
+      "link": "https://korben.info/dumbtv.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-24T09:21:56.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/dumbtv/dumbtv-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "46aea7dc8988",
+      "title": "Ladybird - Vous pouvez enfin installer ce navigateur indépendant",
+      "description": "La première alpha de Ladybird s'installe sans compiler sur Mac Apple Silicon et Linux. Essai sur Mac mini, ce qui marche, ce qui casse, le bond d'octobre, et pourquoi le garder à l'écart de vos comptes.",
+      "link": "https://korben.info/ladybird-premiere-alpha.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-24T09:04:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ladybird-premiere-alpha/ladybird-premiere-alpha-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f410b5596d5",
+      "title": "Stalwart - Lâcher Exchange sans toucher à Outlook",
+      "description": "Stalwart 1.2.0, serveur mail libre, parle désormais MAPI over HTTP, EWS et ActiveSync : Outlook classique, Apple Mail et les apps mail des smartphones s'y branchent comme sur un Exchange. Voici ce qui marche, ce qui manque encore, et pourquoi le nouvel Outlook reste à la porte.",
+      "link": "https://korben.info/stalwart-remplace-exchange.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-24T08:12:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/stalwart-remplace-exchange/stalwart-remplace-exchange-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "87e6c9a7d5a3",
+      "title": "Shirudo - Quand l'IA fabrique des boucliers pour Linux",
+      "description": "OpenAI et Cisco publient Shirudo, qui pose des boucliers signés sur un Linux en marche le temps du vrai correctif. La démo Java4Shell sur Elasticsearch passe pourtant par un agent Java injecté à chaud, et le reste exige un noyau patché : voici ce qui marche vraiment.",
+      "link": "https://korben.info/shirudo-openai-cisco-ebpf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-24T07:38:51.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/shirudo-openai-cisco-ebpf/shirudo-openai-cisco-ebpf-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "79267331ca02",
+      "title": "J'ai testé la migration de VMware vers Vates VMS #sponso",
+      "description": "J'ai déménagé une VM Ubuntu d'un ESXi 7 vers XCP-ng avec l'import V2V de Xen Orchestra 6.10, en deux passes et chrono en main. Résultat : à peine plus de deux minutes de coupure, un piège réseau à connaître et une version à installer avant de vous lancer.",
+      "link": "https://korben.info/migration-vmware-vates-vms-v2v.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-24T06:23:35.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/migration-vmware-vates-vms-v2v/migration-vmware-vates-vms-v2v-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "daaac6b7cf81",
+      "title": "Opus just lost to the last company you'd expect...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=jP9yjEDlc4k",
+      "pubDate": "2026-11-23T19:14:30.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3b1fc1ba5f72",
+      "title": "Ultrahuman Ring Pro - cette bague connectée a (presque) remplacé mon Apple Watch",
+      "description": "Korben teste depuis deux mois et demi la Ring Pro d'Ultrahuman, une bague en titane à 499 euros avec boîtier de charge. Elle offre environ deux semaines d'autonomie, suit sommeil et récupération sans abonnement obligatoire, mais le suivi sportif reste en retrait.",
+      "link": "https://korben.info/ultrahuman-ring-pro-cette-bague-connectee-a-presque-remplace-mon-apple-watch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-23T13:51:39.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/ultrahuman-ring-pro-cette-bague-connectee-a-presque-remplace-mon-apple-watch/ultrahuman-ring-pro-cette-bague-connectee-a-presque-remplace-mon-apple-watch-1.png",
+      "type": "blog"
+    },
+    {
       "id": "95bb2281b78d",
       "title": "Spelunkr - La télé où l'on ne choisit plus ce qui passe",
       "description": "Spelunkr propose une trentaine de chaînes qui diffusent en continu des vidéos tirées de l'Internet Archive, avec films de monstres, dessins animés et VHS d'époque pubs comprises. Tous les spectateurs d'une chaîne voient le même programme au même moment, sans compte à créer.",
