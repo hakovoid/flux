@@ -2,6 +2,181 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a05949b69525",
+      "title": "Quand les ventes plafonnent, par où commencer ?",
+      "description": "Quand les ventes plafonnent, quelles actions lancer d’abord ? Mathilde Le Rouzic explique comment un audit marketing B2B aide à revoir les priorités. À partir du cas d’un grossiste en téléphonie, elle montre comment écouter ses clients, réunir marketing et commerciaux et combiner des actions rapides avec des chantiers de fond. The post Quand les ventes plafonnent, par où commencer ? appeared first on Oliviersauvage.com.",
+      "link": "https://oliviersauvage.com/fr/quand-les-ventes-plafonnent-par-ou-commencer/",
+      "pubDate": "2026-11-25T10:51:11.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://oliviersauvage.com/wp-content/uploads/2026/11/b2biz-ep12-website.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e829d7d6c346",
+      "title": "LinuxPDF - Quand Linux se lance dans un PDF",
+      "description": "LinuxPDF fait démarrer un vrai Linux RISC-V dans un fichier PDF ouvert dans Chrome, avec le JavaScript prévu par la norme PDF. Ça marche encore, mais comptez une bonne quarantaine de secondes de boot, et voici pourquoi.",
+      "link": "https://korben.info/linuxpdf-linux-dans-un-pdf.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-25T09:25:14.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linuxpdf-linux-dans-un-pdf/linuxpdf-linux-dans-un-pdf-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b3c067bbc37",
+      "title": "Votre vieux clavier Logitech G15 a encore des choses à afficher",
+      "description": "G15-Retro-HUD rallume l'écran LCD du Logitech G15 sous Windows 10 et 11 en lui parlant directement en USB, sans les vieux pilotes Logitech qui bloquent l'intégrité de la mémoire. Monitoring, Spotify, météo, visualiseurs façon Winamp, démos 1-bit et même un Pong.",
+      "link": "https://korben.info/g15-retro-hud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-25T08:42:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_2007692403144141620_hu_5605db8af8976ef2.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f3f565d3e023",
+      "title": "Comment transcrire en texte l’audio d’une réunion, en local et gratuitement avec Whisper",
+      "description": "Transcription Google Meet oubliée ? Avec ffmpeg et whisper.cpp, convertissez l'audio de votre réunion en texte sur votre laptop, en quelques minutes, sans coût de tokens et sans envoyer de données dans le cloud.",
+      "link": "https://blog.ippon.fr/2026/11/25/transcrire-audio-reunion-whisper/",
+      "pubDate": "2026-11-25T08:01:30.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/image_f4706479.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "905d85e47813",
+      "title": "Ubuntu - Le nouveau lanceur sera boosté à l'IA",
+      "description": "Canonical montre son futur lanceur Ubuntu en train de tourner : un point d'entrée pour les applis et les fichiers, avec une IA en opt-in et locale d'abord. Ce qui est promis, ce qui ne l'est pas, et pourquoi il faudra attendre janvier pour tester.",
+      "link": "https://korben.info/ubuntu-lanceur-ia-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-25T06:42:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "91437ec9909b",
+      "title": "FF8 Reborn - Le mod qui passe Final Fantasy VIII en 16:9",
+      "description": "FF8 Reborn, un mod gratuit de fan, fait viser 60 ou 120 FPS à Final Fantasy VIII Remastered sur PC et élargit combats et carte du monde. Ce que valent ces images calculées, ce qui reste en 4:3, et pour quelles copies du jeu il marche.",
+      "link": "https://korben.info/ff8-reborn-final-fantasy-viii-remastered.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-25T06:19:03.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_17773566903625323268_hu_7b331a6cd52350a0.webp",
+      "type": "blog"
+    },
+    {
+      "id": "61d38405be3e",
+      "title": "#386.src - ESN AI Native: Remettre l'humain au coeur de l'Agentic Software Factory avec Jordan Nourry",
+      "description": "\"Vous voulez quelque chose qui va plus vite, mais quelle organisation voulez-vous créer autour de ça ?\" Le D.E.V. de la semaine est Jordan Nourry, cofondateur de Shodo Studio. Face à l'arrivée massive de l'IA générative, Jordan explique comment son ESN a complètement repensé son modèle : équipes réduites à 3-4 personnes, software factory agentique sur mesure pour chaque client, et surtout une obsession pour remettre l'humain au centre de la conception, de la réalisation et de la production. Il…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/386-1d1a7e0f66d5",
+      "pubDate": "2026-11-25T04:00:27.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/ebcefb2c-2e00-4a52-9294-8f218234f6c7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/65ceec49-da35-4c8e-b8f7-1d1a7e0f66d5.mp3?_=1795525227",
+      "duration": "01:13:08"
+    },
+    {
+      "id": "3ab1d1884a31",
+      "title": "Recruter avec méthode, sans perdre l’humain (épisode 5)",
+      "description": "Trois entretiens de deux heures pour s'apercevoir, à la fin, qu'on n'était pas sur la même fourchette de salaire. L'erreur qui a tout changé dans notre façon de recruter.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-05-recruter",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.elao.com/resized/content/images/blog/2026/elao/rh-tpe-oceane/episode-5-thumbnail.jpg/5d33ba34d8005f76aa69cead47b9fdf5.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8e44c9c780e6",
+      "title": "On a gagné du temps. Rendons-le aux humains",
+      "description": "Il y a quelques mois, le backlog de mon équipe s'est vidé. Plutôt que de coder des features pour remplir le vide, on a remis de la discussion entre métier, produit et tech. Ce que l'IA ne fera pas à notre place : décider.",
+      "link": "https://yoandev.co/rendre-le-temps-aux-humains",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/rendre-le-temps-aux-humains.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c8f17d7e10c4",
+      "title": "Modèles de décision, une IA qui répond en 10 ms",
+      "description": "Depuis le marketing de septembre 2026 autour de JEV, une petite famille de decision models s'est formée : JEV, Clef, D1 et Laya. L'idée, c'est un modèle rapide et automatique, qui classe, route, score ou filtre, là où un LLM, plus lent et plus coûteux, reste le bon outil pour écrire, coder, planifier ou dialoguer. Dans l’épisode, nous expliquons : comment ça marche, le prix, les questions typées (NOUL, Choice, Score, et Box pour l'image), la sortie JSON. Comment s'en servir côté dev : routage…",
+      "link": "https://double-slash.dev/podcasts/decision_model/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1795540127/episode/ART_148_biw0zb.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
+      "duration": "2559"
+    },
+    {
+      "id": "3cb6a22ea502",
+      "title": "Parvis : l’assistant IA des communes qui cite ses sources",
+      "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un clic, et l’on arrive sur […] Cet article, Parvis : l’assistant IA des communes qui cite ses sources, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/parvis-assistant-ia-communes",
+      "pubDate": "2026-11-24T14:27:11.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/vignette-parvis-1024x538.png",
+      "type": "blog"
+    },
+    {
       "id": "064cd1a5d210",
       "title": "Comment ajouter des agrégations à une collection API Platform",
       "description": "En juillet 2023, j'ai demandé sur les discussions d'API Platform comment renvoyer des données en plus dans une GetCollection, et surtout comment les documenter. J'avais proposé d'écrire un article si ça intéressait quelqu'un, et en septembre, quelqu'un a dit oui. Le voici, avec trois ans de retard 😅 Le besoin J’ai eu ce besoin pour des endpoints d’API sur redirection.io. Mais pour simplifier l’article nous allons prendre un autre exemple concret : une liste d'articles, sur GET /api/articles. À…",
@@ -89,6 +264,21 @@
         "Web"
       ],
       "image": "https://korben.info/migration-vmware-vates-vms-v2v/migration-vmware-vates-vms-v2v-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "b75879382016",
+      "title": "Déployer un projet Symfony sur Scaleway Functions",
+      "description": "Je l’ai évoqué plusieurs fois au travers de différents articles de ce blog, mais je porte une attention particulière à utiliser et héberger mes outils sur des infrastructures françaises ou (à défaut) européennes. Pour des sites statiques simples, je passe généralement par un hébergement Alwaysdata et pour les serveurs type VPS, j’utilise Scaleway. Je souhaitais récemment déployer une petite application Symfony ayant très peu de trafic. Pour des raisons qui me sont propres, je ne souhaite pas…",
+      "link": "https://www.jdecool.fr/blog/2026/11/24/deployer-un-projet-symfony-sur-scaleway-functions.html",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
       "type": "blog"
     },
     {
