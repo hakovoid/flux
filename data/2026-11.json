@@ -2,6 +2,116 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ea1c00698dd0",
+      "title": "Couper les lignes sur le web avec des caractères invisibles",
+      "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais elles provoquent un retard de l'affichage ou un changement intempestif de la mise en page. Ma solution consiste à insérer des césures conditionnelles et des espaces insécables à des endroits…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-web-typographie",
+      "pubDate": "2026-11-26T13:19:12.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://media-bernat-ch.b-cdn.net/images/xkcd-1015.5bbc33a6b165fd.png",
+      "type": "blog"
+    },
+    {
+      "id": "8fb37d7d824a",
+      "title": "GB Museum - Une cartouche Game Boy qui n'est pas jouable",
+      "description": "Un collectionneur zurichois a rangé plus de 350 objets de son musée du Game Boy et un petit wiki dans une ROM gratuite, à lancer dans le navigateur ou sur une vraie DMG-01, avec des QR codes qui renvoient vers les photos.",
+      "link": "https://korben.info/game-boy-musee-cartouche.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-26T12:26:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/game-boy-musee-cartouche/game-boy-musee-cartouche-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "63067913e21d",
+      "title": "Comment automatiser les tests d'un jeu vidéo avec Playwright ?",
+      "description": "Découvrez comment utiliser Playwright pour automatiser les tests d'un jeu vidéo dans le navigateur : déplacements, interactions, clavier et détection des erreurs JavaScript.",
+      "link": "https://code-garage.com/blog/comment-automatiser-les-tests-d-un-jeu-video-avec-playwright",
+      "pubDate": "2026-11-26T09:55:22.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Robot_Gamer_devant_un_ecran_colore_5d309f2002.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a9618eadf7f9",
+      "title": "Développement augmenté : bien outiller son agent",
+      "description": "Vous confiez un petit correctif à votre agent : « Empêche les doublons à la création d’une facture ». L’agent ouvre quelques",
+      "link": "https://blog.zenika.com/2026/11/25/developpement-augmente-bien-outiller-son-agent/",
+      "pubDate": "2026-11-25T20:06:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.zenika.com/wp-content/uploads/2021/10/cropped-Monogramme-logo-zenika_36x36.png",
+      "type": "blog"
+    },
+    {
+      "id": "3bfa79cd1085",
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+      "pubDate": "2026-11-25T17:19:51.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e6c7c025763",
+      "title": "Test du mini PC VZMORE iX9 Max sous Ubuntu Server",
+      "description": "Korben a migré son installation Plex du Mac mini M4 vers le mini PC VZMORE iX9 Max sous Ubuntu Server, avec un Core Ultra 9 185H, 24 Go de RAM soudée et un SSD de 1 To. Le ventilateur reste discret, même avec plusieurs transcodages, et deux ports Ethernet 2,5 Gbit/s sont présents.",
+      "link": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-25T14:12:02.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server/test-du-mini-pc-vzmore-ix9-max-sous-ubuntu-server-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "19c0f223a0e5",
+      "title": "React Native Connection 2026",
+      "description": "Résumé talk par talk de la React Native Connection 2026 : agents IA, desktop, web, navigation, animations et les tendances à retenir.",
+      "link": "https://blog.ippon.fr/2026/11/25/react-native-connection-2026/",
+      "pubDate": "2026-11-25T13:49:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/data-src-image-2ba30b1a-c1c6-47ee-a3d0-fb296a746396-1.png",
+      "type": "blog"
+    },
+    {
       "id": "a05949b69525",
       "title": "Quand les ventes plafonnent, par où commencer ?",
       "description": "Quand les ventes plafonnent, quelles actions lancer d’abord ? Mathilde Le Rouzic explique comment un audit marketing B2B aide à revoir les priorités. À partir du cas d’un grossiste en téléphonie, elle montre comment écouter ses clients, réunir marketing et commerciaux et combiner des actions rapides avec des chantiers de fond. The post Quand les ventes plafonnent, par où commencer ? appeared first on Oliviersauvage.com.",
@@ -158,6 +268,53 @@
       "type": "podcast",
       "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
       "duration": "2559"
+    },
+    {
+      "id": "c51bbfd31fee",
+      "title": "jsdom ou happy-dom : l'envers du décor",
+      "description": "J'ai passé les tests de composants d'un jeu React de jsdom à happy-dom pour gagner une minute de CI par PR. Les chiffres de la migration, trois tests rouges et 406 erreurs réseau, ce qu'ils disent des deux faux navigateurs, et les questions à se poser avant de changer.",
+      "link": "https://blog.eleven-labs.com/fr/jsdom-ou-happy-dom-envers-du-decor/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-11-25-jsdom-ou-happy-dom-envers-du-decor/cover-w1200-h630-x1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "40cca57bf596",
+      "title": "jsdom or happy-dom: behind the scenes",
+      "description": "I moved the component tests of a React game from jsdom to happy-dom to shave a minute of CI off every PR. The numbers from the migration, three red tests and 406 network errors, what they reveal about the two fake browsers, and what to ask yourself before switching.",
+      "link": "https://blog.eleven-labs.com/en/jsdom-or-happy-dom-behind-the-scenes/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": "https://blog.eleven-labs.com/imgs/articles/2026-11-25-jsdom-ou-happy-dom-envers-du-decor/cover-w1200-h630-x1.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "95b0d275f719",
+      "title": "Et si le bon ratio était un PO pour un développeur ?",
+      "description": "Pendant des années, on a dimensionné les équipes de développement sur le modèle des “pizza teams” inspiré du fonctionnement d’Amazon. Le principe est simple: une équipe doit être assez petite pour être nourrie avec deux pizzas. C’est ainsi qu’on se retrouve fréquemment avec des équipes d’à peu près 5/6 développeurs et 1 product owner.",
+      "link": "https://www.jdecool.fr/blog/2026/11/25/et-si-le-bon-ratio-etait-un-po-pour-un-developpeur.html",
+      "pubDate": "2026-11-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.jdecool.fr/img/jdecool.jpg",
+      "type": "blog"
     },
     {
       "id": "3cb6a22ea502",

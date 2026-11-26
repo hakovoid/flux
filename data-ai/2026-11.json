@@ -2,6 +2,62 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a734da9d3a1d",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "description": "",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "pubDate": "2026-11-26T11:37:17.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/67289c93ff90038d9a6e5675/tbIvyMSISXCm64WYP3atl.png",
+      "type": "blog"
+    },
+    {
+      "id": "3d2697b636d7",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "description": "",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "pubDate": "2026-11-26T05:05:36.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+      "type": "blog"
+    },
+    {
+      "id": "819f2bb8e324",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "description": "",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "pubDate": "2026-11-26T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "88bd06d7e0e9",
+      "title": "Where scientists draw the line on AI agents",
+      "description": "",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "pubDate": "2026-11-25T18:52:55.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+      "type": "blog"
+    },
+    {
       "id": "0077e07924e4",
       "title": "An Indic Voice Agent with CUGA",
       "description": "",
@@ -13,6 +69,34 @@
         "IA"
       ],
       "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+      "type": "blog"
+    },
+    {
+      "id": "df3be113c8ae",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "description": "",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+      "type": "blog"
+    },
+    {
+      "id": "69fbec9981f8",
+      "title": "Migrating our Messages API to Rust",
+      "description": "How we migrated our Messages API from Python to Rust.",
+      "link": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Anthropic Research",
+      "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg",
       "type": "blog"
     },
     {
@@ -41,6 +125,20 @@
         "IA"
       ],
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+      "type": "blog"
+    },
+    {
+      "id": "10ef75306f1d",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "description": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "pubDate": "2026-11-24T13:07:53.000Z",
+      "source": "Google DeepMind",
+      "sourceUrl": "https://deepmind.google/blog/rss.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
