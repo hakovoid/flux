@@ -2,6 +2,174 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "74cdd09e4f0f",
+      "title": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
+      "description": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor. Votre agent apprend wikiliens, Bases et Canvas, et pilote l'app via la CLI depuis un agent local. Ce qu'il faut, ce qu'il peut faire, et comment l'installer.",
+      "link": "https://korben.info/obsidian-skills-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T12:45:15.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "e50afd0c2b68",
+      "title": "Faux GTA 6 sur PC - Attention à cette commande mortelle",
+      "description": "De faux portages PC de GTA 6 sur GitHub et un faux client de streaming demandent de coller une commande qui installe un voleur de données. Les trois signaux qui trahissent le piège, et quoi faire si vous l'avez déjà lancée.",
+      "link": "https://korben.info/faux-gta-vi-pc-github-clickfix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T12:31:07.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/faux-gta-vi-pc-github-clickfix/faux-gta-vi-pc-github-clickfix-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "80821a6b622d",
+      "title": "AliasVault - Des alias mail qui ne quittent jamais votre coffre-fort",
+      "description": "AliasVault est un gestionnaire de mots de passe open source qui donne une adresse email à chaque compte et garde le courrier chiffré dans le coffre, sans rien transférer vers votre vraie boîte. Ce que ça change, ce que ça coûte, et cloud gratuit ou serveur maison.",
+      "link": "https://korben.info/aliasvault-mots-de-passe-alias-email.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T11:54:38.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/aliasvault-mots-de-passe-alias-email/aliasvault-mots-de-passe-alias-email-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "feafeb183d72",
+      "title": "Retrouver un travail grâce à son réseau",
+      "description": "J’ai de nombreux amis qui se retrouvent à chercher un job ces temps-ci, et il se trouve que j’ai une méthode qui pourrait les aider, et toi aussi, cher(e) lecteurice. Cela se passe en deux temps. D’abord savoir ce que tu veux faire dans ton prochain job et savoir l’exprimer clairement. Ensuite une méthode pour activer son réseau professionnel et converger vers le job de tes rêves. 1 - Déterminer son projet professionnel avec l’ikigai L’ikigai, c’est un concept d’origine japonaise qui vise à…",
+      "link": "https://standblog.org/blog/post/2026/11/27/Retrouver-un-travail-grace-a-son-reseau",
+      "pubDate": "2026-11-27T10:47:00.000Z",
+      "source": "Standblog (Tristan Nitot)",
+      "sourceUrl": "https://standblog.org/blog/feed/atom",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": "https://standblog.org/dc-blog/public/2026/.ikigai_m.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "97ee27515382",
+      "title": "Le patch qui pourrait débrider les iMac Retina sous Linux",
+      "description": "Une série de patchs AMDGPU réveillerait la seconde tuile des iMac Retina 4K et 5K à processeur Intel, pour leur rendre leur définition native sous Linux. Deux patchs sur trois sont appliqués, celui qui fait le travail attend encore.",
+      "link": "https://korben.info/linux-imac-ecrans-tuiles.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T09:44:17.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/linux-imac-ecrans-tuiles/linux-imac-ecrans-tuiles-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3b2520f8d305",
+      "title": "Windows 11 au régime - Merci le prix de la RAM",
+      "description": "À Ignite, Microsoft relie ouvertement les économies de mémoire de Windows 11 à l'envolée du prix de la RAM : 360 Mo de moins pour Office, plus d'un demi-gigaoctet pour Defender, Purview et OneDrive. Ce qu'un PC 8 Go y gagne, et comment l'obtenir.",
+      "link": "https://korben.info/windows-11-moins-de-ram.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T08:27:26.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/windows-11-moins-de-ram/windows-11-moins-de-ram-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "5faea80ff4d5",
+      "title": "Volvo veut des humanoïdes sur ses chaînes de production dès mi-2027",
+      "description": "Volvo entraîne des robots AEON d'Hexagon dans son usine de Gand, par imitation, avant un pilote en 2027. Ce qu'ils savent faire, et pourquoi Leipzig dira vite ce que vaut le calendrier.",
+      "link": "https://korben.info/volvo-robots-humanoides-aeon-gand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T08:12:53.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/volvo-robots-humanoides-aeon-gand/volvo-robots-humanoides-aeon-gand-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c5f839d5857a",
+      "title": "XL Office - Une suite Office pour Atari XL",
+      "description": "XL Office apporte un traitement de texte 80 colonnes, un tableur et un logiciel de présentation gratuits aux Atari XL et XE de 64 Ko. Essai dans l'émulateur atari800, export RTF vers le Mac, et la limite des accents pour les francophones.",
+      "link": "https://korben.info/xl-office-atari-xl-xe.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T07:47:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/xl-office-atari-xl-xe/xl-office-atari-xl-xe-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "3e2e470c2e88",
+      "title": "Musique IA - Tidal passe du tag à la poubelle",
+      "description": "À partir du 9 décembre, Tidal supprime les morceaux entièrement générés par IA, environ 27 millions de titres, et refuse les nouvelles livraisons. Ce qui part, ce qui reste autorisé, comment c'est détecté et où en sont Deezer, Spotify ou Apple Music.",
+      "link": "https://korben.info/tidal-supprime-musique-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T07:29:43.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/img/logo-small.svg",
+      "type": "blog"
+    },
+    {
+      "id": "6217de63e9e7",
+      "title": "Il a greffé un cerveau de drone sur sa tondeuse RC",
+      "description": "Jakkuh a remplacé le récepteur d'une tondeuse radiocommandée par un contrôleur de vol de drone sous ArduPilot, avec un GPS RTK et une appli de tonte vibe-codée. Ce qu'il y a dedans, et ce qu'il faut pour s'en inspirer.",
+      "link": "https://korben.info/tondeuse-autonome-pixhawk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T06:15:00.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/maxresdefault_14886122591332489909_hu_54499b8c82e943b8.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0ad6c9f30ed0",
+      "title": "#299.exe - IA: Du mythe à la réalité: Apprendre à comprendre l'intelligence par Arnaud Héritier",
+      "description": "Pour l'épisode #299 je recevais Nastasia Saby. On en débrief avec Arnaud. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées dans IFTTD directement dans votre IDE avec le MCP IFTTD ! Archives | Site | Boutique | TikTok | Discord | LinkedIn | Instagram | Youtube | Twitch | Hébergé par Audiomeans. Visitez…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/299-98b3c12a9fee",
+      "pubDate": "2026-11-27T04:00:14.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/eiYNOubrDD/beb88e1d-5520-4299-9c4c-98b3c12a9fee.mp3?_=1795698014",
+      "duration": "13:53"
+    },
+    {
       "id": "ea1c00698dd0",
       "title": "Couper les lignes sur le web avec des caractères invisibles",
       "description": "Il est difficile d'obtenir une bonne typographie sur le web. Comparés à des moteurs tels que ou , les navigateurs ne disposent toujours pas d'un bon algorithme pour couper les lignes. La directive CSS tente d'améliorer la situation, mais elle n'est toujours et . de l' existent en JavaScript, mais elles provoquent un retard de l'affichage ou un changement intempestif de la mise en page. Ma solution consiste à insérer des césures conditionnelles et des espaces insécables à des endroits…",
@@ -1303,6 +1471,23 @@
         "IA"
       ],
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
+      "type": "blog"
+    },
+    {
+      "id": "bf1419c5c8c7",
+      "title": "Le prix réel de l'IA va remettre le numérique responsable au centre du jeu",
+      "description": "Six enseignements du GreenTech Forum 2026 pour les directions du numérique : empreinte de l'IA, réglementation, souveraineté, IA éthique, retours d'expérience techniques et feuille de route de chantiers.",
+      "link": "https://blog.ippon.fr/2026/11/16/prix-reel-ia-numerique-responsable/",
+      "pubDate": "2026-11-16T08:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://images.unsplash.com/photo-1680992046626-418f7e910589?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGRhdGFjZW50ZXJzJTIwZ3JlZW58ZW58MHx8fHwxNzk0OTA1NjMxfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=2000",
       "type": "blog"
     },
     {

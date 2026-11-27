@@ -2,6 +2,20 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "c2bd79531046",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "description": "",
+      "link": "https://huggingface.co/blog/video-trainium3",
+      "pubDate": "2026-11-27T00:00:00.000Z",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/feed.xml",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+      "type": "blog"
+    },
+    {
       "id": "a734da9d3a1d",
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "description": "",
