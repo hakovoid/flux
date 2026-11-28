@@ -2,6 +2,51 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "c40bb157096e",
+      "title": "usb-rea - Pour faire du reverse engineering d'appareils USB en quelques clics",
+      "description": "Votre gadget USB n'a qu'une appli Windows ? usb-rea capture ce qu'elle lui envoie pendant que vous cliquez, en déduit le protocole et génère un pilote Python pour Linux. Comment ça marche, et ce qui a vraiment été prouvé pour cette alpha.",
+      "link": "https://korben.info/usb-rea-pilote-linux-gadget-usb.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-28T07:59:21.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/usb-rea-pilote-linux-gadget-usb/usb-rea-pilote-linux-gadget-usb-1.gif",
+      "type": "blog"
+    },
+    {
+      "id": "88710f9da725",
+      "title": "The wild world of tech in 2027...",
+      "description": "",
+      "link": "https://www.youtube.com/watch?v=sPGzM3ktJVE",
+      "pubDate": "2026-11-27T16:08:25.000Z",
+      "source": "Fireship",
+      "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1d4970aa25a1",
+      "title": "Mini-Kit - Pour faire un bilan de santé de votre Windows",
+      "description": "Le Mini-Kit de titou, sur le forum TeamAAZ, ausculte Windows 10 et 11 sans toucher à ses réglages, depuis un seul fichier .bat, avec interface et rapport HTML. Essayé en VM : un score qui dit ce qu'il n'a pas vérifié, et deux précautions avant de partager un rapport.",
+      "link": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "pubDate": "2026-11-27T13:49:54.000Z",
+      "source": "Korben",
+      "sourceUrl": "https://korben.info/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://korben.info/mini-kit-diagnostic-rapide-pc-windows/mini-kit-diagnostic-rapide-pc-windows-2.png",
+      "type": "blog"
+    },
+    {
       "id": "74cdd09e4f0f",
       "title": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
       "description": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor. Votre agent apprend wikiliens, Bases et Canvas, et pilote l'app via la CLI depuis un agent local. Ce qu'il faut, ce qu'il peut faire, et comment l'installer.",
